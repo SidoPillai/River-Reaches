@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=%path%
+Name=RiverReaches
+GenericName=RiverReaches
+Icon=%icon%
+Terminal=false
+

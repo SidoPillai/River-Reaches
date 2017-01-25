@@ -1,0 +1,578 @@
+﻿SVARĪGI - LASIET UZMANĪGI
+(E204CW 09/22/2016)
+
+Ja vien šis līgums netiek atcelts ar licences līgumu, kas noslēgts starp Jums un Esri, korporācija Esri ir gatava sniegt Jums Esri Piedāvājumus ar nosacījumu, ka pieņemat visus šajā Līgumā ietvertos noteikumus un nosacījumus. Lūdzu, uzmanīgi izlasiet noteikumus un nosacījumus. Esri Piedāvājumus Jūs drīkstat izmantot tikai pēc tam, kad esat piekritis šī Līguma noteikumiem un nosacījumiem. Ja nepiekrītat šeit aprakstītajiem noteikumiem un nosacījumiem, zemāk noklikšķiniet uz "Es nepiekrītu šim līgumam"; pēc tam varat pieprasīt atbilstoši samaksāto maksu atlīdzināšanu.
+
+Šis Līgums tiek noslēgts starp Jums ("Klientu") un Environmental Systems Research Institute, Inc. ("Esri"), Kalifornijas korporāciju, kuras galvenā darbības vieta ir 380 New York Street, Redlands, California 92373-8100 USA.
+
+1.0. VISPĀRĒJĀS TIESĪBAS UN IEROBEŽOJUMI
+
+1.1. Pielikumā A ietvertas Līgumā izmantoto terminu definīcijas. Katrā šī Līguma daļā var būt ietvertas atsevišķas definīcijas, kas tiek izmantotas tikai attiecīgajā Līguma daļā.
+
+1.2. Tiesību piešķiršana. Ņemot vērā visus nepieciešamos Klienta veiktos maksājumus, un saskaņā ar šo Līgumu Esri nodrošina Klientam personīgas, neekskluzīvas, citām personām nenododamas tiesības:
+
+a.	izmantot Esri Piedāvājumus, kā noteikts Dokumentācijā un piemērojamajos Pasūtīšanas dokumentos;
+b.	kopēt un izstrādāt no Dokumentācijas atvasinātus darbus Klienta iekšējai izmantošanai saskaņā ar Klienta autorizēto Izstrādājumu lietošanu. Jebkurā atvasinātajā darbā Klientam ir jāiekļauj šāds autortiesību piešķīrums, kas apstiprina Esri un tā Licences devēju īpašumtiesības:
+
+"Šā dokumenta daļas ietver Esri un tā Licences devēju intelektuālo īpašumu un tiek izmantotas saskaņā ar licenci. Copyright (c) [Klientam jāieraksta faktiskie autortiesību datumi no avota materiāliem.] Korporācija Esri un tās licences devēji. Visas tiesības aizsargātas."
+
+Šajā sadaļā piešķirtās tiesības (i) turpinās abonementa laiku vai piemērojamo Termiņu, vai pastāvīgi, ja Termiņš nav piemērojams vai nav norādīts Pasūtīšanas dokumentos un (ii) attiecas uz visām papildus tiesībām un ierobežojumiem šajā Līgumā, tai skaitā Pielikumā B.
+
+1.3. Konsultantu vai līgumdarbinieku piekļuve. Klients var ļaut konsultantiem vai līgumdarbiniekiem izmantot Esri Piedāvājumus tikai Klienta labā. Tikai Klients ir atbildīgs par to, lai konsultanti un līgumdarbinieki ievērotu šo Līgumu, un Klientam ir jānodrošina, ka konsultants vai līgumdarbinieks beidz lietot Esri Piedāvājumus, kad ir izpildīts darbs, ko tas veica Klienta labā. Konsultanti vai līgumdarbinieki nedrīkst piekļūt Esri Piedāvājumiem vai lietot tos, lai izpildītu darbu citu personu labā.
+
+1.4. Novērtējuma un beta licences. Ar novērtējuma licenci vai abonementu, vai Beta programmu iegūtie Izstrādājumi ir paredzēti tikai novērtēšanas un testēšanas nolūkiem, nevis komerciālai lietošanai. Par šādu lietošanu ir atbildīgs tikai Klients, un Izstrādājumi netiek uzturēti. Ja līdz novērtēšanas perioda beigām Klients savu novērtēšanas licenci nepārvērš par apmaksātu licenci vai abonementu, var tikt zaudēts viss novērtēšanas periodā augšupielādētais saturs un veiktie pielāgojumi. Ja Klients nevēlas iegādāties licenci vai abonementu, šāds saturs jāeksportē pirms Klienta novērtēšanas perioda beigām.
+
+1.5. Izglītības programmas. Klients piekrīt lietot korporācijas Esri izglītības programmas Piedāvājumus vienīgi apmācības nolūkam un ievērojot apmācības lietojuma Termiņu. Klients nedrīkst izmantot Izstrādājumus Administratīvajai lietošanai, ja vien Klients nav ieguvis licenci Administratīvajai lietošanai. "Administratīvā lietošana" nozīmē administratīvos darbus, kas nav tiešā veidā saistīti ar mācīšanu vai izglītību, piemēram, shematisku saimniecisko līdzekļu attēlošanu, ēku un aprīkojuma pārvaldību, demogrāfisko analīzi, maršrutu veidošanu, augstskolas teritorijas drošības uzturēšanu un pieejamības analīzi. Klients nedrīkst lietot Izstrādājumus ieņēmumu ģenerēšanas vai peļņas gūšanas nolūkiem.
+
+1.6. Grantu programmas.Klients drīkst lietot korporācijas Esri grantu programmas Piedāvājumus tikai nekomerciāliem mērķiem. Ja vien tas nav paredzēts Esri Piedāvājumu lietošanas un ekspluatācijas izmaksu segšanai, Klients nedrīkst izmantot Esri Piedāvājumus, lai gūtu ienākumus vai peļņu.
+
+1.7. Citas ierobežotas lietošanas programmas, ko nodrošina korporācija Esri.Iegūstot citas ierobežotas lietošanas programmu, kas nav norādīta iepriekš, Klients turētājs drīkst lietot Esri Piedāvājumus atbilstoši piemērojamajā palaišanas lapā vai reģistrācijas veidlapā minētajiem noteikumiem vai kā aprakstīts Esri vietnē, ja vien šie noteikumi nav pretrunā ar šī Līguma noteikumiem.
+
+1.8 Tiesību atruna. Visi Esri Piedāvājumi ir korporācijas Esri vai tās licences devēju ar autortiesībām aizsargāti darbi; visas tiesības, kas nav īpaši piešķirtas šajā Līgumā, tiek paturētas.
+
+2.0. PROGRAMMATŪRAS LIETOŠANAS NOTEIKUMI
+
+2.1. Licenču veidi. Esri licencē Programmatūru, izmantojot šāda veida licences:
+
+a.	Laiksakritīgas lietošanas licence: Klients var instalēt un lietot Programmatūru tīklā savienotajos datoros, taču vienlaicīgu lietotāju skaits nedrīkst pārsniegt iegādāto licenču skaitu. Lai nodrošinātu pagaidu kļūmjpārlēces atbalstu, atsevišķā operētājsistēmas vidē Laiksakritīgas lietošanas licence ietver tiesības darbināt Laiksakritīgas lietošanas licences pārvaldības programmatūras pasīvus kļūmjpārlēces gadījumus.
+b.	Izvietojuma licence: Klients var iekļaut ArcGIS Runtime komponentus Lietojumprogrammās ar pievienoto vērtību un izplatīt Lietojumprogrammas ar pievienoto vērtību Klienta gala lietotājiem.
+c.	Izvietošanas servera licence: Klients var instalēt un lietot Programmatūru ar Servera licenci visos Līgumā paredzētajos lietojuma gadījumos un tā, kā aprakstīts Dokumentācijā.
+d.	Izstrādes servera licence: Klients var lietot Programmatūru ar Servera licenci, lai veidotu un testētu Lietojumprogrammas ar pievienoto vērtību, kā ir aprakstīts Dokumentācijā.
+e.	Izstrādes lietojums: Klients var instalēt un lietot Programmatūru, lai veidotu un testētu Lietojumprogrammas ar pievienoto vērtību, kā ir aprakstīts Dokumentācijā.
+f.	Divējādi izmantojama licence: Klients Programmatūru var instalēt galddatorā un vienlaikus izmantot personālajā ciparasistentā (PDA) vai portatīvajā rokas datorā ar nosacījumu, ka Programmatūru vienlaicīgi izmanto tikai viens atsevišķs lietotājs.
+g.	Kļūmjpārlēces licence: Klients var instalēt Programmatūru papildu sistēmās kļūmjpārlēces operācijām, taču šo papildu instalēto Programmatūru drīkst darbināt tikai laika periodā, kad primārā vietne nedarbojas. Papildu Programmatūras instalācijas paliks apslēptas, izņemot gadījumus, kad tiks veikta sistēmas apkope un datu bāzu atjaunināšana, vienlaikus darbojoties primārajai (vai jebkurai citai papildu) vietnei.
+h.	Tālākizplatīšanas licence: Klients drīkst reproducēt un izplatīt Programmatūru, ja tiek ievēroti šie nosacījumi:
+
+1.	Klients programmatūru reproducē un izplata pilnībā;
+2.	Katra Programmatūras kopija tiek nodrošināta kopā ar licences līgumu, kas aizsargā Programmatūru tādā pašā apmērā kā šis Līgums, un saņēmējs apņemas ievērot šī licences līguma noteikumus un nosacījumus;
+3.	Klients reproducē visus attiecinājumus un paziņojumus par autortiesībām un preču zīmēm; un
+4.	Klients nepieprasa samaksu no citiem par Programmatūras lietošanu.
+
+i.	Servera licence: Klients var instalēt un lietot Programmatūru servera datorā. Uz servera licencēm var attiekties ierobežots servera kodolu skaits vai vienlaicīga izvietošana uz vairākiem serveriem, kā ir aprakstīts Pasūtīšanas dokumentos vai Dokumentācijā. Ja Programmatūras aprakstā iekļauta kļūmjpārlēces lietošana, katra Servera licence iekļauj Kļūmjpārlēces licenci.
+j.	Individuālās lietošanas licence: Klients drīkst noteikt vienu pilnvarotu gala lietotāju Programmatūras instalēšanai un lietošanai uz viena datora. Klients var atļaut šim vienam pilnvarotajam lietotājam instalēt otru Programmatūras kopiju otrā datorā šī paša lietotāja ekskluzīvai lietošanai, ja ikreiz tiek lietota tikai viena (1) Programmatūras kopija. Neviens cits lietotājs nedrīkst vienlaicīgi izmantot citiem nolūkiem Programmatūru, uz ko attiecas šī licence.
+k.	Servera stadijas licence: Klients var instalēt un lietot Programmatūru ar Servera licenci, lai veidotu un testētu Lietojumprogrammas ar pievienoto vērtību un karšu kešatmiņā saglabātās versijas; veiktu lietotāja akceptēšanas testēšanu, veiktspējas testēšanu un trešās personas programmatūras slodzes testēšanu; ieviestu jaunu komerciālu datu atjauninājumus un veiktu apmācību, kā aprakstīts Dokumentācijā. Klients var izmantot Lietojumprogrammas ar pievienoto vērtību un karšu kešatmiņā saglabātās versijas ar Izstrādes un Izvietošanas serveriem.
+
+2.2. Atļautie lietošanas veidi
+
+a.	Klients var
+
+1.	instalēt, nodrošināt piekļuvi un uzglabāt Programmatūru un Datus elektroniskās uzglabāšanas ierīcē(-ēs);
+2.	veidot arhivētas kopijas un rutīnas dublējumus datorā;
+3.	vienlaicīgi ar aizstājamo versiju instalēt un lietot jaunāku Programmatūras versiju pamatotā pārejas periodā, kas nepārsniedz sešus (6) mēnešus, ja vien jebkuras šādas versijas izvietošana nepārsniedz Klientam licencēto daudzumu; pēc tam Klients apkopotā veidā nedrīkst izmantot vairāk Programmatūras kopiju nekā Klientam kopā licencēts. Tas neattiecas uz Programmatūru, kas licencēta Izstrādes lietojumam.
+4.	pārvietot Programmatūru ar licencētu konfigurāciju uz aizstāšanas datoru;
+5.	izplatīt trešajām personām Programmatūru un jebkādus saistītos Autorizācijas kodus, kas ir nepieciešami Izvietošanas licences izmantošanai; un
+6.	izmantot servera Programmatūru Komerciāla ASP lietošanai ar noteikumu, ka Klients iegādājas Komerciāla ASP lietošanas licenci vai ir valsts vai bezpeļņas organizācija, kas darbina vietni vai piedāvā interneta pakalpojumu ar mērķi segt izdevumus, nevis gūt peļņu.
+
+b.	Klients drīkst pielāgot Programmatūru, izmantojot jebkuru makrovalodu un skriptvalodu, atvērtu programmēšanas interfeisu (API) vai pirmkoda un objektkoda bibliotēkas, taču tikai tādā mērā, kāda šī pielāgošana ir aprakstīta Dokumentācijā.
+c.	Klients drīkst izmantot visus fontus, kas tiek nodrošināti kopā ar Programmatūru, ja Programmatūras lietošana ir autorizēta. Klients drīkst arī izmantot Esri fontus atsevišķi, lai drukātu jebkuru izvadi, kas izveidota ar Programmatūru. Jebkādi lietošanas ierobežojumi attiecībā uz trešās personas fontiem, kas iekļauti Programmatūrā, ir izklāstīti pašā fontu failā.
+d.1. papildinājumā ir izklāstīti konkrētu Programmatūras izstrādājumu lietošanas noteikumi. Korporācija Esri var laiku pa laikam atjaunināt 1. papildinājumu.
+
+2.3. Uzturēšana. Ja Klients atrodas Amerikas Savienotajās Valstīs, korporācija Esri nodrošinās uzturēšanu saskaņā ar Esri Uzturēšanas un atbalsta programmu. Klienti ārpus Amerikas Savienotajām Valstīm Uzturēšanu var saņemt no vietējā Esri izplatītāja atbilstoši izplatītāja noteikumiem.
+
+3.0. ONLINE SERVICES LIETOŠANAS NOTEIKUMI
+
+3.1 Definīcijas. Turpmākās definīcijas papildina A pielikumā sniegtās definīcijas:
+
+a."Anonīmie lietotāji" ir visi, kam pieejama publiskā piekļuve (t.i., nav nepieciešams norādīt Nosaukta lietotāja akreditācijas datus) jebkurai Klienta satura vai Lietojumprogrammu ar pievienoto vērtību daļai. Klients var nodrošināt Anonīmo lietotāju piekļuvi Saturam vai Lietojumprogrammām ar pievienoto vērtību, publicējot tās ar Koplietošanas rīkiem, kas pieejami, lietojot Klienta autorizēto pakalpojumu Online Services.
+b.	""Lietojumprogrammas pieteikšanās akreditācijas dati" ir sistēmas ģenerēts lietojumprogrammas pieteikšanās vārds un saistītā parole, kas tiek nodrošināta, reģistrējot Lietojumprogrammu ar pievienoto vērtību pakalpojumos ArcGIS Online, un to var iedarināt Lietojumprogrammā ar pievienoto vērtību, lai ļautu Lietojumprogrammai ar pievienoto vērtību piekļūt pakalpojumiem Online Services un izmantot tos.
+c.	"Pakalpojuma kredīti" ir apmaiņas vienība, kas ir piešķirta pakalpojuma Online Services abonementam tādā apmērā, kā tas ir noteikts Pasūtīšanas dokumentā.
+d.	"Koplietošanas rīki" ir publicēšanas iespējas, kas ietvertas pakalpojumā Online Services un ArcGIS vietnē un ar kurām Klients savu Saturu un Lietojumprogrammas ar pievienoto vērtību var padarīt pieejamu trešajām personām un/vai Anonīmajiem lietotājiem.
+
+3.2 Online Services abonēšana. Esri piedāvā Online Services abonementus ar šādiem noteikumiem. 1. papildinājumā ir izklāstīti arī konkrētu Online Services pakalpojumu lietošanas noteikumi.
+
+3.3. Abonēto Online Services pakalpojumu sniegšana. Attiecība uz abonētajiem Online Services pakalpojumiem korporācijai Esri ir tālāk uzskaitītie pienākumi.
+
+a.	Nodrošināt Klientam pakalpojumu Online Services atbilstoši Dokumentācijai.
+b.	nodrošināt uzturēšanu saskaņā ar Esri Uzturēšanas un atbalsta programmu, ja Klients atrodas Amerikas Savienotajās Valstīs. Klienti ārpus Amerikas Savienotajām Valstīm Uzturēšanu var saņemt no Esri izplatītāja atbilstoši izplatītāja noteikumiem.
+c.	Nodrošināt klientu atbalstu saskaņā ar Esri standarta klientu atbalsta politikām un jebkādiem papildu pakalpojumiem, ko Klients var iegādāties; un
+d.	Pielikt komerciāli pamatotas pūles, lai nodrošinātu, ka pakalpojums Online Services Klientam nenodod nekādu Ļaunprātīgu kodu, ar nosacījumu, ka korporācija Esri nav atbildīga par Ļaunprātīgo kodu, kas pakalpojumā Online Services ievietots, izmantojot Klienta abonementu vai trešās personas Saturu.
+
+3.4. Piekļuve Lietojumprogrammām ar pievienoto vērtību.
+
+a.	Nosauktajiem lietotājiem ir unikāli, individuāli pieteikšanās akreditācijas dati. Nosauktie lietotāji var privāti piekļūt Online Services funkcijām, kas nav publiski pieejamas Anonīmajiem lietotājiem.
+b.	Klients drīkst lietot savu pakalpojuma Online Services kontu, lai veidotu Lietojumprogrammu(-as) ar pievienoto vērtību Nosaukto lietotāju iekšējai lietošanai.
+c.	Klients drīkst nodot Lietojumprogrammas ar pievienoto vērtību lietošanai trešām personām saskaņā ar trešo personu pakalpojuma Online Services abonementu.
+d.	Klients nedrīkst pievienot savam Online Services abonementam trešās personas kā Klienta Nosauktos lietotājus ar mērķi ļaut trešajām personām piekļūt savām Lietojumprogrammām ar pievienoto vērtību. Šis ierobežojums neattiecas uz trešajām personām, kas ir iekļautas Nosaukto lietotāju definīcijā.
+e.	Izņemot ar Klienta Lietojumprogrammām ar pievienoto vērtību, Klients nedrīkst sniegt trešajām personām piekļuvi ArcGIS pakalpojuma Online Services, kas kļuvuši pieejami ar Klienta ArcGIS Online abonementu. Šis ierobežojums neattiecas uz trešajām personām, kas ir iekļautas Nosaukto lietotāju definīcijā.
+f.	Klients drīkst atļaut Anonīmajiem lietotājiem piekļūt Klienta Lietojumprogrammām ar pievienoto vērtību lietošanai Klienta abonementa ietvaros, ievērojot šādus noteikumus:
+
+1.	Klients var ieturēt samaksu par šādu piekļuvi tikai abonementu veidos, kas atļauj izmantošanu peļņas gūšanas nolūkos.
+2.	Klients Lietojumprogrammā ar pievienoto vērtību drīkst iedarināt Lietojumprogrammas pieteikšanās akreditācijas datus, bet nedrīkst iedarināt Nosaukta lietotāja akreditācijas datus.
+3.	Klients ir atbildīgs par visiem Anonīmo lietotāju izmantotajiem Pakalpojuma kredītiem Klienta Lietojumprogrammā(-s) ar pievienoto vērtību.
+4.	Tikai Klients ir atbildīgs par tehniskā atbalsta sniegšanu Klienta Lietojumprogrammām ar pievienoto vērtību.
+5.	Klients nedrīkst ļaut Anonīmajiem lietotājiem piekļūt Lietojumprogrammām ar pievienoto vērtību, kas paredzētas tikai Klienta iekšējai lietošanai; iekšējās lietošanas Lietojumprogrammām ar pievienoto vērtību jāizmanto Nosaukta lietotāja pieteikšanās akreditācijas dati.
+
+3.5. Klienta atbildība.
+
+a.	Tikai Klients ir atbildīgs par Klienta satura un Lietojumprogrammu ar pievieno vērtību izstrādāšanu un darbību un Nosaukto lietotāju atbilstību šim Līgumam. Klients un tā Nosauktie lietotāji vai Anonīmie lietotāji (ja piemērojams) ir vienīgās personas, kuras ir pilnvarotas piekļūt pakalpojumam Online Services, lietojot Klienta abonementu. Nosaukto lietotāju pieteikšanās akreditācijas dati ir paredzēti tikai konkrētiem Nosauktajiem lietotājiem, un šos datus nedrīkst kopīgot ar citām personām. Ja iepriekšējiem lietotājiem vairs nav nepieciešams piekļūt pakalpojumam Online Services, Klients drīkst Nosaukto lietotāju pieteikšanās akreditācijas datus atkārtoti piešķirt citiem Nosauktajiem lietotājiem. Klientam savlaicīgi jāinformē korporācija Esri, ja Klients uzzina, ka Klienta abonements tiek lietots neautorizēti vai noticis kāds cits drošības pārkāpums.
+b.	Ja Klients izmanto nevis Esri, bet citu ražotāju lietojumprogrammas izstrādes rīkus, lai veidotu lietojumprogrammas, kas piekļūst Esri pakalpojumiem Online Services, Klientam jāiekļauj paziņojums ar atrunu, ka šī lietojumprogramma izmanto Esri Online Services pakalpojumus. Vadlīnijas ir sniegtas Dokumentācijā.
+
+3.6. Online Services modifikācijas. Korporācija Esri var mainīt pakalpojumu Online Services un saistītos API, brīdinot 30 dienas iepriekš par būtiskām izmaiņām un 90 dienas iepriekš par norakstīšanu. Ja Online Services pakalpojumu modifikācija, darbības pārtraukšana vai norakstīšana būtiski un nelabvēlīgi ietekmē Klienta darbības, korporācija Esri var pēc saviem ieskatiem mēģināt remontēt, labot vai pārstrādāt pakalpojumu Online Services. Ja dzīvotspējīga risinājuma nodrošināšana nav komerciāli piemērota, Klients var atcelt Online Services abonementu, un Esri izsniegs proporcionālu atmaksu.
+
+3.7. Abonēšanas maksas maiņa. Korporācija Esri var palielināt maksu par abonementiem, kuru darbības termiņš pārsniedz vienu mēnesi, paziņojot Klientam vismaz 60 dienas pirms attiecīgajā laikā spēkā esošā abonēšanas termiņa beigām. Esri var palielināt ikmēneša abonēšanas maksas, par to paziņojot 30 dienas iepriekš.
+
+3.8. Klienta saturs.
+
+a.	Īpašumtiesības. Klients saglabā visas tiesības, īpašumtiesības un tiesības saistībā ar Klienta saturu. Ar šo Klients piešķir korporācijai Esri un Esri piegādātājiem vai licences devējiem neekskluzīvas, citām personām nenododamas, globālas tiesības viesot, darbināt un reproducēt Klienta saturu tikai ar nolūku nodrošināt Klientam šo pakalpojuma Online Services lietošanu. Bez Klienta piekrišanas korporācija Esri nedrīkst piekļūt Klienta Saturam un to lietot vai izpaust, izņemot gadījumus, kas ir pamatoti nepieciešami, lai atbalstītu Klienta veiktu pakalpojuma Online Services lietošanu, atbildētu uz Klienta iesniegtiem klientu atbalsta pieprasījumiem vai novērstu problēmas ar Klienta abonementu, vai jebkādiem citiem nolūkiem, ko Klients ir rakstiski atļāvis. Ja Klients piekļūst pakalpojumam Online Services, izmantojot trešās personas nodrošinātu lietojumprogrammu, korporācija Esri drīkst izpaust Klienta saturu šai trešajai personai, ja tas nepieciešams, lai iespējotu lietojumprogrammas, pakalpojuma Online Services un Klienta satura savstarpējo iedarbību. Esri drīkst izpaust Klienta saturu, ja tas nepieciešams, pildot likuma vai noteikumu prasības vai pēc tiesas vai kādas citas valsts iestādes pieprasījuma; tādā gadījumā Esri veiks attaisnojamus centienus ierobežot šādas izpaušanas apjomu. Tikai Klients ir atbildīgs par to, lai nodrošinātu, ka Klienta saturs ir piemērots lietošanai ar pakalpojumu Online Services un ka regulāri tiek izveidotas bezsaistes dublējumkopijas, izmantojot pakalpojumu Online Services eksportēšanas un lejupielādēšanas iespējas.
+b.	Klienta satura koplietošana. Ja Klients izvēlas koplietot savu Saturu, lietojot Koplietošanas rīkus, Klients atzīst, ka ir trešajām pusēm nodrošinājis iespēju lietot, glabāt, saglabāt kešatmiņā, kopēt, reproducēt, izplatīt/tālākizplatīt un sūtīt/pārsūtīt Klienta saturu, lietojot pakalpojumu Online Services. Korporācija Esri nav atbildīga par jebkādiem Klienta satura zaudējumiem, to dzēšanu, modificēšanu vai izpaušanu, kas radusies Koplietošanas rīku vai Online Services pakalpojumu, ArcGIS tīmekļa vietnes, Dokumentācijas vai saistīto materiāli lietošanas vai nepareizas lietošanas dēļ. Tikai Klients uzņemas risku par Koplietošanas rīku izmantošanu.
+c.	Klienta satura atgūšana pēc darbības izbeigšanas. Izbeidzot šī Līguma, izmēģinājuma vai novērtēšanas versijas vai abonementa darbību, korporācija Esri padara Klientam pieejamu tā saturu, lai Klients varētu lejupielādēt šo saturu 30 dienu laikā, izņemot gadījumus, kad Klients pieprasa īsāku pieejamības posmu vai korporācijai Esri ar likumu ir aizliegts veikt šo darbību. Pēc tam beidzas Klienta tiesības pakalpojumā Online Services piekļūt Klienta saturam, un Esri vairs nav pienākuma saglabāt vai atdot Klienta saturu.
+
+3.9. Pakalpojuma Online Services lietošanas ierobežojumi; Pakalpojuma kredīti. Katrā pakalpojuma Online Services abonementā ir iekļauti Pakalpojuma kredīti, kā norādīts attiecīgajā Pasūtīšanas dokumentā. Katrs Pakalpojuma kredīts nodrošina Klientam tiesības izmantot pakalpojumu Online Services noteiktā daudzumā; šis daudzums ir atkarīgs no Klienta izmantoto Online Services pakalpojumu veida. Klientam lietojot pakalpojumu Online Services, Klienta abonementā esošie Pakalpojuma kredīti tiek automātiski ierakstīti debetā līdz maksimālajam pieejamajam Pakalpojuma kredītu skaitam. Klients var iegādāties papildu Pakalpojuma kredītus pēc vajadzības. Esri informē Klienta abonementa konta administratoru, kad Klienta Pakalpojuma patēriņš sasniedz aptuveni 75 % no Klienta abonementam piešķirto Pakalpojuma kredītu skaita. Korporācija Esri patur tiesības pārtraukt Klienta piekļuvi pakalpojumiem Online Services, kam nepieciešami Pakalpojuma kredīti, kad Klients ir patērējis visu Pakalpojuma kredītu. Korporācija Esri savlaicīgi atjaunos Klienta piekļuvi pakalpojumiem Online Services, tiklīdz Klients būs iegādājies Pakalpojuma kredītus.
+
+3.10. ArcGIS Enterprise ar Virtual Cloud Infrastructure. Klients sniegs ar savu nodrošināto Saturu saistītu informāciju vai citus saistītus materiālus (tostarp klienta puses lietojumprogrammu kopijas), kuri tiek pamatoti pieprasīti, lai pārbaudītu Klienta atbilstību šī Līguma nosacījumiem. Korporācija Esri var pārraudzīt Klienta satura ārējos interfeisus (piemēram, pieslēgvietas), lai pārbaudītu Klienta atbilstību šī Līguma nosacījumiem. Klients neliks šķēršļus un netraucēs šādai novērošanai, bet Klients var izmantot šifrēšanas tehnoloģiju vai ugunsmūrus, lai saglabātu šo Saturu konfidenciālu. Klients atbilstoši sadarbosies ar korporāciju Esri, lai pakalpojumos ArcGIS Enterprise ar Virtual Cloud Infrastructure noteiktu jebkuras tās problēmas avotu, ko var pamatoti attiecināt uz Klienta saturu vai jebkuriem lietotāja materiāliem, ko pārvalda Klients.
+
+4.0. DATU LIETOŠANAS NOTEIKUMI
+
+4.1. Definīcijas. Turpmākās definīcijas papildina A pielikumā sniegtās definīcijas:
+
+a.	"Komercdarbības dati" ir informācija par komercdarbību, demogrāfiju un loģistiku, kas ļauj uzlabot lēmumu pieņemšanas procesu, optimizēt iekšējos komercdarbības procesus, palielināt darbības efektivitāti, radīt jaunus ieņēmumus un sniegt priekšrocības konkurences cīņā.
+b.	"Esri satura pakotne" ir digitāls fails; tas satur ArcGIS Online pamatkaršu saturu (piem., rastra karšu mozaīkas, attēlus, vektora datus), kas izgūts no pakalpojuma ArcGIS Online basemap services.
+c.	"Ielu dati" ir dati, kas ietver vai attēlo informāciju par ceļiem, ielām un ar tiem saistītās funkcijas.
+
+4.2. Atļautie lietošanas veidi.
+
+a.	Klients drīkst lietot Datus tikai kopā ar Izstrādājumiem, kam korporācija Esri ir piešķīrusi Datus.
+g.	Klients drīkst iekļaut Datu attēlojumus gan izdruku veidā, gan statiskā elektroniskā formātā (piem., PDF, GIF, JPEG) prezentācijas paketēs, tirgvedības pētījumos, kā arī citos ziņojums vai dokumentos, kuros ietverti karšu attēli vai datu kopsavilkumi, kas iegūti, lietojot Esri Izstrādājumus trešajām pusēm saskaņā ar šajā Licences līgumā izklāstītajiem ierobežojumiem ar nosacījumu, ka Klients Datu attēlojumiem pievieno attiecinājuma ziņojumu, kas apliecina, ka daļa(-as) no Datu attēlojumos izmantoto Datu avotiem ir Esri un/vai tā atbilstošais(-ie) licences turētājs(-i).
+c.	Klients ArcGIS Online pamatkaršu datus drīkst pārnest bezsaistē, izmantojot Esri Satura pakotnes, un pārvietot (pārsūtīt) jebkurā ierīcē, lai tos izmantotu tikai ar licencētām ArcGIS Runtime lietojumprogrammām, ArcGIS Desktop un ArcGIS API for Flex lietojumprogrammām.
+d.	Saskaņā ar šo Līgumu Esri neiegūst nekādas tiesības uz Klienta datiem.
+
+4.3. Lietošanas ierobežojumi.
+
+a.	Klients nedrīkst tieši vai autorizējot klientus veikt Datu kopīgo zīmolradi, izmantot Datus neautorizētā pakalpojumā vai produktā vai piedāvāt Datus ar trešās personas palīdzību vai trešās personas vārdā.
+b.	Klients nedrīkst izmantot vai ļaut trešajām personām izmantot Datus, lai tos apkopotu, uzlabotu, pārbaudītu, papildinātu, pievienotu vai izņemtu no apkopotās informācijas, kas tiek pārdota, iznomāta, publicēta, sniegta vai kādā citā veidā nodota trešajām personām.
+c.	Komercdarbības dati. Ja vien tas nav rakstiski saskaņots, Klients nedrīkst izmantot Komercdarbības datus jebkādiem tiešā mārketinga mērķiem, tālākpārdošanas publicēšanai vai izplatīšanai trešajām pusēm kā daļai adresātu saraksta, klasificētai reklamēšanai vai cita veida informācijas apkopojumam.
+d.	Ielu dati. Klients drīkst izmantot Ielu datus kartēšanai, ģeokodēšanai un divus punktus savienojoša maršruta izveidei. Ja vien tas nav rakstiski saskaņots, Klients Ielu datus nedrīkst izmantot:
+
+1.	maršrutu izstrādei reāllaikā, tai skaitā, lai brīdinātu lietotāju par tuvākajiem manevriem (piem., lai brīdinātu par tuvojošos pagriezienu) vai noskaidrotu alternatīvu ceļu, ja pagrieziens ir nokavēts;
+2.	sinhronizētai maršruta izstrādei vairākiem transportlīdzekļiem; vai
+3.	maršruta optimizācijai.
+
+e.	Business Analyst Dati. Uz Esri Business Analyst (Server, Desktop) nodrošinātajiem Datiem attiecas tālāk aprakstītie papildu lietošanas noteikumi.
+
+1.	Ja klients pasūta Esri Business Analyst vai Business Analyst (Canadian Edition) licenci, kur iekļauta valsts datu kopas apakškopa (t.i., reģionam, valstij, lokālā), Klients drīkst izmantot tikai licencēto apakškopu, bet nevienu citu valsts datu kopas daļu.
+2.	Klienta lietojumprogrammas un ierīces nedrīkst kešatmiņā saglabāt un lejupielādēt Datus, ko nodrošina Business Analyst Server.
+
+4.4. Datu lietošanas papildu noteikumi un nosacījumi. Atsevišķi Datu licences devēji pieprasa korporācijai Esri no Klientiem pieprasīt papildu attiecinājumu prasības un lietošanas noteikumus. Šie noteikumi ir pieejami vietnē http://www.esri.com/legal
+/third-party-data.
+A PIELIKUMS
+TERMINU GLOSĀRIJS
+
+Šis terminu glosārijs attiecas uz visiem Esri Piedāvājumiem un Pakalpojumiem, ko Esri piedāvā saviem klientiem. Konkrēti Esri Piedāvājumi vai Pakalpojumi var nebūt iekļauti šajā Līgumā. Lūdzu, neņemiet vērā noteikumus, kas neattiecas uz Esri Piedāvājumiem vai Pakalpojumiem šī Līguma ietvaros.
+
+"Filiāle" ir jebkura iestāde, kas tieši vai netieši (i) Kontrolē, (ii) tiek Kontrolēta vai (iii) tiek Kontrolēta kopīgi ar citu pusi.
+
+"API" ir lietojumprogrammas interfeiss.
+
+"ArcGIS vietne" ir http://www.arcgis.com un jebkuras saistītās vai pēctecīgās vietnes.
+
+"Autorizācijas kodi" ir atslēga, autorizācijas numurs, iespējošanas kods, pieteikšanās akreditācijas dati, aktivizēšanas kods, pilnvara, lietotājvārds un parole vai cits mehānisms, kas nepieciešams Esri Piedāvājuma lietošanai.
+
+"Beta" ir jebkura Izstrādājuma alfa, beta vai cita pirmsizlaides versija.
+
+"Cloud Services pakalpojumi" ir Online Services pakalpojumi un EMCS.
+
+"Komerciāla ASP lietošana" ir komerciāla programmatūras pakalpojumu sniedzēja lietošana; t.i. ieņēmumu gūšana, nodrošinot piekļuvi Programmatūrai, izmantojot Lietojumprogrammas ar pievienoto vērtību, piemēram, pieprasot maksu par abonementu, pakalpojumu vai jebkāda veida transakciju, vai gūstot vairāk nekā nejaušus ieņēmumus no reklāmas.
+
+"Saturs" ir dati, attēli, fotogrāfijas, animācijas, video, audio, teksts, kartes, datu bāzes, datu modeļi, izklājlapas, lietotāju interfeisi, grafikas komponenti, programmatūras lietojumprogrammas, programmatūras izstrādes komplekti (SDK), API, programmatūras bibliotēkas, kodu paraugi un citi resursi.
+
+"Kontrolēt" ir turēt īpašumā vairāk nekā 50 % balsstiesīgo akciju vai citu balsstiesību Kontrolētajā iestādē.
+
+"Klienta saturs" ir jebkurš Saturs, ko Klients, Klienta gala lietotāji vai jebkurš cits lietotājs sniedz Esri saistībā ar Esri piedāvājumu lietošanu; jebkādi rezultāti, kas izgūti no Klienta satura lietošanas kopā ar Esri piedāvājumiem; un visas Lietojumprogrammas ar pievienoto vērtību, ko Klients izveido un izvieto ar Izstrādājumiem. Klienta saturā nav ietvertas atsauksmes, ierosinājumi par uzlabojumiem vai pieprasījumi, ko Klients iesniedz korporācijai Esri.
+
+"Dati" ir jebkāds komerciāli pieejams digitālo datu kopums, tostarp, bet ne tikai, ģeogrāfisko vektoru dati, rastra datu ziņojumi vai saistītie tabulu atribūti, gan Esri komplektācijā ar citiem Esri piedāvājumiem, gan sniegti atsevišķi. Dati neietver Saturu, ko personas, kas nav Esri darbinieki, piegādātāji vai darbuzņēmēji, var tieši ievietot Esri vietnē.
+
+"Nodevumi" ir jebkas, ko korporācija Esri nodod Klientam kā Profesionālo pakalpojumu darbības rezultātu, un kas nav Izstrādājumi, Apmācības vai Uzturēšana. Nodevumi var ietvert konsultāciju pakalpojumus, programmatūras kodu, dinamisku saišu bibliotēkas (DLL) un programmas, kas piegādātas ar jebkādiem avota līdzekļiem, objektiem vai izpildāmā koda formātā, tai skaitā dublējumkopijas, atjauninājumus vai apvienotās kopijas; metodes, tehnikas vai zināšanas; tehnisko palīdzību, procesus, formulas vai algoritmus; dizainus; datu vārdnīcas un modeļus, apkopojumus; shēmas; dokumentāciju; specifikācijas; rasējumus; blokshēmas; informatīvās pakotnes; testēšanas vai kvalitātes kontroles procedūras, bet neaprobežojas ar to.
+
+"Dokumentācija" ir visa lietotāja atsauču dokumentācija, kas tiek piegādāta kopā ar Izstrādājumu.
+
+"Esri pārvaldītie Cloud Services pakalpojumi" vai "EMCS" ir viena nomnieka aparatūras, Programmatūras, Datu un tīkla platforma un saistītie sistēmas pārraudzības un atbalsta pakalpojumi, ko korporācija Esri nodrošina, lai viesotu Klienta saturu un padarītu to pieejamu Klientam vai Klienta lietotājiem internetā.
+
+"Esri Piedāvājumi" ir jebkurš Izstrādājums, Uzturēšana vai Dokumentācija. Ja korporācija Esri piedāvā Apmācības vai Profesionālos pakalpojumus tieši Klientam, Esri Piedāvājumi ietver arī Apmācību materiālus un Nodevumus.
+
+"GIS" ir ģeogrāfiskās informācijas sistēmas.
+
+"Uzturēšana" ir abonējama programma, kas sniedz Klientam tiesības saņemt Izstrādājumu atjauninājumus un citas priekšrocības, piemēram, pieeju tehniskajam atbalstam un piekļuvi tīmekļa mācību resursiem ar iespēju mācīties savā tempā.
+
+"Ļaunprātīgs kods" ir programmatūras vīrusi, tārpi, bumbas ar laika degli, Trojas zirgi vai citi datora kodi, faili vai programmas, kas ir izstrādātas ar mērķi traucēt, iznīcināt vai ierobežot datora programmatūras, aparatūras vai telekomunikāciju aprīkojuma funkcionalitāti.
+
+"Nosauktais lietotājs" ir Klienta darbinieks, aģents, konsultants vai līgumdarbinieks, kam Klients ir piešķīris unikālus, drošus nosaukta lietotāja pieteikšanās akreditācijas datus (identitāti), kuri ļauj piekļūt Izstrādājumam, kam šāda identitāte ir nepieciešama, lai izmantotu Izstrādājumā pieejamās ar identitāti pārvaldītās iespējas tikai Klienta labā. Izglītības vajadzībām Nosauktie lietotāji var būt arī reģistrēti studenti.
+
+"Nosaukta lietotāja akreditācijas dati" ir konkrētas personas pietiekšanās dati un ar tiem saistītā parole, kas ļauj lietotājam piekļūt un izmantot Izstrādājumus.
+
+"Nosauktā lietotāja licence vai abonements" ir licence vai abonements, kas paredzēts lietošanai vienam Nosauktajam lietotājam.
+
+"Tiešsaistes saturs" ir Saturs, ko korporācija Esri vieso vai nodrošina kā daļu no pakalpojuma Online Services, tai skaitā kartes pakalpojumi, uzdevumu pakalpojumi, attēlu pakalpojumi, SDK, API, programmatūras bibliotēkas, kodu paraugi un citi avoti, bet izņemot trešo personu nodrošinātu Saturu, kuram Klients piekļūst Online Services pakalpojumos.
+
+"Online Services pakalpojumi" ir jebkāda komerciāli pieejama, internetā esoša ģeotelpiska sistēma, tostarp lietojumprogrammas un saistītie API, lai glabātu, pārvaldītu, publicētu un izmantotu kartes, datus un citu informāciju Online Services pakalpojumi neietver Datus un Saturu.
+
+"Pasūtīšanas dokumenti" ir pārdošanas piedāvājums, Uzturēšanas atjaunošanas pieprasījums, pirkšanas pasūtījums, piedāvājums vai citi dokumenti, kuros norādīti Klienta pasūtītie Izstrādājumi vai Pakalpojumi.
+
+"Pastāvīga licence" ir licence, kas ļauj lietot Izstrādājuma versiju, par kuru jau samaksāta licences maksa bez termiņa ierobežojuma, ja vien tās darbību nav izbeidzis uzņēmums Esri vai Klients šim Līgumam atļautajā veidā.
+
+"Personīga lietošana" ir viena atsevišķa Klienta nekomerciāla, personīga lietošana. Personīgā lietošana izslēdz jebkādu lietošanu trešās personas labā, tostarp lietošanu komerciālu, izglītojošu, valsts vai bezpeļņas institūciju labā.
+
+"Izstrādājumi" ir Programmatūra, Dati un pakalpojums Cloud Services, kas licencēti vai abonēti saskaņā ar šī Līguma noteikumiem.
+
+"Profesionālie pakalpojumi" ir jebkuri korporācijas Esri Klientam sniegtie izstrādāšanas un konsultāciju pakalpojumi.
+
+"Paraugi" ir Izstrādājumu koda paraugi, lietojumprogrammu paraugi, pievienojumprogrammas vai paplašinājumu paraugi.
+
+"Pakalpojumi" ir Uzturēšanas ietvaros sniegtais tehniskais atbalsts. Ja korporācija Esri piedāvā Apmācības vai Profesionālos pakalpojumus tieši Klientam, Pakalpojumi ietver arī Apmācību un Profesionālos pakalpojumus.
+
+"Programmatūra" ir korporācijas Esri īpašumā esošu komerciālās programmatūras tehnoloģiju, izņemot Datus, kopums vai jebkura šī kopuma daļa, kurai var piekļūt vai kuru var lejupielādēt no korporācijas Esri pilnvarotas vietnes, vai kas tikusi piegādāta jebkurā datu nesējā jebkādā formātā, tostarp kā dublējumi, atjauninājumi, servisa pakotnes, ielāpi, labojumi vai atļautās sapludinātās kopijas.
+
+"Terminēta licence" ir licence vai piekļuve, kas ir paredzēta Izstrādājuma lietošanai ierobežotā laika periodā (turpmāk - "Termiņš") vai pamatojoties uz abonementu vai transakciju.
+
+"Apmācība" ir instruktora vadītu mācību un apmācības pakalpojumi korporācijas Esri GIS programmatūras lietošanā.
+
+"Apmācību materiāli" ir digitāls vai drukāts saturs, kas nepieciešams Apmācības veikšanai, kas var ietvert darba burtnīcas, datus, konceptus, uzdevumus un eksāmenus, bet neaprobežojas ar to.
+
+"Lietojumprogramma ar pievienoto vērtību" ir lietojumprogramma, ko izstrādājis Klients lietošanai kopā ar jebkuras Programmatūras, Datu vai pakalpojumu Online Services autorizētu lietošanu.
+ B PIELIKUMS
+VISPĀRĒJIE NOTEIKUMI UN NOSACĪJUMI
+
+Šis vispārējie noteikumi un nosacījumi attiecas uz visiem Esri Piedāvājumiem un Pakalpojumiem, ko Esri piedāvā saviem klientiem. Konkrēti Esri Piedāvājumi vai Pakalpojumi var nebūt pieejami šajā Līgumā. Lūdzu, neņemiet vērā noteikumus, kas neattiecas uz Esri Piedāvājumiem vai Pakalpojumiem šī Līguma ietvaros.
+
+1. PUNKTS - VISPĀRĪGIE LIETOŠANAS IEROBEŽOJUMI
+
+Ja vien tas nav skaidri noteikts šajā Līgumā, Klients nedrīkst:
+
+a.	pārdot, izīrēt, iznomāt, piešķirt to apakšlicenci, izplatīt, aizdot, uz laiku koplietot vai piešķirt Esri piedāvājumus;
+b.	lietot Esri Piedāvājumus Komerciāla ASP lietošanas vai pakalpojumu sniedzēja mērķiem;
+c.	pilnībā vai daļēji tālākizplatīt vai sniegt tiešu piekļuvi Esri Piedāvājumiem trešajām personām, tostarp, bet ne tikai, sastāvdaļām, komponentiem vai DLL;
+d.	izplatīt Autorizācijas kodus trešajām pusēm;
+e.	dekonstruēt, dekompilēt vai izjaukt jebkuru Izstrādājumu vai Nodevumu, kas piegādāts apkopotā veidā;
+f.	veikt jebkādus mēģinājumus apiet tehnoloģiskos pasākumus, kas kontrolē piekļuvi Esri Piedāvājumiem vai to lietošanu;
+g.	glabāt, saglabāt kešatmiņā, lietot, augšupielādēt, izplatīt Saturu vai piešķirt tā apakšlicenci vai lietot Esri Piedāvājumus citā veidā, pārkāpjot Esri vai trešo personu tiesības, tostarp intelektuālā īpašuma tiesības, konfidencialitātes tiesības, nediskriminācijas tiesību aktus vai jebkādus citus piemērojamos tiesību aktus vai regulēšanas aktus;
+h.	dzēst jebkādus paziņojumus un/vai jebkādus apzīmējumus attiecībā uz korporācijas Esri vai tās licences devēju patentiem, autortiesībām, preču zīmēm un īpašumtiesībām, kuri ir ietverti jebkurā Esri Piedāvājumā, tā izvades produktā, metadatu failā vai ir pievienoti tam, vai ir publicēti tiešsaistē, vai/un ir pieejami drukātā paziņojumā, kas tiek nodrošināts kopā ar jebkuriem Datiem vai Dokumentāciju;
+i.	atdalīt vai neatkarīgi lietot atsevišķas vai kompleksas Esri piedāvājuma daļas;
+j.	iekļaut jebkādu Esri Piedāvājuma daļu trešās puses ar Esri Piedāvājumiem konkurējošā izstrādājumā vai pakalpojumā;
+k.	publicēt vai jebkādā citā veidā nodot Izstrādājumu beta versijā veikto procesu mērījumu testu rezultātus bez korporācijas Esri un tās licences devēju iepriekšējas rakstiskas piekrišanas; vai
+l.	izmantot, iekļaut, modificēt, izplatīt, nodrošināt piekļuvi vai apvienot Esri Piedāvājumus veidā, kas var pakļaut jebkuru daļu Esri Piedāvājumu atvērtā koda vai atvērtās datu bāzes licences noteikumiem, kas pieprasa jebkurai Esri Piedāvājumu daļai būt:,
+
+1.	atklātai trešajām personām pirmkoda veidā;
+2.	licencētai trešajām personām atvasināto darbu veidošanai; vai
+3.	tālāk izplatāmai trešajām personām bez maksas.
+
+Šie ierobežojumi attiecas tiktāl, ciktāl tie nav pretrunā ar piemērojamiem tiesību aktiem vai noteikumiem.
+
+2. PUNKTS - DARBĪBAS TERMIŅŠ UN DARBĪBAS IZBEIGŠANA
+
+Līgums ir spēkā no līguma noslēgšanas dienas. Klients drīkst pārtraukt šī Līguma vai jebkura Esri Piedāvājuma licences vai abonementa darbību jebkurā laikā, iesniedzot korporācijai Esri rakstisku paziņojumu. Nepamatota pārtraukšana nedod Klientam tiesības saņemt kompensāciju par veiktajiem maksājumiem vai izbeigt neapstiprinātās Pakalpojumu saistības bez turpmākas atbildības. Jebkura no pusēm drīkst izbeigt šī Līguma vai jebkuras licences vai abonementa darbību būtiska pārkāpuma dēļ, kas nav novērsts 30 dienu laikā pēc rakstiska paziņojuma iesniegšanas pusei, kas veica pārkāpumu. Līguma darbības izbeigšanas jebkāda pārkāpuma dēļ gadījumā Esri pārstās sniegt Pakalpojumus. Jebkuras Esri Piedāvājumu licences, ko neietekmē šī Līguma izbeigšana, turpina darboties pēc šī Līguma noteikumiem.
+
+Ja Esri izbeidz šo Līgumu Klienta pārkāpuma dēļ, Esri var pēc saviem ieskatiem izbeigt arī Klienta licences vai abonementus Esri Piedāvājumiem. Ja Klients izbeidz šo Līgumu jebkāda iemesla dēļ, Klients var pēc saviem ieskatiem izbeigt arī Klienta licences vai abonementus Esri Piedāvājumiem.
+
+Pēc jebkuras licences vai abonementa izbeigšanas Klients:
+
+a.	pārstās piekļūt un izmantot izbeigtos Esri Piedāvājumus;
+b.	notīrīs jebkuru klienta puses datu kešatmiņu, kas iegūta no izbeigtajiem Online Services pakalpojumiem; un
+c.	pārstās izmantot, atinstalēs, noņems un iznīcinās visas ietekmēto Esri Piedāvājumu kopijas, kas ir Klienta rīcībā vai atrodas tā kontrolē, to skaitā visas to modificētās vai sapludinātās daļas jebkurā formā, un radīs un nodos Esri vai tā autorizētam izplatītājam pierādījumus par šīm darbībām.
+
+Korporācija Esri var pārstāt sniegt Pakalpojumus tūlīt pēc rakstiska paziņojuma Klientam, ja Klients uzsāk vai pret Klientu tiek uzsākts bankrota vai maksātnespējas process, līdz pilnvarotā persona sedz visas esošās saistības un nodrošina pietiekamas garantijas par turpmāku Līguma izpildi. Šis Līgums tiek izbeigts, kādai no pusēm zaudējot maksātspēju, likvidējoties vai sadaloties.
+
+3. PUNKTS - IEROBEŽOTĀS GARANTIJAS UN ATRUNAS
+
+3.1. Ierobežotās garantijas. Esri garantijas:
+
+a.	90 dienu periodā:
+
+1.	Programmatūra pilnībā atbilst Dokumentācijai normālas lietošanas apstākļos un datu nesēji piegādes brīdī ir bez materiālu un apdares defektiem;
+2.	Apmācību materiāli pilnībā atbilst Esri publicētajiem kursu aprakstiem piegādes brīdī;
+3.	Pakalpojumi pilnībā atbilst programmatūras industrijas profesionālajiem un tehniskajiem standartiem ieviešanas dienā; un
+4.	Nodevumi, kam saskaņota fiksēta cena, pilnībā atbilst saskaņotajos Pasūtījuma dokumentos norādītajām specifikācijām apstiprināšanas brīdī.
+
+b.	Piemērojamā abonēšanas termiņa laikā:
+
+1.	pakalpojums Online Services pilnībā atbilst Dokumentācijai normālas lietošanas apstākļos;
+2.	Uzturēšana pilnībā atbilst programmatūras industrijas profesionālajiem un tehniskajiem standartiem; un
+3.	EMCS atbilst Pasūtījuma dokumentācijā noteiktajam EMCS apjomam, aprakstiem un pieņēmumiem.
+
+3.2. Īpaša atruna. Saturs, dati, paraugi, labojumi, ielāpi, jauninājumi, bezmaksas Online Services pakalpojumi un novērtējuma un Beta Izstrādājumi tiek piegādāti "tādi, kādi tie ir", bez jebkādas garantijas.
+3.3. Vispārēja atruna. Izņemot Līgumā minētās ierobežotās garantijas, korporācija Esri atsakās no jebkādām citām tiešām vai netiešām garantijām vai nosacījumiem, tostarp, bet ne tikai, no garantijām vai nosacījumiem, kas saistīti ar piemērotību pārdošanai, piemērotību konkrētam mērķim un intelektuālā īpašuma tiesību nepārkāpšanu. Korporācija Esri negarantē, ka Esri Piedāvājumi vai Klienta darbības ar tiem būs bez pārtraukumiem, bez kļūdām, bojājumpiecietīga vai bezatteices, kā arī negarantē, ka visas neatbilstības var tikt vai tiks novērstas. Esri Piedāvājumi nav izstrādāti, izgatavoti vai paredzēti lietošanai vidēs vai lietojumos, kas var izraisīt nāvi, personīgas traumas vai fiziskus īpašuma vai vides bojājumus. Klients nedrīkst ņemt vērā nekādus maršruta ieteikumus, kas var būt bīstami, nedroši vai neatļauti. Jebkurš šāds pielietojums ir Klienta paša risks un izmaksas.
+3.4. Atrunas.
+
+a.	Interneta atruna. Neatkarīgi no tiesību teorijām, neviena puse nav atbildīga par zaudējumiem, kas radušies interneta darbības vai darbības pārtraukumu dēļ, vai tāda interneta regulējuma, kas var ierobežot vai liegt pakalpojuma Online Services darbību, dēļ.
+b.	Trešo personu saturs un vietnes. Korporācija Esri nav atbildīga par trešo pušu vietnēm vai Saturu, kas pieejams vai uz kuru ir atsauces Esri Piedāvājumos un Esri vietnēs, to skaitā www.esri.com un www.arcgis.com. Saišu vai atsauksmju uz trešo personu vietnēm un resursiem sniegšana nenozīmē nekādu apstiprinājumu, piederību vai sponsorēšanu.
+
+3.5. Ekskluzīvs labojumu veids. Klienta ekskluzīvais tiesiskās aizsardzības līdzeklis un visa korporācijas Esri atbildība par ierobežoto garantiju pārkāpšanu, kā noteikts šajā sadaļā, tikai pēc korporācijas Esri ieskatiem aprobežojas ar (i) visu bojāto datu nesēju nomaiņu; (ii) Esri Piedāvājumu vai Pakalpojumu remontu, labošanu vai pārstrādi; vai (iii) atlīdzināšanu par licences maksām, ko Klients ir samaksājis par Esri Piedāvājumu vai Pakalpojumu, kas neatbilst korporācijas Esri ierobežotajai garantijai, ar nosacījumu, ka Klients atinstalē, noņem un iznīcina Esri Piedāvājumu visas kopijas; pārtrauc izmantot pakalpojumu Cloud Services, kā arī sagatavo un iesniedz korporācijai Esri vai tās autorizētam izplatītājam pierādījumus tam, ka šīs darbības veiktas.
+
+4. PUNKTS - ATBILDĪBAS IEROBEŽOJUMI
+
+4.1. Atbildības atruna. Ne Klients, ne Esri, ne Esri izplatītāji vai licences devēji nav atbildīgi par jebkādiem netiešiem, tīšiem, nejaušiem vai paredzamiem zaudējumiem, tai skaitā negūto peļņu, zaudētās pārdošanas iespējas vai nemateriālo vērtību zudumu; izmaksām par aizstājošu preču vai pakalpojumu iegādi; vai zaudējumiem, kas pārsniedz attiecīgās licences vai abonēšanas maksu, kas samaksāta vai ir parādā korporācijai Esri par Esri Piedāvājumu, kas radījis šīs sekas.
+
+4.2 Iepriekšējā punktā minētie atbildības ierobežojumi un izņēmumi neattiecas uz Klienta pārkāpumiem, Esri vai Esri licenču devēju intelektuālā īpašuma tiesību neievērošanu vai nepareizu izmantošanu, pušu zaudējumu atlīdzināšanas pienākumu, rupju neuzmanību, tīšiem pārkāpumiem vai šī Līguma Eksporta atbilstības klauzulas vai jebkuru normatīvo aktu pārkāpumiem.
+
+4.3. Atrunu un ierobežojumu piemērojamība. Puses ir vienojušās, ka Esri vai tā pilnvarotais izplatītājs ir noteicis maksu un iekļāvis to šajā Līgumā, paļaujoties uz Līguma atrunām un ierobežojumiem; maksas atspoguļo riska sadalījumu starp pusēm, kas ir pamats darījumam starp abām pusēm. Šie ierobežojumi tiek piemēroti neatkarīgi no tā, vai puses apzinās iespējamos zaudējumus, un neatkarīgi no ekskluzīviem, ierobežotiem tiesiskās aizsardzības līdzekļiem.
+
+4.4. Iepriekš aprakstītās garantijas, ierobežojumi un izņēmumi var nebūt spēkā noteiktās jurisdikcijās un var būt spēkā tikai tiktāl, ciktāl tas atļauts ar piemērojamo likumdošanu vai tiesību aktiem Klienta jurisdikcijā. Klientam var būt papildu tiesības, no kurām nevar atteikties un kuras nevar noliegt. Korporācija Esri necenšas ierobežot Klienta garantiju vai tiesiskās aizsardzības līdzekļus jebkādā apmērā, kas nav atļauts ar likumu.
+
+5. PUNKTS - ATLĪDZINĀŠANAS
+
+5.1. Definīcijas. Turpmākās definīcijas papildina A pielikumā sniegtās definīcijas:
+
+a.	"Prasība" ir jebkura trešās puses prasība, darbība vai pieprasījums.
+b.	"Kompensāciju saņēmēji" ir Klients, tā direktori, vadītāji un darbinieki.
+c.	"Pārkāpuma prasība(-s)" ir jebkura Prasība, kuras pamatā ir Klienta piekļuve Esri Piedāvājumiem vai Pakalpojumiem, kas atbilst ASV patentu, autortiesību, preču zīmju vai komercnoslēpumu pārkāpumam.
+d.	"Zaudējumi" ir tiešās izmaksas, atlīdzinājumi par bojājumiem, izlīguma summas, izmaksas vai izdevumi, to skaitā advokātiem izmaksātie honorāri.
+
+5.2. Kompensācija par pārkāpumiem.
+
+a.	Korporācija Esri aizstāvēs un pasargās Kompensāciju saņēmējus no Pārkāpuma prasībām un Zaudējumu atlīdzināšanas, kas izriet no Pārkāpuma prasības, kā noteikts nākamajos punktos.
+b.	Ja korporācija Esri nosaka, ka Pārkāpuma prasība ir derīga, Esri var uz sava rēķina vai nu (i) nodrošināt tiesības Klientam turpināt izmantot Esri Piedāvājumus vai (ii) modificēt Esri Piedāvājumus, saglabājot būtiski līdzīgu funkcionalitāti. Ja neviena alternatīva nav komerciāli pamatota, korporācija Esri var pārtraukt Klienta tiesības izmantot Esri Piedāvājumus un atgriezt visas (a) piemērotās maksas par Pakalpojumu; (b) maksas par licencēm, ko Klients ir samaksājis par kontrafakta Esri Piedāvājumiem, sadalot tās proporcionāli uz pieciem gadiem pēc lineārā nolietojuma metodes, sākot ar piegādes datumu; vai (c) neizmantoto samaksas daļu par Terminētajām licencēm, Abonementiem un Uzturēšanu.
+c.	Korporācijai Esri nav pienākums aizsargāt pret Pārkāpuma prasību vai atlīdzināt Klientam, ciktāl Pārkāpuma prasības cēlonis ir (i) Esri Piedāvājuma kombinācija ar vai integrēšana produktā, procesā, sistēmā, vai elementā, ko nav piegādājusi Esri vai kas nav norādīta Dokumentācijā; (ii) Esri Piedāvājumu modifikācijas, ko nav veikusi Esri vai tās apakšuzņēmēji; (iii) atbilstība Klienta specifikācijai; vai (iv) Esri Piedāvājumu izmantošana pēc tam, kad Esri ir nodrošinājusi modificētu versiju, kas novērš pārkāpumu vai izbeigusi Klienta tiesības izmantot Esri Piedāvājumus.
+
+5.3. Vispārīga kompensācija. Korporācija Esri aizsargās un pasargās visus Kompensāciju saņēmējus un kompensēs radītos Zaudējumus, Prasības par miesas bojājumiem, nāvi vai īpašuma bojājumiem (neskaitot datu bāzes, kam nav nodrošināta atbilstoša dublēšanas programma), kas tiek celtas pret Kompensējamām pusēm, ciktāl tas izriet no jebkuras Esri vai tās direktoru, vadītāju, darbinieku vai aģentu, kas sniedz Pakalpojumus Klienta telpās, nolaidīgas darbības vai bezdarbības vai tīšas rīcības.
+
+5.4. Kompensēšanas nosacījumi. Lai izpildītu nosacījumus kompensācijas saņemšanai, Kompensācijas saņēmējs (i) nekavējoties rakstiski informē korporāciju Esri par Prasību, (ii) sniedz visus pieejamos dokumentus, kas pamato Prasību, (iii) dod Esri vienpersoniski kontroli pār jebkurām darbībām un sarunām, kas saistītas ar aizstāvību vai vienošanās panākšanu par Pārkāpuma prasībām un (iv) pienācīgi sadarbojas ar Pārkāpuma prasības aizstāvību pēc Esri pieprasījuma un uz Esri rēķina.
+
+5.5.Šajā Sadaļā norādīti visi korporācijas Esri, tās pilnvarotā izplatītāja un licences devēju pienākumi attiecībā uz jebkuru Prasību.
+
+6. PANTS - APDROŠINĀŠANA
+
+Ja korporācija Esri nodrošina Pakalpojumus, tai būs apdrošināti, minimums, šādi riski:
+
+a.	Visaptveroša vispārīgā atbildība vai uzņēmējdarbības vispārējā apdrošināšana ar minimālo segumu $ 1 000 000,00 vienam gadījumam miesas bojājumu, nāves vai īpašuma bojājumu iestāšanās gadījumā, ieskaitot:
+
+1.	telpas un darbības;
+2.	visas līgumsaistības;
+3.	plaša apjoma īpašuma bojājumus;
+4.	neatkarīgos darbuzņēmējus;
+5.	miesas bojājumus bez darbinieku izslēgšanas; un
+6.	pabeigtas darbības.
+
+b.	Darba ņēmēju kompensāciju apdrošināšana ar atbrīvojumu no regresa prasībām summā, kas atbilst likumā noteiktajiem ierobežojumiem.
+
+7. PANTS - DROŠĪBA UN ATBILSTĪBA
+
+7.1. Eksporta atbilstība. Abas puses apņemas ievērot visus spēkā esošos eksporta tiesību aktus un noteikumus, tostarp ASV Tirdzniecības departamenta Eksporta administrēšanas noteikumus (Export Administration Regulations - EAR), ASV Starptautisko ieroču tirdzniecības (International Traffic in Arms - ITAR) valsts departamenta likumus un citus spēkā esošos eksporta tiesību aktus. Klients apņemas neeksportēt, atkārtoti neeksportēt, nepārsūtīt, neizlaist Pakalpojumus vai Esri Piedāvājumus vai neatbrīvoties no tiem citā veidā pilnībā vai pa daļām, kā arī neļaut tiem sniegt piekļuvi, tos pārsūtīt vai lietot nevienā no valstīm, kurām Savienotās Valstis ir uzlikušas embargo, vai nevienai juridiskai vai fiziskai personai, ja vien tas neatbilst visiem šajā brīdī spēkā esošajiem ASV valdības eksporta tiesību aktiem un noteikumiem. Klients apņemas neeksportēt, atkārtoti neeksportēt, nepārsūtīt vai neizmantot Pakalpojumus vai Esri Piedāvājumus izmantošanai raķetēs, kodolieročos, ķīmiskos vai bioloģiskos ieročos bez atbilstošas ASV valdības atļaujas. Klients apņemas nekavējoties rakstiski informēt Esri, ja jebkāda ASV valdības iestāde vai aģentūra liedz, aiztur vai atsauc Klienta eksporta tiesības. Klients pakalpojumā Cloud Services neaugšupielādēs, neuzglabās vai neapstrādās Klienta saturu, kura (i) Eksporta Kontroles Klasifikācijas skaitlis (Export Control Classification Number (ECCN)) nav EAR99 vai (ii) eksports no Amerikas Savienotajām Valstīm tiek kontrolēts saskaņā ar ITAR. Korporācija Esri nesniegs Pakalpojumus un nenodrošinās Esri Piedāvājumus, kas saistīti ar jebkādiem aizsardzības materiāliem, aizsardzības pakalpojumiem vai tehniskajiem datiem, kas atbilstoši definēti ITAR sadaļās 120.6, 120.9, and 120.10, līdz Esri nebūs saņēmusi attiecīgo eksporta licenci no ASV valdības. Nepieciešamības gadījumā Klients pienācīgi palīdzēs korporācijai Esri eksporta licences pieteikšanas un saņemšanas procesā.
+
+7.2. Drošība. Esri publicē drošības iespējas vietnē http://doc.arcgis.com/en/trust/security/security-overview.htm. Klients var nodrošināt Esri personālam piekļuvi Klienta sistēmām vai Klienta vai trešās puses personīgajai informācija, ja šāda piekļuve ir nepieciešama Esri Pakalpojumu nodrošināšanai un Esri skaidri piekrīt šādai piekļuvei. Esri izmantos saprātīgus administratīvos, tehniskos un fiziskos drošības pasākumus, lai aizsargātu šādus datus un pasargātu tos no neautorizētas piekļuves. Klients uzņemas atbildību (i)apstiprināt, ka Esri publicētā drošības un privātuma kontrole atbilst visām spēkā esošajām likumdošanas prasībām Klienta satura aizsardzībai un (ii) augšupielādēt vai koplietot kontrolētu Klienta saturu pakalpojumā Cloud Services tikai tad, ja to darīt ir likumīgi. Korporācija Esri nav atbildīga par Klienta satura pārskatīšanu, lai nodrošinātu atbilstību likumdošanai un normatīvajiem aktiem.
+
+8. PANTS - PAKALPOJUMA CLOUD SERVICES PĀRTRAUKUMI, ATTEICES UN DARBĪBAS PĀRTRAUKŠANA
+
+8.1. Neatļauta lietošana. Klients nedrīkst piekļūt pakalpojumam Cloud Services vai izmantot to, lai:
+
+a.	sūtītu mēstules, viltus ziņojumus vai pikšķerēšanas e-pastus; nosūtīt nevēlamus e-pastus vai aizvainojošu vai aizskarošu materiālu; izsekot vai izteikt fiziska kaitējuma draudus;
+b.	glabātu vai pārsūtītu Ļaunprātīgu kodu;
+c.	pārkāptu tiesību aktus vai noteikumus;
+d.	pārkāptu vai piesavinātos jebkuras trešās puses tiesības;
+e.	pārbaudītu, skenētu vai testētu pakalpojuma Cloud Services ievainojamību, vai pārkāptu jebkurus pakalpojuma Cloud Services izmantotos drošības vai autentifikācijas noteikumus; vai
+f.	Novērtētu pakalpojuma Cloud Services pieejamību, veiktspēju vai funkcionalitāti konkurences nolūkos.
+
+8.2. Pakalpojuma sniegšanas pārtraukšana. Sistēmas kļūdas vai citi notikumi, ko Esri nevar kontrolēt, var pārtraukt Klienta piekļuvi pakalpojumam Online Services. Esri, iespējams, nevar sniegt iepriekšēju paziņojumu par šādiem pārtraukumiem.
+
+8.3 Klienta satura noņemšana. Korporācija Esri drīkst noņemt vai dzēst jebkuras Klienta satura daļas, ja pastāv iemesls uzskatīt, ka Klienta satura augšupielādēšana vai lietošana kopā ar pakalpojumu Cloud Services pārkāpj šo Līgumu. Pirms Klienta satura noņemšanas korporācija Esri attiecīgi informēs Klientu, ja attiecīgajā situācijā korporācija Esri uzskatīs šo rīcību par pamatotu. Uz visiem satura noņemšanas paziņojumiem, ko iesniedzāt saskaņā ar Digitālās tūkstošgades autortiesību likumu, korporācija Esri atbildēs, ievērojot tās autortiesību politiku, kas ir pieejama vietnē http://www.esri.com
+/legal/dmca_policy.
+
+8.4. Pakalpojuma darbības apturēšana. Korporācija Esri var pārtraukt piekļuvi pakalpojumam Cloud Services, (i) ja Klients būtiski neievēro šo Līgumu un nespēj savlaicīgi novērst pārkāpumu; (ii) ja korporācija Esri pamatoti uzskata, ka Klienta Cloud Services izmantošana uzliek korporācijai Esri tūlītēju atbildību vai nelabvēlīgi ietekmē pakalpojuma Cloud Services integritāti, funkcionalitāti vai lietojamību; (iii) plānotiem uzturēšanas darbiem; (iv) lai novērstu draudus vai uzbrukumu pakalpojumam Cloud Services; vai (v) ja pakalpojums Cloud Services kļūst aizliegts ar likumu vai regulēts tādā mērā, ka, turpinot nodrošināt pakalpojumu, tiek radītas komerciālas grūtības. Ja tas būs iespējams, korporācija Esri Klientam iepriekš ziņos par jebkādu pakalpojuma Cloud Services darbības apturēšanu un Klientam tiks nodrošināta saprātīga iespēja piemērot tiesiskās aizsardzības līdzekli.
+
+Korporācija Esri nav atbildīga par jebkādiem bojājumiem, saistībām vai zaudējumiem, kas var rasties no pakalpojuma Online Services sniegšanas pārtraukumiem vai pakalpojuma pārtraukšanas, vai Klienta satura noņemšanas, kā aprakstīts iepriekš.
+
+9. PUNKTS - VISPĀRĒJAIS NODROŠINĀJUMS
+
+9.1. Maksājumi. Klients apmaksā katru pareizi izrakstīto rēķinu ne vēlāk kā 30 dienu laikā pēc tā saņemšanas un veic maksājumu uz rēķinā norādītajiem rekvizītiem.
+
+9.2. Atsauksmes. Esri drīkst brīvi izmantot jebkādas atsauksmes par Izstrādājumiem vai Izstrādājumu uzlabojumu ierosinājumus vai pieprasījumus, ko Klients sniedz korporācijai Esri.
+
+9.3. Patenti. Klients nedrīkst pats pieprasīt un nedrīkst atļaut jebkuram citam lietotājam pieprasīt tādu patentu vai līdzīgas tiesības jebkur pasaulē, kam pamatā ir vai kas ietver Izstrādājumus. Šis īpašais patentēšanas aizliegums neattiecas uz Klienta programmatūru un tehnoloģiju, izņemot gadījumus, kad Izstrādājumi vai kāda to sastāvdaļa ir ietverta patenta pieteikumā vai līdzīgā pieteikumā.
+
+9.4. Nodokļi un nodevas; transporta izmaksas. Klientam noteiktajā maksā nav ietverti visi piemērojamie nodokļi un nodevas, ieskaitot, bet ne tikai, tirdzniecības nodoklis, lietošanas nodoklis vai pievienotās vērtības nodoklis (PVN), muitas nodevas, nodokļi vai tarifi un transportēšanas un nosūtīšanas izmaksas.
+
+9.5 Atbilstības pārbaude. Klients apņemas uzturēt precīzu un pilnīgu dokumentāciju un pārskatus attiecībā uz tā atbilstību šajā Līgumā noteiktajām saistībām. Esri vai tā pilnvarotais izplatītājs drīkst veikt šīs dokumentācijas un pārskatu atbilstības pārbaudi, brīdinot ne mazāk kā septiņas darba dienas iepriekš, vai var iecelt neatkarīgu trešo pusi šādas atbilstības pārbaudes veikšanai savā vārdā. Klients apņemas izlabot jebkādas neatbilstības, kas atrastas atbilstības pārbaudes laikā. Ne Esri, ne izplatītājs nedrīkst veikt Klienta atbilstības pārbaudi 12 mēnešu laikā pēc tam, kad ir pabeigta jebkāda iepriekšēja atbilstības pārbaude, kuras rezultātā nav atklātas nekādas Klienta neatbilstības.
+
+9.6. Neatteikšanās no saistībām. Gadījumā, ja kādai no pusēm neizdodas izpildīt kādu no šā Līguma noteikumiem, tas nav uzskatāms par atteikšanos no saistībām un nenozīmē, ka šī puse nevarēs šo vai jebkuru citu noteikumu piemērot turpmāk.
+
+9.7. Nodalāmība. Puses abpusēji vienojas, ka gadījumā, ja kāds no šā Līguma noteikumiem kādu iemeslu dēļ tiek uzskatīts par nepiemērojamu, šāds noteikums ir jālabo tikai tādā apjomā, lai to turpmāk varētu piemērot.
+
+9.8. Tiesību pārņēmējs un pilnvarotie. Klients nepiešķir, neizsniedz apakšlicenci un nenodod Klienta tiesības un nedeleģē savus Līgumā noteiktos pienākumus bez Esri un tās pilnvarota izplatītāja rakstiskas piekrišanas, un visi šāda veida centieni bez attiecīgas atļaujas tiks uzskatīti par spēkā neesošiem. Šis Līgums ir saistošs arī Līguma pušu attiecīgajiem tiesību pārņēmējiem un pilnvarotajiem. Neskatoties uz to, līgumdarbinieks, kurš ar valdību ir noslēdzis līgumu par Izstrādājumu piegādi, šo Līgumu un piegādei iegūtos Izstrādājumus drīkst nodot savam valdības klientam, rakstiski par to paziņojot korporācijai Esri, ja vien valdības klients piekrīt šā Līguma noteikumiem.
+
+9.9. Termiņa pagarinājums. Terminu glosārijs un šo Vispārīgo noteikumu un nosacījumu 3., 4., 5. un 9. pants ir spēkā arī pēc šī Līguma termiņa beigām vai tā izbeigšanas.
+
+9.10. ASV valdības klients. Izstrādājumi ir komerciāli vienumi, kas izstrādāti par privātiem līdzekļiem un tiek nodrošināti Klientam atbilstoši šim Līgumam. Ja Klients ir ASV valdības iestāde vai ASV valdības līgumdarbinieks, korporācija Esri Klientam licencē vai piešķir abonementus atbilstoši šim Līgumam saskaņā ar FAR apakšpunktiem 12.211/12.212 vai DFARS apakšpunktu 227.7202. Atbilstoši tā paša DFARS apakšpunkta 227.7202 politikai, Esri Dati un pakalpojums Online Services ir licencēti vai abonēti kā komerciālā datoru programmatūra, kuras iegāde notiek saskaņā ar DFARS. Uz Izstrādājumiem attiecas ierobežojumi, un šis Līgums stingri reglamentē to, kā Klients drīkst lietot, mainīt, realizēt, reproducēt, izlaist, rādīt vai izpaust Izstrādājumus. Līguma noteikumi, kas ir pretrunā ar federālo likumdošanu, nav spēkā. ASV valdības Klients drīkst nodot Programmatūru jebkurai savai aģentūrai, kurai tiek nodoti datori, kuros instalēta šāda Programmatūra. Ja kāda tiesa, šķīrējtiesnesis vai valde uzskata, ka saskaņā ar piemērojamiem publiskā iepirkuma tiesību aktiem ASV valdības Klientam ir lielākas tiesības uz kādu Izstrādājumu daļu, šādas tiesības piešķiramas vienīgi uz to daļu, uz kuru tās attiecas.
+
+9.11. Piemērojamie tiesību akti. Šo Līgumu reglamentē ASV federālais likums un Kalifornijas štata likumi, izņemot to attiecīgo tiesību principu izvēli. Šo Līgumu nereglamentē Apvienoto Nāciju Konvencija par preču starptautiskās tirdzniecības līgumiem.
+
+9.12.Strīdu risināšana. Puses izmanto šādus strīdu risināšanas procesus:
+
+a.	Tiesiskās aizsardzības līdzekļi saskaņā ar tiesīguma normām. Katrai pusei ir tiesības pieprasīt izpildrakstu, konkrētas darbības vai citus tiesiskās aizsardzības līdzekļus jebkurā piekritīgā kompetentas jurisdikcijas tiesā ar atbrīvojumu no drošības naudas iemaksas vai zaudējumu pierādīšanas kā atlīdzinājuma nosacījuma.
+b.	ASV valdības aģentūras. Uz šo Līgumu attiecas grozītais (41 USC 601-613) 1978. gada Contract Disputes Act.
+c.	Citas valdības institūcijas. Korporācija Esri rīkosies saskaņā ar obligātajām strīdu šķiršanas prasībām saskaņā ar tiesību aktiem.
+d.	Šķīrējtiesa. Izņemot iepriekš minētos gadījumus, jebkuru strīdu, kas izriet no vai ir saistīts ar šo Līgumu, un kuru nevar atrisināt sarunu ceļā, puses iesniedz saistošajā šķīrējtiesā. Ja Klients atrodas Amerikas Savienotajās Valstīs, to teritorijās vai īpašumos, šķīrējtiesas process notiks saskaņā ar Amerikas Arbitrāžas asociācijas komerciālās šķīrējtiesas noteikumiem. Ja Klients atrodas ārpus Amerikas Savienotajām Valstīm, tiesvedības process notiks saskaņā ar Starptautiskās Tirdzniecības Palātas šķīrējtiesas noteikumiem. Puses izvēlēsies vienu šķīrējtiesnesi saskaņā ar piemērojamiem šķīrējtiesas noteikumiem. Šķīrējtiesa notiks angļu valodā. Par šķīrējtiesas norises vietu puses savstarpēji vienojas. Katra puse pēc otras puses pieprasījuma nodrošina strīda galveno jautājumu pieejamos dokumentus vai lieciniekus.
+
+9.13 Nepārvaramā vara. Puse neuzņemas atbildību par jebkādu nespēju izpildīt šo Līgumu vai izpildīt bez kavējuma uz laika periodu, kad šādu nespēju vai kavējumu izraisa iemesli, kas ir ārpus puses saprātīgas kontroles. Šādi iemesli var ietvert stihiskas nelaimes, karu, streikus, darba strīdus, kiberuzbrukumus, likumus, normatīvos aktus vai valdības rīkojumus vai jebkādu citu nepārvaramas varas izpausmi, bet neaprobežojas ar to.
+
+9.14. Neatkarīgais darbuzņēmējs. Korporācija Esri ir un vienmēr būs neatkarīgais darbuzņēmējs. Nekas šajā Līgumā nerada darba devēja/darba ņēmēja, vadītāja/aģenta vai kopuzņēmuma attiecības starp korporāciju Esri vai tās autorizēto izplatītāju un Klientu. Nevienai pusei nav tiesības slēgt līgumus otras puses vārdā vai kā citādi rīkoties otras puses vietā.
+
+9.15. Paziņojums. Klients šī Līguma ietvaros var nosūtīt korporācijai Esri paziņojumus uz adresi:
+
+Environmental Systems Research Institute, Inc.
+Attn: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+USA
+
+Tālr.: 909-793-2853
+E-pasts: LegalNotices@esri.com
+
+1 PIELIKUMS
+SPECIFISKI IZSTRĀDĀJUMU LIETOŠANAS NOTEIKUMI
+(E300 09/22/2016)
+
+PROGRAMMATŪRA
+
+Tabulā norādīti papildu lietošanas noteikumi, kas attiecas uz konkrētu Programmatūru. Katra Izstrādājuma aprakstā norādīta viena vai vairākas zemsvītras piezīmes, kas attiecas uz šo Izstrādājumu. Šīs zemsvītras piezīmes papildina Līguma noteikumus. Katras zemsvītras piezīmes definīcijas ir dotas zem tabulas. Ja vien piemērojamajā Pasūtīšanas dokumentā nav noteikts citādi, Programmatūras paplašinājumu lietošanas apjoms ir vienāds ar attiecīgās Programmatūras lietošanas apjomu.
+
+Galddatoru izstrādājumi
+▪	ArcGIS Desktop (Advanced, Standard vai Basic) (26)
+▪	ArcGIS Earth (65)
+▪	ArcGIS Explorer Desktop (20)
+▪	ArcGIS for AutoCAD (20)
+▪	ArcPad (13)
+▪	ArcReader (20)
+▪	ArcGIS for Windows Mobile (15; 54)
+▪	ArcGIS personīgai lietošanai (3, 26)
+
+Serveru izstrādājumi
+▪	ArcGIS Enterprise
+-	Standard vai Advanced (21; 31)
+-	Workgroup Standard vai Advanced (21; 28; 29; 30; 32 )
+-	ArcGIS GIS Server (Standard vai Advanced) (31)
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server Workgroup (Standard vai Advanced) (28; 29; 30; 32 )
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server paplašinājums
+-	ArcGIS Maritime: Server (2)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4)
+▪	Esri Business Analyst Server
+-	Workgroup (28; 29; 30; 31; 39)
+-	Enterprise (31; 39)
+▪	World Geocoder for ArcGIS Basic (67)
+Developer Tools
+▪	AppStudio for ArcGIS Standard (11, 16, 19)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [galddatorā], Windows Phone, Windows Store), Qt vai WPF (16; 19)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [galddatorā], Windows Phone, Windows Store), Qt vai WPF (15; 18)
+▪	ArcGIS Engine Developer Kit un paplašinājumi (16, 19; 22, 26)
+▪	ArcGIS Engine for Windows/Linux un paplašinājumi (15; 22; 26)
+▪	ArcGIS Web Mapping (tostarp ArcGIS API for JavaScript/HTML5, ArcGIS API for Flex, ArcGIS API for Microsoft Silverlight) (15; 16; 64; 66)
+▪	ArcGIS Developer Subscription (24; 26)
+▪	Esri File Geodatabase API (47)
+
+Citi
+▪	Navigator for ArcGIS (14)
+
+ Zemsvītras piezīmes:
+
+1.	Rezervēts.
+2.	Nav paredzēts lietošanai 	navigācijā	.
+3.	Licences tiek piešķirtas tikai personīgai lietošanai.
+4.	Izmantojot kopā ar ArcGIS Enterprise Workgroup
+-	Ierobežojums: viens četrkodolu serveris.
+-	Var instalēt atsevišķā iekārtā.
+	5-10.	Rezervēts.
+11.	Uz lietojumprogrammām, kas izveidotas ar AppStudio for ArcGIS Standard, attiecas ArcGIS Runtime Standard Level lietošanas noteikumi.
+12.	Rezervēts.
+13.	"Divējādi izmantojama licence" nozīmē, ka Programmatūru var instalēt galddatorā un vienlaikus izmantot personālajā ciparasistentā (PDA) vai portatīvajā rokas datorā ar nosacījumu, ka Programmatūru vienlaicīgi izmanto tikai viens atsevišķs lietotājs.
+14.	Drīkst lietot navigācijai.
+15.	Licencēts kā Izvietojuma licence.
+16.	Klients drīkst izmantot SDK komplektus vai API interfeisus, lai veidotu Lietojumprogrammas ar pievienoto vērtību un izplatītu un licencētu šīs Lietojumprogrammas ar pievienoto vērtību lietotājiem, un lietotāji varētu izmantot Lietojumprogrammas ar pievienoto vērtību jebkurā veidā, kas nav aizliegts eksporta noteikumos.
+17.	Rezervēts.
+18.	Izvietojuma licence ir paredzēta vienai Lietojumprogrammai ar pievienoto vērtību vienā datorā atsevišķām lietojumprogrammām.
+19.	Licenci nedrīkst lietot, lai izstrādātu interneta vai servera Lietojumprogrammas ar pievienoto vērtību;
+20.	Klients	 drīkst reproducēt un izplatīt Programmatūru, ja tiek ievēroti visi šie nosacījumi:
+
+a.	Programmatūra tiek reproducēta un izplatīta pilnībā;
+b.	katra Programmatūras kopija tiek nodrošināta kopā ar licences līgumu, kas aizsargā Programmatūru tādā pašā apmērā kā šis Licences līgums, un saņēmējs apņemas ievērot šī licences līguma noteikumus un nosacījumus;
+c.	tiek reproducēti visi attiecinājumi/paziņojumi par autortiesībām un preču zīmēm; un
+d.	par Programmatūras izmantošanu netiek piemērota samaksa.
+
+21.	Klients drīkst veidot Lietojumprogrammu(-as) ar pievienoto vērtību Klienta Nosauktu lietotāju izmantošanai. Klients nedrīkst iedarināt Nosaukta lietotāja akreditācijas datus Lietojumprogrammā ar pievienoto vērtību. Klients nedrīkst iedarināt un izmantot ArcGIS Online App pieteikšanās akreditācijas datus Lietojumprogrammās ar pievienoto vērtību. Lietojumprogrammām ar pievienoto vērtību jāizmanto Nosaukta lietotāja pieteikšanās akreditācijas dati.
+22.	a.	lai iegūtu tiesības darbināt ArcGIS Engine lietojumprogrammu vienā datorā, lietotājam jālicencē vai nu ArcGIS Engine for Windows/Linux Programmatūra, vai cita ArcGIS Desktop Programmatūra (Basic, Standard vai Advanced); un
+b.	ArcGIS Engine for Windows/Linux paplašinājumus nedrīkst izmantot kopā ar ArcGIS Desktop Programmatūru, lai darbinātu ArcGIS Engine Lietojumprogrammas ar pievienoto vērtību. Vienam lietotājam vienā datorā var būt instalētas vairākas ArcGIS Engine Lietojumprogrammas ar pievienoto vērtību, kuras izmanto tikai šis lietotājs.
+23.	Rezervēts.
+24.	Programmatūru drīkst izmantot vienīgi pētniecības, izstrādes, testēšanas un Lietojumprogrammas ar pievienoto vērtību un kešatmiņā saglabātu karšu versiju prototipa demonstrēšanas nolūkos. Lietojumprogrammas ar pievienoto vērtību un karšu kešatmiņā saglabātās versijas var izmantot ar Stadijas un Izvietošanas ArcGIS Enterprise serveriem. Programmatūru un Datus var instalēt vairākos datoros, un tos var izmantot jebkurš ArcGIS Developer abonents ar Extend vai augstāka plāna abonementu; visa pārējā programmatūra tiek licencēta kā Individuālās lietošanas licence.
+25.	Rezervēts.
+26.	Personal Edition ģeodatu bāzē Klienta datiem ir piemērojams 10 gigabaitu ierobežojums.
+27.	Rezervēts.
+28.	Lietošanas ierobežojums: 10 vienlaicīgi lietotāji, kas izmanto citas lietojumprogrammas, nevis ArcGIS Enterprise Workgroup vai ArcGIS GIS Server Workgroup. Šajā ierobežojumā iekļauta arī ArcGIS Desktop programmatūras, ArcGIS Engine programmatūras un tādu trešo personu lietojumprogrammu lietošana, kas veido savienojumu tieši ar jebkuru ArcGIS Enterprise Workgroup vai ArcGIS GIS Server Workgroup ģeodatu bāzi. Savienojumu skaits no tīmekļa lietojumprogrammām nav ierobežots.
+29.	Programmatūru iespējams lietot vienīgi kopā ar atbalstītu programmatūras SQL Server Express versiju. Atbalstītas versijas ir uzskaitītas korporācijas Esri vietnē kopā ar attiecīgā izstrādājuma sistēmas prasībām.
+30.	Klientam ir 10 gigabaitu datu maksimālā apjoma ierobežojums.
+31.	 	 Klients drīkst lietot papildu Esri Server Programmatūras instalāciju(-as), kas ir paredzēta(-as) k	ļūmjpārlēces operācijām, taču šo papildu Programmatūru drīkst darbināt tikai laika periodā, kad primārā vietne nedarbojas (aktīvi-pasīvā kļūmjpārlēce). Papildu Programmatūras instalācijas paliks apslēptas, izņemot gadījumus, kad tiks veikta sistēmas apkope un datu bāzu atjaunināšana, vienlaikus darbojoties primārajai vietnei vai jebkurai citai papildu vietnei.
+32.	Papildu Programmatūru nedrīkst instalēt kļūmjpārlēces operācijām.
+33-38.	Rezervēts.
+39.	Jebkuras ArcGIS GIS Server ietvertās rediģēšanas funkcijas nav atļauts lietot kopā ar ArcGIS GIS Server Basic (Workgroup vai Enterprise).
+40.-46.	Rezervēts.
+47.	Klients drīkst izstrādāt un izplatīt saviem lietotājiem tādas Lietojumprogrammas ar pievienoto vērtību, kas tiek izmantotas interfeisā Esri File Geodatabase API.
+48.-53.	Rezervēts.
+54.	Programma ArcGIS for Windows Mobile Deployments ir licencēta lietošanai ar ArcGIS for Server Enterprise (Advanced vai Standard), ArcGIS Enterprise Workgroup (Advanced), ArcGIS for Desktop (Advanced, Standard, Basic) un ArcGIS Engine Lietojumprogrammām ar pievienoto vērtību.
+55.-63.	Rezervēts.
+64.	Lietojumprogrammas ar pievienoto vērtību, kas paredzētas izvietošanai tīmeklī, jālieto kopā ar citiem Esri Izstrādājumiem. Lietojumprogrammas ar pievienoto vērtību var izmantot kopā ar trešās personas tehnoloģijām, ja vien Lietojumprogrammas ar pievienoto vērtību vienmēr tiek izmantotas kopā ar Esri Izstrādājumiem.
+65.	Var lietot kopā ar citiem Esri Izstrādājumiem. ArcGIS Earth var izmantot kopā ar trešās personas tehnoloģijām, ja vien ArcGIS Earth vienmēr tiek izmantota kopā ar Esri Izstrādājumiem.
+66.	Saistībā ar galddatora lietojumprogrammām katra licence attiecas uz vienu organizāciju. Šajā licencē organizācija ir galvenais reģistrētais unikālais domēna identifikators. Domēns ir interneta domēna nosaukums, kas ir reģistrēts domēnu nosaukumu reģistrā. Piemēram, vietnē example.com "example.com" ir reģistrētais unikālais domēna identifikators. Līdzīgi vietnē piemērs.com.xx (kur xx ir reģistrētās valsts kods) "example.com.xx" ir reģistrētais unikālais domēna identifikators. Galddatora lietojumprogrammas var izmantot jebkurš organizācijas darbinieks ar galveno reģistrēto unikālo domēna identifikatoru. Nav ierobežots to lietotņu skaits, ko var izveidot un izvietot organizācijas ietvaros.
+67.	Ierobežojums: 250 000 000 ģeokodi ikgadējā abonementa laikā.
+ PAKALPOJUMS ONLINE SERVICES
+
+Tabulā norādīti papildu lietošanas noteikumi, kas attiecas uz konkrētu Online Services pakalpojumu. Katra Izstrādājuma aprakstā norādīta viena vai vairākas zemsvītras piezīmes, kas attiecas uz šo Izstrādājumu. Katras zemsvītras piezīmes definīcijas ir dotas zem tabulas. Ja vien piemērojamajā Pasūtīšanas dokumentā nav noteikts citādi, Programmatūras paplašinājumu lietošanas apjoms ir vienāds ar attiecīgās Programmatūras lietošanas apjomu.
+
+▪	ArcGIS Online abonementi ir pieejami vairākās Pārdošanas programmās:
+
+-	Komerciālā mazumtirdzniecība, EA; valdības programmas (1; 2; 3; 11; 12; 14; 20)
+-	Izglītības programma (1; 2; 8; 10; 14; 19)
+-	 	 Bezpeļņas programm	a (1; 2; 8; 14; 19; 20)
+
+▪	ArcGIS Online Developer Deployment abonementi ir pieejami vairākās Pārdošanas programmās:
+
+-	Komerciālā mazumtirdzniecība, EA; valdības programmas
+	Bezmaksas abonements (1; 8; 9; 10; 13; 19; 20)
+	Maksas abonements (1; 8; 9; 10; 11; 13; 20)
+-	Izglītība, 	NVO	/BPO, preses/mediju programmas
+	Bezmaksas abonements (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Maksas abonements (1; 3; 4; 5; 6; 9; 10; 13; 19)
+-	NVO/BPO, preses/mediju programmas
+	Bezmaksas abonements (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+	Maksas abonements (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+
+▪	Publiskais plāns
+-	 	 Kom	erciālā mazumtirdzniecība, EA; valdība; NVO/BPO; preses/mediju programmas (1; 4; 5; 6; 7; 9; 10; 15; 19; 20)
+-	Apmācību programmas (1; 4; 5; 6; 7; 9; 10; 15; 19)
+▪	Esri Business Analyst Online (16)
+▪	Esri Business Analyst Online Mobile (16)
+▪	Esri Community Analyst (16)
+▪	Esri MapStudio (17)
+
+ Zemsvītras piezīmes:
+
+1.	Papildus pakalpojuma Online Services kopējiem lietošanas noteikumiem ir spēkā arī šajā sadaļā minētie noteikumi.
+
+a.	Klients drīkst lietot savu Esri Online Services kontu, lai veidotu Lietojumprogrammu(-as) ar pievienoto vērtību Klienta iekšējai lietošanai.
+b.	Piekļuvi izveidotajai(-ām) Lietojumprogrammai(-ām) ar pievienoto vērtību Klients drīkst nodrošināt trešajām personām, ievērojot tālāk sniegtos noteikumus:
+
+i.	Piekļuvi izveidotajai(-ām) Lietojumprogrammai(-ām) ar pievienoto vērtību Klients var sniegt Anonīmajiem lietotājiem.
+ii.	Klients nedrīkst pievienot savam ArcGIS Online abonementam trešās personas kā Klienta Nosauktos lietotājus ar mērķi ļaut trešajām personām piekļūt savām Lietojumprogrammām ar pievienoto vērtību. Šis ierobežojums neattiecas uz trešajām personām, kas ir iekļautas Nosaukto lietotāju definīcijā.
+iii.	Izņemot ar Klienta Lietojumprogrammām ar pievienoto vērtību, Klients nedrīkst sniegt trešajām personām piekļuvi ArcGIS pakalpojuma Online Services, kas kļuvuši pieejami ar Klienta ArcGIS Online abonementu. Šis ierobežojums neattiecas uz trešajām personām, kas ir iekļautas Nosaukto lietotāju definīcijā.
+iv.	Tikai Klients ir atbildīgs par tehniskā atbalsta sniegšanu Klienta Lietojumprogrammām ar pievienoto vērtību.
+v.	Klients nedrīkst noņemt vai paslēpt jebkuras preču zīmes vai logotipus, kas parasti būtu redzamas Online Services lietošanas laikā, bez rakstiskas atļaujas. Klientam jāiekļauj paziņojums ar atrunu, ka šī lietojumprogramma izmanto Esri nodrošinātos pakalpojumus Online Services, ja paziņojums ar atrunu netiek automātiski parādīts pakalpojumu Online Services lietošanas laikā. Vadlīnijas ir sniegtas Dokumentācijā.
+vi.	Klients nedrīkst iedarināt Nosaukta lietotāja akreditācijas datus Lietojumprogrammā ar pievienoto vērtību. Lietojumprogrammas pieteikšanās akreditācijas datus drīkst iedarināt tikai tajās Lietojumprogrammās ar pievienoto vērtību, kas lietojamas publiskas, anonīmas piekļuves ArcGIS Online nodro‌šināšanai. Klients nedrīkst iedarināt un izmantot ArcGIS Online App pieteikšanās akreditācijas datus Lietojumprogrammās ar pievienoto vērtību, kas paredzētas iekšējai lietošanai. Lietojumprogrammām ar pievienoto vērtību, kas paredzētas iekšējai lietošanai, jāizmanto Nosaukta lietotāja pieteikšanās akreditācijas dati.
+
+c.	World Geocoding Service: Klients nedrīkst glabāt ģeokodētus rezultātus, ko ģenerējis šis pakalpojums, bez ArcGIS Online abonementa.
+d.	Infographics Service: Klients drīkst lietot datus, kas pieejami no šī pakalpojuma, tikai rādīšanas nolūkiem. Klientam ir aizliegts saglabāt jebkādus datus, kas pieejami no šī pakalpojuma.
+
+2.	Drīkst izmantot jebkādiem Klienta organizācijas komercdarbības mērķiem.
+3.	Drīkst izmantot Klienta organizācijā izstrādes un testēšanas nolūkos.
+4.	Drīkst lietot mācīšanas nolūkā izglītības iestādēs.
+5.	Drīkst izmantot Klienta kvalificētās NVO/BPO organizācijas labā.
+6.	Drīkst izmantot preses vai mediju organizācijas labā.
+7.	Drīkst izmantot personīgām vajadzībām.
+8.	Abonenta Lietojumprogrammām ar pievienoto vērtību jābūt publicētām publiskai piekļuvei.
+9.	Nedrīkst izmantot ieņēmumu gūšanai vai valdības organizācijas labā.
+10.	Klients nedrīkst izveidot privātas grupas vai piedalīties privātās grupās.
+11.	Klients drīkst piedāvāt Lietojumprogrammas ar pievienoto vērtību trešajām pusēm par maksu.
+12.	Klients drīkst izmantot abonementu, lai izveidotu privātas grupas vai piedalītos tajās.
+13.	Uz katru abonementu attiecas 1 000 000 pamatkaršu un 1 000 000 ģeomeklēšanas transakciju ierobežojums mēnesī attiecībā uz Klienta abonementu. "Transakcija" ir definēta Dokumentācijā, ko varat apskatīt ArcGIS resursu vietnē http://links.esri.com/agol/transactiondef.
+14.	Uz katru abonementu attiecas kombinēts 50 000 000 pamatkaršu un ģeomeklēšanas transakciju ierobežojums mēnesī. "Transakcija" ir definēta Dokumentācijā, ko varat apskatīt ArcGIS resursu vietnē http://links.esri.com/agol/transactiondef.
+15.	Drīkst atļaut izglītības iestādes reģistrētajiem studentiem tieši piekļūt pakalpojumam Online Services un koplietot vienu abonementu vairāk kā 1 reģistrētam studentam tikai apmācību nolūkos.
+16.	Klients savās ārējās vietnēs nedrīkst jebkādā kombinācijā rādīt vai publicēt vairāk nekā 100 Esri Business Analyst Online vai Community Analyst ziņojumu un karšu.
+17.	Ziņu sniegšanas nolūkos Licences turētājs drīkst izveidot, publiski rādīt un izplatīt kartes gan izdrukas veidā, gan statiskā elektroniskajā formātā, ievērojot visus ArcGIS Online Datu ierobežojumus.
+18.	Rezervēts.
+19.	Klients nedrīkst piedāvāt Lietojumprogrammas ar pievienoto vērtību trešajām pusēm par maksu.
+20.	Licences turētājs nedrīkst būt licences saņēmējs trešajai personai vai tās vārdā.
+

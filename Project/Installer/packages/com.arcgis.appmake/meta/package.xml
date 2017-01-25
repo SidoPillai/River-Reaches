@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>RiverReaches</DisplayName>
+    <Description>RiverReaches</Description>
+    <Version>1.0.0-1</Version>
+    <ReleaseDate>2014-12-31</ReleaseDate>
+    <Name>com.arcgis.appmake</Name>
+    <!--<Licenses>
+        <License name="License Agreement" file="license.txt" />
+    </Licenses>-->
+    <Script>installscript.qs</Script>
+    <Default>true</Default>
+    <ForcedInstallation>true</ForcedInstallation>
+    <SortingPriority>999</SortingPriority>
+    <Translations>
+        <Translation>ar.qm</Translation>
+        <Translation>cs.qm</Translation>
+        <Translation>de.qm</Translation>
+        <Translation>el.qm</Translation>
+        <Translation>es.qm</Translation>
+        <Translation>et.qm</Translation>
+        <Translation>fi.qm</Translation>
+        <Translation>fr.qm</Translation>
+        <Translation>hr.qm</Translation>
+        <Translation>it.qm</Translation>
+        <Translation>ja.qm</Translation>
+        <Translation>ko.qm</Translation>
+        <Translation>lt.qm</Translation>
+        <Translation>lv.qm</Translation>
+        <Translation>nl.qm</Translation>
+        <Translation>pl.qm</Translation>
+        <Translation>pt_BR.qm</Translation>
+        <Translation>pt_PT.qm</Translation>
+        <Translation>ro.qm</Translation>
+        <Translation>ru.qm</Translation>
+        <Translation>th.qm</Translation>
+        <Translation>tr.qm</Translation>
+        <Translation>vi.qm</Translation>
+        <Translation>zh_CN.qm</Translation>
+        <Translation>zh_HK.qm</Translation>
+        <Translation>zh_TW.qm</Translation>
+    </Translations>
+</Package>

@@ -1,0 +1,575 @@
+﻿VAŽNO - PAŽLJIVO PROČITATI
+(E204CW 09/22/2016)
+
+Osim ako se ne zamijeni potpisanim licencnim ugovorom između vas i tvrtke Esri, tvrtka Esri pristaje vam pružati ponude tvrtke Esri pod uvjetom da prihvatite odredbe i uvjete navedene u ovom Ugovoru. Pažljivo pročitajte odredbe i uvjete. Ne smijete upotrebljavati ponude tvrtke Esri dok ne pristanete na odredbe i uvjete Ugovora. Ako ne pristajete na odredbe i uvjete kako su navedeni, kliknite opciju "Ne prihvaćam ugovor" u nastavku. Zatim možete zatražiti povrat plaćenih primjenjivih naknada.
+
+Ovaj Ugovor sklapa se između vas ("Korisnik") i tvrtke Environmental Systems Research Institute, Inc. ("Esri""), poduzeća iz Kalifornije sa sjedištem na adresi 380 New York Street, Redlands, Kalifornija 92373-8100 SAD.
+
+1.0. OPĆE ODREDBE DODJELE PRAVA I OGRANIČENJA
+
+1.1 Dodatak A sadrži definicije pojmova napisanih velikim početnim slovom koji se koriste u ovom Ugovoru. Svaki odjeljak ovog Ugovora može sadržavati dodatne definicije koje se koriste isključivo unutar tog odjeljka.
+
+1.2. Dodjela prava. Kao protučinidbu za Korisnikovo plaćanje svih primjenjivih naknada i u skladu s ovim Ugovorom, tvrtka Esri dodjeljuje Korisniku osobno, neisključivo, neprenosivo pravo na
+
+a.	uporabu ponuda tvrtke Esri kao što je navedeno u dokumentaciji i u primjenjivim narudžbenicama;
+b.	kopiranje i provođenje izvedbenih radova dokumentacije za internu uporabu Korisnika u kombinaciji s ovlaštenom uporabom proizvoda od strane Korisnika. Korisnik je dužan priložiti sljedeću obavijest o dodjeli autorskih prava u kojoj se potvrđuju vlasnička prava tvrtke Esri i njezinih davatelja licence na izvedbene radove:
+
+"Dijelovi ovog dokumenta uključuju intelektualno vlasništvo tvrtke Esri i njezinih davatelja licence te se ovdje upotrebljavaju u okviru licence. Autorsko pravo (c) [Korisnik treba unijeti stvarni datum/datume dodjele autorskih prava iz izvornih materijala.] tvrtke Esri i njezinih davatelja licence. Sva prava pridržana."
+
+Dodjele prava u ovom odjeljku (i) vrijede u trajanju pretplate ili primjenjivog privremenog razdoblja, ili trajno ako nema primjenjivog privremenog razdoblja ili ono nije navedeno u narudžbenicama te (ii) podliježu dodatnim pravima i ograničenjima u okviru ovog Ugovora, uključujući Dodatak B.
+
+1.3. Pristup za konzultante ili izvođače. Korisnik može svojim konzultantima ili izvođačima dodijeliti ovlaštenje za uporabu ponuda tvrtke Esri isključivo u korist Korisnika. Korisnik snosi isključivu odgovornost za to da se konzultanti i izvođači pridržavaju odredbi iz ovog Ugovora, te se dužan pobrinuti da svaki konzultant ili izvođač prekine uporabu ponuda tvrtke Esri nakon dovršetka radova za Korisnika. Konzultantima ili izvođačima zabranjuje se pristup ponudama tvrtke Esri ili uporaba ponuda tvrtke Esri koja nije isključivo u korist Korisnika.
+
+1.4. Ocjenjivanje i beta licence. Proizvodi stečeni u okviru licence za ocjenjivanje, pretplate ili u okviru beta programa namijenjeni su isključivo u svrhe ocjenjivanja i ispitivanja, a ne za komercijalnu uporabu. Korisnik snosi isključivu odgovornost za svaku takvu uporabu, a proizvodi ne ispunjavaju uvjete za održavanje. Ako se Korisnik ne prebaci na kupljenu licencu ili pretplatu prije isteka razdoblja ocjenjivanja, može izgubiti sadržaj i prilagodbe napravljene tijekom razdoblja ocjenjivanja. Ako Korisnik ne želi kupiti licencu ili pretplatu, obavezan je izvesti takav sadržaj prije isteka razdoblja ocjenjivanja Korisnika.
+
+1.5. Obrazovni programi. Korisnik pristaje na uporabu ponuda tvrtke Esri u okviru obrazovnog programa isključivo u obrazovne svrhe tijekom razdoblja uporabe u obrazovne svrhe. Korisnik ne smije upotrebljavati proizvode u administrativne svrhe, osim ako Korisnik kupi licencu za uporabu u administrativne svrhe. "Uporaba u administrativne svrhe" označava administrativne radnje koje nisu izravno povezane s upućivanjem ili obrazovanjem, kao što su mapiranje imovine, upravljanje objektima, demografske analize, usmjeravanje, zaštita sveučilišta i analize pristupačnosti. Korisnik ne smije upotrebljavati proizvode za ostvarivanje prihoda od oglašavanja ili za stjecanje profita.
+
+1.6. Programi stipendiranja. Korisnik može upotrebljavati ponude tvrtke Esri u okviru programa stipendiranja isključivo u nekomercijalne svrhe. Osim za povrat troškova uporabe i rada s ponudama tvrtke Esri, Korisnik ne smije upotrebljavati ponude tvrtke Esri za ostvarivanje prihoda od oglašavanja ili za stjecanje profita.
+
+1.7. Ostali programi ograničene uporabe tvrtke Esri. Ako Korisnik kupi ponude tvrtke Esri pod bilo kojim programom ograničene uporabe koji nije prethodno naveden, uporaba ponuda tvrtke Esri od strane Korisnika može biti podložna uvjetima navedenim na odgovarajućoj početnoj stranici ili u pristupnom obrascu ili kako je opisano na web-mjestu tvrtke Esri kao dopuna neproturječnim uvjetima ovog Ugovora.
+
+1.8. Pridržavanje prava. Sve ponude tvrtke Esri radovi su zaštićeni autorskim pravom tvrtke Esri i njezinih davatelja licence; pridržana su sva prava koja nisu posebno dodijeljena ovim Ugovorom.
+
+2.0. UVJETI UPORABE SOFTVERA
+
+2.1. Vrste licenci. Tvrtka Esri licencira softver u sklopu sljedećih vrsta licenci:
+
+a.	Licenca za istodobnu uporabu: Korisnik može instalirati i upotrebljavati softver na jednom ili više računala na mreži, ali broj istodobnih korisnika ne smije prelaziti broj pribavljenih licenci. Licenca za istodobnu uporabu uključuje pravo na pokretanje instanci pasivnog prebacivanja u slučaju pogreške softvera za upravljanje licencom za istodobnu uporabu u zasebnom okružju operacijskog sustava za podršku za privremeno prebacivanje u slučaju pogreške.
+b.	Licenca za implementaciju: Korisnik može ugraditi komponente za ArcGIS Runtime u aplikacije s dodanom vrijednošću i distribuirati aplikacije s dodanom vrijednošću krajnjim korisnicima Korisnika.
+c.	Licenca za implementacijski poslužitelj: Korisnik može upotrebljavati softver u okviru licence poslužitelja za sve uporabe odobrene u Ugovoru i kako je opisano u dokumentaciji.
+c.	Licenca za razvojni poslužitelj: Korisnik može upotrebljavati softver u okviru licence poslužitelja za razvoj i testiranje aplikacija s dodanom vrijednošću kako je opisano u dokumentaciji.
+e.	Razvojna uporaba: Korisnik može instalirati i upotrebljavati softver za razvoj i testiranje aplikacija s dodanom vrijednošću kako je opisano u dokumentaciji.
+f.	Licenca za dvostruku uporabu: Korisnik može instalirati softver na stolno računalo i upotrebljavati ga istodobno i na osobnom digitalnom asistentu (PDA) ili ručnom mobilnom računalu sve dok softver u određenom trenutku upotrebljava samo jedna osoba.
+g.	Licenca za prebacivanje: Korisnik može instalirati softver na dodatni sustav za operacije prebacivanja, ali dodatno instalirani softver može biti u funkciji samo kada primarno web-mjesto nije u funkciji. Osim u slučaju održavanja sustava i ažuriranja baza podataka, dodatne instalacije softvera nisu u funkciji dok primarno web-mjesto (ili bilo koje drugo dodatno web-mjesto) nije u funkciji.
+h.	Licenca za ponovnu distribuciju: Korisnik može reproducirati i distribuirati softver pod sljedećim uvjetima:
+
+1.	Korisnik reproducira i distribuira softver u cijelosti.
+2.	Svaka kopija softvera ima priložen licencni ugovor koji štiti softver u jednakoj mjeri kao ovaj Ugovor, a primatelj prihvati uvjete i odredbe licencnog ugovora.
+3.	Korisnik reproducira sve dodjele autorskih prava i zaštitnih znakova te obavijesti o njima.
+4.	Korisnik ne naplaćuje drugima naknadu za uporabu softvera.
+
+i.	Licenca za poslužitelj: Korisnik može instalirati i upotrebljavati softver na poslužiteljskom računalu. Licence za poslužitelje mogu imati ograničen broj jezgri poslužitelja ili distribuciju implementacije na više poslužitelja kako je opisano u narudžbenicama ili dokumentaciji. Ako opis softvera obuhvaća uporabu prebacivanja, svaka licenca za poslužitelj uključuje licencu za prebacivanje.
+j.	Licenca za jednokratnu uporabu: Korisnik može jednom ovlaštenom krajnjem korisniku odobriti instalaciju i uporabu softvera na jednom računalu. Korisnik može odobriti jednom ovlaštenom krajnjem korisniku da instalira drugu kopiju za isključivu uporabu krajnjeg korisnika na drugom računalu pod uvjetom da je u određenom trenutku u uporabi samo 1 kopija softvera. Nijedan krajnji korisnik ne smije upotrebljavati softver u okviru iste licence istodobno u bilo koju drugu svrhu.
+k.	Licenca za pripremni poslužitelj: Korisnik može upotrebljavati softver u okviru licence poslužitelja za razvoj i testiranje aplikacija s dodanom vrijednošću i predmemorija za karte, provođenje testiranja korisničke suglasnosti, učinkovitosti i opterećenja bilo kojeg softvera treće strane, pripremu novih ažuriranja komercijalnih podataka te za provođenje aktivnosti obuke kako je opisano u dokumentaciji. Korisnik može upotrebljavati aplikacije s dodanom vrijednošću i predmemorije za karte s razvojnim i implementacijskim poslužiteljima.
+
+2.2. Odobrene uporabe
+
+a.	Korisnik može sljedeće:
+
+1.	Instalirati, pristupiti ili pohraniti softver i podatke na uređaj(e) za elektroničku pohranu.
+2.	Stvoriti arhivske kopije i rutinske sigurnosne kopije na računalu.
+3.	Instalirati i upotrebljavati novije verzije softvera istodobno s verzijom koja će se zamijeniti tijekom razumnog vremenskog razdoblja koje neće biti dulje od 6 mjeseci, pod uvjetom da implementacija svake verzije ne premašuje licenciranu količinu Korisnika, nakon čega Korisnik ne smije sveukupno upotrebljavati više softvera od ukupne licencirane količine Korisnika. To se ne odnosi na softver s licencom za razvojnu uporabu.
+4.	Premjestiti softver u okviru licencirane konfiguracije na zamjensko računalo.
+5.	Distribuirati trećim stranama softver i sve povezane autorizacijske kodove potrebne za uporabu licence za implementaciju.
+6.	Upotrebljavati softver poslužitelja za komercijalnu uporabu ASP-a ako je Korisnik dobio licencu za komercijalnu uporabu ASP-a ili ako je vladina ili neprofitna organizacija koja upravlja web-mjestom ili pruža internetske usluge na osnovi povrata troškova te u neprofitne svrhe.
+
+b.	Korisnik može prilagoditi softver uporabom bilo kojeg jezika makronaredbi ili skriptiranja, API-ja ili biblioteka izvornog ili objektnog koda, ali isključivo u mjeri u kojoj je takva prilagodba opisana u dokumentaciji.
+c.	Korisnik može upotrebljavati sve fontove omogućene uz softver u okviru ovlaštene uporabe softvera. Korisnik može i zasebno upotrebljavati fontove tvrtke Esri za ispis svih sadržaja stvorenih u okviru softvera. Ograničenja uporabe za fontove trećih strana uključene u softver navedena su u samoj datoteci fonta.
+d.	Dopuna 1 sadrži uvjete uporabe određenog proizvoda za pojedinačni softver. Tvrtka Esri može povremeno izdavati ažuriranja Dodatka 1.
+
+2.3. Održavanje. Tvrtka Esri dužna je provoditi održavanje u skladu s Programom održavanja i podrške tvrtke Esri ako je Korisnik u Sjedinjenim Američkim Državama. Korisnici izvan Sjedinjenih Američkih Država mogu dobiti usluge održavanja od lokalnog distributera tvrtke Esri pod uvjetima samog distributera.
+
+3.0. UVJETI UPORABE MREŽNIH USLUGA
+
+3.1. Definicije. Sljedeće definicije nadopunjavaju definicije navedene u Dodatku A:
+
+a.	"Anonimni korisnici" označava sve koji imaju javni pristup (odnosno, koji ne moraju navesti vjerodajnice Imenovanog korisnika) bilo kojem dijelu sadržaja Korisnika ili aplikacija s dodanom vrijednošću. Korisnik može Anonimnim korisnicima omogućiti pristup svom sadržaju ili aplikacijama s dodanom vrijednošću tako da ih objavi pomoću alata za dijeljenje uključenih u ovlaštenu uporabu mrežnih usluga od strane Korisnika.
+b.	"Vjerodajnice za prijavu u aplikaciju" označavaju podatke za prijavu u aplikaciju i povezanu lozinku koje generira sustav, a koji se dobivaju prilikom registracije aplikacije s dodanom vrijednošću na uslugu ArcGIS Online te se mogu ugraditi u aplikaciju s dodanom vrijednošću kako bi joj se omogućio pristup i uporaba mrežnih usluga.
+c.	"Kreditni bod(ovi) u okviru usluge" označava jedinicu razmjene koja se dodjeljuje pretplatom na mrežne usluge u iznosu navedenom u narudžbenici.
+d.	"Alati za dijeljenje" označava mogućnosti objavljivanja koje se nalaze na mrežnim uslugama i web-mjestu ArcGIS i koje Korisniku omogućuju da učini sadržaj Korisnika i aplikacija s dodanom vrijednošću dostupnim trećim stranama i/ili Anonimnim korisnicima.
+
+3.2. Pretplata na mrežne usluge. Tvrtka Esri omogućuje pretplate na mrežne usluge pod sljedećim uvjetima. Dopuna 1 sadrži i uvjete uporabe određenog proizvoda za pojedinačne mrežne usluge.
+
+3.3. Odredba o mrežnim uslugama uz pretplatu. Za pretplatu na mrežne usluge, tvrtka Esri dužna je sljedeće:
+
+a.	Pružati mrežne usluge Korisniku u skladu s dokumentacijom.
+b.	Provoditi održavanje u skladu s Programom održavanja i podrške tvrtke Esri ako je Korisnik u Sjedinjenim Američkim Državama. Korisnici izvan Sjedinjenih Američkih Država mogu dobiti usluge održavanja od distributera tvrtke Esri pod uvjetima samog distributera.
+c.	Pružati podršku korisnicima u skladu sa standardnom politikom pružanja podrške korisnicima tvrtke Esri, kao i dodatne usluge podrške koje Korisnik kupi.
+d.	U komercijalno razumnim granicama osigurati da mrežne usluge ne prenose Korisniku nikakve zlonamjerne kodove, pod uvjetom da tvrtka Esri nije odgovorna za zlonamjerni kod koji je postavljen na mrežne usluge putem pretplate Korisnika ili sadržaja treće strane.
+
+3.4. Pristup aplikacijama s dodanom vrijednošću.
+
+a.	Imenovani korisnici imaju jedinstvene, zasebne vjerodajnice za prijavu. Imenovani korisnici imaju osobni pristup značajkama mrežnih usluga kojima Anonimni korisnici ne mogu javno pristupiti.
+b.	Korisnik može upotrebljavati svoju pretplatu na mrežne usluge za razvoj aplikacija s dodanom vrijednošću za internu uporabu Imenovanih korisnika.
+c.	Korisnik može prenijeti aplikacije s dodanom vrijednošću bilo kojoj trećoj strani za uporabu zajedno s pretplatom na mrežne usluge same treće strane.
+d.	Korisnik ne smije dodavati treće strane kao Imenovane korisnike za pretplatu na mrežne usluge Korisnika u svrhu dopuštanja pristupa trećim stranama aplikacijama s dodanom vrijednošću Korisnika. Ograničenje se ne odnosi na treće strane navedene u definiciji Imenovanih korisnika.
+e.	Korisnik ne smije omogućivati trećim stranama pristup kao uslugama ArcGIS Online koje su omogućene za pretplatu Korisnika na ArcGIS Online, osim putem aplikacija s dodanom vrijednošću Korisnika. Ograničenje se ne odnosi na treće strane navedene u definiciji Imenovanih korisnika.
+f.	Korisnik može Anonimnim korisnicima omogućiti pristup aplikacijama s dodanom vrijednošću koje se pokreću u okviru pretplate Korisnika pod sljedećim uvjetima:
+
+1.	Korisnik može naplatiti takav pristup u okviru vrsta pretplata u kojima je dopuštena uporaba za ostvarivanje prihoda od oglašavanja.
+2.	Korisnik može ugraditi vjerodajnice za prijavu u aplikaciju u aplikacije s dodanom vrijednošću, ali ne može ugraditi vjerodajnice Imenovanog korisnika.
+3.	Korisnik snosi odgovornost za sve kreditne bodove potrošene uporabom aplikacije s dodanom vrijednošću Korisnika od strane Anonimnog korisnika.
+4.	Korisnik snosi isključivu odgovornost za pružanje tehničke podrške za aplikacije s dodanom vrijednošću Korisnika.
+5.	Korisnik ne smije omogućiti Anonimnim korisnicima pristup aplikacijama s dodanom vrijednošću koje su namijenjene isključivo za internu uporabu Korisnika; aplikacije s dodanom vrijednošću koje se upotrebljavaju interno zahtijevaju vjerodajnice za prijavu Imenovanih korisnika.
+
+3.5. Odgovornosti Korisnika.
+
+a.	Korisnik snosi isključivu odgovornost za razvoj i rad sadržaja Korisnika i aplikacija s dodanom vrijednošću te za pridržavanje odredbi iz ovog Ugovora od strane Imenovanih korisnika. Korisnik i njegovi Imenovani korisnici ili Anonimni korisnici (ako je primjenjivo) jedine su osobe ovlaštene za pristup mrežnim uslugama putem pretplate Korisnika. Vjerodajnice za prijavu Imenovanih korisnika namijenjene su samo za Imenovane korisnike i ne smiju se razmjenjivati s drugim pojedincima. Korisnik može dodijeliti vjerodajnice za prijavu bivših Imenovanih korisnika novim Imenovanim korisnicima ako bivšim korisnicima pristup mrežnim uslugama više nije potreban. Korisnik je obavezan odmah obavijestiti tvrtku Esri ako postane svjestan bilo kakve neovlaštene uporabe pretplate Korisnika ili bilo koje druge sigurnosne ugroze.
+b.	Ako Korisnik za razvoj aplikacije koja ima pristup mrežnim uslugama tvrtke Esri upotrebljava alate za razvoj aplikacija koji nisu dio ponude tvrtke Esri, mora uključiti atribucije koje pokazuju da aplikacija koristi mrežne usluge tvrtke Esri. Smjernice se nalaze u dokumentaciji.
+
+3.6. Izmjene mrežnih usluga. Tvrtka Esri može izmijeniti mrežne usluge i povezane API-je u bilo kojem trenutku, uz rokove od 30 dana nakon zaprimljene obavijesti za materijalne izmjene i 90 dana nakon zaprimljene obavijesti za povlačenja usluge. Ako bilo koja izmjena, prekid ili povlačenje mrežnih usluga ima materijalni, nepovoljan učinak na rad Korisnika, tvrtka Esri može po vlastitom nahođenju pokušati popraviti, ispraviti ili pružiti zaobilazno rješenje za mrežne usluge. Ako neko izvedivo rješenje nije komercijalno razumno, Korisnik može otkazati svoju pretplatu na mrežne usluge, a tvrtka Esri dužna je izvršiti povrat novca.
+
+3.7. Izmjene cijena pretplate.. Esri može povećati cijene za pretplate s vremenom trajanja duljim od 1 mjeseca slanjem obavijesti Korisniku najmanje 60 dana prije isteka trenutačnog razdoblja pretplate. Tvrtka Esri može povećati mjesečne pretplate 30 dana nakon zaprimljene obavijesti.
+
+3.8. Sadržaj Korisnika.
+
+a.	Vlasništvo. Korisnik zadržava sva prava, vlasništvo i korist od sadržaja Korisnika. Korisnik ovime dodjeljuje tvrtki Esri i njezinim dobavljačima ili davateljima licence neisključivo, neprenosivo pravo koje vrijedi u cijelom svijetu da hostira, pokreće i reproducira sadržaj Korisnika isključivo u svrhu omogućivanja uporabe mrežnih usluga od strane Korisnika. Tvrtka Esri bez dopuštenja Korisnika ne smije pristupati, upotrebljavati ili razotkrivati sadržaj Korisnika, osim ako je to razumno neophodno za podržavanje uporabe mrežnih usluga od strane Korisnika, odgovaranje na zahtjeve Korisnika za korisničku podršku ili rješavanje problema s pretplatom Korisnika ili u bilo koju drugu svrhu uz pisano odobrenje Korisnika. Ako Korisnik pristupi mrežnim uslugama pomoću aplikacije koju pružaju treće strane, tvrtka Esri može razotkriti sadržaj Korisnika takvoj trećoj strani ako je to potrebno za omogućivanje zajedničkog rada aplikacija, mrežnih usluga i sadržaja Korisnika. Tvrtka Esri može razotkriti sadržaj Korisnika ako to zahtijevaju zakoni ili propisi ili temeljem sudskog naloga ili naloga državnog tijela, pri čemu će tvrtka Esri nastojati ograničiti opseg razotkrivanja u razumnoj mjeri. Korisnik snosi isključivu odgovornost za prikladnost sadržaja Korisnika za uporabu s mrežnim uslugama i za održavanje redovitog izvanmrežnog sigurnosnog kopiranja pomoću mogućnosti za izvoz i preuzimanje na mrežnim uslugama.
+b.	Dijeljenje sadržaja Korisnika. Ako Korisnik odluči dijeliti sadržaj Korisnika pomoću alata za dijeljenje, Korisnik u tom slučaju potvrđuje da je omogućio trećim stranama da upotrebljavaju, pohranjuju, predmemoriraju, kopiraju, reproduciraju, distribuiraju/ponovno distribuiraju i prenose/ponovno prenose sadržaj Korisnika putem mrežnih usluga. Tvrtka Esri nije odgovorna za gubitke, brisanja, izmjene ili razotkrivanja sadržaja Korisnika nastale uslijed uporabe ili zlouporabe alata za dijeljenje ili mrežnih usluga, mrežnog sadržaja, web-mjesta ArcGIS, dokumentacije ili povezanih materijala. Uporaba alata za dijeljenje od strane Korisnika isključiva je odgovornost Korisnika.
+c.	Vraćanje sadržaja Korisnika nakon raskida. Nakon raskida Ugovora ili otkazivanja bilo koje probne verzije, ocjenjivanja ili pretplate, tvrtka Esri učinit će sadržaj Korisnika dostupnim Korisniku za preuzimanje u razdoblju od 30 dana, osim ako Korisnik ne zatraži kraći rok dostupnosti ili ako tvrtka Esri ima zakonsku zabranu da to učini. Nakon toga prestaje pravo Korisnika za pristup ili uporabu sadržaja Korisnika na mrežnim uslugama, a tvrtka Esri više nema obveza pohranjivanja ili vraćanja sadržaja Korisnika.
+
+3.9. Ograničenja uporabe mrežnih usluga; kreditni bodovi. Svaka pretplata na mrežne usluge uključuje kreditne bodove kao što je opisano u odgovarajućoj narudžbenici. Svakim se kreditnim bodom Korisniku dodjeljuje pravo na trošenje određenog iznosa za mrežne usluge, a iznos se razlikuje ovisno o vrsti mrežnih usluga koje Korisnik upotrebljava. Uporabom mrežnih usluga od strane Korisnika kreditni se bodovi automatski oduzimaju od pretplate Korisnika dok se ne iskoristi maksimalan raspoloživi broj kreditnih bodova. Korisnik po potrebi može kupiti dodatne kreditne bodove. Tvrtka Esri dužna je obavijestiti administratora pretplatničkog računa Korisnika kada potrošnja kreditnih bodova Korisnika dostigne otprilike 75 % kreditnih bodova dodijeljenih Korisniku putem pretplate Korisnika. Tvrtka Esri pridržava pravo na obustavu pristupa Korisnika mrežnim uslugama kojima se troše kreditni bodovi kada Korisnik potroši sve kreditne bodove. Tvrtka Esri dužna je odmah vratiti Korisniku pristup mrežnim uslugama nakon što Korisnik kupi dodatne kreditne bodove.
+
+3.10. ArcGIS Enterprise uz opciju Virtual Cloud Infrastructure. Korisnik je dužan pružiti informacije ili druge materijale povezane sa sadržajem (uključujući kopije svih aplikacija sa strane korisnika) u skladu s razumnim zahtjevom kako bi se provjerilo pridržava li se odredbi ovog Ugovora. Esri može pratiti vanjska sučelja (primjerice priključke) sadržaja Korisnika u svrhu provjere pridržava li se Korisnik odredbi ovog Ugovora. Korisnik ne smije blokirati ili ometati takav nadzor, ali smije koristiti tehnologiju za šifriranje ili vatrozide da bi očuvao povjerljivost sadržaja. Korisnik je dužan u razumnoj mjeri surađivati s tvrtkom Esri kako bi se utvrdio izvor problema s uslugama ArcGIS Enterprise uz opciju Virtual Cloud Infrastructure koji se mogu u razumnoj mjeri povezati sa sadržajem Korisnika ili bilo kakvim materijalima za krajnjeg korisnika kojima upravlja Korisnik.
+
+4.0. UVJETI UPORABE PODATAKA
+
+4.1. Definicije. Sljedeće definicije nadopunjavaju definicije navedene u Dodatku A:
+
+a."Poslovni podaci" označava poslovne, demografske i logističke podatke koji omogućuju kvalitetnije donošenje odluka, optimizirane interne poslovne procese, bolju radnu učinkovitost, nove prihode i konkurentnu prednost u odnosu na konkurenciju.
+b."Paket sadržaja tvrtke Esri" znači digitalnu datoteku koja obuhvaća sadržaj osnovne karte u okviru softvera ArcGIS Online (npr. rasterske pločice karte, slike, vektorske podatke) izdvojene iz usluga osnovne karte u okviru softvera ArcGIS Online.
+c."Podaci o ulicama" označava podatke koji obuhvaćaju ili opisuju podatke o cestama, ulicama te povezane značajke.
+
+4.2. Odobrene uporabe.
+
+a.	Korisnik može upotrebljavati podatke samo u vezi s proizvodima uz koje je tvrtka Esri omogućila podatke.
+b.	Korisnik može uključiti prikaz podataka u tiskanom obliku ili u statičnim, elektroničkim oblicima (npr. PDF, GIF, JPEG) u prezentacijske pakete, marketinška istraživanja ili druga izvješća i dokumente koji sadrže prikaze karti ili sažetke podataka dobivene uporabom proizvoda tvrtke Esri za treće strane sukladno ograničenjima navedenima u ovom Licencnom ugovoru, pod uvjetom da Korisnik prikazima podataka priloži izjavu o dodjeli u kojoj se tvrtka Esri i/ili njezini primjenjivi davatelji licence potvrđuju kao izvor jednog ili više dijelova podataka koji se upotrebljavaju za prikaz podataka.
+c.	Korisnik može preuzeti osnovne karte u okviru softvera ArcGIS Online izvan mreže putem Paketa sa sadržajem tvrtke Esri i naknadno ih isporučiti (prebaciti) na bilo koji uređaj za uporabu isključivo s licenciranim aplikacijama ArcGIS Runtime, ArcGIS Desktop i ArcGIS API for Flex.
+d.	Tvrtka Esri ne stječe nikakva prava na podatke Korisnika u okviru ovog Ugovora.
+
+4.3. Ograničenja uporabe.
+
+a.	Korisnik ne smije izravno djelovati niti ovlastiti svoje korisnike u smislu zajedničkog brendiranja podataka, uporabe podataka u neovlaštenim uslugama ili proizvodima ili ponude podataka putem ili u ime bilo koje treće strane.
+b.	Korisnik ne smije upotrebljavati niti omogućiti trećim stranama da upotrebljavaju podatke u svrhu kompiliranja, poboljšanja, provjere, dopune, dodavanja ili brisanja iz kompilacije podataka koji se prodaju, iznajmljuju, objavljuju, dobavljaju ili na bilo koji način omogućuju trećoj strani.
+c.	Poslovni podaci. Osim uz pisano ovlaštenje, Korisnik ne smije upotrebljavati Poslovne podatke za izravni marketing, objave preprodaje ili distribuciju trećim stranama kao dio popisa za slanje poruka e-pošte, direktorija, klasificiranog oglašavanja ili druge kompilacije podataka.
+d.	Podaci o ulicama. Korisnik može upotrebljavati podatke o ulicama za mapiranje, geokodiranje i u svrhu usmjeravanja od točke do točke. Osim uz pisano ovlaštenje, Korisnik ne smije upotrebljavati podatke o ulicama u sljedeće svrhe:
+
+1.	Navigaciju u stvarnom vremenu, uključujući upozoravanje korisnika o nadolazećim manevrima, primjerice, nadolazeće skretanje, ili izračun alternativne rute u slučaju kad je propušteno skretanje.
+2.	Usklađeno usmjeravanje više vozila.
+3.	Optimizaciju rute.
+
+e.	Podaci usluge Business Analyst. Podaci omogućeni uz softver Esri Business Analyst (poslužitelj, stolno računalo) podliježu sljedećim dodatnim uvjetima uporabe:
+
+1.	Ako Korisnik naruči licencu za Esri Business Analyst ili Business Analyst (kanadsko izdanje) s podskupom nacionalnog skupa podataka (odnosno, Regija, Država, Lokalno), Korisnik može upotrebljavati samo licencirani podskup i ne smije upotrebljavati druge dijelove nacionalnog skupa podataka.
+2.	Podaci omogućeni uz softver Business Analyst Server ne smiju se spremati u predmemoriju ili preuzimati na klijentske aplikacije i uređaje.
+
+4.4. Dodatni uvjeti i odredbe za podatke. Neki davatelji licence za podatke zahtijevaju od tvrtke Esri da od Korisnika traže poštivanje dodatnih zahtjeva dodjele i uvjeta uporabe. Ti su uvjeti koji se odnose na osnovni ugovor dostupni na web-adresi http://www.esri.com/legal
+/third-party-data.
+DODATAK A
+GLOSAR POJMOVA
+
+Sljedeći glosar pojmova odnosi se na sve ponude tvrtke Esri i usluge koje Esri nudi svojim korisnicima. Određene ponude ili usluge tvrtke Esri možda nisu obuhvaćene ovim Ugovorom. Zanemarite uvjete koji se ne odnose na ponude ili usluge tvrtke Esri koje se nude u okviru ovog Ugovora.
+
+"API" znači sučelje za programiranje aplikacije.
+
+"Web-mjesto ArcGIS" znači http://www.arcgis.com i bilo koja povezana ili nasljedna web-mjesta.
+
+"Autorizacijski kôd/kodovi" označava svaki ključ, autorizacijski broj, kôd za omogućenje, vjerodajnice za prijavu, aktivacijski kôd, token, korisničko ime i lozinka ili drugi mehanizmi potrebni za uporabu ponude tvrtke Esri.
+
+"Beta" znači svako alfa, beta ili drugo predizdanje proizvoda.
+
+"Usluge u oblaku" označava mrežne usluge i EMCS.
+
+"Komercijalna uporaba ASP-a" označava uporabu kao komercijalnog davatelja aplikacijskih usluga, odnosno generiranje prihoda pružanjem pristupa softveru putem aplikacije s dodanom vrijednošću, primjerice, naplatom naknade za pretplatu, naknade za uslugu ili bilo kojeg drugog oblika naknade za transakciju ili generiranjem drugih prihoda od oglašavanja osim nehotičnih.
+
+"Sadržaj" označava podatke, slike, fotografije, animacije, videozapise, audiozapise, tekst, karte, baze podataka, podatkovne modele, proračunske tablice, korisnička sučelja, grafičke komponente, ikone, softverske aplikacije, komplete za razvoj softvera (SDK-ove), API-je, softverske biblioteke, uzorke kodova i druge resurse.
+
+"Upravljanje" označava posjedovanje više od 50 % udjela ili drugih upravljačkih prava u upravljanom subjektu.
+
+"Sadržaj Korisnika" znači svaki sadržaj koji Korisnik, krajnji korisnici Korisnika ili bilo koji drugi korisnik pošalje tvrtki Esri u vezi s uporabom ponuda tvrtke Esri od strane Korisnika; svi rezultati nastali na temelju uporabe sadržaja Korisnika s ponudama tvrtke Esri te sve aplikacije s dodanom vrijednošću koje Korisnik razvije i instalirati na proizvode. Sadržaj Korisnika isključuje sve povratne informacije, prijedloge ili zahtjeve za poboljšanja koje Korisnik dostavi tvrtki Esri.
+
+"Podaci" označava svaki komercijalno dostupni skup podataka, uključujući, ali bez ograničenja, geografske vektorske podatke, rasterska podatkovna izvješća ili povezane tablične atribute koje tvrtka Esri povezuje u pakete s drugim ponudama tvrtke Esri ili dostavlja zasebno. Podaci ne uključuju one sadržaje koje osobe koje nisu zaposlenici, dobavljači ili izvođači tvrtke Esri mogu izravno postaviti na web-mjesto tvrtke Esri.
+
+"Isporučeni sadržaj" znači sve što tvrtka Esri isporuči Korisniku u okviru izvođenja stručnih usluga koje ne obuhvaćaju proizvode, obuku ili održavanje. Isporučeni sadržaj može obuhvaćati, ali bez ograničenja, konzultantske usluge, softverski kôd, biblioteke dinamičkih veza (DLL-ove) i programe koji se isporučuju na medijima omogućenim u obliku izvornog, objektnog ili izvršnog koda, uključujući sigurnosne kopije, ažuriranja ili objedinjene kopije; metode, tehnike ili znanje i iskustvo; tehničku pomoć, procese, formule ili algoritme; dizajn; rječnike i modele podataka; kompilacije; sheme; dokumentaciju; specifikacije; nacrte; dijagrame toka; kratke sažetke; ili postupke testiranja ili kontrole kvalitete.
+
+"Dokumentacija" znači svu korisničku referentnu dokumentaciju koja se dostavlja s proizvodom.
+
+"Upravljane usluge u oblaku tvrtke Esri" ili "EMCS" označava hardver, softver, podatke i mrežnu platformu s jednim klijentom, kao i povezane usluge praćenja sustava i podrške koje Esri pruža za pohranu i omogućivanje pristupa Korisniku i krajnjim korisnicima Korisnika sadržaju Korisnika putem interneta.
+
+"Ponuda/e tvrtke Esri" označava proizvode, održavanje ili dokumentaciju. Ako Esri pruža obuku ili stručne usluge izravno Korisniku, ponude tvrtke Esri uključuju i materijale za obuku i isporučeni sadržaj.
+
+"GIS" označava geografske informacijske sustave.
+
+"Održavanje" znači program pretplate koji omogućuje Korisniku pravo na ažuriranja proizvoda i ostale pogodnosti kao što je pristup tehničkoj podršci i pristup resursima za samostalno učenje na webu.
+
+"Zlonamjerni kôd" označava softverske viruse, crve, vremenske bombe, trojanske konje; ili sve ostale računalne kodove, datoteke, uskraćivanje usluge ili programe namijenjenih za ometanje, uništavanje ili ograničavanje rada bilo kojeg računalnog softvera, hardvera ili telekomunikacijske opreme.
+
+"Imenovani korisnik" je zaposlenik, posrednik, savjetnik ili izvođač Korisnika kojem je Korisnik dodijelio jedinstvene, zaštićene korisničke vjerodajnice za prijavu (identitet) koje mu omogućuju pristup proizvodu za koji je potreban taj identitet radi omogućivanja pristupa značajkama s upravljanjem identitetima unutar proizvoda isključivo u korist Korisnika. Za potrebe obrazovanja Imenovani korisnici mogu uključiti registrirane učenike.
+
+"Vjerodajnice Imenovanog korisnika" označava podatke za prijavu i povezanu lozinku pojedinca koji toj osobi omogućuju pristup i uporabu proizvoda.
+
+"Licenca ili pretplata Imenovanog korisnika" označava licencu ili pretplatu za uporabu jednog Imenovanog korisnika.
+
+"Mrežni sadržaj" znači sadržaj koji hostira ili pruža tvrtka Esri kao dio mrežnih usluga, uključujući sve usluge za karte, zadatke i slike, SDK-ove, API-je, softverske biblioteke, uzorke kodova i druge resurse, ali isključujući sadržaj koji pružaju treće strane kojima Korisnik pristupa putem mrežnih usluga.
+
+"Mrežne usluge" znači svaki komercijalno dostupni, internetski geografsko-prostorni sustav uključujući aplikacije i povezane API-je za pohranu, upravljanje, objavu i uporabu karti, podataka i ostalih informacija. Mrežne usluge ne uključuju podatke i sadržaj.
+
+"Narudžbenica/e" označava predračun, predračun za obnovu održavanja, narudžbenicu, ponudu ili drugi dokument u kojem se utvrđuju proizvodi ili usluge koje naručuje Korisnik.
+
+"Trajna licenca" znači licencu za uporabu verzije proizvoda za koju su plaćene primjenjive licencne naknade na neodređeno vrijeme, osim ako je ne raskinu tvrtka Esri ili Korisnik kako je to odobreno u okviru ovog Ugovora.
+
+"Osobna uporaba" znači osobnu, nekomercijalnu uporabu pojedinačnog Korisnika. Osobna uporaba isključuje uporabu u korist bilo koje treće strane, uključujući komercijalne, obrazovne, vladine ili neprofitne subjekte.
+
+"Proizvod(i)" označava softver, podatke i usluge u oblaku s licencom ili pretplatom u skladu s odredbama ovog Ugovora.
+
+"Stručne usluge" označava sve razvojne ili konzultantske usluge koje tvrtka Esri pruža Korisniku.
+
+"Ogledni primjerak/primjerci" označava ogledni kôd, ogledne aplikacije, dodatke ili ogledna proširenja proizvoda.
+
+"Usluge" označava tehničku podršku koja se pruža u sklopu održavanja. Ako Esri pruža obuku ili stručne usluge izravno Korisniku, usluge također uključuju obuku i stručne usluge.
+
+"Softver" znači svaki dio komercijalno dostupnog softvera u vlasništvu tvrtke Esri, osim podataka, kojemu se pristupa ili koji se preuzima s ovlaštenog web-mjesta tvrtke Esri ili dostavlja na mediju u bilo kojem obliku uključujući sigurnosne kopije, ažuriranja, uslužne pakete, zakrpe, prilagodbene popravke ili odobrene objedinjene kopije.
+
+"Privremena licenca" znači licencu ili pristup omogućen za uporabu proizvoda na ograničeno vremensko razdoblje ("Privremeno razdoblje") ili na osnovi pretplate ili transakcije.
+
+"Obuka" označava usluge obuke i podučavanja koje vodi instruktori za uporabu softvera GIS tvrtke Esri.
+
+"Materijali za obuku" označava sadržaj u digitalnom obliku ili ispisu koji je potreban za provođenje obuke, a može uključivati, ali bez ograničenja, radne knjige, podatke, koncepte, vježbe i ispite.
+
+"Aplikacija s dodanom vrijednošću" označava aplikaciju koju je razvio Korisnik za uporabu u kombinaciji s ovlaštenom uporabom bilo kojeg softvera, podataka ili mrežnih usluga.
+ DODATAK B
+OPĆI UVJETI I ODREDBE
+
+Sljedeći opći uvjeti i odredbe odnose se na sve ponude tvrtke Esri i usluge koje Esri nudi svojim korisnicima. Određene ponude ili usluge tvrtke Esri možda nisu dostupne u okviru ovog Ugovora. Zanemarite uvjete koji se ne odnose na ponude ili usluge tvrtke Esri koje se nude u okviru ovog Ugovora.
+
+ČLANAK 1. - OPĆA OGRANIČENJA UPORABE
+
+Osim ako mu je to izričito dopušteno ovim Ugovorom, Korisnik nije dopušteno sljedeće:
+
+a.	Prodavati, iznajmljivati, davati u zakup, distribuirati, posuđivati, dijeliti na određeno vrijeme ili dodjeljivati ponude tvrtke Esri.
+b.	Upotrebljavati ponude tvrtke Esri za Komercijalnu uporabu ASP-a ili u svrhe povjeravanja pružanja usluga vanjskim izvršiteljima.
+c.	Distribuirati ili pružati izravan pristup ponudama tvrtke Esri trećim stranama, djelomično ili u cijelosti, uključujući, ali ne ograničavajući se na proširenja, sastavnice ili DLL-ove.
+d.	Distribuirati Autorizacijske kodove trećim stranama.
+e.	Provoditi obrnuti inženjering, dekompilirati ili rastavljati proizvode ili isporučeni sadržaj isporučen u kompiliranom obliku.
+f.	Pokušavati zaobići tehnološke mjere kojima se nadzire pristup ponudama tvrtke Esri ili uporaba ponuda tvrtke Esri.
+g.	Pohranjivati, spremati u predmemoriju, upotrebljavati, prenositi, distribuirati ili podlicencirati sadržaj ili upotrebljavati ponude tvrtke Esri na drugi način kojim se krše prava tvrtke Esri ili treće strane, uključujući prava intelektualnog vlasništva, prava privatnosti, zakone o nediskriminaciji ili bilo koji drugi primjenjivi zakon ili propis.
+h.	Uklanjati ili prikrivati bilo koji patent, autorsko pravo, zaštitni znak, obavijest o vlasničkim pravima i/ili legende tvrtke Esri (ili njezinih davatelja licence) sadržane ili priložene ponudama tvrtke Esri, izlaznim vrijednostima, datoteci s metapodacima ili mrežnoj stranici dodjele i/ili stranici dodjele u tiskanom obliku u okviru bilo kojih podataka ili dokumentacije.
+i.	Raspakirati ili zasebno upotrebljavati pojedinačne ili sastavne dijelove ponuda tvrtke Esri.
+j.	Uključivati bilo koji dio ponuda tvrtke Esri u proizvod ili uslugu treće strane koja konkurira ponudama tvrtke Esri.
+k.	Objavljivati ili na drugi način prenositi rezultate referentnih testova provedenih na Beta izdanjima proizvoda bez prethodnog pisanog odobrenja tvrtke Esri ili njezinih davatelja licence.
+l.	Upotrebljavati, uključivati, izmjenjivati, distribuirati, pružati pristup ili kombinirati ponude tvrtke Esri na način kojim bi bilo koji dio ponuda tvrtke Esri mogao podleći licencnim uvjetima otvorenog izvornog koda ili otvorene baze podataka u okviru kojih postoje sljedeći zahtjevi za ponude tvrtke Esri:
+
+1.	Objava trećim stranama u obliku izvornog koda.
+2.	Licenciranje trećim stranama u svrhu provođenja izvedbenih radova.
+3.	Mogućnost redistribuiranja trećim stranama bez naknade.
+
+Ta se ograničenja ne primjenjuju u mjeri u kojoj proturječe primjenjivim zakonima ili propisima.
+
+ČLANAK 2. - TRAJANJE I RASKID
+
+Ovaj Ugovor stupa na snagu davanjem suglasnosti. Korisnik može raskinuti ovaj Ugovor ili bilo koju licencu ili pretplatu za ponude tvrtke Esri u bilo kojem trenutku nakon slanja pisane obavijesti tvrtki Esri. Raskidom bez razloga Korisnik ne dobiva pravo na povrat plaćenih naknada ili ukidanje neispunjenih obveza u okviru usluga bez dodatne odgovornosti. Bilo koja strana može raskinuti ovaj Ugovor, bilo koju licencu ili pretplatu zbog materijalne povrede za koju se ne pronađe pravni lijek u roku od 30 dana od slanja pisane obavijesti stranki odgovornoj za kršenje. Nakon što se ovaj Ugovor raskine zbog kršenja odredbi, tvrtka Esri prekida pružati usluge. Licence u okviru ponuda tvrtke Esri koje ostanu na snazi nakon raskida ovog Ugovora vrijede sukladno uvjetima ovog Ugovora.
+
+Ako tvrtka Esri raskine ovaj Ugovor nakon što Korisnik prekrši njegove odredbe, tada tvrtka Esri također može, po vlastitom nahođenju, ukinuti licence ili pretplate Korisnika za ponude tvrtke Esri. Ako Korisnik iz bilo kojeg razloga raskine ovaj Ugovor, tada Korisnik također može, po vlastitom nahođenju, ukinuti svoje licence ili pretplate za ponude tvrtke Esri.
+
+Nakon ukidanja licence ili pretplate Korisnik je dužan sljedeće:
+
+a.	Prekinuti pristup i upotrebu ukinutih ponuda tvrtke Esri.
+b.	Izbrisati sve podatkovne predmemorije sa strane korisnika izvedene iz ukinutih mrežnih usluga.
+c.	Prekinuti uporabu, deinstalirati, ukloniti i uništiti sve kopije ponuda tvrtke Esri u posjedu ili pod nadzorom Korisnika, uključujući sve izmijenjene ili spojene dijelove tih ponuda, u bilo kojem obliku, te generirati dokaz o takvim radnjama i dostaviti ga tvrtki Esri ili njezinom ovlaštenom distributeru.
+
+Tvrtka Esri može prekinuti pružanje usluga odmah nakon slanja pisane obavijesti Korisniku ako se pokrene postupak stečaja ili postupak u slučaju insolventnosti od strane Korisnika ili protiv njega dok povjerenik ne ukloni postojeće greške i pruži zadovoljavajuća jamstva buduće izvedbe u okviru Ugovora. Ovaj se Ugovor raskida nakon što nastupi insolventnost, likvidacija ili prestanka djelovanja bilo koje strane.
+
+ČLANAK 3. - OGRANIČENA JAMSTVA I IZJAVE O ODRICANJU ODGOVORNOSTI
+
+3.1. Ograničena jamstva. Tvrtka Esri jamči:
+
+a.	Na razdoblje od 90 dana;
+
+1.	Softver će biti materijalno u skladu s dokumentacijom tijekom uobičajene uporabe, a mediji neće sadržavati nedostatke u pogledu materijala ili izrade od datuma isporuke.
+2.	Materijali za obuku će biti materijalno u skladu s objavljenim opisima tečaja tvrtke Esri od datuma isporuke.
+3.	Usluge će biti materijalno u skladu sa stručnim i tehničkim standardima softverske industrije od datuma pokretanja.
+4.	Isporučeni sadržaj koji se pruža na temelju fiksne cijene bit će materijalno u skladu sa specifikacijama koje su navedene u dogovorenoj narudžbenici od datuma prihvaćanja.
+
+b.	Tijekom primjenjivog razdoblja pretplate;
+
+1.	Mrežne usluge bit će materijalno u skladu s dokumentacijom tijekom uobičajene uporabe.
+2.	Održavanje će biti materijalno u skladu sa stručnim i tehničkim standardima softverske industrije.
+3.	EMCS će biti u skladu s opsegom, opisima i preduvjetima za EMCS koji su navedeni u narudžbenici.
+
+3.2. Posebna izjava o odricanju odgovornosti. Sadržaj, podaci, ogledni primjerci, prilagodbeni popravci, zakrpe ažuriranja, mrežne usluge pružene bez naknada te ocjenjivanje Beta izdanja proizvoda isporučuju se u postojećem stanju bez ikakvih jamstava.
+3.3. Opća izjava o odricanju odgovornosti. Osim u slučaju izričitih ograničenih jamstava navedenih u ovom Ugovoru, tvrtka Esri odriče se odgovornosti u pogledu svih ostalih jamstava ili uvjeta bilo koje vrste, izričitih ili impliciranih, uključujuću, ali ne ograničavajući se na jamstva ili uvjete tržišnog potencijala, prikladnosti određenoj svrsi i nekršenja prava intelektualnog vlasništva. Tvrtka Esri ne jamči da će ponude tvrtke Esri, niti Korisnikov rad s njima, biti bez ometanja, bez pogrešaka, otporne na pogreške ili osigurane od kvarova niti da se sve neusklađenosti mogu ispraviti ili da će biti ispravljene. Ponude tvrtke Esri nisu izrađene, proizvedene niti namijenjene za uporabu u okruženjima ili primjenama koje mogu prouzročiti smrt, osobne ozljede ili fizičku štetu, ili štetno djelovati na okoliš. Korisnik ne smije slijediti nikakve prijedloge navigacijskih ruta koji se čine opasni, nesigurni ili nezakoniti. Korisnik sam snosi odgovornost i troškove za svaku takvu uporabu.
+3.4. Izjave o odricanju odgovornosti.
+
+a.	Izjava o odricanju odgovornosti u pogledu interneta. Nijedna strana nije odgovorna za štetu u okviru bilo koje teorije zakona povezanog s radom ili prekidom rada interneta ili s regulacijom interneta kojom se može ograničiti ili zabraniti rad mrežnih usluga.
+b.	Sadržaj i web-mjesta trećih strana. Tvrtka Esri nije odgovorna za web-mjesto bilo koje treće strane niti za sadržaj koji se prikazuje ili navodi u ponudama tvrtke Esri i na web-mjestu tvrtke Esri, uključujući web-mjesta www.esri.com i www.arcgis.com. Navođenje poveznica na web-mjesta i resurse trećih strana ne podrazumijeva nikakvo odobrenje, povezanost ili pokroviteljstvo.
+
+3.5. Isključivi pravni lijek. Isključivi pravni lijek Korisnika i potpuna odgovornost tvrtke Esri za kršenje ograničenih jamstva navedenih u ovom odjeljku ograničavaju se prema isključivom nahođenju tvrtke Esri na (i) zamjenu neispravnih medija; (ii) popravak, ispravak ili pružanje zaobilaznog rješenja za ponude ili usluge tvrtke Esri; ili (iii) povrat licencnih naknada koje je Korisnik platio za ponude ili usluge tvrtke Esri koje ne zadovoljavaju ograničeno jamstvo tvrtke Esri, pod uvjetom da Korisnik deinstalira, ukloni i uništi sve kopije primjenjivih ponuda tvrtke Esri, prestane upotrebljavati primjenjive usluge u oblaku i generira dokaze o takvim radnjama te ih dostavi tvrtki Esri ili njezinom ovlaštenom distributeru.
+
+ČLANAK 4. - OGRANIČENJE ODGOVORNOSTI
+
+4.1. Izjava o odricanju odgovornosti. Ni Korisnik, ni tvrtka Esri ni bilo koji distributer ili davatelj licence tvrtke Esri nisu odgovorni za neizravnu, posebnu, nehotičnu ili posljedičnu štetu, uključujući gubitak profita, prodaje ili ugleda, troškove nabave zamjenskih proizvoda ili usluga ili štetu koja premašuje primjenjive naknade za licencu ili pretplatu koje su plaćene ili se trebaju platiti tvrtki Esri za ponude tvrtke Esri, a koja dovodi do tužbe.
+
+4.2. Ograničenja i izuzimanja od odgovornosti iz prethodnog stavka ne odnose se na kršenje, zlouporabu ili nezakonito prisvajanje prava na intelektualno vlasništvo tvrtke Esri ili njezinih davatelja licence od strane Korisnika, obveze naknade štete bilo koje strane, grubu zanemarivanje, namjernu povredu ili kršenje članka Pridržavanje odredbi za izvoz ovog Ugovora ili primjenjivih zakona ili propisa.
+
+4.3. Primjenjivost izjava o odricanju odgovornosti i ograničenja. Tvrtka Esri ili njezin ovlašteni distributer odredili su svoje naknade i sklopili ovaj Ugovor oslanjajući se na izjave o odricanju odgovornosti i ograničenja iz ovog Ugovora; naknade odražavaju raspodjelu rizika između stranaka što čini ključnu osnovu pogodbe između strana. Ova se ograničenja primjenjuju bez obzira na to je li strana svjesna mogućnosti nastanka štete i bez obzira na neispunjavanje temeljne svrhe bilo kojeg isključivog ograničenog pravnog lijeka.
+
+4.4. Prethodno navedena jamstva, ograničenja i izuzeća mogu biti nevaljana u okviru određenih jurisdikcija te se primjenjivati isključivo u mjeri u kojoj je to odobreno primjenjivim zakonima ili propisima u okviru jurisdikcije Korisnika. Korisnik može imati dodatna prava koja se ne mogu ukinuti ili osporiti. Tvrtka Esri ne nastoji ograničiti jamstvo ili pravne lijekove Korisnika u bilo kojoj mjeri u kojoj to nije odobreno zakonom.
+
+ČLANAK 5. - NAKNADE ŠTETE
+
+5.1. Definicije. Sljedeće definicije nadopunjavaju definicije navedene u Dodatku A:
+
+a."Potraživanje" označava sva potraživanja, tužbe ili zahtjeve treće strane.
+b."Obeštećenici" su Korisnik i njegovi direktori, službenici i zaposlenici.
+c."Potraživanje/Potraživanja uslijed povrede" označava svako Potraživanje koji navodi da uporaba ili pristup ponudama ili uslugama tvrtke Esri od strane Korisnika čini povredu američkog patenta, autorskog prava, zaštitnog znaka ili poslovne tajne.
+d."Gubitak/gubici" označava izravni gubitak, odštetu, iznos namire, cijenu ili trošak, uključujući pripadajuće naknade za odvjetničke troškove.
+
+5.2. Obeštećenje za povredu.
+
+a.	Tvrtka Esri dužna je zastupati i ne smatrati Obeštećenike odgovornima za Potraživanje uslijed povrede te obeštetiti sve Gubitke nastale zbog Potraživanja uslijed povrede kao što je navedeno u sljedećim stavcima.
+b.	Ako tvrtka Esri utvrdi da je Potraživanje uslijed povrede valjano, tvrtka Esri može na vlastiti trošak (i) pribaviti prava za Korisnika kako bi nastavio upotrebljavati ponude tvrtke Esri ili (ii) izmijeniti ponude tvrtke Esri te pritom zadržati materijalno sličnu funkcionalnost. Ako nijedno rješenje nije komercijalno razumno, tvrtka Esri može ukinuti pravo Korisnika na uporabu ponuda tvrtke Esri te je dužna izvršiti povrat (a) primjenjivih naknada za uslugu; (i) naknada za licencu koje je Korisnik platio za povredu ponuda tvrtke Esri koje su stečene pod trajnom licencom, ravnomjerno raspodijeljenih na osnovi linearne metode amortizacije tijekom razdoblja od 5 godina počevši od prvotnog datuma isporuke; ili (ii) neiskorištenog dijela plaćenih naknada za privremene licence, pretplate i održavanje.
+c.	Tvrtka Esri nema obvezu u pogledu zastupanja Potraživanja uslijed povrede niti obeštećenja Korisnika u mjeri u kojoj Potraživanje uslijed povrede proizlazi iz (i) kombinacije ili integracije ponuda tvrtke Esri s proizvodom, postupkom, sustavom ili elementom koji tvrtka Esri nije isporučila ili navela u svojoj dokumentaciji; (ii) izmjene ponuda tvrtke Esri koje je proveo bilo koji drugi subjekt osim tvrtke Esri ili njezinih podizvođača; (iii) pridržavanja specifikacija Korisnika; ili (iv) uporabe ponuda tvrtke Esri nakon što tvrtka Esri pribavi izmijenjenu verziju kako bi se izbjegla povreda ili ukine pravo Korisnika na uporabu ponuda tvrtke Esri.
+
+5.3. Opće obeštećenje. Tvrtka Esri dužna je zastupati i ne smatrati Obeštećenike odgovornima za Potraživanje te obeštetiti sve Gubitke nastale uslijed Potraživanja zbog tjelesne ozljede, smrti ili fizičke štete (ne uključujući baze podataka koje nisu u razumnoj mjeri pokrivene programom sigurnosnih kopija) protiv bilo koje od Obeštećenih strana u mjeri u kojoj oni proizlaze iz nemara, propusta ili namjerne povrede tvrtke Esri ili njezinih direktora, službenika, zaposlenika ili posrednika koji pružaju usluge na lokaciji Korisnika.
+
+5.4. Uvjeti za naknadu štete. U sklopu uvjeta za naknadu štete, Obeštećenik je dužan (i) odmah u pisanom obliku obavijestiti tvrtku Esri o Potraživanju; (ii) dostaviti sve dostupne dokumente koji opisuju Potraživanje; (iii) u potpunosti prepustiti tvrtki Esri nadzor nad zastupanjem prava u okviru bilo koje tužbe i pregovora povezanog sa zastupanjem prava ili namirenjem bilo kojeg Potraživanja uslijed povrede; te (iv) u razumnoj mjeri surađivati u zastupanju prava u okviru Potraživanja uslijed povrede na zahtjev i o trošku tvrtke Esri.
+
+5.5. U ovom su odjeljku navedene sve obveze tvrtke Esri, njezinih ovlaštenih distributera i davatelja licence, u vezi s Potraživanjima.
+
+ČLANAK 6. - OSIGURANJE
+
+Ako tvrtka Esri pruža usluge, dužna je osigurati barem sljedeće pokriće:
+
+a.	Kombinirana opća odgovornost ili opća poslovna odgovornost s minimalnim pokrićem (1.000.000,00 USD) kombiniranog jednostrukog ograničenja po događaju za odgovornost u slučaju tjelesne ozljede, uključujući smrt i fizičku štetu, obuhvaća sljedeće:
+
+1.	Prostor i postupke.
+2.	Opću ugovornu odgovornost.
+3.	Fizičku štetu u širokom smislu.
+4.	Neovisne izvođače.
+5.	Osobne ozljede, uz izbrisano izuzimanje zaposlenika.
+6.	Dovršene postupke.
+
+b.	Osiguranje radnika u slučaju ozljede na radu, s odricanjem od subrogacije, u iznosu koji je u skladu sa zakonskim ograničenjima.
+
+ČLANAK 7. - SIGURNOST I PRIDRŽAVANJE ODREDBI
+
+7.1. Pridržavanje odredbi za izvoz. Sve strane pridržavat će se svih primjenjivih zakona i propisa o izvozu, uključujući propise o upravljanju izvozom Ministarstva trgovine SAD-a (eng. Export Administration Regulations, EAR), propisa o međunarodnoj trgovini oružjem Ministarstva vanjskih poslova SAD-a (eng. International Traffic in Arms Regulations, TAR) i drugih primjenjivih zakona o izvozu. Korisnik neće izvoziti, ponovno izvoziti, prenositi, objavljivati ili na drugačiji način odlagati, djelomično ili u potpunosti, niti odobravati pristup, prijenos ili uporabu usluga ili ponuda tvrtke Esri bilo kojoj od američkih država u kojima je službeno zabranjeno trgovanje ili odbijenim subjektima ili osobama osim u skladu sa svim tadašnjim primjenjivim zakonima i propisima američkih državnih ustanova o izvozu. Korisnik neće izvoziti, ponovno izvoziti, prenositi niti upotrebljavati usluge ili ponude tvrtke Esri za određene aktivnosti s projektilima, nuklearnim, kemijskim ili biološkim oružjem, ili krajnje korisnike, bez odgovarajućeg odobrenja američke državne ustanove. Korisnik je dužan odmah obavijestiti tvrtku Esri u pisanom obliku ako bilo koji subjekt ili američka državna agencija odbije, ukine ili opozove povlastice Korisnika u pogledu izvoza. Korisnik ne smije u uslugama u oblaku prenositi, pohranjivati niti obrađivati sadržaj Korisnika (i) koji ima kontrolni broj izvozne klasifikacije (ECCN) koji nije EAR99 ili (ii) koji se nadzire za izvoz iz Sjedinjenih Američkih Država u skladu s propisima o međunarodnoj trgovini oružjem (ITAR). Tvrtka Esri ne smije pružati usluge niti ponude tvrtke Esri koje su vezane uz obrambene artikle, obrambene usluge ili tehničke podatke, definirane u Odjeljcima ITAR-a 120.6., 120.9., odnosno 120.10., dok tvrtka Esri ne dobije potrebne licence za izvoz od američke državne ustanove. Korisnik je dužan u razumnoj mjeri pomoći tvrtki Esri pri prijavi i stjecanju licence za izvoz ako je to potrebno.
+
+7.2. Sigurnost. Tvrtka Esri objavljuje sigurnosne značajke na web-adresi http://doc.arcgis.com/en/trust/security/security-overview.htm. Korisnik tvrtki Esri može omogućiti pristup za osoblje sustavima Korisnika ili osobnim podacima Korisnika ili treće strane ako je taj pristup nužan za pružanje usluga od strane tvrtke Esri te ako tvrtka Esri izričito pristane na takav pristup. Tvrtka Esri će u razumnoj mjeri poduzeti administrativne, tehničke i fizičke mjere kako bi zaštitila takve podatke i onemogućila neovlašteni pristup. Korisnik snosi odgovornost za (i) provjeru jesu li alati za upravljanje sigurnošću i privatnošću koje objavljuje tvrtka Esri u skladu s primjenjivim zakonskim zahtjevima za sadržaj Korisnika te za (ii) prijenos ili dijeljenje upravljanog sadržaja Korisnika putem usluga u oblaku samo kada je to u skladu sa zakonom. Tvrtka Esri nije odgovorna za pregled sadržaja Korisnika u svrhu provjere usklađenosti s primjenjivim zakonima i propisima.
+
+ČLANAK 8. - PREKIDI, UKLANJANJA I OBUSTAVE USLUGA U OBLAKU
+
+8.1. Zabranjene uporabe. Korisnik ne smije pristupati ili upotrebljavati usluge u oblaku u sljedeće svrhe:
+
+a.	Slanje neželjene e-pošte, e-pošte za varanje ili krađu identiteta; slanje bezvrijedne e-pošte ili uvredljivog ili klevetničkog materijala; ili praćenje ili prijetnje fizičkim nasiljem.
+b.	Pohranu ili prijenos Zlonamjernog koda.
+c.	Kršenje zakona ili propisa.
+d.	Kršenje ili nezakonito prisvajanje prava bilo koje treće strane.
+e.	Ispitivanje, skeniranje ili testirati ranjivost usluga u oblaku ili kršenje bilo koje sigurnosne mjere ili mjere provjere vjerodostojnosti koje koriste usluge u oblaku.
+f.	Ispitivanje dostupnosti, izvedbe ili funkcija usluga u oblaku za stjecanje konkurentske prednosti.
+
+8.2. Prekid usluge. Pad sustava ili drugi događaji koji su izvan razumne kontrole tvrtke Esri mogu prekinuti pristup Korisnika mrežnim uslugama. Tvrtka Esri možda ne bude u mogućnosti unaprijed poslati obavijesti o takvim prekidima.
+
+8.3. Uklanjanje sadržaja Korisnika. Tvrtka Esri može ukloniti ili izbrisati bilo koji dio sadržaja Korisnika ako postoji sumnja da prijenos ili uporaba tog sadržaja na uslugama u oblaku krši odredbe ovog Ugovora. Ako je to razumno u tim okolnostima, tvrtka Esri obavijestit će Korisnika prije uklanjanja sadržaja. Tvrtka Esri postupa s obavijestima o uklanjanju na temelju Digitalnog milenijskog Zakona o autorskim pravima (eng. Digital Millennium Copyright Act) sukladno pravilima o autorskim pravima tvrtke Esri koja su dostupna na web-adresi http://www.esri.com
+/legal/dmca_policy.
+
+8.4. Obustava usluge. Tvrtka Esri može obustaviti pristup uslugama u oblaku (i) ako Korisnik materijalno prekrši ovaj Ugovor i ne ukloni povredu na vrijeme; (ii) ako tvrtka Esri u razumnim okvirima smatra da zbog uporabe usluga u oblaku od strane Korisnika tvrtka Esri podliježe neposrednoj odgovornosti ili da može negativno utjecati na integritet, rad ili uporabljivost usluga u oblaku; (iii) zbog planiranog održavanja; (iv) zbog uklanjanja prijetnje ili napada na usluge u oblaku; ili (v) ako usluge u oblaku postanu zabranjene zakonom ili regulirane u tolikoj mjeri da bi nastavak pružanja tih usluga bio poslovno nepovoljan. Ako je to moguće, tvrtka Esri unaprijed će obavijestit Korisnika o obustavi usluga u oblaku i pružiti mu razumnu mogućnost da poduzme korekcijske mjere.
+
+Tvrtka Esri nije odgovorna za štetu, odgovornosti ili gubitke do kojih može doći zbog prekida ili obustave mrežnih usluga ili uklanjanja sadržaja Korisnika kao što je gore opisano.
+
+ČLANAK 9. - OPĆE ODREDBE
+
+9.1. Plaćanje. Korisnik je dužan podmiriti svaku ispravnu fakturu u roku od 30 dana nakon primitka te poslati uplatu na adresu navedenu u fakturi.
+
+9.2. Povratne informacije. Tvrtka Esri može slobodno upotrebljavati sve povratne informacije, prijedloge ili zahtjeve za poboljšanje proizvoda koje Korisnik dostavi tvrtki Esri.
+
+9.3. Patenti. Korisnik ne može zatražiti ni dopustiti da bilo koji drugi korisnik zatraži patent ili slično pravo na globalnoj razini koje je utemeljeno na ili uključuje bilo koji proizvod. Ova izričita zabrana patentiranja ne primjenjuje se na softver i tehnologije Korisnika osim u mjeri u kojoj proizvodi, ili bilo koji njihov dio, čine dio bilo kojeg potraživanja ili poželjne izvedbe u okviru primjene patenta ili slične primjene.
+
+9.4. Porezi i naknade; Otpremni troškovi. Naknade navedene Korisniku na predračunu izuzete su od bilo kojih i svih primjenjivih poreza ili naknada uključujući, ali ne ograničavajući se na porez na promet, porez na uporabu ili porez na dodanu vrijednost (PDV), carine, pristojbe ili tarife te otpremne i manipulativne troškove.
+
+9.5. Provjera usklađenosti. Korisnik je dužan održavati točne i potpune zapise i evidenciju u pogledu svoje usklađenosti s obvezama u okviru ovog Ugovora. Tvrtka Esri ili njezin ovlašteni distributer može obaviti provjeru usklađenosti tih zapisa i evidencije tijekom razdoblja od najmanje 7 radnih dana od slanja pisane obavijesti ili može imenovati neovisnu treću stranu za obavljanje takve provjere usklađenosti u njezino ime. Korisnik je dužan odmah ispraviti sve neusklađenosti utvrđene tijekom provjere usklađenosti. Ni tvrtka Esri ni distributer ne smiju obavljati provjeru usklađenosti Korisnika u razdoblju od 12 mjeseci nakon dovršetka bilo koje prethodne provjere usklađenosti u okviru koje nije utvrđena materijalna neusklađenost Korisnika.
+
+9.6. Izostanak implicitnih odricanja. Neizvršenje bilo koje odredbe ovog Ugovora za koje je odgovorna bilo koja strana ne smatra se posljedičnim odricanjem odredbi ili prava dotične strane na izvršenje te ili bilo koje druge odredbe.
+
+9.7. Odvojivost. Strane su suglasne da se u slučaju da se bilo koja odredba ovog Ugovora iz bilo kojeg razloga smatra neizvršivom takva odredba obnavlja isključivo u mjeri potrebnoj kako bi namjena propisa bila izvršiva.
+
+9.8. Nasljednici i nositelji dodijeljenih prava. Korisnik ne smije dodijeliti, podlicencirati ili prenijeti prava Korisnika ili delegirati obveze Korisnika u okviru ovog Ugovora bez prethodnog pristanka u pisanom obliku tvrtke Esri i njezina ovlaštenog distributera, a svaki takav pokušaj bez pristanka smatra se nevažećim. Ovaj je Ugovor obvezujući za odgovarajuće nasljednike i nositelje dodijeljenih prava stranaka ovog Ugovora. Unatoč tome, izvođač na temelju ugovora sklopljenog s državnom ustanovom o isporuci proizvoda može dodijeliti ovaj Ugovor i proizvode stečene za isporuku svojem korisniku državne ustanove nakon slanja pisane obavijesti tvrtki Esri, pod uvjetom da korisnik državne ustanove pristane na uvjete ovog Ugovora.
+
+9.9. Ostanak uvjeta na snazi. Glosar pojmova i odredbe članaka 3., 4., 5. i 9. ovih Općih uvjeta i odredbi ostaju na snazi nakon isteka ili raskida ovog Ugovora.
+
+9.10. Korisnik američke državne ustanove. Proizvodi čine komercijalne stavke razvijene na osobni trošak, pružene Korisniku u skladu s ovim Ugovorom. Ako je Korisnik subjekt američke državne ustanove ili izvođač američke državne ustanove, tvrtka Esri licencira Korisnika ili mu pruža pravo na pretplate u skladu s ovim Ugovorom na temelju Poddijelova 12.211./12.212. pravila FAR-a ili Poddijela 227.7202. pravila DFARS-a. Podaci i mrežne usluge tvrtke Esri imaju licencu ili pravo na pretplatu u skladu s istim pravilima DFARS-a iz Poddijela 227.7202 kao komercijalni računalni softver za kupnje koje se provode u okviru pravila DFARS-a. Proizvodi podliježu ograničenjima, a u ovom se Ugovoru strogo uređuje uporaba, izmjena, rad, umnažanje, objavljivanje, prikazivanje ili otkrivanje proizvoda od strane Korisnika. Odredbe Ugovora koje nisu u skladu s odredbama saveznog zakona ne primjenjuju se. Korisnik američke državne ustanove može prenositi softver bilo kojem od objekata kojem prenosi jedno ili više računala na kojima je takav softver instaliran. Ako bilo koji sud, arbitražni sudac ili odbor smatra da Korisnik američke državne ustanove ima veća prava na bilo koji dio proizvoda u skladu s primjenjivim zakonom o nabavi, takva se prava proširuju isključivo na dotične dijelove.
+
+9.11. Mjerodavno pravo. Američki savezni zakon i zakon države Kalifornije mjerodavni su za ovaj Ugovor, osim odgovarajućih načela zakona. Ovaj Ugovor ne podliježe Konvenciji Ujedinjenih naroda o ugovorima o međunarodnoj prodaji robe.
+
+9.12. Rješavanje spora. Strane imaju na raspolaganju sljedeće procese rješavanja sporova:
+
+a.	Pravična zaštitna mjera. Svaka strana ima pravo zatražiti sudski nalog, posebno izvršenje ili drugu pravičnu zaštitnu mjeru na bilo kojem sudu u okviru nadležne jurisdikcije bez potrebe za davanjem jamstva ili dokazivanjem štete kao uvjet za zaštitnu mjeru.
+b.	Agencije američke državne ustanove. Ovaj ugovor podliježe Zakonu o ugovornim sporovima iz 1978., s izmjenama i dopunama (41 USC 601-613).
+c.	Druga državna tijela. Tvrtka Esri dužna je pridržavati se obveznog rješavanja sporova u okviru primjenjivog zakona.
+d.	Arbitraža. Osim ako je to gore navedeno, strane pristaju na obvezujuću arbitražu u rješavanju sporova koji proizlaze ili su u vezi s ovim Ugovorom, a koji se ne mogu dogovorno riješiti. Ako je Korisnik u Sjedinjenim Američkim Državama, na njezinu teritoriju i u okolnim područjima, pravila o trgovačkoj arbitraži Američkog udruženja za arbitražu (eng. American Arbitration Association) mjerodavna su za postupak arbitraže. Ako je Korisnik izvan Sjedinjenih Američkih Država, pravila o arbitraži Međunarodne trgovačke komore mjerodavna su za postupak arbitraže. Strane odabiru jednog arbitražnog suca u skladu s primjenjivim pravilima arbitraže. Jezik arbitraže je engleski. Arbitraža se odvija na dogovorenoj lokaciji. Bilo koja stranka mora na zahtjev druge stranke staviti na raspolaganje dokumente ili svjedoke bitne za glavne aspekte spora.
+
+9.13. Viša sila. Strana nije odgovorna za neizvršenje ili odgodu izvršenja ovog Ugovora tijekom razdoblja u kojem je takvo neizvršenje ili odgoda izvršenja posljedica uzroka izvan razumne kontrole te strane. Takvi uzroci mogu uključivati, ali nisu ograničeni na višu silu, rat, štrajkove, radne sporove, kibernetičke napade, zakone, propise, uredbe državne ustanove ili bilo koju drugu višu silu.
+
+9.14. Neovisni izvođač. Tvrtka Esri jest i uvijek će biti neovisni izvođač. Nijedna stavka ovog Ugovora ne podrazumijeva odnos poslodavca i zaposlenika, nalogodavca i posrednika ili zajedničkog poduhvata između tvrtke Esri ili njezinih ovlaštenih distributera i Korisnika. Nijedna strana nema ovlasti za sklapanje ugovora u ime druge strane ili na drugi način djelovati u ime druge strane.
+
+9.15. Obavijest. Korisnik obavijesti potrebne u okviru ovog Ugovora može slati tvrtki Esri na sljedeću adresu:
+
+Environmental Systems Research Institute, Inc.
+Attn: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+USA
+
+Tel.: 909-793-2853
+E-pošta: LegalNotices@esri.com
+DOPUNA 1.
+UVJETI UPORABE ODREĐENOG PROIZVODA
+(E300 09/22/2016)
+
+SOFTVER
+
+Tablica u nastavku sadrži dodatne uvjete uporabe koji se odnose na određeni softver. Svaki popis proizvoda uključuje jednu ili više fusnota koje se odnose na taj proizvod. Te fusnote nadopunjavaju uvjete Ugovora. Definicije za svaku fusnotu navedene su ispod tablice. Osim ako nije drugačije navedeno u primjenjivoj narudžbenici, proširenja softvera slijede područje primjene jednako području dodijeljenom za odgovarajući softver.
+
+Proizvodi za stolna računala
+▪	ArcGIS Desktop (verzija Advanced, Standard ili Basic) (26.)
+▪	ArcGIS Earth (65.)
+▪	ArcGIS Explorer Desktop (20.)
+▪	ArcGIS for AutoCAD (20.)
+▪	ArcPad (13.)
+▪	ArcReader (20.)
+▪	ArcGIS for Windows Mobile (15.; 54.)
+▪	ArcGIS for Personal Use (3.; 26.)
+
+Proizvodi za poslužitelje
+▪	ArcGIS Enterprise
+-	Standard ili Advanced (21.; 31.)
+-	Workgroup, Standard ili Advanced (21.; 28.; 29.; 30.; 32.)
+-	ArcGIS GIS Server (Standard ili Advanced) (31.)
+-	ArcGIS GIS Server, Basic (39.)
+-	ArcGIS GIS Server Workgroup (Standard ili Advanced) (28.; 29.; 30.; 32.)
+-	ArcGIS GIS Server Workgroup, Basic (39.)
+-	Proširenja za ArcGIS GIS Server
+-	ArcGIS Maritime: Server (2.)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4.)
+▪	Esri Business Analyst Server
+-	Workgroup (28.; 29.; 30.; 31.; 39.)
+-	Enterprise (31.; 39.)
+▪	World Geocoder for ArcGIS Basic (67.)
+Razvojni alati
+▪	AppStudio for ArcGIS Standard (11., 16., 19.)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt ili WPF (16.; 19.)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt ili WPF (15.; 18.)
+▪	ArcGIS Engine Developer Kit and Extensions (16., 19.; 22., 26.)
+▪	ArcGIS Engine for Windows/Linux i proširenja (15.; 22.; 26.)
+▪	ArcGIS Web Mapping (uključujući ArcGIS API for JavaScript/HTML5, ArcGIS API for Flex, ArcGIS API for Microsoft Silverlight) (15.; 16.; 64.; 66.)
+▪	ArcGIS Developer Subscription (24.; 26.)
+▪	Esri File Geodatabase API (47.)
+
+Ostalo
+▪	Navigator for ArcGIS (14.)
+
+Fusnote:
+
+1.	Rezervirano.
+2.	Nije za uporabu u sklopu 	navigacije	.
+3.	Licencirano samo za osobnu uporabu.
+4.	Kada se koristi s aplikacijom ArcGIS Enterprise Workgroup.
+-	Ograničeno na poslužitelj s četiri jezgre.
+-	Može se instalirati na zasebni uređaj.
+	5-10.	Rezervirano.
+11.	Aplikacije stvorene pomoću programa AppStudio for ArcGIS Standard podliježu uvjetima uporabe za ArcGIS Runtime Standard Level.
+12.	Rezervirano.
+13.	"Licenca za dvostruku uporabu" znači da se softver može instalirati na stolno računalo i upotrebljavati istodobno na osobnom digitalnom asistentu (PDA) ili ručnom mobilnom računalu sve dok softver u određenom trenutku upotrebljava samo jedna osoba.
+14.	Smije se upotrebljavati u navigacijske svrhe.
+15.	Licencirano kao licenca za implementaciju.
+16.	Korisnik može upotrebljavati SDK-ove ili API-je za izradu aplikacija s dodanom vrijednošću te distribuciju i licenciranje tih aplikacija s dodanom vrijednošću svojim krajnjim korisnicima za uporabu aplikacija s dodanom vrijednošću gdje to nije zabranjeno sukladno izvoznim propisima.
+17.	Rezervirano.
+18.	Licenca za implementaciju vrijedi za aplikaciju s dodanom vrijednošću po računalu za samostalne aplikacije.
+19.	Licence se ne smiju upotrebljavati za razvoj internetskih ili poslužiteljskih aplikacija s dodanom vrijednošću.
+20.	Korisnik	 može reproducirati i distribuirati softver ako su ispunjeni svi sljedeći uvjeti:
+
+a.	Softver se reproducira i distribuira u cijelosti.
+b.	Uz svaku kopiju softvera priložen je licencni ugovor koji štiti softver u jednakoj mjeri kao ovaj licencni ugovor i primatelj pristaje prihvatiti odredbe i uvjete licencnog ugovora.
+c.	Reproduciraju se sve obavijesti i dodjele autorskih prava i zaštitnih znakova.
+d.	Ne postoji naknada za uporabu softvera.
+
+21.	Korisnik može izraditi aplikacije s dodanom vrijednošću za uporabu od strane Imenovanih korisnika Korisnika. Korisnik ne smije ugraditi vjerodajnice Imenovanog korisnika u aplikaciju s dodanom vrijednošću. Korisnik ne smije ugraditi niti upotrebljavati Vjerodajnice za prijavu u aplikaciju u aplikacijama s dodanom vrijednošću. Aplikacije s dodanom vrijednošću zahtijevaju vjerodajnice za prijavu Imenovanih korisnika.
+22.	a.	Krajnji korisnik mora licencirati softver ArcGIS Engine for Windows/Linux ili drugi softver ArcGIS Desktop (Basic, Standard ili Advanced) za stjecanje prava na pokretanje aplikacije ArcGIS Engine na 1 računalu.
+b.	Proširenja za ArcGIS Engine for Windows/Linux ne smiju se upotrebljavati u kombinaciji sa softverom ArcGIS Desktop za pokretanje aplikacija s dodanom vrijednošću ArcGIS Engine. Jedan korisnik može imati više aplikacija s dodanom vrijednošću ArcGIS Engine instaliranih na 1 računalu za uporabu od strane tog krajnjeg korisnika.
+23.	Rezervirano.
+24.	Softver se može upotrebljavati samo u svrhe razvoja, ispitivanja i demonstracije prototipa aplikacije s dodanom vrijednošću i stvaranja predmemorija karte. Aplikacije s dodanom vrijednošću i predmemorije karte mogu se upotrebljavati s pripremnim i implementacijskim poslužiteljima ArcGIS Enterprise. Softver i podaci mogu se instalirati na više računala za uporabu od strane bilo kojeg razvojnog programera s produženom pretplatom za ArcGIS ili neki drugi dugoročni plan pretplate; sav drugi softver licencira se kao licenca za jednokratnu uporabu.
+25.	Rezervirano.
+26.	Geo-baza podataka Personal Edition ograničena je na 10 gigabajta podataka Korisnika.
+27.	Rezervirano.
+28.	Uporaba je ograničena na 10 istodobnih krajnjih korisnika aplikacija, osim softvera ArcGIS Enterprise Workgroup ili ArcGIS GIS Server Workgroup. Ovo ograničenje uključuje uporabu softvera ArcGIS Desktop, ArcGIS Engine i aplikacija treće strane koje se povezuju izravno na bilo koju geo-bazu podataka softvera ArcGIS Enterprise Workgroup ili ArcGIS GIS Server Workgroup. Ne postoje ograničenja broja povezivanja iz web-aplikacija.
+29.	Za rad softvera potrebna je podržana verzija programa SQL Server Express. Podržane verzije navedene su uz sistemske preduvjete za proizvod na web-mjestu tvrtke Esri.
+30.	Uporaba je ograničena na maksimalno 10 gigabajta podataka Korisnika.
+31.	Korisnik može imati dodatne instalacije poslužiteljskog softvera tvrtke Esri z	a operacije prebacivanja, ali dodatni softver može biti u funkciji samo kada primarno web-mjesto nije u funkciji (aktivno-pasivno prebacivanje). Dodatne instalacije softvera nisu u funkciji osim u slučaju održavanja sustava i ažuriranja baza podataka dok primarno web-mjesto i bilo koje drugo dodatno web-mjesto nisu u funkciji.
+32.	Nije dopuštena instalacija dodatnog softvera za operacije prebacivanja.
+33-38.	Rezervirano.
+39.	Sve funkcije uređivanja uključene uz ArcGIS GIS Server nisu dopuštene za uporabu uz ArcGIS GIS Server Basic (Workgroup ili Enterprise).
+40-46.	Rezervirano.
+47.	Korisnik može razviti i distribuirati aplikacije s dodanom vrijednošću koje upotrebljavaju Esri File Geodatabase API za krajnje korisnike Korisnika.
+48-53.	Rezervirano.
+54.	Implementacije za ArcGIS for Windows Mobile licenciraju se za uporabu uz ArcGIS Enterprise (Advanced ili Standard), ArcGIS Enterprise Workgroup (Advanced), ArcGIS Desktop (Advanced, Standard, Basic), i aplikacije s dodanom vrijednošću ArcGIS Engine.
+55-63.	Rezervirano.
+64.	Aplikacije s dodanom vrijednošću za web-implementaciju moraju se upotrebljavati zajedno s drugim proizvodima tvrtke Esri. Tehnologije trećih strana mogu se također upotrebljavati zajedno s aplikacijama s dodanom vrijednošću sve dok se aplikacije s dodanom vrijednošću uvijek upotrebljavaju zajedno s drugim proizvodima tvrtke Esri.
+65.	Može se upotrebljavati samo zajedno s drugim proizvodima tvrtke Esri. Tehnologije trećih strana mogu se također upotrebljavati zajedno sa softverom ArcGIS Earth sve dok se ArcGIS Earth uvijek upotrebljava zajedno s drugim proizvodima tvrtke Esri.
+66.	Za aplikacije za stolna računala svaka licenca vrijedi za organizaciju. U svrhu ove licence organizacija je jednaka glavnom registriranom jedinstvenom identifikatoru domene. Domena je naziv internetske domene registriran u registraru naziva domene. Primjerice, u adresi primjer.com, primjer.com je registrirani jedinstveni identifikator domene. Slično tome, u adresi primjer.com.xx gdje je xx registrirani kôd države, primjer.com.xx je registrirani jedinstveni identifikator domene. Aplikacije za stolna računala može upotrebljavati bilo koji zaposlenik organizacije s glavnim registriranim identifikatorom jedinstvene domene. Ne postoji ograničenje broja aplikacija koje se mogu stvoriti i implementirati unutar organizacije.
+67.	Ograničeno na 250.000.000 geokodova za godišnju pretplatu.
+ MREŽNE USLUGE
+
+Tablica u nastavku sadrži dodatne uvjete uporabe koji se odnose na određene mrežne usluge. Svaki popis proizvoda uključuje jednu ili više fusnota koje se odnose na taj proizvod. Definicije za svaku fusnotu navedene su ispod tablice. Osim ako nije drugačije navedeno u primjenjivoj narudžbenici, proširenja softvera slijede područje primjene jednako području dodijeljenom za odgovarajući softver.
+
+▪	Pretplate na uslugu ArcGIS Online dostupne su u više prodajnih programa:
+
+-	Maloprodaja, EA-ovi; državni programi (1.; 2.; 3.; 11.; 12.; 14.; 20.)
+-	Obrazovni program (1.; 2.; 8.; 10.; 14.; 19.)
+-	Neprofitni progra	m (1.; 2.; 8.; 14.; 19.; 20.)
+
+▪	Pretplate za implementaciju usluge ArcGIS Online Developer dostupne su u više prodajnih programa::
+
+-	Maloprodaja, EA-ovi; državni programi
+	Besplatna pretplata (1.; 8.; 9.; 10.; 13.; 19.; 20.)
+	Plaćena pretplata (1.; 8.; 9.; 10.; 11.; 13.; 20.)
+-	Obrazovni programi, 	programi za nevladine	/neprofitne organizacije, tisak/medije
+	Besplatna pretplata (1.; 3.; 4.; 5.; 6.; 9.; 10.; 13.; 19.)
+	Plaćena pretplata (1.; 3.; 4.; 5.; 6.; 9.; 10.; 13.; 19.)
+-	Programi za nevladine/neprofitne organizacije, tisak/medije
+	Besplatna pretplata (1.; 3.; 4.; 5.; 6.; 9.; 10.; 13.; 19.; 20.)
+	Plaćena pretplata (1.; 3.; 4.; 5.; 6.; 9.; 10.; 13.; 19.; 20.)
+
+▪	Javni program
+-	Malo	prodaja, EA-ovi; državni programi; programi za nevladine/neprofitne organizacije, tisak/medije (1.; 4.; 5.; 6.; 7.; 9.; 10.; 15.; 19.; 20.)
+-	Obrazovni programi (1.; 4.; 5.; 6.; 7.; 9.; 10.; 15.; 19.)
+▪	Esri Business Analyst Online (16.)
+▪	Esri Business Analyst Online Mobile (16.)
+▪	Esri Community Analyst (16.)
+▪	Esri MapStudio (17.)
+
+Fusnote:
+
+1.	Kao dopuna uobičajenim uvjetima uporabe mrežnih usluga:
+
+a.	Korisnik može upotrebljavati svoju pretplatu na mrežne usluge tvrtke Esri za razvoj aplikacija s dodanom vrijednošću za svoju internu uporabu.
+b.	Korisnik također može omogućiti pristup svojim aplikacijama s dodanom vrijednošću trećim stranama, podložno sljedećim uvjetima:
+
+i.	Korisnik može dopustiti Anonimnim korisnicima pristup svojim aplikacijama s dodanom vrijednošću.
+ii.	Korisnik ne smije dodavati treće strane kao Imenovane korisnike za pretplatu na uslugu ArcGIS Online Korisnika u svrhu dopuštanja pristupa trećim stranama aplikacijama s dodanom vrijednošću Korisnika. Ograničenje se ne odnosi na treće strane navedene u definiciji Imenovanih korisnika.
+iii.	Korisnik ne smije omogućivati trećim stranama pristup uslugama ArcGIS Online koje su omogućene za pretplatu Korisnika na ArcGIS Online, osim putem aplikacija s dodanom vrijednošću Korisnika. Ograničenje se ne odnosi na treće strane navedene u definiciji Imenovanih korisnika.
+iv.	Korisnik snosi isključivu odgovornost za pružanje tehničke podrške za aplikacije s dodanom vrijednošću Korisnika.
+v.	Korisnik ne smije ukloniti ili sakriti bilo koje zaštitne znakove ili logotipe koji se uobičajeno prikazuju prilikom uporabe mrežnih usluga bez pisanog odobrenja. Korisnik mora uključiti atribucije koje pokazuju da aplikacija koristi mrežne usluge koje pruža tvrtka Esri ako se atribucija ne prikazuje automatski prilikom uporabe mrežnih usluga. Smjernice se nalaze u dokumentaciji.
+vi.	Korisnik ne smije ugraditi vjerodajnice Imenovanog korisnika u aplikaciju s dodanom vrijednošću. Vjerodajnice za prijavu u aplikaciju mogu se ugraditi u aplikacije s dodanom vrijednošću koje služe za pružanje javnog, anonimnog pristupa usluzi ArcGIS Online. Korisnik ne smije ugraditi niti upotrebljavati Vjerodajnice za prijavu u aplikaciju u aplikacijama s dodanom vrijednošću ArcGIS Online za internu uporabu. Aplikacije s dodanom vrijednošću koje se upotrebljavaju interno zahtijevaju vjerodajnice za prijavu Imenovanih korisnika.
+
+c.	Usluga za globalno geokodiranje: Korisnik ne može pohranjivati geokodirane rezultate koje je generirala usluga bez pretplate na ArcGIS Online.
+d.	Usluga infografike: Korisnik može upotrebljavati podatke dostupne putem usluge isključivo u svrhe prikazivanja. Korisniku nije dopušteno spremanje podataka koji su dostupni putem ove usluge.
+
+2.	Smije se upotrebljavati u bilo koju poslovnu svrhu organizacije Korisnika.
+3.	Smije se upotrebljavati u svrhe razvoja i ispitivanja za organizaciju Korisnika.
+4.	Smije se upotrebljavati u obrazovne svrhe obrazovnim organizacijama.
+5.	Smije se upotrebljavati za kvalificirane nevladine/neprofitne organizacije Korisnika.
+6.	Smije se upotrebljavati za tisak ili medijske organizacije.
+7.	Smije se upotrebljavati u osobne svrhe.
+8.	Aplikacije s dodanom vrijednošću pretplatnika moraju biti objavljene za javni pristup.
+9.	Ne smije se upotrebljavati za organizacije koje ostvaruju profit ili vladine organizacije.
+10.	Korisnik ne smije stvarati privatne grupe niti sudjelovati u privatnim grupama.
+11.	Korisnik može besplatno omogućivati pristup aplikacijama s dodanom vrijednošću trećim stranama.
+12.	Korisnik pomoću ove pretplate može stvarati privatne grupe ili sudjelovati u njima.
+13.	Svaka je pretplata ograničena na 1.000.000 transakcija osnovne mape i 1.000.000 transakcija pretraživanja geokodova mjesečno putem pretplate Korisnika. "Transakcija" je definirana u dokumentaciji u resursima usluge ArcGIS na web-adresi http://links.esri.com/agol/transactiondef.
+14.	Svaka je pretplata ograničena na 50.000.000 transakcija osnovne mape i pretraživanja geokodova mjesečno. "Transakcija" je definirana u dokumentaciji u resursima usluge ArcGIS na web-adresi http://links.esri.com/agol/transactiondef.
+15.	Može dozvoliti registriranim učenicima obrazovne institucije izravan pristup mrežnim uslugama i dijeliti jednu pretplatu na više od 1 registriranog učenika, samo u obrazovne svrhe.
+16.	Korisnik ne smije prikazivati ili objavljivati bilo kakvu kombinaciju više od 100 izvješća aplikacija Esri Business Analyst Online ili Community Analyst i karti na vanjskim web-mjestima Korisnika.
+17.	Korisnik može stvoriti, javno prikazivati i distribuirati karte u tiskanom i statičnom elektroničkom obliku u svrhu izvješćivanja, što je podložno ograničenjima za podatke usluge ArcGIS Online.
+18.	Rezervirano.
+19.	Korisnik ne smije besplatno omogućivati pristup aplikacijama s dodanom vrijednošću trećim stranama.
+20.	Primatelj licence nema pravo biti primatelj licence za ili u ime treće strane.
+

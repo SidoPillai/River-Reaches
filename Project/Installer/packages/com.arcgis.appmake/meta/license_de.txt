@@ -1,0 +1,576 @@
+﻿WICHTIG - BITTE SORGFÄLTIG LESEN
+(E204CW 09/22/2016)
+
+Sofern nicht durch eine unterzeichnete Lizenzvereinbarung zwischen Ihnen und Esri anders bestimmt, ist Esri nur dann zur Bereitstellung von Esri Angeboten an Sie bereit, wenn Sie alle in dieser Vereinbarung enthaltenen Bedingungen akzeptieren. Bitte lesen Sie diese Allgemeinen Lizenzbedingungen sorgfältig durch. Sie dürfen die Esri Angebote erst dann nutzen, wenn Sie die Nutzungsbedingungen der Vereinbarung angenommen haben. Wenn Sie den genannten Bedingungen der Vereinbarung nicht zustimmen, klicken Sie unten auf "Ich stimme der Vereinbarung nicht zu". Anschließend können Sie die Rückerstattung der bereits gezahlten Gebühren beantragen.
+
+Diese Vereinbarung wird zwischen Ihnen ("Kunde") und Environmental Systems Research Institute, Inc. ("Esri"), einem in Kalifornien eingetragenen Unternehmen mit Geschäftssitz in der 380 New York Street, Redlands, California 92373-8100 USA, geschlossen.
+
+1.0 ALLGEMEINE GEWÄHRUNG VON RECHTEN UND EINSCHRÄNKUNGEN
+
+1.1 Anlage A enthält Definitionen von spezifischen Begriffen, die in dieser Vereinbarung verwendet werden. Jeder Abschnitt dieser Vereinbarung kann zusätzliche Definitionen enthalten, die ausschließlich im jeweiligen Abschnitt verwendet werden.
+
+1.2 Gewährung von Rechten. Als Gegenleistung für die Zahlung aller geltenden Gebühren durch den Kunden und gemäß dieser Vereinbarung gewährt Esri dem Kunden ein persönliches, nicht exklusives, nicht übertragbares Recht,
+
+a.	die Esri Angebote gemäß der Dokumentation und den geltenden Bestelldokumenten zu nutzen;
+b.	abgeleitete Werke der Dokumentation für die interne geschäftliche Nutzung des Kunden in Verbindung mit der für den Kunden autorisierten Nutzung von Produkten zu reproduzieren und zu erstellen. Der Kunde muss den folgenden, auf die Eigentumsrechte von Esri und dessen Lizenzgebern hinweisenden Urheberrechtsvermerk bei allen abgeleiteten Werken hinzufügen:
+
+"Teile dieses Dokuments enthalten geistiges Eigentum von Esri und dessen Lizenzgebern und werden mit deren Genehmigung verwendet. Copyright (c) [Bitte das tatsächliche Urheberrechtsdatum bzw. die tatsächlichen Urheberrechtsdaten der Ausgangsmaterialien einfügen.] Esri und seine Lizenzgeber. Alle Rechte vorbehalten."
+
+Die Gewährung der Rechte in diesem Abschnitt (i) gilt während der Dauer der Subskription oder der geltenden Laufzeit oder fortlaufend, wenn keine Laufzeit vorgesehen oder in den Bestelldokumenten festgelegt ist, und (ii) unterliegt weiteren Rechten und Einschränkungen in dieser Vereinbarung, einschließlich Anlage B.
+
+1.3 Zugang für Berater oder Auftragnehmer. Der Kunde darf seinen Beratern oder Auftragnehmern die Erlaubnis erteilen, die Esri Angebote ausschließlich zugunsten des Kunden zu nutzen. Der Kunde ist alleine dafür verantwortlich, dass sich die Berater oder Auftragnehmer an diese Vereinbarung halten, und stellt sicher, dass die Berater und Auftragnehmer bei Abschluss der Arbeiten für den Kunden die Nutzung der Esri Angebote einstellen. Sofern sie nicht ausschließlich der Nutzung zugunsten des Kunden dienen, ist der Zugang zu Esri Angeboten oder deren Nutzung durch Berater oder dritte Auftragnehmer verboten.
+
+1.4 Test- und Betalizenzen. Produkte, die im Rahmen einer Testlizenz, einer Subskription oder eines Beta-Programms erworben wurden, sind nur für Evaluierungs- und Testzwecke und nicht für die kommerzielle Nutzung bestimmt. Eine solche Nutzung erfolgt auf Risiko des Kunden, und für die Produkte wird keine Wartung angeboten. Wenn der Kunde die Testlizenz vor dem Ablauf des Testzeitraums nicht in eine bezahlte Lizenz oder eine Subskription umwandelt, können alle Inhalte und benutzerdefinierten Anpassungen, die während des Testzeitraums erstellt wurden, endgültig verloren sein. Wenn der Kunde keine Lizenz bzw. keine Subskription erwerben möchte, sollte er solche Inhalte vor dem Ende des Testzeitraums exportieren.
+
+1.5 Bildungsprogramme. Der Kunde stimmt der Nutzung der Esri Angebote im Rahmen eines Bildungsprogramms zur ausschließlichen Nutzung im Bildungsbereich während der Laufzeit zu. Der Kunde darf keine Produkte zu Verwaltungszwecken nutzen, sofern er keine entsprechende Lizenz erworben hat. "Verwaltungszwecke" umfasst Verwaltungstätigkeiten wie beispielsweise Anlagenkartierung, Liegenschaftsverwaltung, demografische Analyse, Routing, Campus-Sicherheitsmanagement und Erreichbarkeitsanalyse, die nicht unmittelbar der Ausbildung oder dem Unterricht dienen. Der Kunde darf die Produkte nicht zu gewerblichen oder gewinnorientierten Zwecken nutzen.
+
+1.6 Förderprogramme. Der Kunde darf die Esri Angebote, die im Rahmen eines Förderprogramms zur Verfügung gestellt werden, nur zu nicht gewerblichen Zwecken nutzen. Mit Ausnahme der Kostenerstattung für Nutzung und Betrieb der Esri Angebote darf der Kunde die Esri Angebote nicht zu gewerblichen oder gewinnorientierten Zwecken nutzen.
+
+1.7 Sonstige Esri Programme mit beschränkter Nutzung. Wenn der Kunde Esri Angebote im Rahmen eines oben nicht aufgeführten Programms zur beschränkten Nutzung erwirbt, unterliegt die Nutzung der Esri Angebote den auf der entsprechenden Einführungsseite bzw. dem Anmeldeformular bzw. der Website von Esri festgelegten Bedingungen, zusätzlich zu den nicht widersprüchlichen Bedingungen dieser Vereinbarung.
+
+1.8 Rechtsvorbehalt. Alle Esri Angebote sind das urheberrechtliche Werk von Esri oder seinen Lizenzgebern; alle Rechte, die in dieser Lizenzvereinbarung nicht ausdrücklich eingeräumt werden, bleiben vorbehalten.
+
+2.0 SOFTWARE-NUTZUNGSBEDINGUNGEN
+
+2.1 Lizenztypen. Esri lizenziert Software im Rahmen der folgenden Lizenztypen:
+
+a. Einsatzlizenz (Deployment License): Der Kunde darf ArcGIS Runtime-Komponenten in mehrwertige Anwendungen integrieren und die mehrwertigen Anwendungen an den Endnutzer des Kunden weitergeben.
+b. Einzelnutzungslizenz (Single Use License): Der Kunde darf einem einzelnen autorisierten Endbenutzer die Installation und Nutzung der Software auf einem einzelnen Computer erlauben. Kunden dürfen dem einzelnen autorisierten Endbenutzer erlauben, eine zweite Kopie zur ausschließlichen Nutzung durch den Endbenutzer auf einem zweiten Computer zu installieren, unter der Voraussetzung, dass stets nur eine (1) Kopie der Software verwendet wird. Kein anderer Endbenutzer darf die Software unter der gleichen Lizenz gleichzeitig zu anderen Zwecken einsetzen.
+c. Entwicklungslizenz (Development Use): Der Kunde darf die Software zum Entwickeln und Testen mehrwertiger Anwendungen gemäß der Beschreibung in der Dokumentation installieren und nutzen.
+d. Lizenz für den Ausfallsicherungsbetrieb (Failover License): Der Kunde darf die Software über redundante Systeme für den Ausfallsicherungsbetrieb installieren, jedoch kann die redundante Software möglicherweise nur in dem Zeitraum eingesetzt werden, in dem das Primärsystem nicht funktionsfähig ist. Außer zur Systemwartung und Aktualisierung der Datenbanken bleibt/bleiben redundante Software-Installation(en) inaktiv, solange das Primärsystem oder ein anderes redundantes System funktionsfähig ist.
+e. Lizenz zur Weiterverbreitung (Redistribution License): Der Kunde darf die Software reproduzieren und vertreiben, sofern folgende Voraussetzungen erfüllt sind:
+
+1.	Der Kunde reproduziert und vertreibt die Software in ihrer Gesamtheit;
+2.	Jede Kopie der Software wird von einer Lizenzvereinbarung begleitet, die die Software in demselben Umfang schützt wie diese Vereinbarung, und der Empfänger stimmt zu, an die Bedingungen der Lizenzvereinbarung gebunden zu sein;
+3.	Der Kunde reproduziert alle Hinweise auf Urheberrechte und Warenzeichen sowie deren Nennung; und
+4.	Der Kunde erhebt keine Gebühr, die der Nutzung der Software zuzurechnen ist.
+
+f. Netzwerklizenz (Concurrent Use License): Der Kunde darf die Software auf einem oder mehreren Computer(n) eines Netzwerks installieren, jedoch darf die Anzahl der gleichzeitigen Benutzer die Anzahl der erworbenen Lizenzen nicht überschreiten. Eine Netzwerklizenz (Concurrent Use License) beinhaltet das Recht, für den passiven Ausfallsicherungsbetrieb Instanzen dieser Software zur Verwaltung der Netzwerklizenzen in einer separat betriebenen Betriebssystemumgebung zur Unterstützung eines temporären Betriebsausfalls einzusetzen.
+g. Server-Bereitstellungslizenz (Staging Server License): Der Kunde darf die Software im Rahmen einer Server-Lizenz zu folgenden Zwecken installieren und nutzen: Entwicklung und Test mehrwertiger Anwendungen und Karten-Caches, Durchführen von Benutzerakzeptanztests, Funktions- und Leistungstests, Last- und Integrationstests von Software Dritter; Bereitstellung neuer kommerzieller Datenaktualisierungen und Schulungsaktivitäten gemäß der Beschreibung in der Dokumentation. Der Kunde darf mehrwertige Anwendungen und Karten-Caches in Verbindung mit Entwicklungs- und Bereitstellungsservern nutzen.
+h. Server-Einsatzlizenz (Deployment Server License): Der Kunde darf die Software im Rahmen einer Server-Lizenz für alle in der Lizenzvereinbarung zugelassenen Nutzungsarten sowie gemäß der Beschreibung in der Dokumentation nutzen.
+i. Server-Entwicklungslizenz (Development Server License): Der Kunde darf die Software im Rahmen einer Server-Lizenz zum Entwickeln und Testen mehrwertiger Anwendungen gemäß der Beschreibung in der Dokumentation nutzen.
+j. Server-Lizenz (Server License): Der Kunde darf die Software auf einem Server installieren und nutzen. Server-Lizenzen sind möglicherweise auf eine bestimmte Anzahl von Server-Kernen oder verteilten Bereitstellungen auf mehreren Servern beschränkt, je nach Festlegung in den Bestelldokumenten oder der Dokumentation. Wenn die Software-Beschreibung eine Ausfallbetriebssicherung enthält, beinhaltet jede Server-Lizenz eine Lizenz für den Ausfallsicherungsbetrieb.
+k. Zweifachlizenz (Dual Use License): Der Kunde darf die Software auf einem Desktop-Computer installieren und sie zusätzlich entweder auf einem Personal Digital Assistant (PDA) oder auf einem tragbaren Computer nutzen, unter der Voraussetzung, dass die Software stets nur von einer einzelnen Person verwendet wird.
+
+2.2 Erlaubte Nutzung
+
+a.	Der Kunde darf
+
+1.	Software und Daten auf elektronischen Speichermedien installieren, abrufen oder speichern,
+2.	Archivkopien und routinemäßige Sicherungskopien anfertigen,
+3.	eine neuere Version der Software gleichzeitig mit der zu ersetzenden Software während einer angemessenen Übergangsperiode, die 6 Monate nicht überschreiten darf, installieren und nutzen, vorausgesetzt, dass durch Einsatz einer der beiden Versionen nicht die vom Auftraggeber lizenzierte Menge überschritten wird; anschließend darf der Auftraggeber zusammengenommen nicht mehr Softwareprodukte nutzen als gemäß der vom Auftraggeber lizenzierten Menge zulässig. Dies gilt nicht für Software, die im Rahmen einer Entwicklungslizenz lizenziert wurde.
+4.	die Software in der lizenzierten Konfiguration auf einen Ersatzcomputer verschieben,
+5.	die Software und alle dazugehörigen Autorisierungscodes, die für die Nutzung einer Einsatzlizenz erforderlich sind, an Dritte verteilen, und
+6.	Server-Software für eine kommerzielle ASP-Nutzung verwenden, wenn der Kunde eine kommerzielle ASP-Nutzungslizenz erworben hat oder als staatliche oder gemeinnützige Organisation eine Website oder einen Internetservice auf Kostendeckungsbasis und nicht gewinnorientiert betreibt bzw. anbietet.
+
+b.	Der Kunde darf eine spezielle Version der Software unter Nutzung beliebiger Makro- oder Scripting-Sprachen, offener Anwendungsprogrammierungsschnittstellen (API) oder Quellcode- bzw. Objektcode-Bibliotheken anfertigen, jedoch nur in dem Umfang, in dem eine solche individuelle Spezialanfertigung in der Dokumentation beschrieben ist.
+c.	Der Kunde darf jegliche mit der Software bereitgestellten Schriftarten im Rahmen der autorisierten Nutzung der Software nutzen. Der Kunde darf auch Esri Schriftarten separat zum Ausdrucken der von der Software erstellten Ergebnisse nutzen. Jegliche Nutzungsbeschränkungen für in der Software enthaltene Schriftarten Dritter sind in der Schriftartendatei selbst festgelegt.
+d.	Anhang 1 enthält produktspezifische Bedingungen zur Nutzung individueller Software. Esri behält sich das Recht vor, die Anhang 1 von Zeit zu Zeit zu aktualisieren.
+
+2.3 Wartung. Esri bietet Kunden in den USA Wartungsdienste im Rahmen des Wartungs- und Support-Programms von Esri an. Für Kunden außerhalb der USA stellen Esri Distributoren vor Ort Wartungsdienste zu ihren Bedingungen zur Verfügung.
+
+3.0 NUTZUNGSBEDINGUNGEN VON ONLINE-SERVICES
+
+3.1 Definitionen. Folgende Definitionen ergänzen die in Anlage A festgelegten Definitionen:
+
+a. "Anonyme Benutzer (Anonymous User)" bedeutet alle Personen mit öffentlichem Zugang (d. h. ohne dass Zugangsdaten eines Named User erforderlich sind) zu sämtlichen Inhalten des Kunden oder mehrwertigen Anwendungen. Der Kunde kann die Funktion "anonyme Benutzer" zum Zugriff auf seine Inhalte oder mehrwertigen Anwendungen aktivieren. Dabei werden diese Inhalte oder mehrwertigen Anwendungen über die Freigabewerkzeuge veröffentlicht, die in der autorisierten Nutzung der Online-Services des Kunden enthalten sind.
+b. "App-Zugangsdaten (App Login Credential)" bedeutet ein systemgeneriertes App-Login und damit verbundenes Passwort, das durch die Registrierung einer mehrwertigen Anwendung (Value-Added Application) bei ArcGIS Online zur Verfügung gestellt wird, die in eine mehrwertige Anwendung integriert wird, um der mehrwertigen Anwendung die Möglichkeit zu geben, auf Online-Dienste zuzugreifen und diese zu verwenden.
+c. "Service Credit" bedeutet eine Austauscheinheit, die einer Subskription für Online-Services in einer im Bestelldokument angegebenen Menge zugeordnet ist.
+d. "Freigabewerkzeuge" sind in Online-Services und auf der ArcGIS Website enthaltene Veröffentlichungsfunktionen, mit denen der Kunde seine Inhalte und mehrwertigen Anwendungen Dritten und/oder anonymen Benutzern zur Verfügung stellen kann.
+
+3.2 Subskription für Online-Services. Esri bietet Subskriptionen für Online-Services gemäß folgenden Bedingungen. Anhang 1 enthält ebenfalls produktspezifische Bedingungen zur Nutzung für individuelle Online-Services.
+
+3.3 Bereitstellung von Subskriptionen für Online-Services. Für die Subskription von Online-Services wird Esri
+
+a.	dem Kunden Online-Services gemäß der Dokumentation bereitstellen,
+b.	Wartungsdienste im Rahmen des Wartungs- und Support-Programms von Esri anbieten, wenn sich der Kunde in den USA befindet. Für Kunden außerhalb der USA stellen Esri Distributoren Wartungsdienste zu ihren Bedingungen zur Verfügung.
+c.	Kunden-Support gemäß den Esri Wartungsrichtlinien für Standard-Support sowie zusätzliche Supportdienste, die der Kunde erwerben kann, bereitstellen und
+d.	alle wirtschaftlich angemessenen Anstrengungen unternehmen, um sicherzustellen, dass Online-Services keinen bösartigen Code an den Kunden übertragen, wobei Esri nicht für bösartigen Code verantwortlich ist, der über die Subskription des Kunden oder durch Inhalte Dritter in Online-Services gelangt.
+
+3.4 Zugang zu mehrwertigen Anwendungen
+
+a.	Named User verfügen über eindeutige, individuelle Zugangsdaten. Named User haben privaten Zugang zu Funktionen der Online-Services, die anonymen Benutzern öffentlich nicht zugänglich sind.
+b.	Der Kunde darf seine Subskription von Online-Services zur Entwicklung von mehrwertigen Anwendungen zur internen Nutzung von Named Usern nutzen.
+c.	Der Kunde darf mehrwertige Anwendungen an eine beliebige dritte Partei zur Nutzung in Verbindung mit der Subskription von Online-Services dieser dritten Partei übertragen.
+d.	Der Kunde darf seiner Subskription von Online-Services keine Dritten als Named User hinzufügen zu dem Zweck, Dritten Zugriff auf seine mehrwertige(n) Anwendung(en) zu gewähren. Diese Einschränkung gilt nicht für Dritte, die in der Definition der Named User erwähnt werden.
+e.	Der Kunde darf Dritten den Zugang zu ArcGIS Online-Services über seine ArcGIS Online-Subskription ausschließlich über seine mehrwertige(n) Anwendung(en) ermöglichen. Diese Einschränkung gilt nicht für Dritte, die in der Definition der Named User erwähnt werden.
+f.	Der Kunde kann die Funktion "anonyme Benutzer" zum Zugriff auf die mehrwertigen Anwendungen des Kunden aktivieren, die im Rahmen der Subskription des Kunden ausgeführt werden, vorbehaltlich folgender Bedingungen:
+
+1.	Der Kunde darf für einen solchen Zugang Gebühren erheben, wenn die Subskriptionskategorie eine Nutzung zu gewerblichen Zwecken erlaubt.
+2.	Der Kunde darf App-Login-Zugangsdaten, jedoch keine Zugangsdaten eines Named User in mehrwertige Anwendungen integrieren.
+3.	Der Kunde ist allein für alle Service-Credits verantwortlich, die im Modus "anonyme Benutzer" für (die) mehrwertige Anwendung(en) verbraucht werden.
+4.	Der Kunde ist allein für die Bereitstellung von technischer Unterstützung für seine mehrwertige(n) Anwendung(en) verantwortlich.
+5.	Der Kunde darf den Modus "anonyme Benutzer" nicht zum Zugriff auf mehrwertige Anwendungen aktivieren, die nur für den internen Gebrauch des Kunden gedacht sind. Intern verwendete mehrwertige Anwendungen erfordern Zugangsdaten eines Named User.
+
+3.5 Verpflichtungen des Kunden
+
+a.	Der Kunde ist allein für die Entwicklung und den Betrieb von Inhalten und mehrwertigen Anwendungen des Kunden sowie die Einhaltung dieser Vereinbarung durch seine Named User verantwortlich. Der Kunde und seine Named User oder anonymen Benutzer (falls zutreffend) sind die einzigen Personen, die für den Zugriff auf Online-Services über die Subskription des Kunden autorisiert sind. Die Zugangsdaten eines Named User sind nur für diesen Named User bestimmt und dürfen nicht an andere Personen weitergegeben werden. Jedoch dürfen die Zugangsdaten des Named User einem neuen Benutzer zugewiesen werden, wenn der frühere Benutzer den Zugang zu den Online-Services nicht mehr benötigt. Der Kunde wird Esri umgehend informieren, falls er Kenntnis von einer unberechtigten Nutzung der Subskription des Kunden oder einem anderen Verstoß gegen die Sicherheit erlangt.
+b.	Wenn der Kunde Entwicklungswerkzeuge, die nicht von Esri stammen, für die Erstellung von Anwendungen, die auf die Online-Services von Esri zugreifen, verwendet, muss der Kunde Zuschreibungen hinzufügen, die darauf hinweisen, dass die Anwendung Online-Services von Esri verwendet. Entsprechende Richtlinien sind in der Dokumentation enthalten.
+
+3.6 Modifizierung von Online-Services. Esri darf Online Services und damit verbundene APIs jederzeit ändern, vorbehaltlich einer 30-tägigen Ankündigungsfrist bei wesentlichen Änderungen bzw. einer 90-tägigen Ankündigungsfrist bei Einstellungen. Haben die Änderung, Einstellung oder Schließung von Online-Services wesentliche nachteilige Auswirkungen auf die Tätigkeit des Kunden, liegt es im Ermessen von Esri, eine Behebung, Korrektur oder die Bereitstellung einer Behelfslösung für Online-Services zu veranlassen. Ist eine gangbare, wirtschaftlich angemessene Lösung nicht möglich, so kann der Kunde seine Subskription für Online-Services kündigen, und Esri wird eine anteilsmäßige Rückerstattung leisten.
+
+3.7 Änderung der Subskriptionskosten. Esri darf die Kosten für Subskriptionen mit einer Laufzeit von mindestens einem Monat erhöhen, indem der Kunde mindestens 60 Tage vor Ablauf der dann aktuellen Subskriptionslaufzeit benachrichtigt wird. Esri kann die monatlichen Subskriptionskosten mit einer Ankündigungsfrist von 30 Tagen erhöhen.
+
+3.8 Inhalte des Kunden
+
+a.	Eigentum. Der Kunde behält alle Rechte, Titel und Interessen an den Inhalten des Kunden. Hiermit gewährt der Kunde Esri und seinen Händlern oder Lizenzgebern ein nicht ausschließliches, nicht übertragbares weltweites Recht zum Hosten, Ausführen und Reproduzieren der Inhalte des Kunden ausschließlich zu dem Zweck, dem Kunden die Nutzung von Online-Services zu ermöglichen. Ohne dessen Erlaubnis wird Esri nicht auf die Inhalte des Kunden zugreifen, diese nutzen oder offenlegen, außer sofern dies erforderlich und angemessen ist, um die Nutzung von Online-Services durch den Kunden zu unterstützen, auf Anfragen zum Kunden-Support zu antworten oder Probleme mit der Subskription des Kunden zu beheben, sowie für alle anderen Zwecke, denen der Kunde schriftlich zugestimmt hat. Wenn der Kunde auf Online-Services mithilfe einer von Dritten bereitgestellten Anwendung zugreift, darf Esri die Inhalte des Kunden gegenüber solchen Dritten offenlegen, sofern dies zur Ermöglichung der Zusammenarbeit zwischen der Anwendung, den Online-Services und dem Inhalt des Kunden erforderlich ist. Esri darf die Inhalte des Kunden offenlegen, wenn dies aus rechtlichen Gründen oder aufgrund von Vorschriften oder dem Beschluss eines Gerichts bzw. einer anderen Behörde erforderlich ist. In einem solchen Fall wird Esri versuchen, den Umfang der Offenlegung angemessen zu beschränken. Der Kunde ist allein dafür verantwortlich, sicherzustellen, dass die Inhalte des Kunden für die Nutzung von Online-Services geeignet sind, sowie für die Durchführung regelmäßiger Datensicherungen offline mithilfe der Export- und Download-Funktionen der Online-Services.
+b.	Weitergabe der Inhalte des Kunden. Wenn der Kunde seine Inhalte mithilfe von Freigabewerkzeugen weitergeben möchte, erkennt der Kunde an, dass er Dritten das Recht zum Nutzen, Speichern, Zwischenspeichern, Kopieren, Vervielfältigen, (Weiter-)Verteilen und (Weiter-)Übertragen der Inhalte des Kunden mithilfe von Online-Services gewährt. Esri ist nicht verantwortlich für Verluste, Löschung, Modifizierung oder Offenlegung von Inhalten des Kunden, die aus dem Gebrauch oder Missbrauch von Freigabewerkzeugen oder Online-Services, Online-Inhalten, der ArcGIS-Website, der Dokumentation oder damit verbundenen Materialien resultieren. Die Nutzung von Freigabewerkzeugen durch den Kunden erfolgt ausschließlich auf Risiko des Kunden.
+c.	Abrufen der Inhalte des Kunden bei Kündigung. Bei der Kündigung der Vereinbarung oder anderer Evaluierungs-, Test- oder Subskriptionslaufzeiten wird Esri dem Kunden seine Inhalte für einen Zeitraum von 30 Tagen zum Herunterladen zur Verfügung stellen, außer der Kunde beantragt eine kürzere Bereitstellungszeit, oder Esri wird rechtlich daran gehindert. Danach erlischt das Zugriffs- bzw. Nutzungsrecht des Kunden für seine Inhalte mit Online-Services, und Esri ist nicht weiter verpflichtet, die Inhalte des Kunden zu speichern oder zurückzugeben.
+
+3.9 Nutzungsbeschränkungen von Online-Services; Service-Credits. Jede Subskription von Online-Services enthält Service-Credits gemäß den geltenden Bestelldokumenten. Jeder Service-Credit berechtigt den Kunden dazu, eine festgelegte Anzahl an Online-Services in Anspruch zu nehmen, und die Anzahl ist von den verbrauchten Online-Services abhängig. Sobald Online-Services verbraucht werden, wird die Subskription des Kunden automatisch mit den Service-Credits bis zur Höchstmenge der verfügbaren Service-Credits belastet. Der Kunde kann bei Bedarf zusätzliche Service-Credits erwerben. Esri wird den Kontoadministrator für die Subskription des Kunden benachrichtigen, wenn ungefähr 75 % der über die Subskription des Kunden zugewiesenen Service-Credits verbraucht sind. Esri behält sich das Recht vor, den Zugang zu Online-Services zu sperren, die Service-Credits verbrauchen, wenn der Kunde all seine Service-Credits verbraucht hat. Esri entfernt umgehend die Sperre für die Online-Services, sobald der Kunde zusätzliche Service-Credits erwirbt.
+
+3.10 ArcGIS Enterprise mit virtueller Cloud-Infrastruktur. Der Kunde wird auf Anforderung Informationen oder andere Materialien bezüglich der Inhalte des Cloud Bundle (einschließlich Kopien von clientseitigen Anwendungen) zur Überprüfung der Einhaltung dieser Vereinbarung durch den Kunden zur Verfügung stellen. Esri kann externe Schnittstellen (z. B. Ports) der Inhalte des Kunden überwachen, um die Einhaltung dieser Vereinbarung durch den Kunden zu prüfen. Der Kunde wird diese Überwachung nicht blockieren oder stören, darf jedoch Verschlüsselungstechnologie oder Firewalls nutzen, um die Vertraulichkeit seiner Inhalte zu gewährleisten. Der Kunde wird mit Esri zusammenarbeiten, um die Quelle von Problemen mit Diensten von ArcGIS Enterprise mit virtueller Cloud-Infrastruktur in Verbindung mit den Inhalten des Kunden oder jeglichen vom Kunden kontrollierten Endnutzermaterialien zu identifizieren.
+
+4.0 NUTZUNGSBEDINGUNGEN FÜR DATEN
+
+4.1 Definitionen. Folgende Definitionen ergänzen die in Anlage A festgelegten Definitionen:
+
+a.	"Geschäftsdaten" bezeichnet Daten zu Unternehmen, Demografie und Logistik, mit denen bessere Entscheidungen, optimierte Geschäftsprozesse, verbesserte Betriebseffizienz, neue Umsätze und Wettbewerbsvorteile gegenüber Wettbewerbern ermöglicht werden.
+b.	"Esri Content Package" bezeichnet eine digitale Datei mit ArcGIS Online-Basemap-Inhalten (z. B. Rasterkarten-Kacheln, Bildern und Vektordaten), die aus den ArcGIS Online-Grundkartenservices extrahiert wurden.
+c.	"Straßendaten" bezeichnet Daten, die Informationen zu Straßen und damit verbundene Funktionen enthalten oder abbilden.
+
+4.2 Erlaubte Nutzung
+
+a.	Der Kunde darf nur Daten in Verbindung mit den Produkten nutzen, mit denen Esri die Daten zur Verfügung gestellt hat.
+b.	Der Kunde darf Datendarstellungen als Ausdruck oder in statischen elektronischen Formaten (z. B. PDF, GIF, JPEG) im Rahmen von Präsentationspaketen, Marketingstudien oder anderen Berichten oder Dokumenten, die Kartenbilder oder Datenzusammenfassungen enthalten, die unter Nutzung der Esri Produkte entstanden sind, an Dritte weitergeben, vorbehaltlich der Einschränkungen dieser Lizenzvereinbarung, vorausgesetzt, der Kunde weist in der Datendarstellung darauf hin, dass Esri und/oder seine Anwendungslizenznehmer die Quelle von Teilen der Daten für diese Datendarstellung sind.
+c.	Der Kunde darf ArcGIS Online-Grundkartendaten offline über Esri Content Packages beziehen und anschließend auf einem beliebigen Gerät bereitstellen. Die Nutzung dieser Daten ist ausschließlich mit lizenzierten ArcGIS Runtime Anwendung, ArcGIS Desktop sowie ArcGIS API for Flex Apps zulässig.
+d.	Esri erwirbt im Rahmen dieser Vereinbarung keine Kundendaten.
+
+4.3. Nutzungsbeschränkungen
+
+a.	Der Kunde darf Daten weder selbst mit Co-Branding versehen noch seinen Kunden Co-Branding erlauben. Weiterhin darf der Kunde die Daten nicht in nicht genehmigten Services oder Produkten nutzen und keine Daten über Dritte oder im Namen Dritter anbieten.
+b.	Der Kunde darf weder Daten dazu nutzen, zu kompilieren, zu verbessern, zu verifizieren, zu ergänzen, hinzuzufügen oder Informationen aus einer Kompilation zu löschen, die an Dritte verkauft, vermietet, veröffentlicht oder in irgendeiner Art zur Verfügung gestellt wird, noch darf er Dritten die Erlaubnis zu diesen Aktivitäten geben.
+c.	Geschäftsdaten. Sofern nicht schriftlich erlaubt, darf der Kunde Geschäftsdaten nicht für Direktmarketing, Weiterverkauf, Veröffentlichung oder Vertrieb an Dritte als Teil einer Mailing-Liste, eines Verzeichnisses, einer Kleinanzeige oder einer anderen Zusammenstellung von Informationen nutzen.
+d.	Straßendaten. Der Kunde darf Straßendaten zu Zwecken der Kartendarstellung, Geocodierung und Routenberechnung nutzen. Sofern nicht anderweitig schriftlich erlaubt, darf der Kunde Straßendaten nicht nutzen für
+
+1.	Navigationsführung in Echtzeit, wozu unter anderem gehört, einen Benutzer auf bevorstehende Fahrmanöver aufmerksam zu machen (wie beispielsweise einen Warnhinweis auf eine bevorstehende Abzweigung zu geben oder eine alternative Route zu berechnen, wenn eine Abzweigung verpasst wird),
+2.	synchronisierte Routenberechnungen für mehrere Fahrzeuge oder
+3.	Routenoptimierung.
+
+e.	Business Analyst-Daten. Die über Esri Business Analyst (Server, Desktop) bereitgestellten Daten unterliegen folgenden zusätzlichen Nutzungsbedingungen:
+
+1. Wenn der Kunde eine Lizenz für Esri Business Analyst oder Business Analyst (Canadian Edition) mit einer Teilmenge des nationalen Datensatzes (d. h. Region, Staat, lokal) bestellt, darf der Kunde nur die lizenzierte Teilmenge und keinen anderen Teil des nationalen Datensatzes nutzen.
+2. Zusammen mit Business Analyst Server bereitgestellte Daten dürfen von Kundenanwendungen und -geräten weder zwischengespeichert noch heruntergeladen werden.
+
+4.4 Ergänzende Nutzungsbedingungen für Daten. Esri ist seitens bestimmter Daten-Lizenzgeber dazu verpflichtet, zusätzliche Anforderungen hinsichtlich Zuschreibungen und Nutzungsbedingungen an den Kunden weiterzugeben. Diese Bedingungen stehen unter http://www.esri.com/legal/third-party-data zur Verfügung.
+ 
+ANLAGE A
+BEGRIFFSVERZEICHNIS
+
+Folgendes Begriffsverzeichnis gilt für alle Esri Angebote und Dienste, die Esri dem Kunden anbietet. Bestimmte Esri Angebote oder Dienste fallen nicht unter diese Vereinbarung. Alle Begriffe, die nicht für Esri Angebote oder Dienste gelten, die im Rahmen dieser Vereinbarung angeboten werden, lassen Sie bitte unbeachtet.
+
+"API" bedeutet Anwendungsprogrammierschnittstelle ("Application Programming Interface").
+
+"ArcGIS Website" bedeutet http://www.arcgis.com und alle anderen zugehörigen oder Nachfolge-Internetseiten.
+
+"Autorisierungscode(s)" bedeutet sämtliche Schlüssel, Autorisierungsnummern, Aktivierungscodes, Anmeldeinformationen, Token, Benutzernamen und Kennwörter für Konten und andere für die Nutzung von Esri Angeboten erforderlichen Mechanismen.
+
+"Befristete Lizenz" (Term License) ist eine Lizenz für oder die Bereitstellung des Zugriffs auf ein Produkt zu dessen Nutzung für einen zeitlich beschränkten Zeitraum ("Frist") oder auf der Basis eines Bezugsrechts oder einer Transaktion.
+
+"Beispiel(e)" bedeutet Beispiel-Code, Beispiel-Anwendungen, Zusätze oder Beispiel-Erweiterungen von Produkten.
+
+"Bestelldokument(e)" bedeutet ein Verkaufsangebot, ein Verlängerungsangebot für Wartungsdienste, eine Bestellung, einen Kostenvoranschlag oder ein anderes Dokument, in dem die vom Kunden bestellten Produkte oder Dienste aufgeführt sind.
+
+"Beta-Version" bedeutet alle Alpha-, Beta- oder sonstigen Vorabversionen von Produkten.
+
+"Bösartiger Code" bezeichnet Softwareviren, Würmer, Zeitbomben, Trojanische Pferde oder anderen Computercode, Dateien, Denial-of-Service oder Programme, die die Software, die Hardware oder die Telekommunikationsgeräte eines Computers unterbrechen, vernichten oder einschränken.
+
+"Cloud-Services" bedeutet Online-Services und EMCS.
+
+"Daten" bedeutet kommerziell verfügbare digitale Datensätze, die Esri mit anderen Esri Angeboten bündelt oder einzeln zur Verfügung stellt, einschließlich (ohne Anspruch auf Vollständigkeit) geographischer Vektordaten-Koordinaten, Rasterdatenberichte oder begleitender tabellarischer Attribute. "Daten" schließt alle Inhalte aus, die von Personen, die nicht Mitarbeiter, Lieferanten oder Auftragnehmer von Esri sind, zur Website von Esri hinzugefügt werden.
+
+"Dokumentation" bedeutet die zusammen mit dem Produkt gelieferte Benutzerdokumentation.
+
+"Esri Angebote" bezeichnet alle Produkte, Wartungsdienste und Dokumentation. Wenn Esri dem Kunden direkt Schulungen oder Professional Services anbietet, sind Schulungsmaterialien und Liefergegenstände in den Esri Angeboten enthalten.
+
+"Esri Managed Cloud Services" oder "EMCS" bezeichnet eine Hardware-, Software-, Daten- und Netzwerkplattform und damit verbundene Systemüberwachungs- und Support-Dienste, die Esri anbietet, um Inhalte der Kunden für Kunden oder Endbenutzer von Kunden über das Internet zu speichern und zur Verfügung zu stellen.
+
+"GIS" bedeutet Geographische Informationssysteme.
+
+"Inhalte" umfasst Daten, Bilder, Fotos, Animationen, Video, Audio, Text, Karten, Datenbanken, Datenmodelle, Kalkulationstabellen, Benutzeroberflächen, Grafikkomponenten, Symbole, Softwareanwendungen, Softwareentwicklungskits (SDKs), APIs, Softwarebibliotheken, Code-Beispiele und andere Ressourcen.
+
+"Inhalte des Kunden" bedeutet alle Inhalte, die der Kunde, die Endbenutzer des Kunden oder alle anderen Benutzer in Verbindung mit der Nutzung von Esri Angeboten durch den Kunden an Esri weitergeben, alle aus der Nutzung der Inhalte des Kunden mit Esri Angeboten abgeleiteten Ergebnisse sowie alle mehrwertigen Anwendungen, die der Kunde mit Produkten entwickelt und bereitstellt. "Inhalte des Kunden" schließt sämtliche vom Kunden bei Esri eingereichten Rückmeldungen, Vorschläge oder Anfragen nach Verbesserungen aus.
+
+"Kommerzielle ASP-Nutzung" bedeutet die Nutzung als kommerzieller Application Service Provider, d. h. die Generierung von Umsätzen durch Bereitstellung eines Zugangs zur Software über eine mehrwertige Anwendung, zum Beispiel indem eine Subskriptionsgebühr, Servicegebühr oder jegliche andere Form von Transaktionsgebühr erhoben wird oder bedeutende Werbeeinnahmen erzielt werden.
+
+"Kontrolle" bedeutet den Besitz von mehr als 50 % der Stimmrechtsaktien oder anderer Stimmrechtsanteile der kontrollierten Organisation.
+
+"Liefergegenstände" bezeichnet alles, was Esri als Folge einer Leistung der Professional Services an den Kunden liefert. Ausgenommen hiervon sind Produkte, Schulungen und Wartung. Zu den Liefergegenständen gehören unter anderem Beratungsdienste, Softwarecode, Dynamic Link Libraries (DLLs) sowie Programme auf jeglichen Medien, die in Quell-, Objekt- oder ausführbarem/n Codeformat(en) zur Verfügung gestellt werden, einschließlich Backups, Aktualisierungen und zusammengeführter Kopien, Methoden, Techniken oder Know-how, technischer Unterstützung, Prozessen, Formeln oder Algorithmen, Designs, Datenwörterbüchern und -modellen, Kompilationen, Schaltplänen, Dokumentation, technische Daten, Zeichnungen, Flowcharts, Zusammenfassungen und Prüf- oder Qualitätskontrollverfahren.
+
+"Mehrwertige Anwendung" bedeutet eine vom Kunden entwickelte Anwendung für den Einsatz in Verbindung mit der autorisierten Nutzung von jeglicher Software, jeglichen Daten oder jeglichen Online-Services.
+
+"Named User" umfasst Mitarbeiter, Vertreter, Berater oder Subunternehmer des Kunden, denen der Kunde eindeutige, sichere Login-Daten (Identität) für Named User zugewiesen hat, die Zugriff auf ein Produkt gewähren, für welches solche Login-Daten erforderlich sind, um durch Zugangsdaten verwaltete Funktionen eines Produkts zum ausschließlichen Vorteil des Kunden zu nutzen. Bei Bildungseinrichtungen dürfen auch eingeschriebene Studierende als Named User geführt werden.
+
+"Named User-Lizenz oder -Subskription" bezeichnet eine Lizenz oder Subskription zur Nutzung durch einen einzelnen Named User.
+
+"Named User-Zugangsdaten" (Named User Credential) bezeichnet Zugangsdaten und ein damit verbundenes Passwort einer einzelnen Person, mit denen diese Person auf die Produkte zugreifen und diese nutzen kann.
+
+"Persönliche Nutzung" bedeutet, dass das Produkt ausschließlich für die persönliche, nicht gewerbliche Nutzung durch einen einzelnen Kunden bestimmt ist. Die Nutzung zugunsten eines Dritten, einschließlich Unternehmen, Bildungs- und Regierungseinrichtungen sowie gemeinnütziger Organisationen, ist untersagt.
+
+"Online-Inhalte" bedeutet Inhalte, die von Esri als Teil der Online-Services gehostet oder bereitgestellt werden, einschließlich sämtlicher Kartendienste (Map Services), Aufgabendienste (Task Services), Bilddienste (Image Services), SDKs, APIs, Softwarebibliotheken, Code-Beispiele und anderen Ressourcen, jedoch keine von Dritten bereitgestellten Inhalte, auf die der Kunde über die Online-Services zugreift.
+
+"Online-Services" bedeutet alle kommerziell verfügbaren internetbasierten Geosysteme, einschließlich Anwendungen und dazugehöriger APIs, für die Speicherung, Verwaltung, Veröffentlichung und Nutzung von Karten, Daten und anderen Informationen. Daten und Inhalte gehören nicht zu den Online-Services.
+
+"Produkt(e)" bedeutet Software, Daten und Cloud-Services, die im Rahmen dieser Vereinbarung lizenziert oder subskribiert werden.
+
+"Professional Services" bezeichnet alle Entwicklungs- oder Beratungsdienste, die Esri dem Kunden zur Verfügung stellt.
+
+"Schulung" bedeutet von einem Schulungsleiter angebotene Schulungs- und Coaching-Dienste für die Nutzung der GIS-Software von Esri.
+
+"Schulungsmaterialien" bedeutet digitale oder ausgedruckte Inhalte, die für Schulungen erforderlich sind, dazu gehören unter anderem Arbeitsbücher, Daten, Konzepte, Übungen und Prüfungen.
+
+"Services" bedeutet die technische Unterstützung, die im Rahmen der Wartung zur Verfügung gestellt wird. Wenn Esri dem Kunden direkt Schulungen oder Professional Services anbietet, sind Schulungsmaterialien und Professional Services in den Services enthalten.
+
+"Software" bedeutet jegliche Bestandskomponente oder die Gesamtheit der unternehmenseigenen, kommerziell erhältlichen und serienmäßig produzierten Software von Esri, ausgenommen Daten, auf die über eine durch Esri autorisierte Website zugegriffen wurde oder die von einer solchen Website heruntergeladen wurden oder die auf einem beliebigen Medium in beliebigem Format geliefert wurden, einschließlich Sicherungskopien, Aktualisierungen, Servicepacks, Patches, Fehlerbehebungssoftware oder erlaubter zusammengeführter Exemplare.
+
+"Unbefristete Lizenzen" (Perpetual Licenses) sind Lizenzen für die dauerhafte Nutzung der Produktversion, für die die entsprechenden Lizenzgebühren entrichtet worden sind, sofern keine Kündigung durch Esri oder durch den Kunden gemäß der vorliegenden Vereinbarung erfolgt.
+
+"Wartung" bezeichnet ein Subskriptionsprogramm, in dessen Rahmen der Kunde das Recht auf Produktaktualisierungen und andere Vorteile hat, z. B. Zugang zu technischem Support und Zugang zu webbasierten Ressourcen zum Selbststudium.
+
+ ANLAGE B
+ALLGEMEINE NUTZUNGSBEDINGUNGEN
+
+Folgende allgemeine Begriffe und Bedingungen gelten für alle Esri Angebote und Dienste, die Esri dem Kunden anbietet. Bestimmte Esri Angebote oder Dienste fallen möglicherweise nicht unter diese Vereinbarung. Alle Begriffe, die nicht für Esri Angebote oder -Dienste gelten, die im Rahmen dieser Vereinbarung angeboten werden, lassen Sie bitte unbeachtet.
+
+ARTIKEL 1 - ALLGEMEINE NUTZUNGSBESCHRÄNKUNGEN
+
+Sofern nicht ausdrücklich in dieser Vereinbarung erlaubt, wird der Kunde
+
+a.	Esri Angebote nicht verkaufen, vermieten, verleasen, unterlizenzieren, vertreiben, ausleihen, übereignen oder im Timesharing nutzen;
+b.	Esri Angebote nicht für kommerzielle ASP-Nutzung oder für Zwecke von Dienstleistungsunternehmen einsetzen;
+c.	direkten Zugang zu Esri Angeboten weder im Ganzen noch in Teilen, einschließlich, aber nicht beschränkt auf Erweiterungen, Komponenten oder DLLs, Dritten ermöglichen;
+d.	keine Autorisierungscodes an Dritte verteilen;
+e.	Produkte oder Liefergegenstände in kompilierter Form nicht zurückentwickeln, dekompilieren oder disassemblieren;
+f.	keinerlei Versuche unternehmen, die technische(n) Maßnahme(n) zu umgehen, durch die der Zugang zu Esri Angeboten oder deren Nutzung kontrolliert wird,
+g.	keine Inhalte speichern, zwischenspeichern, hochladen, verteilen oder unterlizenzieren und keine Esri Angebote anderweitig unter Verletzung von Rechten von Esri oder Dritten nutzen, einschließlich Rechten zum Schutze von geistigem Eigentum, Datenschutzrechten, Gleichbehandlungsrechten und anderer anwendbarer Gesetze oder Vorschriften;
+h.	keine Hinweise auf die Patente, Urheberrechte, Warenzeichen, Eigentumsrechte und/oder Legenden von Esri (oder dessen Lizenzgebern), die in Esri Angeboten, Ausgaben, Metadatendateien oder auf der Hinweisseite in der Online- und/oder Druckausgabe von Daten oder Dokumentationen, die im Rahmen dieser Lizenzvereinbarung mitgeliefert werden, enthalten oder daran angebracht sind, entfernen oder unkenntlich machen,
+i.	keine Einzelteile oder Komponenten von Esri Angeboten entbündeln oder eigenständig nutzen,
+j.	keine Teile von Esri Angeboten in ein Produkt oder einen Service von Dritten einbeziehen, das bzw. der im Wettbewerb mit Esri Angeboten steht,
+k.	keine Ergebnisse von Vergleichstests, die mit Beta-Produkten durchgeführt wurden, ohne vorherige schriftliche Genehmigung von Esri und seinen Lizenzgebern veröffentlichen oder in sonstiger Weise weiterleiten und
+l.	keine Esri Angebote auf eine Weise nutzen, einbeziehen, verändern, verbreiten, zugänglich machen oder kombinieren, bei der diese Esri Angebote oder Teile der Esri Angebote Open-Source- oder Open-Database-Lizenzbedingungen unterworfen würden, die verlangen, dass Esri Angebote
+
+1.	Dritten gegenüber in Source-Code-Form offengelegt werden müssen;
+2.	Dritten zum Zweck der Erstellung von Ableitungen lizenziert werden oder
+3.	Dritten kostenlos zur Weiterverteilung zur Verfügung gestellt werden.
+
+Diese Einschränkungen gelten nur in dem Umfang, in dem geltendes Recht oder Vorschriften derartige Einschränkungen nicht verbieten oder außer Kraft setzen.
+
+ARTIKEL 2 - LAUFZEIT UND KÜNDIGUNG
+
+Diese Vereinbarung ist gültig ab dem Zeitpunkt ihrer Annahme. Der Kunde kann diese Vereinbarung bzw. jede Lizenz oder Subskription für Esri Angebote jederzeit durch schriftliche Benachrichtigung an Esri kündigen. Eine Kündigung ohne Grund gibt dem Kunden kein Recht auf Erstattung von gezahlten Gebühren oder auf Kündigung laufender Services ohne weitere Verpflichtungen. Jede Partei kann diese Vereinbarung oder jede Lizenz oder Subskription aufgrund einer wesentlichen Vertragsverletzung, die nicht innerhalb von 30 Tagen nach einer schriftlichen Mitteilung an die vertragsbrüchige Partei wieder geheilt wird, kündigen. Bei einer Kündigung dieser Vereinbarung aufgrund einer Verletzung stellt Esri die Bereitstellung der Services ein. Alle Lizenzen im Rahmen von Esri Angeboten, die die Kündigung dieser Vereinbarung überdauern, bestehen im Rahmen der Bedingungen dieser Vereinbarung fort.
+
+Wenn Esri diese Vereinbarung nach einer Verletzung durch den Kunden kündigt, darf Esri auch nach eigenem Ermessen die Lizenzen oder Subskriptionen des Kunden kündigen, die in den Esri Angeboten enthalten sind. Wenn der Kunde diese Vereinbarung aus einem beliebigen Grund kündigt, darf der Kunde ebenfalls nach eigenem Ermessen die Lizenzen oder Subskriptionen des Kunden kündigen, die in den Esri Angeboten enthalten sind.
+
+Bei Kündigung einer Lizenz oder Subskription wird der Kunde
+
+a.	den Zugriff auf und die Nutzung der Esri Angebote einstellen,
+b.	alle clientseitigen Datencaches löschen, die von den gekündigten Online-Services abgeleitet wurden, und
+c.	alle Kopien betroffener Esri Angebote im Besitz oder unter der Kontrolle des Kunden nicht mehr nutzen und deinstallieren, entfernen und vernichten, einschließlich sämtlicher in jeglicher Form vorhandenen vollständigen oder teilweisen Kopien oder zusammengefügten Teile, und einen Nachweis über die Durchführung solcher Handlungen gegenüber Esri oder seinem autorisierten Distributor erbringen.
+
+Esri darf die Ausführung der Services umgehend nach der schriftlichen Benachrichtigung an den Kunden einstellen, wenn Konkursverfahren vom oder gegen den Kunden veranlasst werden, bis die Verwalter jeden vorliegenden Verzug beseitigt haben und die künftige Erfüllung der Vereinbarung angemessen zusichern. Diese Vereinbarung erlischt bei Konkurs, Liquidierung oder Auflösung einer Partei.
+
+ARTIKEL 3 - BESCHRÄNKTE GEWÄHRLEISTUNG UND HAFTUNGSAUSSCHLÜSSE
+
+3.1 Beschränkte Gewährleistung. Esri gewährleistet:
+
+a.	für einen Zeitraum von 90 Tagen,
+
+1.	dass die Software bei normalem Gebrauch im Wesentlichen der Dokumentation entspricht und ab dem Lieferdatum alle Medien hinsichtlich Materialien und Verarbeitung fehlerfrei sind,
+2.	dass Schulungsmaterialien ab dem Lieferdatum im Wesentlichen den von Esri veröffentlichten Kursbeschreibungen entsprechen,
+3.	dass Services ab dem Erfüllungsdatum im Wesentlichen den fachlichen und technischen Standards der Softwareindustrie entsprechen und
+4.	dass Liefergegenstände, die zu einem Festpreis verkauft werden, ab dem Datum der Annahme im Wesentlichen den technischen Daten entsprechen, die im Bestelldokument vereinbart wurden.
+
+b.	während der geltenden Subskriptionslaufzeit,
+
+1.	dass Online-Services bei normalem Gebrauch im Wesentlichen der Dokumentation entsprechen;
+2.	dass Wartungsdienste im Wesentlichen den fachlichen und technischen Standards der Softwareindustrie entsprechen und
+3.	dass EMCS Umfang, Beschreibungen und Annahmen für EMCS entsprechen, die im Bestelldokument vereinbart wurden.
+
+3.2 Besonderer Gewährleistungsausschluss. Inhalte, Daten, Beispiele, Hotfixes, Patches, Aktualisierungen, kostenlose Online-Services sowie Test- und Betaversionen werden "so, wie sie vorliegen" und ohne eine Garantie irgendeiner Art zur Verfügung gestellt.
+3.3 Allgemeiner Gewährleistungsausschluss. Mit Ausnahme der ausdrücklich hier genannten beschränkten Gewährleistung lehnt Esri alle anderen ausdrücklichen oder stillschweigenden Garantien oder Bedingungen jeder Art ab, insbesondere Garantien oder Bedingungen hinsichtlich handelsüblicher Qualität, Eignung für einen bestimmten Zweck und Nichtverletzung von geistigen Urheberrechten. Esri sichert nicht zu, dass Esri Angebote oder der Betrieb der Esri Angebote unterbrechungsfrei, fehlerfrei, fehlertolerant oder ausfallsicher sind oder dass alle Mängel verbessert werden oder verbessert werden können. Esri Angebote sind nicht entwickelt, hergestellt oder vorgesehen zur Nutzung in Umgebungen oder Anwendungen, die zum Tode, zu Personen-, Sach- oder Umweltschäden führen können. Der Kunde darf keiner Streckenempfehlung folgen, die gefährlich, unsicher oder ungesetzlich sein könnte. Eine solche Nutzung erfolgt auf Risiko und Kosten des Kunden.
+3.4 Gewährleistungsausschlüsse
+
+a.	Gewährleistungsausschluss bezüglich des Internets. Die Parteien übernehmen keine Haftung für Schäden nach jeglicher Rechtstheorie in Bezug auf die Ausführung oder Einstellung des Betriebs des Internets oder hinsichtlich Vorschriften des Internets, die den Betrieb von Online-Services einschränken oder verbieten.
+b.	Inhalte und Websites von Dritten. Esri ist nicht für Inhalte und Websites von Dritten verantwortlich, die in Esri Angeboten und Esri Websites erscheinen oder auf die verwiesen wird, unter anderem auf www.esri.com und www.arcgis.com. Das Vorhandensein von Links auf Websites und Ressourcen von Dritten impliziert keine Übertragung, Zugehörigkeit oder Unterstützung jeglicher Art.
+
+3.5 Alleiniger Ersatzanspruch. Der alleinige Ersatzanspruch des Kunden und die gesamte Haftung von Esri wegen eines Verstoßes gegen die in diesem Artikel beschriebenen beschränkten Gewährleistungen ist nach alleinigem Ermessen von Esri beschränkt auf (i) Ersatz jeglicher defekter Medien, (ii) Reparatur, Korrektur oder Bereitstellung einer Umarbeitung für die geltenden Esri Angebote oder Dienste oder (iii) Rückerstattung der vom Kunden gezahlten Gebühren für Esri Angebote oder Dienste oder Services, die der beschränkten Gewährleistung von Esri nicht entsprechen, unter der Voraussetzung, dass der Kunde alle Exemplare der geltenden Esri Angebote deinstalliert, entfernt und vernichtet, den Zugriff auf die und die Nutzung der betreffenden Cloud-Services einstellt und den Nachweis über die Durchführung solcher Handlungen entweder gegenüber Esri oder seinem autorisierten Distributor erbringt.
+
+ARTIKEL 4 - HAFTUNGSEINSCHRÄNKUNG
+
+4.1 Ausschluss bestimmter Haftungsarten. Weder der Kunde noch Esri oder ein Esri Distributor oder Lizenzgeber haften für mittelbare, konkrete, beiläufige oder Folgeschäden, einschließlich entgangener Gewinne, entgangener Umsätze oder Verlusts von Firmenwert, Kosten für die Beschaffung von Ersatzprodukten oder -diensten oder Schäden, die über die geltenden für die Esri Angebote, die Grund für die Klage sind, gezahlten oder noch ausstehenden Lizenz- oder Subskriptionsgebühren hinausgehen.
+
+4.2 Die Haftungsbeschränkungen und -ausschlüsse im vorangegangenen Abschnitt gelten nicht für Verletzung, Missbrauch oder Entwendung von geistigen Eigentumsrechten von Esri oder Esri Lizenzgebern, Entschädigungsverpflichtungen beider Parteien, grobe Fahrlässigkeit, absichtliches Fehlverhalten oder Verletzungen der Klausel zur Einhaltung von Exportbestimmungen oder geltender Gesetze oder Vorschriften durch den Kunden.
+
+4.3 Anwendbarkeit der Gewährleistungsausschlüsse und Einschränkungen. Esri oder sein autorisierter Distributor hat im Vertrauen auf die in dieser Vereinbarung beschriebenen Gewährleistungsausschlüsse und Haftungsbeschränkungen seine Gebühren festgesetzt und diese Vereinbarung abgeschlossen. Diese Gebühren geben eine Risikozuordnung unter den Parteien wieder und stellen eine entscheidende Grundlage für den zwischen den Parteien getroffenen Geschäftsabschluss dar. Diese Einschränkungen gelten ungeachtet der Frage, ob eine Partei über die Möglichkeit eines Schadens informiert ist, und selbst dann, wenn der wesentliche Zweck ausschließlicher, beschränkter Abhilfemaßnahmen nicht erreicht wird.
+
+4.4 Die vorstehenden Gewährleistungen, Beschränkungen und Ausschlüsse sind möglicherweise nicht in allen Rechtsordnungen gültig und gelten nur in dem Umfang, der gemäß dem geltenden Recht unter der Rechtsordnung des Kunden zulässig ist. Der Kunde verfügt möglicherweise über zusätzliche Rechte im Rahmen des Gesetzes, die nicht abdingbar sind. Esri zielt nicht darauf ab, die Gewährleistung oder Rechtsmittel des Kunden in einem nach dem Gesetz unzulässigen Umfang einzuschränken.
+
+ARTIKEL 5 - SCHADLOSHALTUNG
+
+5.1 Definitionen. Folgende Definitionen ergänzen die in Anlage A festgelegten Definitionen:
+
+a. "Anspruch" bedeutet alle Ansprüche, Klagen oder Forderungen einer dritten Partei.
+b. "Entschädigungsberechtigte" bezeichnet den Kunden und seine Direktoren, Angestellten und Mitarbeiter.
+c. "Ansprüche wegen Verletzung von Rechten Dritter" bezeichnet alle Ansprüche, die aufgrund einer Verletzung von US-Patenten, Urheberrechten, Warenzeichen oder Geschäftsgeheimnissen durch die Nutzung von oder den Zugang zu Esri Angeboten oder Diensten durch den Kunden geltend gemacht werden.
+d. "Verlust(e)" bezeichnet Verluste, zugesprochenen Schadenersatz, Abrechnungsbeträge, Kosten oder Ausgaben, einschließlich zugesprochener Rechtsanwaltskosten.
+
+5.2 Schadloshaltung bei Rechtsverletzungen
+
+a.	Esri wird alle Entschädigungsberechtigten hinsichtlich jeglicher Ansprüche wegen Verletzung von Rechten Dritter verteidigen und schadlos halten und alle Verluste aufgrund von Ansprüchen wegen Verletzung von Rechten Dritter gemäß den folgenden Abschnitten erstatten.
+b.	Wenn Esri einen Anspruch wegen Verletzung von Rechten Dritter anerkennt, kann Esri auf eigene Kosten entweder (i) für Kunden das Recht erwerben, Esri Angebote weiterhin zu nutzen, oder (ii) die Esri Angebote so verändern, dass eine im Wesentlichen ähnliche Funktionalität aufrechterhalten bleibt. Wenn keine der beiden Alternativen wirtschaftlich sinnvoll ist, kann Esri das Recht zur Nutzung der Esri Angebote durch den Kunden kündigen und erstattet (a) geltende Gebühren für Services, (b) Lizenzgebühren, die der Kunde für die verletzenden Esri Angebote im Rahmen einer unbefristeten Lizenz gezahlt hat, und zwar anteilsmäßig auf der Basis einer linearen Abschreibung über einen Zeitraum von fünf (5) Jahren beginnend mit dem ursprünglichen Lieferdatum, oder (c) für befristete Lizenzen, Subskriptionen und Wartungsdienste den nicht genutzten Anteil der gezahlten Gebühren.
+c.	Esri ist nicht verpflichtet, Ansprüche wegen Rechtsverletzungen Dritter zu verteidigen oder den Kunden in dem Umfang zu entschädigen, in dem die Ansprüche wegen Rechtsverletzungen auftreten aufgrund von (i) einer Kombination oder Integration von Esri Angeboten mit nicht von Esri gelieferten oder nicht von Esri in seiner Dokumentation angegebenen Produkten, Prozessen, Systemen oder Elementen, (ii) durch irgendeine andere Partei außer Esri oder in dessen Auftrag handelnden Subunternehmern vorgenommenen Materialveränderungen an Esri Angeboten, (iii) der Einhaltung von Kundenspezifikationen oder (iv) der Nutzung von Esri Angeboten, nachdem Esri entweder eine modifizierte Version zur Vermeidung einer Rechtsverletzung zur Verfügung gestellt oder das Recht des Kunden zur Nutzung der Esri Angebote gekündigt hat.
+
+5.3 Allgemeine Schadloshaltung. Esri wird alle Entschädigungsberechtigten verteidigen und schadlos halten und alle Verluste erstatten aufgrund von Schadenersatzansprüchen wegen Körperverletzung, Tod oder Sachbeschädigung (ausgenommen hiervon sind Datenbanken, die über kein angemessenes Backup-Programm verfügen), die gegen die entschädigungsberechtigten Parteien aufgrund von Fahrlässigkeit oder Unterlassung oder absichtlichem Fehlverhalten durch Esri oder seine Direktoren, Angestellten, Mitarbeiter oder Vertreter, die am Standort des Kunden Services durchführen, vorgebracht werden.
+
+5.4 Voraussetzungen für die Schadloshaltung. Als Voraussetzung für die Schadloshaltung werden Entschädigungsberechtigte (i) Esri sofort schriftlich über den Anspruch informieren, (ii) alle verfügbaren Dokumente, die den Anspruch beschreiben, zur Verfügung stellen, (iii) Esri die alleinige Kontrolle über die Verteidigung gegen alle Klagen und Verhandlungen im Zusammenhang mit der Verteidigung gegen oder der Abwicklung der Ansprüche wegen Rechtsverletzungen überlassen und (iv) bei der Verteidigung gegen Ansprüche wegen Rechtsverletzung auf Anfrage und Kosten von Esri angemessen kooperieren.
+
+5.5 Dieser Abschnitt legt die gesamte Verpflichtung von Esri, seinem autorisierten Distributor und seinen Lizenzgebern hinsichtlich jeglicher Ansprüche fest.
+
+ARTIKEL 6 - VERSICHERUNG
+
+Wenn Esri Services zur Verfügung stellt, verfügt Esri mindestens über folgenden Versicherungsschutz:
+
+a.	Umfassende allgemeine Haftpflichtversicherung oder Betriebshaftpflichtversicherung mit einer einfach maximierten Pauschaldeckungssumme von ($1.000.000,00) pro Vorfall für Körperverletzung, einschließlich Tod, und Sachschäden, einschließlich:
+
+1. Anlagen und Betrieb;
+2. Pauschale vertragliche Haftung;
+3. Pauschaldeckung für Sachschäden;
+4. Unabhängige Auftragnehmer;
+5. Personenschaden, wobei der Ausschluss von Mitarbeitern entfernt wurde; und
+6. Abgeschlossene Tätigkeiten.
+
+b.	Arbeiterunfallversicherung mit Verzicht auf Forderungsübergang in einer gesetzlich erforderlichen Höhe.
+
+ARTIKEL 7 - SICHERHEIT UND COMPLIANCE
+
+7.1 Einhaltung von Exportbestimmungen. Beide Parteien halten sämtliche geltenden Exportgesetze und -vorschriften ein, einschließlich der Export Administration Regulations (EAR) des US Department of Commerce, der International Traffic in Arms Regulations (ITAR) des US Department of State und sonstiger geltender Exportgesetze. Der Kunde darf Services oder Esri Angebote, ganz oder in Teilen, nicht in Länder, die unter einem US-Embargo stehen, oder an Personen oder Körperschaften, die vom Handel ausgeschlossen sind, exportieren, reexportieren, übertragen, freigeben oder auf andere Weise abgeben oder den Zugriff darauf bzw. ihre Übertragung oder Nutzung gestatten, wenn nicht alle zu diesem Zeitpunkt geltenden Exportgesetze und -vorschriften der US-Regierung eingehalten werden. Der Kunde darf Services oder Esri Angebote nicht ohne eine entsprechende Genehmigung der US-Regierung für bestimmte Aktivitäten oder Nutzungszwecke hinsichtlich technischer oder nuklearer, chemischer oder biologischer Waffen exportieren, reexportieren, übertragen oder nutzen. Der Kunde wird Esri unverzüglich schriftlich benachrichtigen, wenn eine Behörde oder Regierungsstelle der USA die Exportprivilegien des Kunden ablehnt, aussetzt oder widerruft. Der Kunde wird keine Inhalte des Kunden in Cloud-Services hochladen, speichern oder verarbeiten, die (i) nicht mit der Export Control Classification Number (ECCN) EAR99 versehen sind oder (ii) hinsichtlich des Exports aus den Vereinigten Staaten im Rahmen von ITAR kontrolliert werden. Vor der Einholung der notwendigen Exportlizenzen von der US-Regierung erbringt Esri keine Services und bietet keine Esri Angebote in Verbindung mit Artikeln oder Services zur Verteidigung oder technischen Daten gemäß ITAR Abschnitt 120.6, 120.9 und 120.10. Der Kunde unterstützt Esri bei Bedarf bei der Beantragung und Einholung von Exportlizenzen.
+
+7.2 Sicherheit. Esri veröffentlicht seine Sicherheitsfunktionen unter http://doc.arcgis.com/en/trust/security/security-overview.htm. Der Kunde kann Mitarbeitern von Esri Zugang zu Kundensystemen oder persönlichen Daten von Kunden oder Dritten zur Verfügung stellen, wenn der Zugang für die Erbringung von Services durch Esri erforderlich ist und wenn Esri diesem Zugang ausdrücklich zustimmt. Esri setzt angemessene administrative, technische und physische Sicherheitsmaßnahmen ein, um diese Daten zu sichern und vor unbefugtem Zugang zu schützen. Der Kunde trägt die Verantwortung dafür, (i) zu bestätigen, dass die von Esri veröffentlichten Sicherheits- und Datenschutzkontrollen alle geltenden rechtlichen Anforderungen zum Schutz von Inhalten des Kunden erfüllen, und (ii) Inhalte des Kunden nur in die Cloud-Services hochzuladen oder in Cloud-Services freizugeben, wenn dies rechtlich zulässig ist. Esri ist nicht für die Prüfung von Inhalten des Kunden verantwortlich, um die Einhaltung geltender Gesetze und Vorschriften zu gewährleisten.
+
+ARTIKEL 8 - UNTERBRECHUNG, AUSFALL UND AUSSETZUNG VON CLOUD-SERVICES
+
+8.1 Verbotene Nutzung. Der Kunde darf Cloud-Services nicht abrufen oder nutzen, um
+
+a.	Spam, Spoof oder Phishing-E-Mails zu verbreiten, Junk-E-Mails oder beleidigende oder diffamierende Materialien zu übertragen oder zu stalken oder Drohungen auszusprechen,
+b.	bösartigen Code zu speichern oder zu übertragen,
+c.	gegen Gesetze oder Vorschriften zu verstoßen,
+d.	Rechte Dritter zu verletzen oder zu missbrauchen,
+e.	die Angreifbarkeit der Cloud-Services zu prüfen, zu scannen oder zu testen oder Sicherheits- oder Authentifizierungsmaßnahmen der Cloud-Services zu verletzen oder
+f.	Verfügbarkeit, Leistung oder Funktionalität der Cloud-Services zu Wettbewerbszwecken zu bewerten.
+
+8.2 Service-Unterbrechung. Systemausfälle oder andere Vorfälle außerhalb der angemessenen Kontrolle von Esri können den Zugang des Kunden zu den Online-Services unterbrechen. Esri kann möglicherweise keine Vorabbenachrichtigung über solche Unterbrechungen senden.
+
+8.3 Löschen von Inhalten des Kunden. Esri darf alle Teile der Inhalte des Kunden entfernen oder löschen, wenn Grund zu der Annahme besteht, dass das Hochladen zu oder die Nutzung mit den Cloud-Services gegen diese Vereinbarung verstößt. Sofern es unter diesen Umständen angemessen ist, wird Esri den Kunden vor dem Entfernen seiner Inhalte benachrichtigen. Esri wird auf alle Bescheide des Digital Millennium Copyright Act zur Entfernung von Inhalten gemäß der Esri Copyright Policy reagieren, die unter http://www.esri.com/legal/dmca_policy zu finden ist.
+
+8.4 Aussetzen des Service. Esri kann den Zugang zu Cloud-Services aussetzen, (i) wenn der Kunde gegen diese Vereinbarung verstößt und die Verletzung nicht zeitnah behebt; (ii) wenn Esri der Meinung ist, dass die Nutzung der Cloud-Services durch den Kunden eine unmittelbare Haftung von Esri nach sich zieht oder die Integrität, Funktionalität oder Verwendbarkeit der Cloud-Services berührt; (iii) bei geplanten Wartungsarbeiten; (iv) um eine Bedrohung oder einen Angriff auf die Cloud-Services abzuwehren; oder (v) wenn Cloud-Services gesetzlich verboten oder reguliert werden, sodass eine fortgesetzte Bereitstellung eine wirtschaftliche Belastung darstellt. Sofern machbar, wird Esri den Kunden über jegliche Aussetzung der Cloud-Services im Voraus benachrichtigen und ihm die Möglichkeit geben, Abhilfemaßnahmen zu treffen.
+
+Esri ist nicht für Schäden, Verbindlichkeiten oder Verluste verantwortlich, die aufgrund von Unterbrechungen oder Aussetzungen von Online-Services oder der Entfernung von Inhalten des Kunden wie oben beschrieben entstehen.
+
+ARTIKEL 9 - ALLGEMEINE BESTIMMUNGEN
+
+9.1 Zahlung. Der Kunde hat jede korrekte Rechnung spätestens 30 Tage nach Erhalt an die auf der Rechnung angegebene Adresse zu zahlen.
+
+9.2 Feedback. Esri ist berechtigt, sämtliche vom Kunden bei Esri eingereichten Rückmeldungen, Vorschläge oder Anfragen nach Produktverbesserungen frei zu nutzen.
+
+9.3 Patente. Der Kunde darf weltweit keine Patente oder ähnlichen Rechte, die auf Produkten basieren oder diese beinhalten, beantragen oder durch Dritte beantragen lassen. Das ausdrückliche Patentierungsverbot gilt nicht für Software und Technologie des Kunden, außer insoweit, als Produkte von Esri oder Teile davon Gegenstand eines Anspruchs oder der besten Einsatzform der Erfindung einer Patentanmeldung oder ähnlichen Anmeldung sind.
+
+9.4 Steuern und Gebühren, Frachtkosten. Die dem Kunden genannten Gebühren verstehen sich zuzüglich aller geltenden Steuern und Gebühren, einschließlich (ohne Anspruch auf Vollständigkeit) Mehrwertsteuer (MwSt), Umsatzsteuer (USt), Zöllen, Abgaben und sonstiger Steuern, Frachtkosten und Bearbeitungsgebühren.
+
+9.5 Konformitätsprüfung. Der Kunde muss wahrheitsgetreue und vollständige Aufzeichnungen und Bücher im Hinblick auf die Erfüllung seiner Verpflichtungen aus dieser Vereinbarung führen. Esri oder sein autorisierter Distributor können eine Konformitätsprüfung dieser Aufzeichnungen und Bücher durchführen, die mindestens sieben (7) Geschäftstage im Voraus angekündigt werden muss, oder einen unabhängigen Dritten beauftragen, eine solche Konformitätsprüfung in ihrem Namen durchzuführen. Der Kunde muss Konformitätsmängel, die bei dieser Konformitätsprüfung festgestellt werden, unverzüglich beseitigen. Weder Esri noch der Distributor dürfen innerhalb von zwölf (12) Monaten nach Abschluss einer vorherigen Konformitätsprüfung, bei der keine wesentlichen Konformitätsmängel seitens des Kunden festgestellt wurden, eine Konformitätsprüfung beim Kunden durchführen.
+
+9.6 Kein konkludenter Verzicht. Unterlässt es eine Partei, die Bestimmungen dieser Vereinbarung durchzusetzen, kann dies nicht als Verzicht auf die Bestimmungen oder das Recht der betreffenden Partei gelten, diese oder andere Bestimmungen zu einem späteren Zeitpunkt durchzusetzen.
+
+9.7 Salvatorische Klausel. Für den Fall, dass eine Bestimmung dieser Vereinbarung aus irgendeinem Grund als nicht durchsetzbar betrachtet wird, vereinbaren die Parteien, dass eine solche Bestimmung nur in dem Umfang neu formuliert wird, der notwendig ist, um die Absicht des Wortlauts durchsetzbar zu machen.
+
+9.8 Rechtsnachfolger und Abtretungsempfänger. Der Kunde darf ohne die vorherige schriftliche Zustimmung von Esri und dessen autorisiertem Distributor seine Rechte nicht abtreten, unterlizenzieren oder übertragen und seine Verpflichtungen unter dieser Vereinbarung nicht delegieren; jeder Versuch, dies ohne Zustimmung zu tun, ist nichtig. Diese Vereinbarung ist für die jeweiligen Rechtsnachfolger und Abtretungsempfänger der Vertragsparteien verbindlich. Unbeschadet dieser Bestimmungen kann ein Auftragnehmer, der mit der Regierung einen Vertrag über die Lieferung von Produkten an die Regierung der Vereinigten Staaten abgeschlossen hat, diese Vereinbarung und die für die Lieferung erworbenen Produkte nach schriftlicher Mitteilung an Esri an eine Regierungsbehörde der Vereinigten Staaten abtreten, falls die Regierungsbehörde der Vereinigten Staaten den Bedingungen dieser Vereinbarung zustimmt.
+
+9.9 Fortgeltung einzelner Bestimmungen. Das Begriffsverzeichnis und die Abschnitte 3, 4, 5 und 9 dieser Allgemeinen Geschäftsbedingungen gelten auch über das Erlöschen oder die Beendigung dieser Lizenzvereinbarung hinaus.
+
+9.10 US-Regierung als Kunde. Die Produkte sind kommerzielle, auf private Kosten entwickelte Artikel, die dem Kunden gemäß dieser Vereinbarung zur Verfügung gestellt werden. Wenn der Kunde eine Regierungsbehörde oder ein Auftragnehmer der Regierung der Vereinigten Staaten ist, lizenziert Esri dem Kunden die Produkte oder bietet dem Kunden Subskriptionen gemäß dieser Vereinbarung im Rahmen der Unterpunkte der FAR-Klauseln 12.211/12.212 oder von DFARS Unterpunkt 227.7202. Esri Daten und -Online-Services werden im Rahmen derselben Richtlinie des DFARS-Unterpunktes 227.7202 als kommerzielle Computersoftware für im Rahmen von DFARS getätigte Käufe lizenziert oder als Subskription vergeben. Die Produkte unterliegen Einschränkungen, und diese Vereinbarung regelt die Nutzung, Änderung, Erfüllung, Vervielfältigung, Freigabe, Darstellung und Veröffentlichung der Produkte durch den Kunden. Bestimmungen dieser Vereinbarung, die gegen Bundesgesetze verstoßen, sind nicht anwendbar. Ein US-Kunde darf die Software an jede seiner Einrichtungen übertragen, an die Computer übergeben werden, auf denen die Software installiert ist. Falls irgendein Gericht, irgendein Schiedsrichter oder irgendeine Kammer unter dem gültigen Vergaberecht behauptet, dass der US-Regierungskunde weitergehende Rechte auf irgendeinen Teil der Produkte hat, dann erstrecken sich solche Rechte nur auf den (die) betroffenen Teil(e).
+
+9.11 Anzuwendendes Recht. Diese Vereinbarung unterliegt den Bundesgesetzen der Vereinigten Staaten und den Gesetzen des Staates Kalifornien, ohne Bezugnahme auf Prinzipien des internationalen Privatrechts. Diese Vereinbarung unterliegt nicht der Konvention der Vereinten Nationen über Verträge für den internationalen Warenverkauf.
+
+9.12Lösung von Streitfällen. Bei Streitfällen gilt folgendes Verfahren:
+
+a.	Einstweiliger Rechtsschutz. Die Parteien haben das Recht auf die Beantragung einer einstweiligen Verfügung, effektive Vertragserfüllung oder einen anderen Rechtsbehelf nach dem Billigkeitsrecht vor jedem zuständigen Gericht, ohne dass eine Kaution erforderlich ist oder die Verletzung als Voraussetzung nachgewiesen werden muss.
+b.	US-Regierungsbehörden. Diese Vereinbarung unterliegt dem "Contract Disputes Act" von 1978 in der geänderten Fassung (41 USC 601-613).
+c.	Sonstige Regierungsorganisationen. Esri hält die obligatorischen Lösungsverfahren im Rahmen geltender Gesetze ein.
+d.	Schiedsgericht. Mit Ausnahme des Voranstehenden unterwerfen sich die Parteien einem bindenden Schiedsgericht, das Streitfälle aufgrund oder in Verbindung mit dieser Vereinbarung löst, die nicht durch Verhandlungen gelöst werden können. Wenn der Kunde sich in den Vereinigten Staaten oder deren Territorien oder exterritorialen Gebieten befindet, regeln die Commercial Arbitration Rules der American Arbitration Association das Schiedsgerichtsverfahren. Wenn der Kunde sich nicht in den Vereinigten Staaten befindet, regelt die Internationale Handelskammer das Schiedsgerichtsverfahren. Die Parteien wählen einen Schiedsrichter gemäß den geltenden Schiedsgerichtsregeln. Die Sprache des Schiedsgerichtsverfahrens ist Englisch. Das Schiedsgerichtsverfahren wird an einem vereinbarten Standort durchgeführt. Jede der beiden Parteien wird auf Antrag der anderen Partei Dokumente oder Zeugen beibringen, die für die hauptsächlichen Aspekte des Streitfalls relevant sind.
+
+9.13 Höhere Gewalt. Keine der Parteien ist verantwortlich für die Nichterfüllung bzw. verzögerte Erfüllung dieser Vereinbarung in einem Zeitraum, in dem die Nichterfüllung bzw. Verzögerung auf Ursachen zurückzuführen ist, die außerhalb der angemessenen Kontrolle der jeweiligen Partei liegen. Solche Ursachen sind unter anderem Naturkatastrophen, Kriege, Streiks, Arbeitskämpfe, Cyberangriffe, Gesetze, Vorschriften, behördliche Anordnungen und sonstige Ereignisse höherer Gewalt.
+
+9.14 Unabhängige Auftragnehmer. Esri ist ein unabhängiger Auftragnehmer und wird es immer sein. Nichts in dieser Vereinbarung begründet ein Verhältnis von Arbeitgeber/Arbeitnehmer oder Auftraggeber/Auftragnehmer oder ein Joint-Venture zwischen Esri oder seinem autorisierten Distributor und dem Kunden. Die Parteien haben keine Befugnis, Verträge im Namen der anderen Partei abzuschließen oder anderweitig im Namen der anderen Partei zu handeln.
+
+9.15 Mitteilungen. Der Kunde sendet Mitteilungen im Rahmen dieser Vereinbarung an folgende Adresse:
+
+Environmental Systems Research Institute, Inc.
+Attn.: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+USA
+
+Tel.: 909-793-2853
+E-Mail: LegalNotices@esri.com
+
+ANHANG 1
+PRODUKT-SPEZIFISCHE NUTZUNGSBEDINGUNGEN
+(E300 09/22/2016)
+
+SOFTWARE
+
+Folgende Tabelle führt zusätzliche Nutzungsbedingungen für bestimmte Software-Produkte auf. Jeder Produkteintrag verweist auf eine oder mehrere Fußnoten für das jeweilige Produkt. Diese Fußnoten ergänzen die Bedingungen der Vereinbarung. Die Definitionen dieser Fußnoten sind nach der Tabelle aufgeführt. Sofern nicht im entsprechenden Bestelldokument angegeben, folgen Erweiterungen der Software demselben Nutzungsumfang, der für die entsprechende Software gewährt wurde.
+
+Desktop-Produkte
+▪	ArcGIS Desktop (Advanced, Standard oder Basic) (26)
+▪	ArcGIS Earth (65)
+▪	ArcGIS Explorer Desktop (20)
+▪	ArcGIS for AutoCAD (20)
+▪	ArcPad (13)
+▪	ArcReader (20)
+▪	ArcGIS for Windows Mobile (15; 54)
+▪	ArcGIS for Personal Use (3, 26)
+
+Server-Produkte
+▪	ArcGIS Enterprise
+-	Standard oder Advanced (21; 31)
+-	Workgroup Standard oder Advanced (21; 28; 29; 30; 32)
+-	ArcGIS GIS Server (Standard oder Advanced) (31)
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server Workgroup (Standard oder Advanced) (28; 29; 30; 32)
+-	ArcGIS GIS Server Workgroup Basic (39)
+-	ArcGIS GIS Server Extension
+-	ArcGIS Maritime: Server (2)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4)
+▪	Esri Business Analyst Server
+-	Workgroup (28; 29; 30; 31; 39)
+-	Enterprise (31; 39)
+▪	World Geocoder for ArcGIS Basic (67)
+Entwicklerwerkzeuge
+▪	AppStudio for ArcGIS Standard (11, 16, 19)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [Desktop], Windows Phone, Windows Store), Qt oder WPF (16; 19)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [Desktop], Windows Phone, Windows Store), Qt oder WPF (15, 18)
+▪	ArcGIS Engine Developer Kit und Erweiterungen (16, 19, 22, 26)
+▪	ArcGIS Engine for Windows/Linux und Erweiterungen (15; 22; 26)
+▪	ArcGIS Web Mapping (inklusive ArcGIS API for JavaScript/HTML5, ArcGIS API for Flex, ArcGIS API for Microsoft Silverlight) (15; 16; 64; 66)
+▪	ArcGIS Developer Subscription (24; 26)
+▪	Esri File Geodatabase API (47)
+
+Sonstige
+▪	Navigator for ArcGIS (14)
+
+Fußnoten:
+
+1. Freigehalten.
+2. Nicht zur Verwendung für Navigationszwecke.
+3. Nur für den persönlichen Gebrauch lizenziert.
+4. Bei Nutzung mit ArcGIS Enterprise Workgroup
+-	Auf einen (1) Server mit vier Kernen beschränkt.
+-	Kann auf einem separaten Rechner installiert werden.
+	5-10.	Freigehalten.
+11.	Mit AppStudio for ArcGIS Standard entwickelte Anwendungen unterliegen den Nutzungsbedingungen für ArcGIS Runtime Standard Level.
+12.	Freigehalten.
+13.	"Zweifachlizenz (Dual Use License)" bedeutet, dass die Software auf einem Desktop-Computer installiert und zusätzlich entweder auf einem Personal Digital Assistant (PDA) oder auf einem tragbaren Computer benutzt werden darf, unter der Voraussetzung, dass die Software stets nur von einer einzelnen Person verwendet wird.
+14.	Kann für Navigationszwecke verwendet werden.
+15.	Lizenziert als Einsatzlizenz (Deployment License).
+16.	Der Kunde darf die SDKs oder APIs zur Erstellung von mehrwertigen Anwendungen nutzen und diese mehrwertigen Anwendungen an seine Endbenutzer zur beliebigen Nutzung vertreiben und lizenzieren, wenn nicht durch Exportbestimmungen verboten.
+17.	Freigehalten.
+18.	Die Einsatzlizenz gilt für jeweils eine mehrwertige Anwendung pro Computer für Stand-alone-Anwendungen.
+19.	Die Lizenz darf nicht für die Entwicklung von internet- oder serverbasierten mehrwertigen Anwendungen verwendet werden.
+20.	Der Kunde darf die Software reproduzieren und vertreiben, sofern folgende Voraussetzungen erfüllt sind:
+
+a.	Die Software wird in ihrer Gesamtheit vervielfältigt und vertrieben.
+b.	Jede Kopie der Software wird von einer Lizenzvereinbarung begleitet, die die Software in demselben Umfang schützt wie diese Lizenzvereinbarung, und der Empfänger stimmt zu, an die Bedingungen der Lizenzvereinbarung gebunden zu sein.
+c.	Alle Hinweise auf Urheberrechte und Warenzeichen sowie deren Nennung werden reproduziert.
+d.	Es wird keine Gebühr erhoben, die der Nutzung der Software zurechenbar ist.
+
+21.	Der Kunde darf mehrwertige Anwendungen entwickeln, die durch die Named User des Kunden verwendet werden können. Der Kunde darf keine Zugangsdaten eines Named User in eine mehrwertige Anwendung integrieren. Der Kunde darf keine App-Login-Zugangsdaten mit mehrwertigen Anwendungen integrieren oder nutzen. Mehrwertige Anwendungen erfordern Login-Daten eines Named User.
+22.	a.	Ein Endbenutzer muss entweder ArcGIS Engine for Windows/Linux Software oder andere ArcGIS Desktop Software (Basic, Standard oder Advanced) lizenzieren, um das Recht zu erhalten, eine ArcGIS Engine Anwendung auf einem Computer laufen zu lassen.
+b.	Die Erweiterungen für ArcGIS Engine for Windows/Linux dürfen nicht in Kombination mit ArcGIS Desktop Software zum Ausführen von mehrwertigen ArcGIS Engine Anwendungen verwendet werden. Ein einzelner Benutzer darf mehrere mehrwertige ArcGIS Engine Anwendungen auf 1 Computer installiert haben, die nur von diesem Endbenutzer verwendet werden.
+23.	Freigehalten.
+24.	Die Software darf ausschließlich zu Entwicklungs-, Test- und Vorführzwecken des Prototyps einer mehrwertigen Anwendung sowie zum Erstellen von Karten-Caches verwendet werden. Mehrwertige Anwendungen und Karten-Caches können in Verbindung mit ArcGIS Enterprise Server-Entwicklungs- und -Einsatzlizenzen verwendet werden. Die Software und Daten können auf mehreren Computern installiert und von jedem Abonnenten einer ArcGIS Developer Subscription mit erweiterter oder höherwertiger Subskription verwendet werden; alle sonstige Software wird als Einzelnutzungslizenz lizenziert.
+25.	Freigehalten.
+26.	Eine Personal Edition Geodatabase ist auf eine Datenmenge von 10 Gigabyte Daten des Kunden beschränkt.
+27.	Freigehalten.
+28.	Die Nutzung ist auf zehn (10) simultane Endbenutzer von anderen Anwendungen als ArcGIS Enterprise Workgroup oder ArcGIS GIS Server Workgroup beschränkt. Diese Beschränkung schließt die Nutzung durch ArcGIS Desktop Software, ArcGIS Engine Software und Anwendungen Dritter, die in direkter Verbindung zu einer ArcGIS Enterprise Workgroup oder ArcGIS GIS Server Workgroup Geodatenbase stehen, ein. Die Anzahl der Verbindungen von Web-Anwendungen unterliegt keinerlei Beschränkung.
+29.	Software kann nur mit einer unterstützten Version von SQL Server Express verwendet werden. Auf der Esri Website finden Sie eine Liste unterstützter Versionen und Systemanforderungen für das Produkt.
+30.	Die Nutzung ist auf eine Datenmenge von maximal 10 Gigabyte von Daten des Kunden beschränkt.
+31.	 Möglicherweise verfügt der Kunde über (eine) redundante Esri Server-Softwareinstallation(en) für den Ausfallsicherungsbetrieb, jedoch kann die redundante Software nur in dem Zeitraum eingesetzt werden, in dem das Primärsystem nicht funktionsfähig ist (aktiv-passive-Ausfallsicherung). Außer zum Zwecke der Systemwartung und Aktualisierung der Datenbanken wird bzw. müssen redundante Software-Installation(en) inaktiv bleiben, solange das Primärsystem oder ein anderes redundantes System funktionsfähig ist.
+32.	Eine redundante Software-Installation für den Ausfallsicherungsbetrieb ist nicht erlaubt.
+33-38.	Freigehalten.
+39.	Die Nutzung jeglicher in ArcGIS GIS Server enthaltenen Bearbeitungsfunktionen ist mit ArcGIS GIS Server Basic (Workgroup oder Enterprise) nicht gestattet.
+40-46.	Freigehalten.
+47.	Der Kunde darf mehrwertige Anwendungen, die die Esri File Geodatabase API nutzen, entwickeln und an seine Endbenutzer vertreiben.
+48-53.	Freigehalten.
+54.	ArcGIS for Windows Mobile Deployments wird für den Einsatz mit ArcGIS Enterprise (Advanced oder Standard), ArcGIS Enterprise Workgroup (Advanced), ArcGIS for Desktop (Advanced, Standard, Basic) und mehrwertigen ArcGIS Engine Anwendungen lizenziert.
+55-63.	Freigehalten.
+64.	Mehrwertige Anwendungen für den Webeinsatz dürfen nur in Verbindung mit anderen Esri Produkten verwendet werden. Solange die mehrwertigen Anwendungen stets in Verbindung mit anderen Esri Produkten verwendet werden, dürfen die mehrwertigen Anwendungen auch in Verbindung mit Technologien Dritter verwendet werden.
+65.	Die Nutzung ist nur in Verbindung mit anderen Esri Produkten gestattet. Solange ArcGIS Earth stets in Verbindung mit anderen Esri Produkten verwendet wird, darf ArcGIS Earth auch in Verbindung mit Technologien Dritter verwendet werden.
+66.	Für Desktop-Anwendungen gilt jede Lizenz pro Organisation. Für Zwecke dieser Lizenz wird die Organisation mit einer eindeutigen, registrierten Hauptdomäne gleichgesetzt. Als Domäne wird der Internet Domain-Name verstanden, der bei einer Registrierstelle für Internet Domain-Namen registriert wurde. Beispielsweise ist in "example.com" "example.com" die eindeutige, registrierte Hauptdomäne. Ebenso steht in "example.com.xx" "xx" für einen registrierten Ländercode und "example.com.xx" ist die eindeutige, registrierte Domäne. Desktop-Anwendungen können von allen Angehörigen der Organisation mit der eindeutigen, registrierten Hauptdomäne verwendet werden. Die Anzahl der Anwendungen, die innerhalb der Organisation erstellt und verwendet werden, ist unbeschränkt.
+67.	Während der Laufzeit der Jahressubskription auf 250.000.000 Geocodes beschränkt.
+ ONLINE-SERVICES
+
+Folgende Tabelle führt zusätzliche Nutzungsbedingungen für bestimmte Online-Services auf. Jeder Produkteintrag verweist auf eine oder mehrere Fußnoten für das jeweilige Produkt. Diese Fußnoten ergänzen die Bedingungen der Vereinbarung. Die Definitionen dieser Fußnoten sind nach der Tabelle aufgeführt. Sofern nicht im entsprechenden Bestelldokument angegeben, folgen Erweiterungen zu Online-Services demselben Nutzungsumfang, der für die entsprechende Online-Services gewährt wurde.
+
+▪	ArcGIS Online-Subskriptionen sind über verschiedene Vertriebsprogramme erhältlich:
+
+-	Kommerzielles Lizenzprogramm, Enterprise Agreements; Regierungsprogramme (1; 2; 3; 11; 12; 14; 20)
+-	Bildungsprogramm (1; 2; 8; 10; 14; 19)
+-	NGO/NPO-Programm (1; 2; 8; 14; 19; 20)
+
+▪	ArcGIS Online Developer Deployment-Subskriptionen sind über verschiedene Vertriebsprogramme erhältlich:
+
+-	Kommerzielles Lizenzprogramm, Enterprise Agreements; Regierungsprogramme
+	Kostenlose Subskription (1; 8; 9; 10; 13; 19; 20)
+	Bezahlte Subskription (1; 8; 9; 10; 11; 13; 20)
+-	Bildungsprogramm
+	Kostenlose Subskription (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Bezahlte Subskription (1; 3; 4; 5; 6; 9; 10; 13; 19)
+-	NGO/NPO-, Presse-/Medienprogramme
+	Kostenlose Subskription (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+	Bezahlte Subskription (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+
+▪	ArcGIS Online für persönliche Nutzung (Public Plan)
+-	Kommerzielles Lizenzprogramm, Enterprise Agreements; Regierungsprogramme; NGO/NPO; Presse-/Medienprogramme (1; 4; 5; 6; 7; 9; 10; 15; 19; 20)
+-	Bildungsprogramme (1; 4; 5; 6; 7; 9; 10; 15; 19)
+▪	Esri Business Analyst Online (16)
+▪	Esri Business Analyst Online Mobile (16)
+▪	Esri Community Analyst (16)
+▪	Esri MapStudio (17)
+
+ Fußnoten:
+
+1. Zusätzlich zu den allgemeinen Nutzungsbedingungen von Online-Services gilt:
+
+a.	Der Kunde darf seine Esri Online Services-Subskription zur Entwicklung mehrwertiger Anwendungen intern nutzen.
+b.	Der Kunde darf auch Dritten den Zugriff auf seine mehrwertige(n) Anwendung(en) unter folgenden Bedingungen gewähren:
+
+i.	Der Kunde darf anonymen Benutzern den Zugriff auf seine mehrwertige(n) Anwendung(en) erlauben.
+ii.	Der Kunde darf seiner ArcGIS Online Subskription keine Dritten als Named User hinzufügen zu dem Zweck, Dritten Zugriff auf seine mehrwertige(n) Anwendung(en) zu gewähren. Diese Einschränkung gilt nicht für Dritte, die in der Definition der Named User erwähnt werden.
+iii.	Der Kunde darf Dritten den Zugang zu ArcGIS Online Services über seine ArcGIS Online Subskription ausschließlich über seine mehrwertige(n) Anwendung(en) ermöglichen. Diese Einschränkung gilt nicht für Dritte, die in der Definition der Named User erwähnt werden.
+iv.	Der Kunde ist allein für die Bereitstellung von technischer Unterstützung für seine mehrwertige(n) Anwendung(en) verantwortlich.
+v.	Der Kunde darf ohne schriftliche Zustimmung keine Warenzeichen oder Logos entfernen oder unlesbar machen, die normalerweise bei der Nutzung der Online-Services angezeigt werden. Wenn die Zuschreibung nicht automatisch mithilfe der Online-Services angezeigt wird, muss der Kunde Zuschreibungen hinzufügen, die darauf hinweisen, dass die Anwendung Online-Services von Esri verwendet. Entsprechende Richtlinien sind in der Dokumentation enthalten.
+vi.	Der Kunde darf keine Zugangsdaten eines Named User in eine mehrwertige Anwendung integrieren. App-Login Zugangsdaten dürfen nur in mehrwertige Anwendungen integriert werden, die zur Bereitstellung eines öffentlichen, anonymen Zugangs zu ArcGIS Online verwendet werden. Der Kunde darf keine ArcGIS Online App-Login-Zugangsdaten in mehrwertige(n) Anwendungen zur internen Nutzung integrieren oder nutzen. Intern verwendete mehrwertige Anwendungen erfordern Login-Daten eines Named User.
+
+c.	World Geocoding Service: Der Kunde darf die im Rahmen dieses Service generierten geocodierten Ergebnisse nicht ohne vorhandene ArcGIS Online Subskription speichern.
+d.	Infographics Service: Der Kunde darf die über diesen Dienst zugänglichen Daten ausschließlich für Darstellungszwecke verwenden. Jegliches Abspeichern von über diesen Dienst zugänglichen Daten durch den Kunden ist verboten.
+
+2. Darf zu Geschäftszwecken der Organisation des Kunden verwendet werden.
+3. Darf zu Entwicklungs- und Testzwecken für die Organisation des Kunden verwendet werden.
+4. Darf zu Unterrichtszwecken in Bildungsorganisationen genutzt werden.
+5. Darf zugunsten der zugelassenen NGO-/NPO-Organisation des Kunden verwendet werden.
+6. Darf zugunsten von Presse- oder Medienorganisationen verwendet werden.
+7. Darf für den persönlichen Gebrauch verwendet werden.
+8. Mehrwertige Anwendungen des Abonnenten müssen öffentlich zugänglich gemacht werden.
+9. Darf nicht zugunsten einer gewinnorientierten oder Regierungsorganisationen verwendet werden.
+10. Es ist dem Kunden nicht gestattet, private Gruppen zu erstellen oder an privaten Gruppen teilzunehmen.
+11. Der Kunde darf Dritten mehrwertige Anwendungen gegen Gebühr zur Verfügung stellen.
+12. Der Kunde darf diese Subskription nutzen, um private Gruppen zu erstellen oder an privaten Gruppen teilzunehmen.
+13. Jede Subskription ist auf monatlich 1.000.000 Basemap-Transaktionen und 1.000.000 Transaktionen in Verbindung mit der Ortssuche im Rahmen der Subskription des Kunden beschränkt. "Transaktion" wird in der Dokumentation (ArcGIS Ressourcen) unter http://links.esri.com/agol/transactiondef definiert.
+14. Jede Subskription ist auf monatlich 50.000.000 Basemap-Transaktionen und Transaktionen in Verbindung mit der Ortssuche beschränkt. "Transaktion" wird in der Dokumentation (ArcGIS Ressourcen) unter http://links.esri.com/agol/transactiondef definiert.
+15. Erlaubt registrierten Studierenden einer Bildungseinrichtung direkten Zugang zu den Online-Services sowie die gemeinsame Nutzung einer Subskription von mehr als einem (1) Studierenden ausschließlich zu Lehrzwecken.
+16. Der Kunde darf eine beliebige Kombination aus mehr als 100 Esri Business Analyst Online oder Community Analyst-Berichten und -Karten nicht auf seinen externen Websites anzeigen oder veröffentlichen.
+17. Der Kunde darf Karten in Papierformat und statischen elektronischen Formaten für Berichterstattungszwecke erstellen, öffentlich anzeigen und verteilen, vorbehaltlich jeglicher Einschränkungen für ArcGIS Online Daten.
+18. Freigehalten.
+19. Der Kunde darf Dritten keine mehrwertigen Anwendungen gegen Gebühr zur Verfügung stellen.
+20. Es ist dem Lizenznehmer nicht gestattet, für Dritte oder im Namen Dritter als Lizenznehmer zu fungieren.
+

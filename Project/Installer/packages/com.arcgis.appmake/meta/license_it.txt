@@ -1,0 +1,576 @@
+﻿IMPORTANTE - LEGGERE ATTENTAMENTE
+(E204CW 09/22/2016)
+
+Salvo il caso in cui sia già stato sottoscritto un contratto di licenza con Esri, quest'ultima è disposta a fornire le Offerte Esri esclusivamente a condizione che si accettino tutti i termini e le condizioni riportati nel presente Contratto. Si prega di esaminare attentamente tutti i termini e le condizioni qui riportati. L'utilizzo delle Offerte Esri è subordinato all'accettazione dei termini e delle condizioni del presente Contratto. Se non si desidera accettare i termini e le condizioni riportati, fare clic sulla seguente dicitura "I do not accept the agreement" ("Non accetto il contratto"). Sarà quindi possibile richiedere il rimborso dei corrispettivi versati.
+
+Il presente Contratto è stipulato tra l'utente ("Cliente") ed Environmental Systems Research Institute, Inc. ("Esri"), una società della California con sede a 380 New York Street, Redlands, California 92373-8100, Stati Uniti.
+
+1.0 CONCESSIONE GENERALE DI DIRITTI E LIMITAZIONI
+
+1.1 L'Appendice A contiene le definizioni dei termini in maiuscolo utilizzati nel presente Contratto. Ciascuna sezione del presente Contratto può includere ulteriori definizioni utilizzate esclusivamente all'interno di tale sezione.
+
+1.2 Concessione di diritti. In relazione al pagamento di tutte le imposte applicabili da parte del Cliente e in conformità al presente Contratto, Esri garantisce al Cliente un diritto personale, non esclusivo e non trasferibile a:
+
+a.	Utilizzare le Offerte Esri come indicato nella Documentazione e nella relativa Documentazione dell'ordine;
+b.	Copiare e preparare opere derivate della Documentazione per uso personale del Cliente insieme all'uso autorizzato dei Prodotti da parte del Cliente. Il Cliente includerà il seguente avviso in materia di copyright che attesti la titolarità esclusiva di Esri e dei suoi Concessori di Licenza in qualunque lavoro derivato:
+
+"Porzioni del presente documento includono elementi di proprietà intellettuale di Esri e dei suoi concessori di Licenza e vengono utilizzati su licenza. Copyright (c) [Il Cliente inserirà le date effettive dei copyright tratte dai documenti originali.] Esri e i suoi concessori di licenza. Tutti i diritti riservati".
+
+La concessione dei diritti in questa sezione (i) continua per la durata dell'abbonamento, per la Durata applicabile o in modo perpetuo qualora non sia stata indicata o non sia applicabile alcuna Durata nella Documentazione dell'ordine ed (ii) è soggetta a diritti aggiuntivi e limitazioni nel presente Contratto inclusa l'Appendice B.
+
+1.3 Accesso di consulenti o appaltatori. Il Cliente può autorizzare i propri consulenti o appaltatori a utilizzare le Offerte Esri esclusivamente a beneficio del Cliente. Il Cliente sarà il solo responsabile dell'osservanza del presente Contratto da parte dei propri consulenti o appaltatori e si assicurerà che ciascun consulente o appaltatore in questione interrompa l'utilizzo delle Offerte Esri una volta completata la prestazione per il Cliente. L'accesso o l'utilizzo delle Offerte Esri da parte di consulenti o appaltatori non esclusivamente a beneficio del Cliente è proibito.
+
+1.4 Licenze di valutazione e per versioni Beta. I Prodotti acquistati nell'ambito di una licenza di valutazione, di un abbonamento o di un programma Beta sono destinati esclusivamente alla valutazione e ai test e non possono essere utilizzati per fini commerciali. Il loro utilizzo è a rischio del Cliente e non viene fornita alcuna Manutenzione per detti Prodotti. Qualora il Cliente non converta la licenza di valutazione in una licenza acquistata o in un abbonamento prima della scadenza del periodo di valutazione, può perdere i contenuti e le personalizzazioni effettuate durante il periodo di valutazione. Nel caso in cui il Cliente non intenda acquistare una licenza o un abbonamento, dovrà esportare detti contenuti prima della scadenza del periodo di valutazione.
+
+1.5 Programmi didattici. Il Cliente accetta di utilizzare le Offerte Esri fornite nell'ambito di un programma didattico esclusivamente a fini didattici per la Durata prevista per l'utilizzo didattico. Il Cliente non utilizzerà i Prodotti per Uso amministrativo, a meno che non abbia acquistato una Licenza per Uso amministrativo. Per "Uso amministrativo" si intendono attività amministrative quali la mappatura dei beni, la gestione delle strutture, l'analisi demografica, la determinazione degli itinerari, la sicurezza dell'area in cui sorge il campus e l'analisi dell'accessibilità, che non sono direttamente legate all'istruzione o alla didattica. Il Cliente non utilizzerà i Prodotti per generare ricavi o a scopi di lucro.
+
+1.6 Programmi di sovvenzione.Il Cliente può utilizzare le Offerte Esri fornite nell'ambito di un programma di sovvenzione esclusivamente per scopi non commerciali. Fatta eccezione per il recupero dei costi derivanti dall'utilizzo e dall'esecuzione delle Offerte Esri, il Cliente non utilizzerà le Offerte Esri per generare ricavi o a scopi di lucro.
+
+1.7 Altri programmi Esri con limitazioni di utilizzo.Qualora il Cliente acquisti le Offerte Esri nell'ambito di un programma con limitazioni di utilizzo non elencato in precedenza, l'utilizzo delle Offerte Esri da parte del Cliente potrà essere soggetto alle condizioni indicate nella relativa pagina iniziale o nel modulo di iscrizione oppure come descritto nel sito Web di Esri, in aggiunta alle condizioni non incompatibili del presente Contratto.
+
+1.8 Riserva di diritti. Tutte le Offerte Esri sono coperte dal copyright di Esri o dei suoi concessori di licenza; tutti i diritti non espressamente garantiti nel presente Contratto sono riservati.
+
+2.0 CONDIZIONI DI UTILIZZO DEL SOFTWARE
+
+2.1 Tipi di licenza. Esri concede il Software in licenza ai sensi dei seguenti tipi:
+
+a.	Licenza di uso concurrent: il Cliente può installare e utilizzare il Software su più computer in rete, ma il numero di utenti simultanei non può superare il numero di licenze acquisite. Una Licenza di uso concurrent include il diritto di eseguire istanze di fail-over passivo del software di gestione delle Licenze di uso concurrent, in un ambiente di sistema operativo separato per il supporto temporaneo del fail-over.
+b.	Licenza di distribuzione: il Cliente può incorporare componenti di ArcGIS Runtime in Applicazioni a valore aggiunto e distribuire le Applicazioni a valore aggiunto agli utenti finali del Cliente.
+c.	Licenza server di distribuzione: il Cliente può utilizzare il Software nell'ambito di una Licenza server per tutti gli usi permessi dal Contratto, come descritto nella Documentazione.
+d.	Licenza server di sviluppo: il Cliente può utilizzare il Software nell'ambito di una Licenza server per sviluppare e testare Applicazioni a valore aggiunto, come descritto nella Documentazione.
+e.	Uso ai fini dello sviluppo: il Cliente può installare e utilizzare il Software per sviluppare e testare Applicazioni a valore aggiunto, come descritto nella Documentazione.
+f.	Licenza a duplice impiego: il Cliente può installare il Software su un computer desktop e utilizzarlo contemporaneamente su un Personal Digital Assistant (PDA) oppure su un computer palmare, a condizione che il Software venga utilizzato da una sola persona per volta.
+g.	Licenza di fail-over: il Cliente può installare il software su sistemi ridondanti per operazioni di fail-over, tuttavia il Software installato in modo ridonante può rimanere operativo soltanto durante il periodo in cui il sito primario non è operativo. A eccezione delle attività di manutenzione del sistema e di aggiornamento dei database, le installazioni di Software ridondanti resteranno dormienti mentre il sito primario, o qualsivoglia altro sito ridondante, è operativo.
+h.	Licenza di ridistribuzione: il Cliente può riprodurre e distribuire il Software a patto che si verifichino le seguenti condizioni:
+
+1.	Il Cliente riproduca e distribuisca il Software nella sua interezza;
+2.	Un contratto di licenza che tuteli il Software nella medesima misura garantita dal presente Contratto accompagni ciascuna copia del Software e il ricevente accetti di essere vincolato dalle condizioni del contratto di licenza;
+3.	Il Cliente riproduca tutte le attribuzioni e gli avvisi di copyright e del marchio; e
+4.	Il Cliente non imponga ad altri un'imposta per l'uso del Software.
+
+i.	Licenza server: il Cliente può installare e usare il Software su un computer server. Le licenze server possono essere soggette a un numero limitato di server core o implementazioni distribuite su più server, come descritto nella Documentazione dell'ordine o nella Documentazione. Se la descrizione del Software include l'uso del fail-over, ciascuna Licenza server include una Licenza di fail-over.
+i.	Licenza "Single Use": il Cliente può permettere a un singolo utente finale autorizzato di installare e utilizzare il Software su un singolo computer. Il Cliente può permettere al singolo utente finale autorizzato di installare una seconda copia per proprio uso esclusivo su un secondo computer, a condizione che venga utilizzata soltanto 1 copia per volta del Software. Nessun altro utente finale può utilizzare il Software con la stessa licenza allo stesso tempo per altre finalità.
+k.	Licenza server di staging: il Cliente può utilizzare il Software nell'ambito di una Licenza server per sviluppare e testare Applicazioni a valore aggiunto e cache di mappa; effettuare test per approvazione dell'utente, test delle prestazioni e test di caricamento di software appartenenti a terzi; attivare aggiornamenti di nuovi dati commerciali; svolgere attività di formazione come descritto nella Documentazione. Il Cliente può utilizzare Applicazioni a valore aggiunto e cache di mappa con i server di sviluppo e di distribuzione.
+
+2.2 Utilizzi consentiti
+
+a.	Il Cliente può:
+
+1.	installare, accedere a o archiviare Software e Dati su dispositivi elettronici di memorizzazione;
+2.	fare copie per motivi di archivio ed eseguire backup di routine;
+3.	installare e utilizzare una versione più recente del Software contemporaneamente alla versione da sostituire durante un periodo di transizione ragionevole che non dovrà essere superiore a 6 mesi, a condizione che la distribuzione dell'una o dell'altra versione non superi la quantità di licenze ottenute dal Cliente; pertanto il Cliente non utilizzerà, complessivamente, un numero di licenze Software superiore al numero che ha ottenuto in licenza. Ciò non si applica al Software concesso in licenza per Uso ai fini dello sviluppo.
+4.	trasferire il Software nella configurazione concessa in licenza ad un computer sostitutivo;
+5.	distribuire a terzi il Software e gli eventuali Codici di autorizzazione associati richiesti per l'utilizzo di una Licenza di distribuzione; e
+6.	utilizzare il Software server per un Utilizzo ASP commerciale a condizione che il Cliente si sia procurato una licenza per un Utilizzo ASP commerciale o sia un'organizzazione pubblica o senza fini di lucro che gestisce un sito Web o che offre un servizio Internet al fine di recuperare i costi sostenuti e non per generare ricavi.
+
+b.	Il Cliente ha la facoltà di personalizzare il Software utilizzando eventuali macro o linguaggi script, Application Programming Interface (API) oppure librerie di codice sorgente o codice oggetto, ma solo nella misura in cui detta personalizzazione viene descritta nella Documentazione.
+c.	Il Cliente può utilizzare tutti i caratteri forniti con il Software per qualunque uso autorizzato del Software. Il Cliente può anche utilizzare i tipi di caratteri Esri separatamente per stampare qualsiasi output generato dal Software. Tutte le restrizioni di utilizzo per tipi di caratteri di terze parti inclusi con il Software sono indicate nel file del tipo di carattere.
+d.	L'Allegato 1 fornisce le condizioni di utilizzo specifiche del Prodotto per singoli Software. Esri può rilasciare aggiornamenti all'Allegato 1 di tanto in tanto.
+
+2.3 Manutenzione. Esri fornirà la Manutenzione in conformità al Programma di Manutenzione e Supporto di Esri se il Cliente risiede negli Stati Uniti. I Clienti che risiedono al di fuori degli Stati Uniti possono ricevere la Manutenzione dal loro distributore Esri locale, in base alle condizioni del distributore.
+
+3.0 CONDIZIONI DI UTILIZZO DEGLI ONLINE SERVICES
+
+3.1 Definizioni. Le seguenti definizioni integrano le definizioni fornite nell'Appendice A:
+
+a.	"Utenti anonimi" indica chiunque goda di un accesso pubblico (vale a dire che non deve fornire le credenziali di utente designato) a una qualsiasi porzione di Contenuti o Applicazioni a valore aggiunto del Cliente. Il Cliente può consentire agli Utenti anonimi di accedere ai propri Contenuti o alle proprie Applicazioni a valore aggiunto che ha pubblicato utilizzando gli Strumenti di condivisione, in combinazione con l'uso autorizzato degli Online Services da parte del Cliente.
+b.	"Credenziali di accesso all'app" indica l'accesso ad un'applicazione generata da sistema e la password ad essa associata fornite in seguito alla registrazione di un'Applicazione a valore aggiunto presso ArcGIS Online e che possono essere integrate in un'Applicazione a valore aggiunto per abilitare l'accesso e l'utilizzo degli Online Services.
+c.	"Crediti per servizi" indica un'unità di scambio assegnata con un abbonamento ad Online Services, corrispondente alla somma specificata nella Documentazione dell'ordine.
+d.	Strumenti di condivisione" indica le funzionalità di pubblicazione incluse con gli Online Services e con il Sito Web ArcGIS che consentono al Cliente di mettere i propri Contenuti e le Applicazioni a valore aggiunto a disposizione di terzi e/o di Utenti anonimi.
+
+3.2 Abbonamento agli Online Services. Esri fornisce abbonamenti agli Online Services in base alle seguenti condizioni. L'Allegato 1 fornisce anche condizioni di utilizzo specifiche del Prodotto per singoli Online Services.
+
+3.3 Fornitura di Online Services con abbonamento. Per gli Online Services con abbonamento, Esri si impegna a:
+
+a.	Fornire gli Online Services al Cliente conformemente alla Documentazione;
+b.	Fornire la Manutenzione in conformità al Programma di Manutenzione e Supporto di Esri se il Cliente risiede negli Stati Uniti. I Clienti che risiedono al di fuori degli Stati Uniti possono ricevere la Manutenzione dal distributore Esri in base alle condizioni del distributore.
+c.	Fornire supporto tecnico conformemente ai criteri di supporto tecnico standard di Esri e l'eventuale supporto tecnico aggiuntivo acquistato dal Cliente; e
+d.	Adottare ogni strumento commercialmente adeguato per assicurarsi che gli Online Services non trasmettano al Cliente codici dannosi, fermo restando che Esri non è in alcun modo responsabile di eventuali codici dannosi introdotti negli Online Services tramite l'account del Cliente o Contenuti di terzi.
+
+3.4 Accesso ad Applicazioni a valore aggiunto
+
+a.	Gli Utenti designati dispongono di credenziali per l'accesso univoche e individuali. Gli Utenti designati hanno accesso privato a caratteristiche degli Online Services non disponibili pubblicamente per gli Utenti anonimi.
+b.	Il Cliente può utilizzare il proprio abbonamento agli Online Services per creare Applicazioni a valore aggiunto per uso interno da parte degli Utenti designati.
+c.	Il Cliente può trasferire a terzi Applicazioni a valore aggiunto da utilizzare in combinazione con l'abbonamento agli Online Services di terzi.
+d.	Il Cliente non può aggiungere terzi quali Utenti designati al proprio abbonamento agli Online Services allo scopo di consentire a detti terzi di accedere alle Applicazioni a valore aggiunto del Cliente. Tale limitazione non si applica ai terzi compresi nella definizione di Utenti designati;
+e.	Il Cliente non può consentire a terzi di accedere agli ArcGIS Online Services abilitati attraverso l'abbonamento ad ArcGIS Online del Cliente se non tramite le Applicazioni a valore aggiunto del Cliente. Tale limitazione non si applica ai terzi compresi nella definizione di Utenti designati;
+f.	Il Cliente può consentire agli Utenti anonimi di accedere alle Applicazioni a valore aggiunto in esecuzione ai sensi del proprio abbonamento, in base alle seguenti condizioni:
+
+1.	Il Cliente può addebitare un corrispettivo per tale accesso in base ai tipi di abbonamento che ne permettono l'uso allo scopo di generare ricavi.
+2.	Il Cliente può integrare le Credenziali di accesso all'app all'interno di Applicazioni a valore aggiunto ma può non integrare Credenziali di utente designato.
+3.	Il Cliente è responsabile di tutti i Crediti per servizi addebitati durante l'uso di Applicazioni a valore aggiunto del Cliente da parte di Utenti anonimi.
+4.	Il Cliente è il solo responsabile della fornitura di supporto tecnico per le Applicazioni a valore aggiunto del Cliente.
+5.	Il Cliente non può consentire agli Utenti anonimi di accedere alle Applicazioni a valore aggiunto destinate esclusivamente a uso interno del Cliente; le Applicazioni a valore aggiunto utilizzate internamente richiedono Credenziali di utente designato.
+
+3.5 Responsabilità del Cliente
+
+a.	Il Cliente è il solo responsabile dello sviluppo e del funzionamento dei Contenuti e delle Applicazioni a valore aggiunto del Cliente e dell'osservanza del presente Contratto da parte degli Utenti designati. Il Cliente e i suoi Utenti designati o anonimi (se applicabile) sono le uniche persone autorizzate ad accedere agli Online Services tramite l'abbonamento del Cliente. Le credenziali di accesso degli Utenti designati sono a loro uso esclusivo e non possono essere condivise con altri soggetti. Il Cliente può assegnare le credenziali di accesso di Utenti designati precedenti a nuovi Utenti designati se l'accesso agli Online Services degli utenti precedenti non è più richiesto. Il Cliente è tenuto a comunicare immediatamente a Esri qualsiasi utilizzo non autorizzato del proprio abbonamento o violazione della sicurezza di cui venga a conoscenza.
+b.	Qualora il Cliente utilizzi strumenti di sviluppo non Esri per creare un'applicazione che acceda agli Online Services di Esri, dovrà includere un avviso che dichiari che tale applicazione utilizza i suddetti Online Services. Le linee guida al riguardo sono incluse nella Documentazione.
+
+3.6 Modifiche degli Online Services. Esri può modificare gli Online Services e le API associate in qualunque momento, con un preavviso di 30 giorni qualora intenda apportare modifiche sostanziali e di 90 giorni in caso di obsolescenza. Qualora l'eventuale modifica, sospensione o obsolescenza degli Online Services dovesse provocare un notevole impatto negativo sulle attività del Cliente, Esri potrà, a sua esclusiva discrezione, tentare di riparare, correggere o proporre una soluzione alternativa agli Online Services. Qualora non esista una soluzione praticabile conveniente da un punto di vista commerciale, il Cliente può annullare il proprio abbonamento agli Online Services e riceverà da Esri un rimborso rateizzato.
+
+3.7 Modifiche delle tariffe di abbonamento. Esri può aumentare le tariffe degli abbonamenti di durata superiore a 1 mese dandone comunicazione al Cliente almeno 60 giorni prima della scadenza della durata dell'abbonamento in corso di validità. Esri può incrementare le tariffe mensili degli abbonamenti con un preavviso di 30 giorni.
+
+3.8 Contenuti del Cliente
+
+a.	Titolarità. Il Cliente mantiene ogni diritto, titolo e interesse relativo ai propri Contenuti. Con il presente Contratto, il Cliente concede a Esri e ai suoi fornitori o concessori di licenza un diritto mondiale non esclusivo e non trasferibile di ospitare, eseguire e riprodurre i Contenuti del Cliente unicamente allo scopo di consentire al Cliente di utilizzare gli Online Services. Senza il permesso del Cliente, Esri non accederà, utilizzerà o divulgherà i Contenuti del Cliente, salvo nella misura ragionevolmente necessaria per supportare l'utilizzo degli Online Services da parte del Cliente, rispondere alle richieste di supporto tecnico di quest'ultimo, procedere alla risoluzione dei problemi dell'abbonamento del Cliente o per qualsiasi altra finalità autorizzata per iscritto dal Cliente. Qualora il Cliente acceda agli Online Services con un'applicazione fornita da terzi, Esri potrà comunicare i Contenuti del Cliente a tali terzi nella misura necessaria a consentire l'interoperabilità tra l'applicazione, gli Online Services e i Contenuti del Cliente. Esri potrà divulgare i Contenuti del Cliente laddove la legge o la normativa lo imponga, o in seguito all'ordine di un tribunale o di altra pubblica autorità, nel qual caso Esri cercherà ragionevolmente di limitare l'ambito della divulgazione. È esclusiva responsabilità del Cliente assicurarsi che i propri Contenuti siano adatti all'uso con gli Online Services ed effettuare backup regolari offline con l'ausilio delle funzionalità di esportazione e download degli Online Services.
+b.	Condivisione dei Contenuti del Cliente. Qualora il Cliente decida di condividere i propri Contenuti con l'ausilio degli Strumenti di condivisione, dovrà riconoscere di aver consentito a terzi di utilizzare, archiviare, memorizzare nella cache, copiare, riprodurre, (ri)distribuire e (ri)trasmettere i Contenuti del Cliente attraverso gli Online Services. Esri non è in alcun modo responsabile di eventuali perdite, cancellazioni, modifiche o divulgazioni dei Contenuti del Cliente derivanti dall'utilizzo o dall'utilizzo improprio di tali Strumenti di condivisione o degli Online Services, del Contenuto Online, del sito Web ArcGIS, della Documentazione o di materiali correlati. L'utilizzo degli Strumenti di condivisione è a esclusivo rischio del Cliente.
+c.	Recupero dei Contenuti del Cliente all'atto della risoluzione. Alla risoluzione del Contratto di licenza o di qualsivoglia prova, valutazione o abbonamento, Esri metterà i Contenuti del Cliente a disposizione di quest'ultimo consentendone il download per un periodo di 30 giorni, a meno che il Cliente non richieda una finestra temporale di disponibilità inferiore oppure Esri non possa procedere in tal modo per espresso divieto di legge. Successivamente, il diritto del Cliente di accedere ai propri Contenuti con gli Online Services cesserà ed Esri non avrà ulteriori obblighi di archiviare o restituire i Contenuti del Cliente.
+
+3.9 Limiti all'utilizzo degli Online Services; Crediti per servizi. Ciascun abbonamento agli Online Services include Crediti per servizi come descritto nella Documentazione dell'ordine applicabile. Ogni Credito per servizio dà facoltà al Cliente di consumare una data quantità di Online Services, che varia a seconda degli Online Services utilizzati. I Crediti per servizi sono addebitati automaticamente sull'abbonamento del Cliente in base al progressivo consumo degli Online Services, fino al raggiungimento del numero massimo di Crediti per i servizi disponibili. Il Cliente può acquistare altri Crediti per servizi in base alle esigenze. Esri comunicherà all'amministratore dell'account dell'abbonamento del Cliente quando i consumi di Servizi avranno raggiunto circa il 75% dei Crediti per servizi assegnati al Cliente tramite il suo abbonamento. Esri si riserva il diritto di sospendere l'accesso del Cliente agli Online Services che consumano Crediti per servizi quando il Cliente consuma tutti i propri Crediti per servizi. Esri ripristinerà immediatamente l'accesso del Cliente ai propri Online Services una volta che il Cliente ha acquistato altri Crediti per servizi.
+
+3.10 ArcGIS Enterprise con infrastruttura Virtual Cloud. Il Cliente fornirà informazioni o altri materiali correlati ai propri Contenuti (comprese le copie di eventuali applicazioni client-side), nella misura ragionevolmente necessaria a verificare l'osservanza da parte del Cliente dei termini del presente Contratto. Esri ha facoltà di monitorare le interfacce esterne (ad es. le porte) dei Contenuti del Cliente per verificare l'osservanza da parte di quest'ultimo dei termini del presente Contratto. Il Cliente non dovrà bloccare o interferire con tale monitoraggio, ma potrà avvalersi di una tecnologia di crittografica o di firewall per salvaguardare la riservatezza dei propri Contenuti. Il Cliente collaborerà con Esri per individuare l'origine di eventuali problemi relativi ai servizi ArcGIS Enterprise con infrastruttura Virtual Cloud che possano essere ragionevolmente imputati ai contenuti del Cliente o a materiali degli utenti finali sotto il controllo del Cliente.
+
+4.0 CONDIZIONI DI UTILIZZO DEI DATI
+
+4.1 Definizioni. Le seguenti definizioni integrano le definizioni fornite nell'Appendice A:
+
+a.	"Dati aziendali" indica le informazioni relative ad attività, dati demografici e logistici che consentono miglioramenti del processo decisionale, processi aziendali interni ottimizzati, maggiore efficienza operativa, nuove entrate e vantaggi competitivi rispetto alla concorrenza.
+b. Pacchetto di contenuti Esri" indica un file digitale contenente il contenuto basemap di ArcGIS Online (tra cui riquadri della mappa raster, immagini, dati vettoriali) estratto da ArcGIS Online Basemap Services.
+c.	"Dati stradali" indica i Dati che includono o raffigurano informazioni su strade, vie e feature correlate.
+
+4.2 Utilizzi consentiti
+
+a.	Il Cliente può utilizzare i Dati esclusivamente in combinazione con i Prodotti con cui Esri ha fornito tali Dati.
+b.	Il Cliente può includere rappresentazioni dei dati su supporto cartaceo o in formato elettronico statico (ad esempio, PDF, GIF, JPEG) in pacchetti di presentazione, studi di marketing o in altri report o documenti contenenti immagini di mappe o riepiloghi di dati derivanti dall'utilizzo dei Prodotti Esri nei limiti stabiliti dal presente Contratto di licenza, a condizione che il Cliente apponga a tali rappresentazioni dei dati una dichiarazione che riconosca Esri e/o i rispettivi concessori di licenza come fonte della parte di dati utilizzati nelle suddette rappresentazioni.
+c.	Il Cliente può acquisire offline le mappe di base di ArcGIS Online tramite i pacchetti di contenuto Esri e quindi consegnarle (trasferirle) a qualsiasi dispositivo e utilizzarle esclusivamente con le applicazioni ArcGIS Runtime, ArcGIS Desktop e le app ArcGIS API for Flex concesse in licenza.
+d.	Ai sensi del presente Contratto, Esri non acquisisce alcun diritto sui dati del cliente.
+
+4.3 Restrizioni sull'utilizzo
+
+a.	Il Cliente non può agire direttamente o autorizzare i propri clienti a effettuare il co-branding dei Dati, utilizzare i Dati nell'ambito di un servizio o prodotto non autorizzato o offrire i Dati tramite terzi o per loro conto.
+b.	Il Cliente non può utilizzare o consentire a terzi di utilizzare i Dati allo scopo di compilare, ampliare, integrare, inserire in o cancellare da qualsiasi database o altra raccolta di informazioni venduti, concessi in locazione, pubblicati, forniti o offerti con qualsiasi modalità a terzi.
+c.	Dati aziendali. A meno che non sia autorizzato per iscritto, il Cliente non può utilizzare i Dati aziendali per finalità di marketing diretto, pubblicazione di vendite o distribuzione a terzi come parte di qualsiasi lista di distribuzione, directory, annuncio economico o altra raccolta di informazioni.
+d.	Dati stradali. Il Cliente può utilizzare i Dati stradali a scopo di mapping, geocoding e routing point-to-point. A meno che non sia autorizzato per iscritto, il Cliente non può utilizzare i Dati stradali per:
+
+1.	Avere una guida di navigazione in tempo reale, nonché per avvertire l'utente delle successive manovre (per esempio con avvisi sulla svolta successiva) o calcolare un percorso alternativo in caso di strada sbagliata;
+2.	Definire itinerari sincronizzati di più veicoli; o
+3.	Ottimizzare l'itinerario.
+
+e.	Dati di Business Analyst. I Dati forniti con Esri Business Analyst (Server, Desktop) sono soggetti alle seguenti condizioni di utilizzo supplementari:
+
+1.	Qualora il Cliente ordini una licenza per Esri Business Analyst o Business Analyst (Canadian Edition) con un sottoinsieme del set dei dati nazionali (ovvero regione, stato, località), il Cliente avrà facoltà di utilizzare soltanto il sottoinsieme concesso in licenza, non altre parti del set dei dati nazionali.
+2.	I Dati forniti con Business Analyst Server non possono essere memorizzati nella cache o scaricati da applicazioni e dispositivi client.
+
+4.4 Termini e condizioni supplementari per i Dati. Alcuni concessori di licenza dei Dati richiedono a Esri di fornire al Cliente ulteriori requisiti di attribuzione e condizioni di utilizzo. Tali condizioni sono disponibili all'indirizzo http://www.esri.com/legal
+/third-party-data.
+APPENDICE A
+GLOSSARIO DI TERMINI
+
+Di seguito è riportato un glossario dei termini che si applicano a tutte le Offerte Esri e ai Servizi offerti da Esri ai propri clienti. Alcune Offerte Esri o alcuni Servizi potrebbero non rientrare nell'ambito del presente Contratto. Ignorare tutti i termini non applicabili alle Offerte Esri o ai Servizi offerti ai sensi del presente Contratto.
+
+Per "API" si intende Application Programming Interface.
+
+Per "Sito Web ArcGIS" si intende il sito http://www.arcgis.com e qualsiasi sito Web correlato o successore.
+
+Per "Codice di autorizzazione" si intende qualsiasi chiave, numero di autorizzazione, codice di abilitazione, credenziale di accesso, codice di attivazione, token, nome utente e password di account o altro meccanismo richiesto per l'utilizzo delle Offerte Esri.
+
+Per "Beta" si intende le versioni alfa, beta o altra pre-release del Prodotto.
+
+Per "Servizi Cloud" si intende Online Services ed EMCS.
+
+Per "Utilizzo ASP commerciale" si intende l'uso come Application Service Provider (ASP) commerciale; vale a dire, generare ricavi attraverso l'offerta di accesso al Software tramite un'Applicazione a valore aggiunto, ad esempio richiedendo il pagamento di un corrispettivo per abbonamenti, servizi o qualsiasi altra forma di corrispettivo per transazioni o generando ricavi pubblicitari superiori a quelli accessori.
+
+Per "Contenuti" si intendono i dati, le immagini, le fotografie, le animazioni, i video, l'audio, i testi, le mappe, i database, i modelli di dati, i fogli di calcolo, le interfacce utente, i componenti grafici, le icone, le applicazioni software, i software development kit (SDKs), le API, le librerie software, gli esempi di codice e altre risorse.
+
+Per "Controllo" si intende avere più del 50% del diritto di voto o altro diritto di voto nell'ente controllato.
+
+Per "Contenuti del Cliente" si intende qualsiasi Contenuto che il Cliente, i rispettivi utenti finali o qualsiasi altro utente fornisca a Esri in relazione all'uso autorizzato delle Offerte Esri da parte del Cliente, i risultati ottenuti dall'uso dei Contenuti del Cliente con le Offerte Esri e qualsiasi Applicazione a valore aggiunto sviluppata dal Cliente e distribuita con i Prodotti. I Contenuti del Cliente non comprendono eventuali feedback, suggerimenti o richieste di miglioramenti inviati a Esri dal Cliente.
+
+Per "Dati" si intende l'insieme dei dati digitali commercialmente disponibili, compresi, a titolo esemplificativo e non esaustivo, i dati vettoriali geografici, i rapporti dei dati raster o gli attributi tabulari associati, che Esri fornisce in bundle con le Offerte Esri o in modo indipendente. I Dati escludono qualsiasi Contenuto che persone diverse da dipendenti, fornitori o appaltatori Esri possano inviare direttamente al sito Web di Esri.
+
+Per "Articoli da consegnare" si intende tutto ciò che Esri consegna a un Cliente in seguito alla prestazione di Servizi professionali diversi da Prodotti, Formazione o Manutenzione. Gli Articoli da consegnare possono includere, a titolo esplicativo e non esaustivo, servizi di consulenza, codice software, DLL e programmi forniti su qualunque supporto sotto forma di origine, oggetto o codice eseguibile, inclusi backup, aggiornamenti o copie combinate; metodi, tecniche o know-how; assistenza tecnica, processi, formule o algoritmi; progetti; dizionari di dati e modelli; compilazioni; schemi; documentazione; specifiche; disegni; diagrammi di flusso; briefing; test o procedure di controllo di qualità.
+
+Per "Documentazione" si intende tutta la documentazione di riferimento per l'utente fornita insieme al Prodotto.
+
+Per "Servizi Cloud gestiti da Esri" o "EMCS" si intende l'hardware a tenant singolo, Software, Dati e piattaforma di rete, servizi di supporto e monitoraggio del sistema correlati che Esri fornisce per ospitare e rendere disponibili i Contenuti del Cliente al Cliente, o agli utenti finali del Cliente, tramite Internet.
+
+Per "Offerte Esri" si intende qualunque Prodotto, Manutenzione o Documentazione. Qualora Esri fornisca servizi professionali o di formazione direttamente al Cliente, le Offerte Esri includono anche il Materiale di formazione e gli Articoli da consegnare.
+
+Per "GIS" si intendono i sistemi informativi geografici.
+
+Per "Manutenzione" si intende un programma di abbonamento che consente al Cliente di beneficiare di aggiornamenti del Prodotto e altri vantaggi, come l'accesso al supporto tecnico e a risorse di autoapprendimento basate sul Web.
+
+Per "Codice dannoso" si intendono virus del software; worm; time bomb; Trojan o altri codici di computer, file o programmi pensati per interrompere, distruggere o limitare la funzionalità di software, hardware o attrezzature per le telecomunicazioni.
+
+Per "Utente designato" si intende il dipendente, l'agente, il consulente o l'appaltatore del Cliente al quale il Cliente ha assegnato credenziali per l'accesso univoche e con nominativo protetto (identità) che consentono l'accesso a un Prodotto che richiede tale identità per utilizzare funzionalità basate su di essa all'interno di un Prodotto a esclusivo beneficio del Cliente. Ai fini didattici, gli Utenti designati potranno includere gli studenti iscritti.
+
+Per "Credenziali di utente designato" si intendono i dati di accesso di un individuo e la password associata che consentono a tale persona di accedere a tali Prodotti e utilizzarli.
+
+Per "Abbonamento o Licenza di utente designato" si intende una licenza o un abbonamento utilizzabile da un singolo utente designato.
+
+Per "Contenuti online" si intendono i Contenuti ospitati o forniti da Esri nell'ambito degli Online Services, inclusi i Map Service, Task Service e Image Service, gli SDK, le API, le librerie software, gli esempi di codice e altre risorse, ma sono esclusi i Contenuti forniti da terzi a cui il Cliente accede tramite gli Online Services.
+
+Per "Online Services" si intende qualsiasi sistema geospaziale basato su Internet, disponibile in commercio, comprese le applicazioni e le API associate, per l'archiviazione, la gestione, la pubblicazione e l'utilizzo di mappe, dati e altre informazioni. Gli Online Services escludono i Dati e i Contenuti.
+
+Per "Documentazione dell'ordine" si intende un preventivo, una quota di rinnovo per la Manutenzione, un ordine di acquisto, una proposta o altro documento che identifica i Prodotti o i Servizi ordinati dal Cliente.
+
+Per "Licenza perpetua" si intende una licenza per utilizzare a tempo indeterminato una versione del Prodotto per cui siano stati pagati i diritti di licenza applicabili, salvo risoluzione da parte di Esri o del Cliente ai sensi del presente Contratto.
+
+Per "Uso personale" si intende l'uso personale, non commerciale da parte di un singolo Cliente. Uso personale esclude l'uso per conto terzi, incluse entità commerciali, scolastiche, governative o no-profit.
+
+Per "Prodotti" si intende il Software, i Dati, i Servizi Cloud concessi in licenza o sottoscritti ai sensi del presente Contratto.
+
+Per "Servizi professionali" si intende qualunque servizio di consulenza o sviluppo fornito da Esri al Cliente.
+
+Per "Campioni" si intende il codice campione, le applicazioni campione, le aggiunte o le estensioni campione dei Prodotti.
+
+Per "Servizi" si intende il supporto tecnico fornito con la Manutenzione. Qualora Esri fornisca servizi professionali o di formazione direttamente al Cliente, i Servizi includono anche servizi professionali o di formazione.
+
+Per "Software" si intende tutto il software pronto per la consegna di proprietà di Esri (o parte di esso), a esclusione dei Dati, reso disponibile o scaricato da un sito Web autorizzato da Esri o fornito su qualunque supporto in qualunque formato, inclusi backup, aggiornamenti, service pack, patch, hot fix o copie combinate autorizzate.
+
+Per "Licenza a termine" si intende la licenza o l'accesso forniti per l'utilizzo di un Prodotto per un periodo di tempo limitato ("Durata") o in base a un abbonamento o transazione.
+
+Per "Formazione" si intendono i servizi di addestramento e formazione con istruttore per l'utilizzo del Software GIS di Esri.
+
+Per "Materiale di formazione" si intende tutto il contenuto digitale o stampato richiesto per completare la Formazione, che potrebbe includere, a titolo esemplificativo e non esaustivo, cartelle di lavoro, dati, concetti, esercizi ed esami.
+
+Per "Applicazione a valore aggiunto" si intende un'applicazione sviluppata dal Cliente da utilizzare in combinazione con l'uso autorizzato di Software, Dati oppure Online Services.
+ APPENDICE B
+TERMINI E CONDIZIONI GENERALI
+
+Di seguito sono riportati i termini e le condizioni generali che si applicano a tutte le Offerte Esri e ai Servizi offerti da Esri ai propri clienti. Alcune Offerte Esri o alcuni Servizi potrebbero non essere disponibili ai sensi del presente Contratto. Ignorare tutti i termini non applicabili alle Offerte Esri o ai Servizi offerti ai sensi del presente Contratto.
+
+ARTICOLO 1 - LIMITAZIONI GENERALI SULL'USO
+
+Ad eccezione di quanto espressamente consentito nel presente Contratto, al Cliente non è consentito:
+
+a.	vendere, affittare, concedere in locazione, sublicenziare, distribuire, prestare, condividere temporalmente o cedere le Offerte Esri;
+b.	utilizzare le Offerte Esri ai fini di un Utilizzo ASP commerciale o di enti di servizio;
+c.	distribuire a terzi o fornire accesso diretto alle Offerte Esri, interamente o in parte, compresi, a titolo esemplificativo e non esaustivo, estensioni, componenti o DLL;
+d.	distribuire i Codici di autorizzazione a terzi;
+e.	decodificare, decompilare o disassemblare Prodotti o Articoli da consegnare forniti in forma compilata;
+f.	tentare di aggirare le misure tecnologiche che regolano l'accesso o l'utilizzo delle Offerte Esri;
+g.	archiviare, memorizzare nella cache, utilizzare, caricare, distribuire o concedere in licenza a terzi i Contenuti o utilizzare altrimenti le Offerte Esri in violazione dei diritti di Esri o di terzi, compresi i diritti di proprietà intellettuale, i diritti di riservatezza, le leggi antidiscriminazione o altre leggi o regolamenti applicabili;
+h.	rimuovere o oscurare gli avvisi e/o le legende riguardanti i brevetti, i diritti d'autore, i marchi o i diritti di proprietà di Esri o dei suoi concessori di licenza contenuti o affissi su Offerte Esri, output, file di metadati o pagine online e/o cartacee in cui viene indicata la proprietà intellettuale dei Dati o della Documentazione;
+i.	separare o utilizzare in modo indipendente singole parti o componenti delle Offerte Esri;
+j.	incorporare parti delle Offerte Esri in un prodotto o servizio di terzi in concorrenza con le Offerte Esri;
+k.	pubblicare o altrimenti comunicare i risultati di test di benchmarking eseguiti su Prodotti Beta senza previo consenso scritto di Esri e dei suoi concessori di licenza; oppure
+l.	utilizzare, incorporare, modificare, distribuire, fornire accesso a o combinare tutte le Offerte Esri in modo tale da assoggettare qualunque parte delle Offerte Esri a condizioni di licenza open source o open-database che richiedano che qualunque parte delle Offerte Esri sia:
+
+1.	comunicata sotto forma di codice sorgente a terzi;
+2.	concessa in licenza a terzi per la preparazione di opere derivate; o
+3.	ridistribuibile a terzi gratuitamente.
+
+Tali restrizioni non verranno applicate nei casi in cui siano in conflitto con la legislazione o la normativa vigente.
+
+ARTICOLO 2 - DURATA E RISOLUZIONE
+
+Il presente Contratto ha effetto a decorrere dall'accettazione. Il Cliente ha la facoltà di risolvere il presente Contratto o qualsiasi licenza o abbonamento relativo alle Offerte Esri, in qualunque momento, tramite comunicazione scritta a Esri. La risoluzione senza giusta causa non darà al Cliente il diritto di ricevere eventuali rimborsi di imposte pagate o di terminare incarichi di Servizi in sospeso senza ulteriori responsabilità. Ciascuna parte potrà risolvere il presente Contratto o qualsiasi licenza o abbonamento in caso di grave inadempimento a cui non sia posto rimedio entro 30 giorni dalla comunicazione scritta alla parte inadempiente. Alla risoluzione del presente Contratto per inadempimento grave, Esri interromperà la fornitura dei Servizi. Qualsiasi licenza delle Offerte Esri che rimane in vigore anche dopo la risoluzione del presente Contratto, continuerà ai sensi del presente Contratto.
+
+Qualora Esri termini il presente Contratto in seguito a un inadempimento del Cliente, Esri può anche, a propria discrezione, risolvere le licenze o gli abbonamenti del Cliente nelle Offerte Esri. Qualora il Cliente termini il presente Contratto per un qualunque motivo, il Cliente può anche, a propria discrezione, risolvere le licenze o gli abbonamenti del Cliente nelle Offerte Esri.
+
+Alla risoluzione di una licenza o di un abbonamento, il Cliente è tenuto a:
+
+a.	Interrompere l'accesso e l'utilizzo delle Offerte Esri terminate;
+b.	Cancellare qualsiasi cache di dati client-side derivata dagli Online Services terminati; e
+c.	Interrompere l'utilizzo, la disinstallazione, la rimozione e la distruzione di tutte le copie delle Offerte Esri in possesso del Cliente o sotto il suo controllo, comprese le relative parti modificate o combinate, in qualsiasi forma, e firmare e consegnare la prova di dette azioni a Esri o al suo distributore autorizzato.
+
+Esri può interrompere l'esecuzione dei Servizi immediatamente previa comunicazione scritta al Cliente se una procedura fallimentare o concorsuale viene intrapresa dal Cliente, o contro il Cliente, fino a quando il fiduciario non pone rimedio a eventuali inadempienze esistenti e non fornisca adeguate garanzie di prestazioni future ai sensi del presente Contratto. Il presente Contratto viene risolto per insolvenza, liquidazione o dissoluzione di una delle parti.
+
+ARTICOLO 3 - LIMITAZIONI DI GARANZIA ED ESONERI DI RESPONSABILITÀ
+
+3.1 Limitazioni di Garanzia. Esri garantisce quanto segue:
+
+a.	Per un periodo di 90 giorni,
+
+1.	il Software sarà sostanzialmente conforme alla Documentazione in condizioni di normale utilizzo e tutti i supporti saranno privi di vizi relativi ai materiali e di difetti di lavorazione a partire dalla data della consegna;
+2.	il Materiale di formazione sarà sostanzialmente conforme alle descrizioni dei corsi pubblicati da Esri a partire dalla data della consegna;
+3.	i Servizi saranno sostanzialmente conformi agli standard professionali e tecnici del settore del software a partire dalla data di esecuzione; e
+4.	gli Articoli da consegnare forniti su una base a prezzo fisso definitivo saranno sostanzialmente conformi alle specifiche indicate nella Documentazione dell'ordine concordata a partire dalla data di accettazione.
+
+b.	Durante il periodo di abbonamento applicabile,
+
+1.	gli Online Services saranno sostanzialmente conformi alla Documentazione in condizioni di normale utilizzo;
+2.	la Manutenzione sarà sostanzialmente conforme agli standard professionali e tecnici del settore del software; e
+3.	gli EMCS saranno conformi al campo di applicazione, alle descrizioni e alle ipotesi formulate per EMCS indicate nella Documentazione dell'ordine.
+
+3.2 Esonero speciale di responsabilità. I Contenuti, i Dati, i campioni, gli hot fix, le patch, gli aggiornamenti, gli Online Services forniti gratuitamente, il software di valutazione e le versioni Beta vengono forniti "così come sono" senza alcuna garanzia di sorta.
+3.3 Esonero di responsabilità generale. Fatte salve le garanzie limitate espresse indicate nel presente Contratto, Esri esclude ogni altra garanzia o condizione di qualsivoglia natura, sia essa espressa o implicita, incluse, a titolo esemplificativo e non esaustivo, le garanzie o condizioni di commerciabilità, idoneità a uno scopo particolare e assenza di violazione di diritti di proprietà intellettuale. Esri non garantisce che le Offerte Esri, o l'utilizzo delle stesse da parte del Cliente, avvenga senza interruzioni, sia privo di errori, tollerante ai guasti o esente da guasti, né che eventuali non-conformità possano essere, o verranno, corrette. Le Offerte Esri non sono state progettate, prodotte o destinate all'utilizzo in ambienti o applicazioni che possano comportare morte, lesioni personali o danni materiali/ambientali. Il Cliente non deve seguire alcun suggerimento di itinerario che appaia pericoloso, non sicuro o illegale. Il Cliente si assume i rischi e gli oneri di un eventuale uso di questo tipo.
+3.4 Esoneri di responsabilità
+
+a.	Esonero di responsabilità relativo a Internet. Nessuna delle parti potrà essere ritenuta responsabile, in base a qualsiasi legge, dei danni connessi all'esecuzione o all'interruzione del funzionamento di Internet o a eventuali regolamentazioni di Internet che possano limitare o vietare il funzionamento degli Online Services.
+b.	Contenuti e siti Web di terzi. Esri non è responsabile dei siti Web di terzi o dei Contenuti in essi presenti o a cui è fatto riferimento dalle Offerte Esri e dai siti Web Esri, inclusi www.esri.com e www.arcgis.com. La fornitura di collegamenti a siti Web e risorse di terzi non sottende alcuna adesione, affiliazione o sponsorizzazione di alcun genere.
+
+3.5 Rimedio esclusivo. La tutela esclusiva del Cliente e la responsabilità totale di Esri in caso di violazione delle garanzie limitate contenute nella presente sezione saranno limitate, a esclusiva discrezione di Esri, a quanto segue: (i) sostituzione di eventuali supporti difettosi; (ii) riparazione, correzione o fornitura di una soluzione alternativa per le Offerte Esri o i Servizi applicabili; oppure, (iii) restituzione degli oneri pagati dal Cliente per le Offerte Esri o i Servizi che non soddisfano le garanzie limitate di Esri, a condizione che il Cliente disinstalli, rimuova e distrugga tutte le copie delle Offerte Esri applicabili, interrompa l'accesso e l'uso dei Servizi Cloud applicabili, quindi firmi e consegni la prova di dette azioni a Esri o al suo distributore autorizzato.
+
+ARTICOLO 4 - LIMITAZIONE DI RESPONSABILITÀ
+
+4.1 Esonero di responsabilità. Né il Cliente, né Esri, né alcun distributore autorizzato o concessore di licenza sarà ritenuto responsabile di eventuali danni indiretti, speciali, fortuiti o consequenziali, incluse perdite di profitto, di fatturato o di avviamento; costi sostenuti per l'eventuale acquisizione di merci o servizi sostitutivi; o danni che superano gli oneri applicabili per la licenza o l'abbonamento le versati o da versare a Esri per le Offerte Esri che abbiano fatto incorrere nella responsabilità.
+
+4.2 Le limitazioni e le esclusioni di responsabilità elencate nel precedente paragrafo non si applicano a violazione, utilizzo improprio o appropriazione indebita da parte del Cliente dei diritti di proprietà intellettuale di Esri o dei rispettivi concessori di licenza, obblighi di indennizzo di entrambe le parti, negligenza o cattiva condotta intenzionale o violazioni della clausola Conformità per l'esportazione del presente Contratto o di qualsiasi legislazione o normativa vigente.
+
+4.3. Applicabilità degli esoneri e delle limitazioni di responsabilità. Esri o il suo distributore autorizzato ha fissato i diritti da corrispondere e sottoscritto il presente Contratto in base alle limitazioni e agli esoneri di responsabilità contenuti nel presente Contratto; i diritti da corrispondere riflettono la distribuzione del rischio e costituiscono la base della trattativa tra le parti. Queste limitazioni verranno applicate se le parti sono state informate o meno della possibilità di eventuali danni e indipendentemente dall'eventuale insuccesso dello scopo essenziale di qualsiasi rimedio esclusivo, limitato.
+
+4.4 Le suddette garanzie, limitazioni ed esclusioni potrebbero non essere valide in alcune giurisdizioni e trovare applicazione esclusivamente nella misura ammessa dalla legge o normativa applicabile nella giurisdizione del Cliente. Per il Cliente potrebbero sussistere diritti supplementari per i quali non è ammessa la rinuncia o l'esonero. Esri non intende limitare la garanzia o i rimedi del Cliente oltre la misura ammessa dalla legge.
+
+ARTICOLO 5 - INDENNIZZI
+
+5.1 Definizioni. Le seguenti definizioni integrano le definizioni fornite nell'Appendice A:
+
+a.	"Reclamo" indica qualunque reclamo, azione legale o richiesta da parte di terzi.
+b. Indennizzati" indica il Cliente e i rispettivi direttori, funzionari e dipendenti.
+c.	"Reclami per violazione" indica qualunque reclamo secondo il quale l'uso delle Offerte Esri, o l'accesso a esse, da parte del Cliente violi brevetti, diritti d'autore, marchi o segreti commerciali U.S.A.
+d.	"Perdite" indica la perdita effettiva, il risarcimento dei danni, l'importo della transazione, il costo o la spesa, incluse le spese legali.
+
+5.2 Indennità per violazione
+
+a.	Esri difenderà e solleverà tutti gli Indennizzati da qualunque Reclamo per violazione e indennizzerà qualunque perdita derivante da un Reclamo per violazione, come indicato nei seguenti paragrafi.
+b.	Qualora Esri determini che un Reclamo per violazione sia valido, Esri ha la facoltà, a proprie spese, di: (i) ottenere il diritto per il Cliente di continuare a utilizzare le Offerte Esri oppure (ii) modificare le Offerte Esri mantenendo al tempo stesso una funzionalità sostanzialmente analoga. Se nessuna alternativa risultasse commercialmente ragionevole, Esri ha la facoltà di recedere il diritto del Cliente a utilizzare le Offerte Esri e a rimborsare: (a) le spese di Servizio applicabili; (b) gli oneri di licenza sostenuti dal Cliente per le Offerte Esri che hanno generato la violazione, acquisite nell'ambito di una Licenza perpetua, proporzionalmente ripartiti su un periodo di 5 anni, con un ammortamento lineare a decorrere dalla data della consegna iniziale; oppure (c) le quote non utilizzate dei diritti pagati per le Licenze a termine, gli Abbonamenti e la Manutenzione.
+c.	Esri non ha l'obbligo di difendere un Reclamo per violazione o di indennizzare il Cliente nella misura in cui il Reclamo per violazione derivi: (i) dalla combinazione o l'integrazione delle Offerte Esri con un prodotto, processo o sistema non fornito da Esri né specificato da Esri nella sua Documentazione; (ii) dall'alterazione delle Offerte Esri da parte di soggetti diversi da Esri o dei suoi appaltatori; (iii) dall'osservanza delle specifiche del Cliente; o (iv) dall'utilizzo delle Offerte Esri dopo che Esri ha fornito una versione modificata per evitare la violazione o ha interrotto il diritto del Cliente a utilizzare le Offerte Esri.
+
+5.3 Indennità generale. Esri difenderà e solleverà tutti gli Indennizzati da, e indennizzerà tutte le perdite derivanti da, qualunque Reclamo per lesioni personali, morte o danni alla proprietà (esclusi i database non coperti da un ragionevole programma di backup) intrapreso contro una delle Parti indennizzate a seguito di qualsiasi negligenza, omissione o cattiva condotta intenzionale da parte di Esri o dei rispettivi direttori, funzionari, dipendenti o agenti che eseguono i Servizi mentre sono nella sede del Cliente.
+
+5.4 Condizioni per l'indennizzo. Quale condizione per l'indennizzo, l'Indennizzato (i) trasmetterà una tempestiva comunicazione scritta a Esri, informandolo del Reclamo, (ii) fornirà tutti i documenti disponibili che descrivono il Reclamo, (iii) darà ad Esri il controllo esclusivo della difesa di eventuali azioni e trattative connesse alla difesa e alla composizione di qualunque Reclamo per violazione, e (iv) fornirà una ragionevole collaborazione alla difesa relativa al Reclamo per violazione su richiesta e a spese di Esri.
+
+5.5In questa Sezione è illustrato l'insieme degli obblighi assunti da Esri, dai suoi distributori autorizzati e dai suoi concessori di licenza in relazione a qualunque Reclamo.
+
+ARTICOLO 6 - ASSICURAZIONE
+
+Se Esri sta fornendo i Servizi, come minimo, garantirà la seguente copertura:
+
+a.	Responsabilità generale completa o responsabilità generale commerciale con copertura minima di ($1.000.000) massimale unico combinato in caso di lesioni personali, inclusa la morte, e responsabilità per danni materiali, tra cui:
+
+1.	Installazioni e operazioni;
+2.	Responsabilità contrattuale collettiva;
+3.	Danni materiali in forma estesa;
+4.	Appaltatori indipendenti;
+5.	Lesioni personali, con eliminazione di esclusione dei dipendenti; e
+6.	Operazioni completate.
+
+b.	Assicurazione contro gli infortuni sul lavoro, con rinuncia di surrogazione, per importo conforme ai limiti stabiliti dalla normativa.
+
+ARTICOLO 7 - SICUREZZA E CONFORMITÀ
+
+7.1 Conformità per l'esportazione. Entrambe le parti devono rispettare tutte le normative e le leggi applicabili sull'esportazione, incluse le normative per l'amministrazione delle esportazioni (EAR) del Dipartimento del commercio degli Stati Uniti, le normative statunitensi sul traffico internazionale di armi (ITAR) e altre leggi applicabili sull'esportazione. Il Cliente non esporterà, ri-esporterà, trasferirà, rilascerà o altrimenti disporrà, per intero o solo in parte, né consentirà l'accesso, il trasferimento o l'utilizzo di Servizi o Offerte Esri ad alcun paese degli Stati Uniti sottoposto a embargo o a persone o entità escluse, se non in conformità a tutte le normative e le leggi sull'esportazione del governo degli Stati Uniti in vigore al momento. Il Cliente non esporterà, ri-esporterà, trasferirà o utilizzerà i Servizi o le Offerte Esri per determinate attività o utilizzi finali di missili, armi nucleari, chimiche o biologiche, senza appropriata autorizzazione da parte del governo degli Stati Uniti. Il Cliente notificherà immediatamente a Esri per iscritto qualora un'agenzia o entità governativa degli Stati Uniti neghi, sospenda o revochi i privilegi di esportazione del Cliente. Il Cliente non caricherà, memorizzerà o elaborerà in Servizi Cloud alcun Contenuto del Cliente (i) avente un numero di classificazione per il controllo delle esportazioni (ECCN, Export Control Classification Number) diverso da EAR99 o (ii) controllato per l'esportazione dagli Stati Uniti ai sensi dell'ITAR. Esri non eseguirà i Servizi né fornirà le Offerte Esri in relazione ad alcun articolo per la difesa, servizio di difesa o dati tecnici, come definito, rispettivamente, nelle Sezioni 120.6, 120.9 e 120.10 dell'ITAR, fino a quando Esri non ottiene una qualunque licenza di esportazione necessaria dal governo degli Stati Uniti. Il Cliente assisterà ragionevolmente Esri nella richiesta e nell'ottenimento di una licenza di esportazione, se necessaria.
+
+7.2 Sicurezza. Esri pubblica le informazioni sulle proprie funzionalità di sicurezza all'indirizzo http://doc.arcgis.com/en/trust/security/security-overview.htm. Il Cliente può fornire al personale Esri l'accesso ai sistemi del Cliente o alle informazioni personali del Cliente o di terzi se tale accesso è fondamentale per l'esecuzione dei Servizi da parte di Esri e se Esri accetta espressamente tale accesso. Esri adotterà ragionevoli misure di sicurezza amministrative, tecniche e fisiche per proteggere tali dati e impedirne l'accesso non autorizzato. Il Cliente ha la responsibilità di (i) confermare che i controlli di sicurezza e privacy pubblicati da Esri soddisfino tutti i requisiti legali applicabili relativi alla protezione dei Contenuti del Cliente e di (ii) caricare o condividere i Contenuti del Cliente controllati tramite i Servizi Cloud solo se è legale. Esri non è responsabile della revisione dei Contenuti del Cliente per garantire la conformità alle leggi e alle normative applicabili.
+
+ARTICOLO 8 - INTERRUZIONI, RIMOZIONI E SOSPENSIONI DEI SERVIZI CLOUD
+
+8.1 Utilizzi non consentiti. Il Cliente non può accedere ai Servizi Cloud, o utilizzarli, per:
+
+a.	Eseguire lo spamming, lo spoofing o il phishing delle e-mail; inviare posta indesiderata o materiale offensivo o diffamatorio; oppure perseguitare o minacciare di procurare danni fisici;
+b.	Memorizzare o trasmettere Codice dannoso;
+c.	Violare qualunque legge o normativa;
+d.	Infrangere o appropriarsi indebitamente dei diritti di terzi;
+e.	Mettere alla prova, esaminare o verificare la vulnerabilità dei Servizi Cloud o violare le misure di sicurezza o di autenticazione utilizzati dai Servizi Cloud; o
+f.	Eseguire il benchmarking della disponibilità, delle prestazioni o della funzionalità dei Servizi Cloud a scopo di concorrenza.
+
+8.2 Interruzione del servizio. Guasti del sistema o altri eventi indipendenti dal ragionevole controllo di Esri possono interrompere l'accesso del Cliente agli Online Services. Esri potrebbe non essere in grado di dare preavviso di tali interruzioni.
+
+8.3 Rimozione dei Contenuti del Cliente. Esri ha facoltà di rimuovere o cancellare qualunque porzione dei Contenuti del Cliente qualora abbia motivo di ritenere che il loro caricamento, o utilizzo, con i Servizi Cloud costituisca una violazione del presente Contratto. A sua discrezione, Esri notificherà in anticipo al Cliente la rimozione dei Contenuti. Esri risponderà a qualsiasi comunicazione di rimozione nell'ambito della legge Digital Millennium Copyright Act conformemente alla Politica in materia di copyright di Esri, consultabile all'indirizzo http://www.esri.com
+/legal/dmca_policy.
+
+8.4 Sospensione del servizio. Esri può sospendere l'accesso ai Servizi Cloud (i) qualora il Cliente violi materialmente il presente Contratto e non riesca a porre rimedio alla violazione in modo tempestivo; (ii) qualora Esri creda ragionevolmente che l'uso dei Servizi Cloud da parte del Cliente sarà soggetto immediatamente a responsabilità o influisca negativamente sull'integrità, la funzionalità o l'usabilità dei Servizi Cloud; (iii) per manutenzione programmata; (iv) per bloccare una minaccia o un attacco ai Servizi Cloud; o (v) qualora i Servizi Cloud siano vietati per legge o regolamentati in modo tale che la loro fornitura creerebbe difficoltà a livello commerciale. Quando è possibile, Esri comunicherà in anticipo al Cliente la sospensione dei Servizi Cloud e gli consentirà, entro limiti ragionevoli, di adottare provvedimenti correttivi.
+
+Esri non è in alcun modo responsabile di eventuali danni, responsabilità o perdite che possano derivare da qualsiasi interruzione o sospensione degli Online Services o dalla rimozione dei contenuti del Cliente, come descritto sopra.
+
+ARTICOLO 9 - DISPOSIZIONI GENERALI
+
+9.1 Pagamento. Il Cliente pagherà ciascuna fattura corretta non oltre 30 giorni dalla ricezione ed invierà il pagamento all'indirizzo indicato nella fattura.
+
+9.2 Feedback. Esri ha facoltà di utilizzare liberamente gli eventuali feedback, suggerimenti o richieste di miglioramenti dei Prodotti che il Cliente comunichi a Esri.
+
+9.3 Brevetti. Il Cliente non è autorizzato a tentare di ottenere, né a permettere ad altri di tentare di ottenere un brevetto o un diritto simile in qualsiasi parte del mondo, che sia basato o incorpori un qualsiasi Prodotto. Tale divieto espresso di brevettazione non si applicherà a software o tecnologia del Cliente, se non nella misura in cui un Prodotto, o una qualsiasi loro porzione, facciano parte di una rivendicazione o forma di realizzazione preferita in una domanda di brevetto o in una domanda simile.
+
+9.4 Tasse e Imposte, Spese di spedizione. Le imposte quotate al Cliente non comprendono eventuali tasse e imposte applicabili, inclusi a titolo esemplificativo e non esaustivo, imposte sulle vendite e sull'uso, imposte sul valore aggiunto (IVA), dazi, imposte e tariffe doganali, spese di spedizione e gestione.
+
+9.5 Verifica di conformità. Il Cliente manterrà registri e conti accurati e completi in relazione al suo adempimento agli obblighi derivanti dal presente Contratto. Esri o il proprio distributore autorizzato potrebbe effettuare una verifica di conformità di tali registri e conti in un periodo non inferiore a 7 giorni di preavviso scritto o potrebbe nominare una terza parte indipendente per effettuare tale verifica per proprio conto. Il Cliente correggerà immediatamente qualsiasi inadempimento identificato durante la verifica di conformità. Né Esri né il suo distributore può eseguire una verifica di conformità entro 12 mesi dalla conclusione di una verifica precedente che non ha rilevato alcun inadempimento da parte del Cliente.
+
+9.6 Assenza di rinuncia implicita. Il fatto che una delle parti non applichi una o più disposizioni contenute nel presente Contratto non deve essere considerato come una rinuncia alle disposizioni o al proprio diritto di applicare quella o altre disposizioni in un momento successivo.
+
+9.7 Divisibilità. Le parti concordano reciprocamente che, qualora una (o più) disposizione del presente Contratto si rendesse inapplicabile per qualsiasi ragione, detta disposizione verrà emendata nella misura strettamente necessaria a renderla applicabile nello spirito del Contratto.
+
+9.8 Successori e cessionari. Il Cliente si impegna a non cedere, concedere in sub-licenza né trasferire i diritti o delegare gli obblighi assunti in virtù del presente Contratto senza il consenso scritto di Esri o del suo distributore autorizzato. Pertanto ogni tentativo in questo senso verrà considerato nullo. Il presente Contratto è vincolante per gli eventuali successori e cessionari delle parti. Nondimeno, un appaltatore che ha stipulato un contratto con la Pubblica Amministrazione per la consegna dei Prodotti ha la facoltà di cedere il presente Contratto e i Prodotti acquisiti per la consegna al proprio cliente della Pubblica Amministrazione dietro comunicazione scritta a Esri, a condizione che il cliente della Pubblica Amministrazione accetti i termini e le condizioni del presente Contratto.
+
+9.9 Estensione della validità temporale di alcune disposizioni contrattuali. Il Glossario dei termini e le disposizioni previste agli Articoli 3, 4, 5 e 9 di questi Termini e condizioni generali rimarranno in vigore anche dopo la scadenza o la risoluzione del Contratto.
+
+9.10 Cliente del governo. I Prodotti forniti al Cliente in virtù del presente Contratto sono articoli aventi natura commerciale, sviluppati con finanziamenti privati. Qualora il Cliente sia un ente/appaltatore del governo degli Stati Uniti, Esri concederà in licenza o fornirà gli abbonamenti al Cliente ai sensi del presente Contratto e conformemente ai termini di cui ai commi 12.211/12.212 del FAR (Federal Acquisition Regulation) o al comma 227.7202 del DFARS (Defense Federal Acquisition Regulation Supplement). I Dati e gli Online Services Esri sono concessi in licenza o sottoscritti ai sensi dei medesimi criteri del comma 227.7202 in quanto software commerciale per computer per acquisizioni effettuate nell'ambito del DFARS. I Prodotti sono soggetti a limitazioni e il presente Contratto disciplina rigorosamente l'utilizzo, la modifica, l'esecuzione, la riproduzione, il rilascio, l'esibizione o la divulgazione dei Prodotti da parte del Cliente. Le disposizioni del Contratto incompatibili con le leggi federali non saranno considerate applicabili. Qualora il Cliente sia un'agenzia governativa degli Stati Uniti, avrà la facoltà di trasferire il Software alle rispettive strutture a cui vengano forniti i computer sui quali è installato il Software. Qualora un tribunale, giudice arbitrale o consiglio ritenessero che un Cliente del governo abbia maggiori diritti in relazione a qualsivoglia parte dei Prodotti ai sensi delle normative sugli appalti pubblici applicabili, i suddetti diritti saranno estesi unicamente alle parti interessate.
+
+9.11 Legge applicabile. Il presente Contratto è disciplinato dalle leggi federali degli Stati Uniti e dalle leggi dello Stato della California, senza riguardo ai principi relativi ai conflitti di legge. Il presente Contratto non è soggetto alla Convenzione delle Nazioni Unite sui Contratti per la Vendita Internazionale di Beni (United Nations Convention on Contracts for the International Sale of Goods).
+
+9.12Risoluzione delle controversie. Le parti utilizzeranno le seguenti procedure per la risoluzione delle controversie:
+
+a.	Riparazione basata sul principio dell'equity. Ciascuna parte avrà il diritto di ottenere un'ingiunzione, un'esecuzione forzata del contratto in forma specifica o altre riparazioni basate sul principio dell'equità presso qualsiasi tribunale della giurisdizione competente, senza la necessità di prestare garanzie o fornire prove del danno come requisito per la riparazione del torto.
+b.	Enti governativi degli Stati Uniti. Il presente Contratto è soggetto al Contract Disputes Act del 1978 e successive modifiche (41 USC 601-613).
+c.	Altri enti governativi. Esri si impegna a rispettare le risoluzioni delle controversie obbligatorie ai sensi della legge applicabile.
+d.	Arbitrato. A eccezione di quanto notato sopra, le parti sottoporranno la questione a un arbitrato vincolante per risolvere eventuali controversie generate da o correlate al presente Contratto che non possono essere risolte in via amichevole. Se il Cliente risiede negli Stati Uniti o in uno dei suoi territori o in una delle aree periferiche, il procedimento arbitrale sarà regolato dal Regolamento Arbitrale Commerciale dell'American Arbitration Association. Se il Cliente risiede fuori dagli Stati Uniti, il procedimento arbitrale sarà regolato dalla Camera di Commercio Internazionale. Le parti selezioneranno un arbitro unico in conformità alle regole di arbitrato applicabili. L'arbitrato sarà condotto in lingua inglese. L'arbitrato verrà condotto in un luogo concordato tra le parti. Ciascuna delle parti, su richiesta dell'altra parte, sarà tenuta a mettere a disposizione documenti e testimonianze rilevanti per gli aspetti principali della controversia.
+
+9.13 Forza maggiore. Una parte non sarà responsabile per qualsiasi inadempimento o ritardo nell'esecuzione del presente Contratto durante il periodo in cui tale inadempimento o ritardo sia dovuto a cause al di fuori del proprio ragionevole controllo. Tali cause possono includere, ma non sono limitate a, cause di forza maggiore, guerra, scioperi, controversie di lavoro, attacchi informatici, leggi, normative, ordini governativi o qualsiasi altro evento di forza maggiore.
+
+9.14 Appaltatore indipendente. Esri è, e sarà sempre, un appaltatore indipendente. Nessuna disposizione del presente Contratto crea alcun rapporto datore di lavoro/dipendente, principale/agente o di joint venture tra Esri o il suo distributore autorizzato e il Cliente. Nessuna parte ha l'autorità per stipulare contratti per conto di un'altra parte o agire altrimenti per conto di un'altra parte.
+
+9.15 Avviso. Ai sensi del presente Contratto, il Cliente può inviare gli avvisi necessari al seguente indirizzo:
+
+Environmental Systems Research Institute, Inc.
+Att.: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+Stati Uniti
+
+Tel.: 909-793-2853
+E-mail: LegalNotices@esri.com
+
+ALLEGATO 1
+CONDIZIONI DI UTILIZZO SPECIFICHE DEI PRODOTTI
+(E300 09/22/2016)
+
+SOFTWARE
+
+Nella seguente tabella sono identificate le condizioni di utilizzo supplementari che si applicano a Software specifici. Ciascun elenco di prodotti identifica una o più note a piè di pagina che si applicano a tale Prodotto. Queste note a piè di pagina integrano le condizioni del Contratto. Le definizioni per ciascuna nota a piè di pagina sono riportate dopo la tabella. Salvo diversa indicazione contenuta nella Documentazione dell'ordine, le estensioni del Software fruiscono delle stesse condizioni di utilizzo concesse per il Software corrispondente.
+
+Prodotti desktop
+▪	ArcGIS Desktop (Advanced, Standard o Basic) (26)
+▪	ArcGIS Earth (65)
+▪	ArcGIS Explorer Desktop (20)
+▪	ArcGIS for AutoCAD (20)
+▪	ArcPad (13)
+▪	ArcReader (20)
+▪	ArcGIS for Windows Mobile (15; 54)
+▪	ArcGIS per uso personale (3, 26)
+
+Prodotti server
+▪	ArcGIS Enterprise
+-	Standard o Advanced (21; 31)
+-	Workgroup Standard o Advanced (21; 28; 29; 30; 32 )
+-	ArcGIS GIS Server (Standard o Advanced) (31)
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server Workgroup (Standard o Advanced) (28; 29; 30; 32 )
+-	ArcGIS GIS Server Workgroup Basic (39)
+-	Estensione di ArcGIS GIS Server
+-	ArcGIS Maritime: Server (2)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4)
+▪	Esri Business Analyst Server
+-	Workgroup (28; 29; 30; 31; 39)
+-	Enterprise (31; 39)
+▪	World Geocoder for ArcGIS Basic (67)
+Strumenti di sviluppo
+▪	AppStudio for ArcGIS Standard (11, 16, 19)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt o WPF (16; 19)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt o WPF (15; 18)
+▪	ArcGIS Engine Developer Kit ed estensioni (16, 19; 22, 26)
+▪	ArcGIS Engine for Windows/Linux ed estensioni (15; 22; 26)
+▪	ArcGIS Web Mapping (compresi ArcGIS API for JavaScript/HTML5, ArcGIS API for Flex, ArcGIS API for Microsoft Silverlight) (15; 16; 64; 66)
+▪	Abbonamento ad ArcGIS Developer (24; 26)
+▪	Esri File Geodatabase API (47)
+
+Altro
+▪	Navigator for ArcGIS (14)
+
+ Note a piè di pagina:
+
+1.	Riservato.
+2.	Non utilizzabile per 	la navigazione	.
+3.	Concesso in licenza solo per uso personale.
+4.	Quando utilizzato con ArcGIS Enterprise Workgroup
+-	Limitato a un 1 server a quattro core.
+-	Installabile su un computer distinto.
+	5-10.	Riservato.
+11.	Le applicazioni sviluppate con AppStudio for ArcGIS Standard sono soggette alle condizioni di utilizzo di ArcGIS Runtime Standard Level.
+12.	Riservato.
+13.	Per "Licenza a duplice impiego" si intende il fatto che il Software può essere installato su un computer desktop e può essere utilizzato contemporaneamente o su un Personal Digital Assistant (PDA) oppure su un computer palmare, a condizione che il Software venga utilizzato soltanto da una persona per volta.
+14.	Potrà essere impiegato per la navigazione.
+15.	Concesso in licenza come Licenza di distribuzione.
+16.	Il Cliente può utilizzare gli SDK o le API per creare Applicazioni a valore aggiunto e per distribuire e concedere in licenza tali Applicazioni a valore aggiunto ai propri utenti finali affinché questi ultimi le utilizzino in tutti casi non vietati dalla normativa in materia di esportazioni.
+17.	Riservato.
+18.	La Licenza di distribuzione si riferisce a una data Applicazione a valore aggiunto e a un dato computer per applicazioni autonome.
+19.	La Licenza non dovrà essere utilizzata per sviluppare Applicazioni Internet o di tipo server a valore aggiunto.
+20.	Il Cliente	 può riprodurre e distribuire il Software a patto che si verifichino le seguenti condizioni:
+
+a.	il Software venga riprodotto e distribuito nella sua interezza;
+b.	un contratto di licenza accompagni ciascuna copia del Software e lo tuteli nella medesima misura garantita dal presente Contratto di licenza e il ricevente accetti di essere vincolato dalle condizioni del contratto di licenza;
+c.	tutte le attribuzioni/gli avvisi di copyright e del marchio siano riprodotti e
+d.	l'uso del Software non sia soggetto al pagamento di corrispettivi o diritti.
+
+21.	Il Cliente possa creare Applicazioni a valore aggiunto per l'utilizzo da parte di Utenti designati del Cliente. Il Cliente non è autorizzato a integrare Credenziali di utente designato all'interno di un'Applicazione a valore aggiunto. Il Cliente non è autorizzato a integrare o utilizzare Credenziali di accesso all'app all'interno di Applicazioni a valore aggiunto. Le Applicazioni a valore aggiunto richiedono Credenziali di utente designato.
+22.	a.	un utente finale deve acquisire in licenza il Software ArcGIS Engine per Windows/Linux Software o altro Software ArcGIS for Desktop (Basic, Standard o Advanced) per ottenere il diritto di eseguire un'applicazione ArcGIS Engine su 1 computer; e
+b.	le estensioni ArcGIS Engine for Windows/Linux non possono essere utilizzate insieme al Software ArcGIS Desktop per l'esecuzione di Applicazioni a valore aggiunto ArcGIS Engine. Un singolo utente può installare più Applicazioni a valore aggiunto ArcGIS Engine su 1 computer in uso esclusivo al suddetto utente finale.
+23.	Riservato.
+24.	Il Software può essere utilizzato esclusivamente a fini di sviluppo, collaudo e dimostrazione di un'Applicazione a valore aggiunto prototipo, nonché creazione di cache di mappa. Applicazioni a valore aggiunto e cache di mappa possono essere utilizzati con i server di distribuzione e staging ArcGIS Enterprise. Il Software e i Dati possono essere installati su più computer e utilizzati da qualunque sottoscrittore di ArcGIS Developer con un piano di abbonamento Extend o superiore; tutto il restante Software è concesso in licenza con Licenza Single Use.
+25.	Riservato.
+26.	Un geodatabase Personal Edition è limitato a 10 gigabyte di dati del Cliente.
+27.	Riservato.
+28.	L'uso è limitato a 10 utenti finali contemporanei di applicazioni non ArcGIS Enterprise Workgroup o ArcGIS GIS Server Workgroup. La presente restrizione include l'utilizzo di prodotti Software ArcGIS Desktop e ArcGIS Engine, nonché applicazioni di terzi che si connettono direttamente a geodatabase ArcGIS Enterprise Workgroup o ArcGIS GIS Server Workgroup. Non vi sono limiti al numero di collegamenti provenienti da applicazioni Web.
+29.	Il Software richiede una versione supportata di SQL Server Express. Le versioni supportate sono elencate insieme ai requisiti di sistema del prodotto nel sito Web Esri.
+30.	L'uso è limitato a un massimo di 10 gigabyte di dati del Cliente.
+31.	 	 Al Cliente è consentito avere installazioni di Software Esri Server ridondanti per operazioni di f	ail-over, ma il Software ridonante può rimanere operativo soltanto durante il periodo in cui il sito primario non è operativo (fail-over attivo-passivo). Le installazioni di Software ridondanti resteranno dormienti, a eccezione delle attività di manutenzione di sistema e di aggiornamento delle banche dati, mentre il sito primario o qualsivoglia altro sito ridondante è operativo.
+32.	L'installazione di Software ridondante per le operazioni di fail-over è vietata.
+33-38.	Riservato.
+39.	L'uso di funzionalità di editing incluse in ArcGIS GIS Server non è permesso in abbinamento con ArcGIS GIS Server Basic (Workgroup o Enterprise).
+40-46.	Riservato.
+47.	Il Cliente può sviluppare e distribuire Applicazioni a valore aggiunto che utilizzano Esri File Geodatabase API ai propri utenti finali.
+48-53.	Riservato.
+54.	ArcGIS for Windows Mobile Deployments è concesso in licenza per essere utilizzato con ArcGIS Enterprise (Advanced o Standard), ArcGIS Enterprise Workgroup (Advanced), ArcGIS Desktop (Advanced, Standard, Basic) e le Applicazioni a valore aggiunto ArcGIS Engine.
+55-63.	Riservato.
+64.	Le Applicazioni a valore aggiunto per la distribuzione via Web devono essere utilizzate in combinazione con altri Prodotti Esri. Si possono inoltre usare tecnologie di terzi in combinazione con Applicazioni a valore aggiunto a condizione che queste ultime siano sempre utilizzate in combinazione con altri Prodotti Esri.
+65.	Può essere utilizzato solo in combinazione con altri Prodotti Esri. Si possono inoltre usare tecnologie di terzi in combinazione con ArcGIS Earth a condizione che quest'ultimo sia sempre utilizzato in combinazione con altri Prodotti Esri.
+66.	Per le applicazioni desktop, ogni licenza si riferisce a un'organizzazione. Ai fini della presente licenza, l'organizzazione è equivalente a un identificatore univoco di dominio primario registrato. Il dominio è il nome di dominio Internet registrato presso un'autorità di registrazione. Ad esempio, in esempio.com, esempio.com è l'identificatore univoco di dominio registrato. Analogamente, in esempio.com.xx, dove xx corrisponde a un codice di nazione registrato, esempio.com.xx è l'identificatore univoco di dominio registrato. Le applicazioni desktop possono essere usate da qualsiasi dipendente dell'organizzazione con l'identificatore univoco di dominio primario registrato. Non vi sono limiti al numero di applicazioni che possono essere costruite e distribuite all'interno di un'organizzazione.
+67.	Limitata a 250.000.000 di geocodici per abbonamento annuale.
+ ONLINE SERVICES
+
+Nella seguente tabella sono identificate le condizioni di utilizzo supplementari che si applicano a Online Services specifici. Ciascun elenco di prodotti identifica una o più note a piè di pagina che si applicano a tale Prodotto. Le definizioni per ciascuna nota a piè di pagina sono riportate dopo la tabella. Salvo diversa indicazione contenuta nella Documentazione dell'ordine, le estensioni del Software fruiscono delle stesse condizioni di utilizzo concesse per il Software corrispondente.
+
+▪	Gli abbonamenti ad ArcGIS Online sono disponibili attraverso vari Programmi di vendita:
+
+-	Commercio al dettaglio, EAs; Programmi governativi (1; 2; 3; 11; 12; 14; 20)
+-	Programmi didattici (1; 2; 8; 10; 14; 19)
+-	 	 Programmi no-profit	 (1; 2; 8; 14; 19; 20)
+
+▪	Gli abbonamenti ad ArcGIS Online Developer Deployment sono disponibili attraverso vari Programmi di vendita:
+
+-	Commercio al dettaglio, EAs; Programmi governativi
+	Abbonamento gratuito (1; 8; 9; 10; 13; 19; 20)
+	Abbonamento a pagamento (1; 8; 9; 10; 11; 13; 20)
+-	Programmi educativi, 	non governativi	/no-profit, mezzi di comunicazione
+	Abbonamento gratuito (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Abbonamento a pagamento (1; 3; 4; 5; 6; 9; 10; 13; 19)
+-	Programmi non governativi/no-profit, mezzi di comunicazione
+	Abbonamento gratuito (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+	Abbonamento a pagamento (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+
+▪	Piano pubblico
+-	 	 Com	mercio al dettaglio, EAs; Programmi governativi; Non governativi/No-profit; Mezzi di comunicazione (1; 4; 5; 6; 7; 9; 10; 15; 19; 20)
+-	Programmi didattici (1; 4; 5; 6; 7; 9; 10; 15; 19)
+▪	Esri Business Analyst Online (16)
+▪	Esri Business Analyst Online Mobile (16)
+▪	Esri Community Analyst (16)
+▪	Esri MapStudio (17)
+
+ Note a piè di pagina:
+
+1.	Oltre alle condizioni comuni di utilizzo degli Online Services:
+
+a.	Il Cliente può utilizzare il proprio abbonamento agli Online Services per creare Applicazioni a valore aggiunto per uso interno del Cliente.
+b.	Il Cliente può anche fornire a terzi accesso alle Applicazioni a valore aggiunto del Cliente, conformemente alle seguenti condizioni:
+
+i.	Il Cliente può consentire l'accesso a Utenti anonimi alle Applicazioni a valore aggiunto del Cliente.
+ii.	Il Cliente è tenuto a non aggiungere terzi quali Utenti designati al proprio abbonamento ad ArcGIS Online allo scopo di consentire a detti terzi di accedere alle Applicazioni a valore aggiunto del Cliente. Tale limitazione non si applica ai terzi compresi nella definizione di Utenti designati;
+iii.	Il Cliente è tenuto a consentire a terzi di accedere agli ArcGIS Online Services abilitati attraverso l'abbonamento ad ArcGIS Online del Cliente se non tramite le Applicazioni a valore aggiunto del Cliente. Tale limitazione non si applica ai terzi compresi nella definizione di Utenti designati;
+iv.	Il Cliente è il solo responsabile della fornitura di supporto tecnico per le Applicazioni a valore aggiunto del Cliente.
+v.	Il Cliente non può rimuovere o oscurare marchi registrati o loghi altrimenti visualizzati durante l'uso degli Online Services, senza autorizzazione per iscritto. Il Cliente dovrà includere un avviso che dichiari che la propria applicazione utilizza gli Online Services forniti da Esri, qualora tale attribuzione non venga automaticamente visualizzata con l'uso degli Online Services. Le linee guida al riguardo sono incluse nella Documentazione.
+vi.	Il Cliente non è autorizzato a integrare Credenziali di utente designato all'interno di un'Applicazione a valore aggiunto. Le Credenziali di accesso all'app possono essere integrate solo nelle Applicazioni a valore aggiunto che vengono utilizzate per fornire accesso anonimo ad ArcGIS Online. Il Cliente non è autorizzato a integrare Credenziali di accesso all'app ArcGIS Online all'interno di Applicazioni a valore aggiunto per uso interno. Le Applicazioni a valore aggiunto per uso interno richiedono Credenziali di utente designato.
+
+c.	World Geocoding Service: il Cliente non potrà memorizzare i risultati geocodificati generati dal servizio senza un abbonamento ad ArcGIS Online.
+d.	Infographics Service: il Cliente potrà utilizzare i dati accessibili mediante tale servizio esclusivamente per fini di visualizzazione. È fatto divieto al Cliente di memorizzare qualunque dato accessibile mediante tale servizio.
+
+2.	Può essere utilizzato per qualunque finalità aziendale dell'organizzazione del Cliente.
+3.	Può essere utilizzato ai fini di sviluppo e collaudo per l'organizzazione del Cliente.
+4.	Può essere utilizzato per scopi di insegnamento in organizzazioni didattiche.
+5.	Può essere utilizzato a vantaggio di qualunque organizzazione non governativa/no-profit qualificata del Cliente.
+6.	Può essere utilizzato a vantaggio di organizzazioni di mezzi di comunicazione.
+7.	Può essere utilizzato per uso personale.
+8.	Le Applicazioni a valore aggiunto dell'abbonato devono essere pubblicate per l'accesso pubblico.
+9.	Non può essere utilizzato a vantaggio di un'organizzazione governativa o a scopi di lucro.
+10.	Al Cliente è fatto divieto di creare gruppi privati o di parteciparvi.
+11.	Il Cliente può rendere disponibili a terzi le Applicazioni a valore aggiunto dietro pagamento.
+12.	Il Cliente può utilizzare questo abbonamento per creare gruppi privati o parteciparvi.
+13.	Per ciascun abbonamento è previsto un limite di 1.000.000 di basemap e 1.000.000 di transazioni "geosearch" al mese unitamente all'abbonamento del Cliente. Il termine "Transazione" è definito nella Documentazione delle Risorse ArcGIS Online all'indirizzo http://links.esri.com/agol/transactiondef.
+14.	Per ciascun abbonamento è previsto un limite di 50.000.000 basemap e transazioni "geosearch" combinate al mese. Il termine "Transazione" è definito nella Documentazione delle Risorse ArcGIS Online all'indirizzo http://links.esri.com/agol/transactiondef.
+15.	Ha la facoltà di autorizzare gli studenti registrati di un istituto di formazione ad accedere direttamente agli Online Services e di condividere un singolo abbonamento tra più di 1 studente registrato, a scopo puramente educativo.
+16.	Il Cliente non può visualizzare o pubblicare combinazioni di più di 100 Report e mappe di Esri Business Analyst Online o Community Analyst sui propri siti Web esterni.
+17.	Il Licenziatario può creare, esibire pubblicamente e distribuire mappe su supporto cartaceo o in formato elettronico statico per accompagnare notizie, conformemente alle restrizioni di ArcGIS Online Data.
+18.	Riservato.
+19.	Il Cliente non può rendere disponibili a terzi le Applicazioni a valore aggiunto dietro pagamento.
+20.	Al Licenziatario non è consentito essere il licenziatario per terzi o per conto di essi.
+

@@ -1,0 +1,575 @@
+﻿TÄRKEÄÄ - LUE TARKASTI
+(E204CW 09/22/2016)
+
+Ellei sinun ja Esrin välinen allekirjoitettu lisenssisopimus korvaa näitä ehtoja, Esri suostuu tarjoamaan Palveluitaan sinulle vain, jos hyväksyt kaikki tämän Sopimuksen ehdot. Lue ehdot huolellisesti. Et saa käyttää Esrin Tarjoomaa, ennen kuin olet hyväksynyt Sopimuksen ehdot. Jos et hyväksy ehtoja esitetyssä muodossaan, napsauta alla "En hyväksy sopimusta". Tämän jälkeen voit pyytää suoritettujen maksujen hyvitystä.
+
+Tämä Sopimus solmitaan sinun ("Asiakkaan") ja Environmental Systems Research Institute, Inc.:n ("Esrin") välillä; Esri on yhdysvaltalainen yritys, jonka kotipaikka on 380 New York Street, Redlands, California 92373-8100 USA.
+
+1.0 YLEISET OIKEUDET JA RAJOITUKSET
+
+1.1 Liite A sisältää tässä Sopimuksessa käytettyjen isolla alkukirjaimella kirjoitettujen termien määritelmät. Kukin tämän Sopimuksen osa voi sisältää lisämääritelmiä, joita käytetään kyseisessä osassa.
+
+1.2 Oikeuksien myöntäminen. Vastineeksi siitä, että Asiakas maksaa kaikki sovellettavat maksut ja tämän Sopimuksen mukaisesti Esri myöntää Asiakkaalle henkilökohtaisen, ei-yksinoikeudellisen, siirtokelvottoman oikeuden
+
+a.	Käyttää Esrin Tarjoomaa Dokumentaatiossa ja sovellettavissa Tilausasiakirjoissa kuvatulla tavalla;
+b.	Kopioida ja tehdä muunnelmia Dokumentaatiosta Asiakkaan omaan sisäiseen käyttöön Asiakkaan sopimuksenmukaisen Tuotteiden käytön yhteydessä. Asiakkaan on sisällytettävä dokumentaatioon seuraava tekijänoikeuslauseke, jossa se myöntää Esrin ja sen lisenssinantajien omistusoikeudet:
+
+"Osat tästä asiakirjasta sisältävät Esrin ja sen lisenssinantajien aineetonta omaisuutta, jota käytetään lisenssin perusteella. Copyright (c) [Asiakas liittää tähän lähdemateriaalien mukaiset tekijänoikeusajankohdat.] Esri ja sen lisenssinantajat. Kaikki oikeudet pidätetään."
+
+Tämän osan mukaiset oikeudet (i) pysyvät voimassa tilauksen tai sovitun Jakson ajan tai ikuisesti, mikäli Jaksoa ei ole määritetty Tilausasiakirjoissa ja (ii) niihin sovelletaan tämän Sopimuksen määräämiä lisäkäyttöoikeuksia ja -rajoituksia, mukaan lukien Liite B.
+
+1.3 Konsulttien tai alihankkijoiden käyttö. Asiakas voi valtuuttaa konsulttejaan tai alihankkijoitaan käyttämään Esrin Tarjoomaa yksinomaan Asiakkaan hyödyksi. Asiakas on yksin vastuussa siitä, että sen konsultit ja alihankkijat noudattavat tätä Sopimusta, ja sen on varmistettava, että kukin konsultti tai alihankkija lopettaa Esrin Tarjooman käytön, kun sen Asiakkaalle tekemä työ on suoritettu. Konsultteja tai alihankkijoita kielletään käyttämästä Esrin Tarjoomaa muutoin kuin yksinomaan Asiakkaan hyödyksi.
+
+1.4 Evaluointi- ja betalisenssit. Evaluointilisenssin, tilauksen tai betaohjelman kautta hankitut Tuotteet on tarkoitettu vain evaluointi- ja testaustarkoituksiin, ei kaupalliseen käyttöön. Niiden käyttö on Asiakkaan omalla vastuulla, eivätkä Tuotteet oikeuta Ylläpitopalveluihin. Jos Asiakas ei vaihda ostettuun lisenssiin tai tilaukseen ennen evaluointijakson päättymistä, Asiakas voi menettää kaiken evaluointijaksolla tuottamansa sisällön ja mukautukset. Jos Asiakas ei halua ostaa lisenssiä tai tilausta, Asiakkaan on tallennettava kyseinen sisältö muualle ennen Asiakkaan evaluointijakson päättymistä.
+
+1.5 Ohjelmat opetustarkoituksiin. Asiakas sitoutuu käyttämään Esrin opetusohjelman puitteissa tarjoamia Palveluita ainoastaan opetustarkoituksiin opetuskäytön sopimuskauden ajan. Asiakas ei saa käyttää Tuotteita mihinkään Hallinnolliseen käyttöön, ellei Asiakas ole hankkinut lisenssiä Hallinnolliseen käyttöön. "Hallinnollinen käyttö" tarkoittaa hallinnollisia toimia, jotka eivät liity suoraan opetukseen tai koulutukseen, esim. omaisuuden selvitystä, toimitilojen hallintaa, väestöllistä analysointia, reititystä, kampusalueen turvallisuutta ja käytettävyysanalyysiä. Asiakas ei saa käyttää Tuotteita tuloja tuottaviin tai voittoa tavoitteleviin tarkoituksiin.
+
+1.6 Stipendiohjelmat.Asiakas saa käyttää Esrin stipendiohjelman puitteissa tarjoamia Palveluita vain ei-kaupallisiin tarkoituksiin. Lukuun ottamatta Esrin Tarjooman käyttökustannusten kattamista, Asiakas ei saa käyttää Esrin Tarjoomaa tuloja tuottaviin tai voittoa tavoitteleviin tarkoituksiin.
+
+1.7 Muut Esrin rajoitetun käytön ohjelmat.Jos Asiakas hankkii Esrin Tarjoomaa jonkin sellaisen rajoitetun käytön ohjelman puitteissa, jota ei ole lueteltu yllä, Asiakkaan Esrin Tarjooman käyttöä voivat rajoittaa asianmukaisella aloitussivulla tai ilmoittautumislomakkeella määritellyt ehdot sekä Esrin sivustolla kuvatut ehdot tämän Sopimuksen sellaisten ehtojen lisäksi, jotka eivät ole ristiriidassa edellä mainittujen kanssa.
+
+1.8 Oikeuksien pidättäminen." Koko Esrin Tarjooma on Esrin tai sen lisenssinantajien tekijänoikeuden alaista; kaikki oikeudet, joita ei nimenomaisesti myönnetä tällä Sopimuksella, pidätetään.
+
+2.0 OHJELMISTOJEN KÄYTTÖEHDOT
+
+2.1 Lisenssityypit. Esri lisensoi Ohjelmistoja seuraavilla lisensseillä:
+
+a.	Samanaikaisen käytön lisenssi: Asiakas saa asentaa ja käyttää Ohjelmistoa verkossa olevilla tietokoneilla, mutta samanaikaisten käyttäjien määrä ei saa ylittää hankittujen lisenssien määrää. Samanaikaisen käytön lisenssi sisältää oikeuden ajaa passiivisia samanaikaisen käytön lisenssin hallintaohjelmiston varainstansseja erillisessä käyttöjärjestelmäympäristössä väliaikaista vioista toipumista varten.
+b.	Levityslisenssi: Asiakas saa sisällyttää ArcGIS Runtime ‑komponentteja Lisäarvosovelluksiin ja jakaa Lisäarvosovelluksia Asiakkaan loppukäyttäjille.
+c.	Levityspalvelinlisenssi: Asiakas saa käyttää Ohjelmistoja Palvelinlisenssillä kaikkiin Sopimuksen sallimiin tarkoituksiin Dokumentaatiossa kuvatulla tavalla.
+d.	Kehityspalvelinlisenssi: Asiakas saa käyttää Ohjelmistoja Palvelinlisenssillä Lisäarvosovellusten rakentamiseen ja testaamiseen Dokumentaatiossa kuvatulla tavalla.
+e.	Kehityskäyttö: Asiakas saa asentaa ja käyttää Ohjelmistoja Lisäarvosovellusten rakentamiseen ja testaamiseen Dokumentaatiossa kuvatulla tavalla.
+f.	Kaksoiskäyttölisenssi: Asiakas saa asentaa Ohjelmiston pöytätietokoneelle ja käyttää sitä samanaikaisesti joko kämmentietokoneella tai mobiilitietokoneella edellyttäen, että Ohjelmistoa käyttää kulloinkin vain yksi henkilö.
+g.	Varalisenssi (Failover License): Asiakas saa asentaa ylimääräisiä Ohjelmiston asennuksia varatoimintoja varten, mutta ylimääräinen Ohjelmisto saa olla käytössä vain sen ajan, kun ensisijainen palvelin ei ole toiminnassa. Ylimääräisten ohjelmistoasennusten on pysyttävä käyttämättöminä lukuun ottamatta järjestelmän ylläpitoa ja tietokantojen päivittämistä silloin, kun ensisijainen palvelin (tai jokin toinen ylimääräinen palvelin) on toiminnassa.
+h.	Edelleenjakamislisenssi: Asiakas saa kopioida ja jakaa Ohjelmistoa edellyttäen, että
+
+1.	Asiakas kopioi ja jakaa Ohjelmiston kokonaisuudessaan.
+2.	Ohjelmiston jokaisen kopion yhteydessä toimitetaan lisenssisopimus, joka suojaa Ohjelmistoa samassa laajuudessa kuin tämä Sopimus, ja vastaanottaja sitoutuu lisenssisopimuksen ehtoihin.
+3.	Asiakas toisintaa kaikki tekijänoikeus- ja tavaramerkkimaininnat ja -ilmoitukset.
+4.	Asiakas ei veloita muita Ohjelmiston käytöstä.
+
+i.	Palvelinlisenssi: Asiakas voi asentaa ja käyttää Ohjelmistoa palvelintietokoneella. Palvelinlisenssien palvelinydinten määrää tai levitystä useille palvelimille voidaan rajoittaa Tilausasiakirjoissa tai Dokumentaatiossa kuvatulla tavalla. Jos Ohjelmiston kuvaus sisältää varakäytön, kukin Palvelinlisenssi sisältää Varalisenssin (Failover License).
+i.	Yhden käyttäjän lisenssi: Asiakas voi sallia yhden valtuutetun loppukäyttäjän asentaa ja käyttää Ohjelmistoa yhdellä tietokoneella. Asiakas voi antaa yksittäiselle valtuutetulle loppukäyttäjälle oikeuden asentaa toisen kopion loppukäyttäjän yksinomaista käyttöä varten toiseen tietokoneeseen, kunhan vain 1 Ohjelmiston kopio on käytössä samanaikaisesti. Kukaan toinen loppukäyttäjä ei saa käyttää Ohjelmistoa saman lisenssin alaisuudessa samanaikaisesti mihinkään muuhun tarkoitukseen.
+k.	Järjestelypalvelinlisenssi (Staging Server License): Asiakas voi käyttää Ohjelmistoa Palvelinlisenssillä Lisäarvosovellusten ja karttavälimuistien rakentamiseen ja testaamiseen, muiden kolmannen osapuolen ohjelmistojen käyttäjähyväksyntätestien, suorituskykytestien sekä kuormitustestien suorittamiseen, uusiin kaupallisen aineiston päivityksiin sekä koulutustoimintoihin Dokumentaatiossa kuvatulla tavalla. Asiakas voi käyttää Lisäarvosovelluksia ja karttavälimuisteja Kehitys- ja levityspalvelimilla.
+
+2.2 Sallitut käyttötavat
+
+a.	Asiakas voi
+
+1.	Asentaa, käyttää tai tallentaa Ohjelmiston ja Dataa sähköisille tallennuslaitteille.
+2.	tehdä arkistokopioita ja rutiininomaisia tietokoneen varmistuskopioita
+3.	Asentaa ja käyttää Ohjelmiston uudempaa versiota samanaikaisesti korvattavan version kanssa kohtuullisen siirtymäajan, joka ei saa ylittää 6 kuukautta, edellyttäen, että kummankaan version käyttö ei ylitä Asiakkaalle lisensoitua lukumäärää; tämän jälkeen Asiakas ei saa yhteenlaskettuna käyttää enempää Ohjelmistoja kuin on Asiakkaan lisensoitu kokonaismäärä. Tämä ei koske Kehityskäyttöön lisensoitua Ohjelmistoa.
+4.	Siirtää Ohjelmiston sen lisensoidussa kokoonpanossa korvaavaan tietokoneeseen.
+5.	Toimittaa kolmansille osapuolille Ohjelmistoa ja siihen liittyviä Valtuutuskoodeja, joita tarvitaan Levityslisenssin käyttöön.
+6.	Käyttää Palvelinohjelmistoa Kaupalliseen sovelluspalveluntarjoajan (ASP) käyttöön edellyttäen, että Asiakas on hankkinut Kaupallisen ASP-käytön lisenssin tai on julkishallinnon laitos tai voittoa tavoittelematon yhteisö, joka ylläpitää verkkosivustoa tai tarjoaa Internet-palvelua omakustannushintaan voittoa tavoittelematta.
+
+b.	Asiakas voi räätälöidä Ohjelmistoa minkä tahansa makro- tai komentosarjakielen, APIn tai lähde- tai objektikoodikirjastojen avulla, mutta ainoastaan siinä laajuudessa kuin räätälöinti on kuvattu Dokumentaatiossa.
+c.	Asiakas voi käyttää kaikkia Ohjelmiston mukana toimitettuja fontteja Ohjelmiston minkä tahansa valtuutetun käytön yhteydessä. Asiakas voi käyttää myös Esrin fontteja erikseen Ohjelmistolla luotujen tietojen tulostamiseen. Ohjelmistoon sisältyvien kolmannen osapuolen fonttien käyttörajoitukset on määritelty itse fonttitiedostossa.
+d.	Liite 1 määrittää tuotekohtaiset Ohjelmiston käyttöehdot. Esri voi päivittää Liitettä 1 ajoittain.
+
+2.3 Ylläpito. Esri tarjoaa Ylläpitopalveluita Esrin ylläpito- ja tukiohjelman mukaisesti, jos Asiakas on Yhdysvalloissa. Asiakkaat Yhdysvaltain ulkopuolella voivat saada Ylläpitopalveluita paikalliselta Esrin jakelijalta tämän omien ehtojen mukaisesti.
+
+3.0 ONLINE SERVICES -PALVELUIDEN KÄYTTÖ
+
+3.1 Määritelmät. Seuraavat määritelmät täydentävät Liitteessä A ilmoitettuja määritelmiä:
+
+a."Anonyymit käyttäjät" tarkoittaa kaikkia niitä, joilla on julkinen pääsy (ts. ilman käyttäjätunnusta) mihin tahansa osaan Asiakkaan Sisältöä tai Lisäarvosovellusta. Asiakas voi antaa Anonyymeille käyttäjille käyttöoikeuden Sisältöönsä tai Lisäarvosovelluksiinsa julkaisemalla ne Jakamistyökaluilla, joihin sisältyy Asiakkaan Online Services ‑palvelujen valtuutettu käyttö.
+b.	"Sovelluksen kirjautumistunnus" tarkoittaa järjestelmän muodostamaa sovelluksen käyttäjätunnusta ja siihen liittyvää salasanaa, jotka toimitetaan rekisteröimällä lisäarvosovellus ArcGIS Online -tuotteeseen. Kirjautumistunnus voidaan upottaa lisäarvosovellukseen, jotta lisäarvosovellus voi käyttää Online Services -palveluita.
+c.	"Palvelukrediitti (-krediitit)" (Service Credit) tarkoittaa vaihdon välinettä, joka liittyy Online Services -tilaukseen ja jonka määrä on määritetty Tilausasiakirjassa.
+d.	"Jakamistyökalut" tarkoittavat Online Services -palveluihin ja ArcGIS-Web-sivustoon sisältyviä julkaisuominaisuuksia, joiden avulla Asiakas voi tuoda Asiakkaan sisältöä ja Lisäarvosovelluksia kolmansien osapuolten ja/tai Anonyymien käyttäjien saataville.
+
+3.2 Online Services -palvelujen tilaus. Esri tarjoaa Online Services ‑palveluiden tilauksen seuraavin ehdoin. Lisäosassa 1 määritetään myös tuotekohtaiset Online Services ‑käyttöehdot.
+
+3.3 Tilauspohjaisten Online Services -palveluiden tarjoaminen. Tilauspohjaisten Online Services -palveluiden osalta Esri
+
+a.	Tarjoaa Asiakkaalle Online Services -palveluita Dokumentaation mukaisesti.
+b.	Tarjoaa Ylläpitopalveluita Esrin ylläpito- ja tukiohjelman mukaisesti, jos Asiakas on Yhdysvalloissa. Asiakkaat Yhdysvaltain ulkopuolella voivat saada Ylläpitopalveluita Esrin jakelijalta tämän omien ehtojen mukaisesti.
+c.	Tarjoaa asiakastukea Esrin vakiomuotoisten asiakastukimenettelyiden mukaisesti sekä Asiakkaan mahdollisesti ostamaa lisätukea.
+d.	Varmistaa kaupallisesti kohtuullisin keinoin, etteivät Online Services -palvelut välitä Asiakkaalle Haittakoodia, kun Esri ei ole vastuussa Haittakoodista, joka on tullut Online Services -palveluihin Asiakkaan tilauksen tai kolmannen osapuolen Sisällön kautta.
+
+3.4 Lisäarvosovellusten käyttöoikeudet
+
+a.	Nimetyillä käyttäjillä on yksilölliset henkilökohtaiset kirjautumistunnukset. Nimetyillä käyttäjillä on yksityinen pääsy sellaisiin Online Services -palveluiden toimintoihin, jotka eivät ole anonyymien käyttäjien julkisesti saatavilla.
+b.	Asiakas voi käyttää Online Services ‑tilaustaan rakentaakseen Lisäarvosovelluksia Nimettyjen käyttäjien sisäiseen käyttöön.
+c.	Asiakas voi siirtää Lisäarvosovelluksia kolmannelle osapuolelle käytettäväksi yhdessä kolmannen osapuolen oman Online Services ‑tilauksen yhteydessä.
+d.	Asiakas ei saa lisätä kolmansia osapuolia nimetyiksi käyttäjiksi Asiakkaan Online Services ‑tilaukseen tarkoituksenaan sallia kolmansien osapuolten pääsy Asiakkaan Lisäarvosovelluksiin. Tämä rajoitus ei koske niitä kolmansia osapuolia, jotka sisältyvät nimettyjen käyttäjien määritelmään.
+e.	Asiakas ei saa tarjota kolmannelle osapuolelle pääsyä Asiakkaan ArcGIS Online -tilauksen kautta käytössä oleviin ArcGIS Online Services -palveluihin muutoin kuin Asiakkaan Lisäarvosovellusten kautta. Tämä rajoitus ei koske niitä kolmansia osapuolia, jotka sisältyvät nimettyjen käyttäjien määritelmään.
+f.	Asiakas saa sallia Anonyymeille käyttäjille pääsyn Asiakkaan Lisäarvosovelluksiin oman tilauksensa alaisuudessa seuraavin ehdoin.
+
+1.	Asiakas voi veloittaa tällaisesta käytöstä käyttäessään tilaustyyppiä, joka sallii käytön tulonkerryttämistarkoituksiin.
+2.	Asiakas voi upottaa Sovelluksen kirjautumistunnuksen Lisäarvosovellukseen, mutta ei Nimetyn käyttäjän kirjautumistunnusta.
+3.	Asiakas vastaa kaikista Palvelukrediiteistä, joita Anonyymit käyttäjät kuluttavat Asiakkaan Lisäarvosovelluksia käyttäessään.
+4.	Asiakas vastaa yksin teknisen tuen tarjoamisesta Asiakkaan Lisäarvosovelluksille.
+5.	Asiakas ei saa sallia Anonyymeille käyttäjille pääsyä Lisäarvosovelluksiin, jotka on tarkoitettu vain Asiakkaan sisäiseen käyttöön; sisäisesti käytettyihin Lisäarvosovelluksiin vaaditaan Nimetyn käyttäjän kirjautumistunnukset.
+
+3.5 Asiakkaan vastuut
+
+a.	Asiakas vastaa yksin Asiakkaan sisällön ja Lisäarvosovellusten kehittämisestä ja toiminnasta ja Nimettyjen käyttäjiensä tämän Sopimuksen noudattamisesta. Asiakas ja sen Nimetyt käyttäjät tai Anonyymit käyttäjät (jos niitä on) ovat ainoat henkilöt, joilla on oikeus käyttää Online Services -palveluita Asiakkaan tilauksen kautta. Nimettyjen käyttäjien kirjautumistunnukset ovat vain kyseisiä Nimettyjä käyttäjiä varten, eikä niitä saa jakaa toisille. Asiakas voi siirtää Nimettyjen käyttäjien kirjautumistunnukset uusille Nimetyille käyttäjille, jos aiemmat käyttäjät eivät enää tarvitse pääsyä Online Services -palveluihin. Asiakas ilmoittaa Esrille viivytyksettä, jos sen tietoon tulee Asiakkaan tilauksen luvatonta käyttöä tai muita turvallisuusrikkomuksia.
+b.	Jos Asiakas rakentaa Esrin Online Services -palveluita käyttävän sovelluksen muilla kuin Esrin sovelluskehitystyökaluilla, Asiakkaan on sisällytettävä sovellukseensa maininta siitä, että se käyttää Esrin Online Services -palveluita. Ohjeet ovat dokumentaatiossa.
+
+3.6 Online Services -palveluiden muutokset. Esri voi muuttaa Online Services ‑palveluita ja niihin liittyviä API-liittymiä milloin tahansa. Merkittävistä muutoksista on ilmoitettava 30 päivää ennakkoon ja käytöstä poistamisesta 90 päivää ennakkoon. Jos Online Services -palveluiden muutos, lopettaminen tai käytöstä poistaminen aiheuttaa Asiakkaan toiminnalle oleellisen haitan, Esri voi yksinomaisen harkintansa mukaan pyrkiä korjaamaan tai oikaisemaan Online Services -palveluita tai tarjoamaan ongelman kiertävän toimenpiteen. Jos toteuttamiskelpoinen ratkaisu ei ole kaupallisesti kohtuullinen, Asiakas voi peruuttaa Online Services -palveluiden tilauksensa ja Esri hyvittää käyttämättä jääneestä sopimuskaudesta.
+
+3.7 Tilaushintojen muutokset. Esri voi nostaa 1 kuukautta pidempien tilausten hintoja ilmoittamalla tästä Asiakkaalle vähintään 60 päivää ennen meneillään olevan tilausjakson päättymistä. Esri voi nostaa kuukausitilaushintoja annettuaan ilmoituksen 30 päivää ennakkoon.
+
+3.8 Asiakkaan sisältö
+
+a.	Omistus. Kaikki oikeudet, omistusoikeus ja intressit Asiakkaan sisältöön pysyvät Asiakkaalla. Asiakas myöntää täten Esrille ja Esrin myyjille tai lisenssinantajille ei-yksinoikeudellisen, siirtokelvottoman ja maailmanlaajuisen oikeuden ylläpitää, suorittaa ja kopioida Asiakkaan sisältöä yksinomaisena tarkoituksena mahdollistaa Asiakkaan Online Services -palveluiden käyttö. Ilman Asiakkaan lupaa Esri ei käytä eikä ilmaise Asiakkaan sisältöä muutoin kuin siltä osin, kuin on kohtuudella tarpeen Asiakkaan Online Services ‑palveluiden käytön tukemiseksi, Asiakkaan asiakastukipyyntöihin vastaamiseksi tai Asiakkaan tilauksen ongelmien selvittämiseksi tai muuhun Asiakkaan kirjallisesti valtuuttamaan tarkoitukseen. Jos Asiakas käyttää Online Services -palveluita kolmannen osapuolen toimittaman sovelluksen avulla, Esri voi ilmaista Asiakkaan sisältöä tällaiselle kolmannelle osapuolelle siltä osin kuin tämä on tarpeen sovelluksen, Online Services -palveluiden ja Asiakkaan sisällön yhteentoimivuuden mahdollistamiseksi. Esri voi ilmaista Asiakkaan sisältöä, jos laki tai oikeusistuimen tai muun julkisen tahon määräys tätä edellyttää. Tässä tapauksessa Esri pyrkii kohtuudella rajoittamaan sisällön ilmaisemisen laajuutta. Asiakas on yksinomaisessa vastuussa sen varmistamisesta, että Asiakkaan sisältö soveltuu käytettäväksi Online Services -palveluiden kanssa sekä säännöllisten offline-varmistuskopioiden ylläpitämisestä Online Services -palveluiden vienti- ja latausominaisuuksien avulla.
+b.	Asiakkaan sisällön jakaminen. Jos Asiakas päättää jakaa Asiakkaan sisältöä jakamistyökalujen avulla, Asiakas hyväksyy sen, että se antaa kolmansien osapuolten käyttää, säilyttää, tallentaa välimuistiin, kopioida, toisintaa, (edelleen)jaella ja (edelleen)lähettää Asiakkaan sisältöä Online Services -palveluiden kautta. Esri ei vastaa mistään Asiakkaan sisällön menetyksestä, tuhoamisesta, muutoksesta tai ilmaisemisesta, joka johtuu Jakamistyökalujen, Online Services ‑palveluiden, Online-sisällön, ArcGIS-Web-sivuston, Dokumentaation tai niihin liittyvän aineiston käytöstä tai väärinkäytöstä. Asiakas käyttää Jakamistyökaluja omalla yksinomaisella riskillään.
+c.	Asiakkaan sisällön noutaminen sopimuksen päättyessä. Sopimuksen tai minkä tahansa kokeilun, evaluoinnin tai tilauksen päättyessä Esri antaa Asiakkaan sisällön Asiakkaan ladattavaksi kolmenkymmenen (30) päivän ajaksi, ellei Asiakas pyydä lyhempää saatavuusaikaa tai ellei laki kiellä Esriä toimimasta näin. Tämän jälkeen Asiakkaan oikeus käyttää Asiakkaan sisältöä Online Services -palveluissa päättyy, eikä Esrillä ole muita velvollisuuksia säilyttää tai palauttaa Asiakkaan sisältöä.
+
+3.9 Online Services ‑palveluiden käyttörajat; Palvelukrediitit. Kukin Online Services ‑tilaus sisältää Palvelukrediittejä, jotka on kuvattu Tilausasiakirjassa. Kukin Palvelukrediitti antaa Asiakkaalle oikeuden kuluttaa tietyn määrän Online Services -palveluita; määrä vaihtelee käytettyjen Online Services ‑palveluiden mukaan. Kun Asiakas käyttää Online Services -palveluita, Palvelukrediitit veloitetaan automaattisesti Asiakkaan tilaukselta käytettävissä olevaan Palvelukrediittien enimmäismäärään asti. Asiakas voi tarvittaessa ostaa lisää Palvelukrediittejä. Esri ilmoittaa Asiakkaan tilin ylläpitäjälle, kun Asiakkaan palveluiden kulutus saavuttaa noin 75 % Asiakkaan tilaukseen kuuluvista Palvelukrediiteistä. Esri pidättää oikeuden jäädyttää Asiakkaan pääsy Palvelukrediittejä kuluttaviin Online Services ‑palveluihin, kun Asiakas kuluttaa kaikki Palvelukrediittinsä. Esri palauttaa Asiakkaan pääsyn Online Services ‑palveluihin viivytyksettä, kun Asiakas on ostanut lisää Palvelukrediittejä.
+
+3.10 ArcGIS Enterprise with Virtual Cloud Infrastructure. Asiakas toimittaa kohtuullisen pyynnön mukaisia tietoja tai muita Sisältöönsä liittyviä materiaaleja (mahdollisten asiakaspuolen sovellusten kopiot mukaan luettuina) sen varmistamiseksi, että Asiakas noudattaa tätä Sopimusta. Esri voi seurata Asiakkaan sisällön ulkoisia rajapintoja (esim. portteja) varmistaakseen, että Asiakas noudattaa tätä Sopimusta. Asiakas ei estä eikä häiritse tällaista seurantaa, mutta Asiakas voi käyttää salaustekniikkaa tai palomuureja pitääkseen Sisältönsä luottamuksellisena. Asiakas tekee kohtuullisessa määrin yhteistyötä Esrin kanssa tunnistaakseen ArcGIS Enterprise with Virtual Cloud Infrastructure -palveluihin mahdollisesti liittyvien sellaisten ongelmien lähteen, joka voidaan kohtuudella katsoa Asiakkaan sisällöstä tai Asiakkaan hallinnoimista loppukäyttäjien materiaaleista johtuvaksi.
+
+4.0 DATAN KÄYTTÖEHDOT
+
+4.1 Määritelmät. Seuraavat määritelmät täydentävät Liitteessä A ilmoitettuja määritelmiä:
+
+a.	"Yritysdata" tarkoittaa tietoa liiketoiminnasta, käyttäjärakenteesta ja logistiikasta, joka mahdollistaa paremman päätöksenteon, optimoidut sisäiset toimintaprosessit, tehokkaamman toiminnan, uutta tulovirtaa ja kilpailuetua.
+b.	"Esrin sisältöpaketti" tarkoittaa digitaalista tiedostoa, joka sisältää ArcGIS Online Basemap -palveluista otettua ArcGIS Online -taustakartan sisältöä (esim. rasterikartan ruutuja, kuvia, vektoriaineistoja).
+c.	"Katudata" tarkoittaa kaikkea dataa, joka sisältää tai kuvaa tietoja teistä, kaduista ja vastaavista rakenteista.
+
+4.2 Sallitut käyttötavat
+
+a.	Asiakas saa käyttää Dataa vain niiden Tuotteiden yhteydessä, joissa Esrin Datan tarjoaa.
+b.	Asiakas voi esittää Dataa tulostettuna tai staattisessa sähköisessä muodossa (esim., PDF, GIF, JPEG) kolmansille osapuolille esityspaketeissa, markkinointitutkimuksissa tai muissa raporteissa tai dokumenteissa, joissa on Esrin Tuotteita käyttämällä saatuja karttakuvia tai datayhteenvetoja tässä Lisenssisopimuksessa ilmoitetuin rajoituksin sillä edellytyksellä, että Asiakas liittää esitettyyn Dataan lähdetiedot, joissa Esri ja/tai sen lisenssinantaja ilmoitetaan esitetyn Datan lähteiksi.
+c.	Asiakas saa ottaa ArcGIS Online taustakarttoja verkosta Esrin sisältöpaketteina ja siirtää niitä mille tahansa laitteelle käyttääkseen niitä yksinomaan lisensoitujen ArcGIS Runtime ‑sovellusten, ArcGIS Desktop ‑ohjelmiston ja ArcGIS API for Flex ‑sovellusten kanssa.
+d.	Esri ei saa tällä Sopimuksella mitään oikeuksia Asiakkaan dataan.
+
+4.3 Käyttörajoitukset
+
+a.	Asiakas ei saa itse yhdistää aineistoa omaan tuotenimeensä tai valtuuttaa asiakkaitaan tekemään näin, käyttää Dataa luvattomaan palveluun tai tuotteeseen tai tarjota Dataa kolmannen osapuolen kautta tai puolesta.
+b.	Asiakas ei saa käyttää tai sallia kolmansien osapuolten käyttää Dataa myytävän, vuokrattavan, julkaistavan, toimitettavan tai muutoin kolmannelle osapuolelle tarjottavan informaation kokoamiseen, paranteluun, varmennukseen, täydentämiseen, lisäämiseen tai koosteesta poistamiseen.
+c.	Yritysdata. Ilman nimenomaista kirjallista lupaa Asiakas ei saa käyttää Yritysdataa suoramarkkinointitarkoituksiin, edelleenmyyntijulkaisuun tai jakeluun kolmannelle osapuolelle osana postituslistaa, hakemistoa, mainontaa tai muuta tiedon koostamista.
+d.	Katudata. Asiakas saa käyttää Katudataa kartoitukseen, geokoodaukseen ja reititykseen pisteestä toiseen. Ilman nimenomaista kirjallista lupaa Asiakas ei saa käyttää Katudataa
+
+1.	reaaliaikaiseen navigointiopastukseen: ilmoituksiin tulevista ohjausliikkeistä, käännöksestä varoittamiseen tms. tai vaihtoehtoisen reitin laskemiseen, jos käännös jää tekemättä
+2.	synkronoituun useamman ajoneuvon reititykseen
+3.	reitin optimointiin.
+
+e.	Business Analyst -data. Esri Business Analystin (palvelin, työpöytäversio) kautta toimitettua Dataa koskevat seuraavat lisäkäyttöehdot:
+
+1.	Jos Asiakas tilaa lisenssin Esri Business Analyst- tai Business Analyst (Canadian edition) -tuotteeseen kansallisen datan alijoukkoon (eli alueen, osavaltion tai paikallisen tason dataan), Asiakas saa käyttää vain lisensoitua alijoukkoa eikä muita kansallisen datan osia.
+2.	Business Analyst Server -tuotteen kanssa toimitettua Dataa ei saa tallentaa välimuistiin eikä ladata asiakassovelluksiin tai -laitteisiin.
+
+4.4 Dataa koskevat lisäehdot. Eräät datalisenssinantajat vaativat Esriä edellyttämään Asiakkaalta lisätekijämainintoja ja omien käyttöehtojensa noudattamista. Nämä ehdot ovat saatavissa osoitteessa http://www.esri.com/legal
+/third-party-data.
+LIITE A
+TERMIEN SELITYKSET
+
+Seuraavia termien selityksiä sovelletaan kaikkiin Palveluihin, joita Esri tarjoaa asiakkailleen. Koko Esrin Tarjooma tai Palvelut eivät välttämättä kuulu tämän Sopimuksen piiriin. Ole hyvä ja jätä huomiotta sellaiset ehdot, jotka eivät liity tämän Sopimuksen mukaiseen Esrin Tarjoomaan tai Palveluihin.
+
+"API" tulee sanoista application programming interface ja tarkoittaa sovellusohjelmointiliittymää.
+
+"ArcGIS-Web-sivusto" (ArcGIS Website) tarkoittaa osoitetta http://www.arcgis.com sekä siihen liittyviä tai sen tilalle tulevia Web-sivustoja.
+
+"Valtuutuskoodi(t)" (Authorization Code) tarkoittaa mitä tahansa avainta, valtuutusnumeroa, oikeutuskoodia, kirjautumistunnusta, aktivointikoodia, tunnistetta, käyttäjätunnusta ja salasanaa tai muuta Esrin Tarjooman käyttöön vaadittavaa mekanismia.
+
+"Beta" tarkoittaa mitä tahansa alpha-, beta- tai esijulkaisutuotetta.
+
+"Pilvipalvelut" (Cloud Services) tarkoittaa Online Services ‑palveluita ja EMCS:ää.
+
+"Kaupallinen sovelluspalveluntarjoajan käyttö" (Commercial ASP Use) tarkoittaa ansaintaa tarjoamalla Ohjelmistoa käyttöön Lisäarvosovelluksen välityksellä; esimerkiksi veloittamalla tilausmaksu, palvelumaksu tai muu transaktiomaksu tai vaihtoehtoisesti hankkimalla mainoksilla enemmän kuin satunnaisia tuloja.
+
+"Sisältö" (Content) tarkoittaa dataa, kuvia, valokuvia, animaatioita, videota, audiota, tekstiä, karttoja, tietokantoja, tietomalleja, laskentataulukoita, käyttöliittymiä, grafiikkakomponentteja, kuvakkeita, ohjelmistosovelluksia, ohjelmistokehityspaketteja (SDK:ita), API-liittymiä, ohjelmistokirjastoja, koodinäytteitä ja muita resursseja.
+
+"Määräysvalta" tarkoittaa yli 50 prosentin omistusosuutta äänivaltaisista osakkeista tai muutoin äänivallasta määräysvallan alaisessa yrityksessä.
+
+"Asiakkaan sisältö" (Customer Content) tarkoittaa kaikkea Sisältöä, jonka Asiakas, Asiakkaan loppukäyttäjät tai kuka tahansa muu käyttäjä tuo Esrille Asiakkaan Esrin Tarjooman käytön yhteydessä, kaikkia Asiakkaan Esrin Tarjooman käyttämisestä syntyviä tuloksia sekä kaikkia Lisäarvosovelluksia, joita Asiakas rakentaa ja levittää Tuotteita käyttäen. Asiakkaan sisältö ei sisällä Asiakkaan Esrille antamaa palautetta, parannusehdotuksia tai ‑pyyntöjä.
+
+"Data" tarkoittaa kaupallistettavissa olevia digitaalisia tiedostoja, joita ovat muun muassa maantieteellinen vektoridata, rasteridataraportit tai niihin liittyvät taulukkomuotoiset määritteet, joita Esri voi niputtaa muihin Palveluihinsa tai toimittaa sellaisenaan. Dataksi ei lasketa Sisältöä, jota muut kuin Esrin työntekijät, toimittajat tai alihankkijat tuottavat suoraan Esrin sivustolle.
+
+"Toimitettavat palvelut" (Deliverables) tarkoittaa Asiantuntijapalveluiden tulosta, jonka Esri toimittaa Asiakkaalle ja jota ei lasketa Tuotteiksi, Koulutukseksi tai Ylläpitopalveluksi. Toimitettavat palvelut voivat olla muun muassa konsultointipalveluita, ohjelmistokoodia, dynaamisia linkkikirjastoja (DLLs) ja ohjelmia, jotka toimitetaan missä tahansa mediassa lähdekoodi-, kohdekoodi- tai ajettavassa koodimuodossa, mukaan lukien varmuuskopiot, päivitykset tai sulautetut kopiot; metodit, tekniikat tai tietotaito; tekninen tuki, prosessit, kaavat tai algoritmit; designit; tietohakemistot ja -mallit; käännösohjelmakoodit; toimintakaaviot; dokumentaatio; tekniset tiedot; piirustukset; vuokaaviot; selostukset; tai testi- tai laadunvalvontaproseduurit.
+
+"Dokumentaatio" (Documentation) tarkoittaa kaikkea käyttäjän viitedokumentaatiota, joka toimitetaan Tuotteen mukana.
+
+"Esri Managed Cloud Services" tai "EMCS" tarkoittaa single-tenant-laitteistoa, -Ohjelmistoa, -Dataa ja -verkkoympäristöä sekä niihin liittyviä järjestelmävalvonta- ja tukipalveluita, joita Esri tarjoaa Asiakkaan tiloihin sekä tuomaan Asiakkaan sisällön Asiakkaan tai tämän loppukäyttäjien käytettäväksi Internetissä.
+
+"Esrin Tarjooma" (Esri Offering(s)) tarkoittaa mitä tahansa Tuotetta, Ylläpitopalvelua tai Dokumentaatiota. Jos Esri tarjoaa Koulutusta tai Asiantuntijapalveluita suoraan Asiakkaalle, Esrin Tarjooma sisältää myös Koulutusmateriaalit ja Toimitettavat palvelut.
+
+"GIS" tulee sanoista "geographic information systems" ja tarkoittaa paikkatietojärjestelmää.
+
+"Ylläpitopalvelut" (Maintenance) tarkoittaa tilausohjelmaa, joka oikeuttaa Asiakkaan Tuotepäivityksiin ja muihin etuihin, kuten tekniseen tukeen ja omatahtisiin verkko-oppimismateriaaleihin.
+
+"Haittakoodi" (Malicious Code) tarkoittaa ohjelmistoviruksia, matoja, aikapommeja, troijalaisia tai muuta ohjelmistokoodia, tiedostoja, palvelunestohyökkäyksiä tai ohjelmia, jotka on suunniteltu keskeyttämään, tuhoamaan tai rajoittamaan ohjelmistojen, laitteistojen tai televiestintälaitteiden toimintaa.
+
+"Nimetty käyttäjä" (Named User) on Asiakkaan työntekijä, agentti, konsultti tai alihankkija, jolle Asiakas on myöntänyt yksilöllisen, suojatun kirjautumistunnuksen (identiteetin). Tällä henkilö pääsee Tuotteeseen ja niihin ominaisuuksiin, joita voi käyttää Asiakkaan eduksi vain identiteetillä. Opetuskäytössä nimetyt käyttäjät voivat sisältää rekisteröityjä opiskelijoita.
+
+"Nimetyn käyttäjän kirjautumistunnukset" (Named User Credential) tarkoittaa yksilöidyn henkilön käyttäjätunnusta ja salasanaa, joilla Tuotteita voi käyttää.
+
+"Nimetyn käyttäjän lisenssi tai tilaus" (Named User License or Subscription) tarkoittaa lisenssiä tai tilausta, joka on hankittu yksittäiselle Nimetylle käyttäjälle.
+
+"Online-sisältö" (Online Content) tarkoittaa Esrin osana Online Services ‑palveluita ylläpitämää tai tarjoamaa Sisältöä, kuten karttapalveluita, tehtäväpalveluita, kuvapalveluita, SDK:ita, API-liittymiä, ohjelmistokirjastoja, koodimalleja ja muita aineistoja, kuitenkin pois lukien kolmansien osapuolten tarjoaman Sisällön, jota Asiakas käyttää Online Services ‑palveluiden kautta.
+
+"Online Services -palvelut" tarkoittaa mitä tahansa kaupallisessa käytössä olevaa, Internet-perustaista geospatiaalista järjestelmää, mukaan lukien sovellukset ja niihin liittyvät API-liittymät karttojen, datan ja muiden tietojen säilytystä, hallintaa, julkaisua ja käyttöä varten. Online Services ‑palveluilla ei tarkoiteta Dataa eikä Sisältöä.
+
+"Tilausasiakirja(t)" (Ordering Documents) tarkoittaa myyntitarjousta, Ylläpitopalvelun uusintatarjousta, ostotilausta, ehdotusta tai muuta asiakirjaa, joka yksilöi Asiakkaan tilaamat Tuotteet tai Palvelut.
+
+"Pysyvä lisenssi" (Perpetual License) tarkoittaa oikeutta käyttää sellaista tuotteen versiota, josta asianmukaiset lisenssimaksut on maksettu, rajoittamattoman ajan, ellei Esri tai Asiakas irtisano sitä tämän sopimuksen sallimalla tavalla.
+
+"Henkilökohtainen käyttö" (Personal Use) tarkoittaa yksittäisen Asiakkaan henkilökohtaista, ei-kaupallista käyttöä. Henkilökohtaista käyttöä ei ole käyttö kolmannen osapuolen hyväksi, olipa kyseinen osapuoli kaupallinen toimija, oppilaitos, viranomaistaho tai voittoa tavoittelematon yhteisö.
+
+"Tuote (Tuotteet)" (Product) tarkoittaa tämän Sopimuksen ehtojen mukaisesti lisensoitua tai tilattua Ohjelmistoa, Dataa ja Pilvipalveluita.
+
+"Asiantuntijapalvelut" (Professional Services) tarkoittaa Esrin Asiakkaalle tarjoamia kehitys- tai konsultointipalveluita.
+
+"Näyte (näytteet)" (Sample) tarkoittaa näytekoodia, näytesovelluksia, lisäosia tai näytteitä Tuotteiden laajennuksista.
+
+"Palvelut" (Services) tarkoittaa Ylläpitopalvelun tarjoamaa teknistä tukea. Jos Esri tarjoaa Koulutusta tai Asiantuntijapalveluita suoraan Asiakkaalle, Palvelut sisältävät myös Koulutuksen ja Asiantuntijapalvelut.
+
+"Ohjelmisto" (Software) tarkoittaa kaikkia Esrin omistamia COTS (commercial off-the-shelf) ‑ohjelmistoja ilman niiden sisältämää Dataa. Ohjelmistoja käytetään Esrin valtuuttamalla verkkosivustolla, ladataan sieltä tai toimitetaan millä tahansa tietovälineellä missä tahansa muodossa, mukaan luettuina varmuuskopiot, päivitykset, service packit, ohjelmakorjaukset, hot fix -korjaukset ja sallitut yhdistetyt kopiot.
+
+"Määräaikainen lisenssi" (Term License) tarkoittaa lisenssiä tai käyttöoikeutta Tuotteeseen määräajaksi tai tilaus- tai transaktioperusteisesti.
+
+"Koulutus" (Training) tarkoittaa ohjaajavetoisia koulutus- ja valmennuspalveluita Esrin paikkatieto-ohjelmiston käyttöön.
+
+"Koulutusmateriaalit" (Training Materials) tarkoittaa digitaalista tai painettua aineistoa, joka vaaditaan Koulutuksen suorittamiseen. Se voi sisältää muun muassa tehtäväkirjoja, dataa, konsepteja, harjoituksia ja kokeita.
+
+"Lisäarvosovellus" (Value-Added Application) tarkoittaa Asiakkaan kehittämää sovellusta, jota käytetään Ohjelmiston, Datan tai Online Services -palveluiden luvallisen käytön yhteydessä.
+ LIITE B
+YLEISET EHDOT
+
+Seuraavia yleisiä ehtoja sovelletaan kaikkiin Palveluihin, joita Esri tarjoaa asiakkailleen. Koko Esrin Tarjoomaa ei välttämättä tarjota tämän Sopimuksen nojalla. Ole hyvä ja jätä huomiotta sellaiset ehdot, jotka eivät liity tämän Sopimuksen mukaiseen Esrin Tarjoomaan tai Palveluihin.
+
+ARTIKLA 1 - YLEISIÄ KÄYTÖN RAJOITUKSIA
+
+Jos ei tällä Sopimuksella nimenomaisesti anneta siihen lupaa, Asiakas ei saa
+
+a.	myydä, vuokrata, alilisensoida, jaella, lainata, myöntää aikaosuuksia tai siirtää Esrin Tarjoomaa
+b.	käyttää Esrin Tarjoomaa kaupallisen sovelluspalveluntarjoajan tai palvelutoimiston käyttöön
+c.	jaella Esrin Tarjoomaa, muun muassa laajennuksia, komponentteja ja DLL:iä, kolmansille osapuolille tai tarjota suoraa pääsyä niihin kokonaan tai osittain
+d.	jaella valtuutuskoodeja kolmansille osapuolille
+e.	takaisinmallintaa, takaisinkääntää tai purkaa koodiksi käännetyssä muodossa toimitettuja Tuotteita tai Toimitettavia palveluita
+f.	millään tavoin yrittää kiertää Esrin Tarjoomaan pääsyä tai sen käyttöä rajoittavia teknisiä keinoja
+g.	säilyttää, tallentaa välimuistiin, käyttää, ladata toiseen järjestelmään, jaella tai alilisensoida Sisältöä tai muulla tavoin käyttää Esrin Tarjoomaa Esrin tai kolmannen osapuolen oikeuksia loukkaavalla tavalla, mukaan luettuina immateriaalioikeuksia, yksityisyyden suojaa, syrjintäkieltomääräyksiä tai muita sovellettavia lakeja tai määräyksiä loukkaavasti
+h.	poistaa tai peittää mitään Esrin tai sen lisenssinantajien patentteja, tekijänoikeuksia, tavaramerkkejä tai omistusoikeuksia koskevia mainintoja ja/tai merkintöjä, jotka sisältyvät tai on liitetty Esrin Tarjoomaan, tulosteeseen, metadatatiedostoon tai sähköisessä ja/tai paperisessa muodossa toimitetun Datan tai Dokumentaation tällaisia merkintöjä sisältävälle sivulle
+i.	ottaa erilleen tai itsenäisesti käyttää Esrin Tarjooman yksittäisiä osia tai komponentteja
+j.	sisällyttää mitään Esrin Tarjooman osaa sellaiseen kolmannen osapuolen tuotteeseen tai palveluun, joka kilpailee Esrin Tarjooman kanssa
+k.	julkistaa tai muulla tavoin tiedottaa Betatuotteilla tehtyjen suorituskykytestien tuloksista ilman Esrin ja sen lisenssinantajien etukäteistä kirjallista suostumusta
+l.	käyttää, sisällyttää, muokata, jaella, sallia pääsyä tai liittää mitään Esrin Tarjooman osaa tavalla, joka alistaisi osan avoimen lähdekoodin tai avoimen tietokannan lisensointiehdoille, jotka edellyttävät Esrin Tarjooman osan
+
+1.	ilmaisemista lähdekoodimuodossa kolmansille osapuolille
+2.	lisensoimista kolmansille osapuolille muunneltujen teosten laatimista varten tai
+3.	jakamista edelleen kolmansille osapuolille maksutta.
+
+Näitä rajoituksia ei sovelleta siltä osin, kuin ne ovat ristiriidassa sovellettavan lain tai määräyksen kanssa.
+
+ARTIKLA 2 - SOPIMUSKAUSI JA IRTISANOMINEN
+
+Tämä Sopimus tulee voimaan, kun se hyväksytään. Asiakas voi irtisanoa tämän Sopimuksen tai minkä tahansa Esrin Tarjooman lisenssin tai tilauksen milloin tahansa kirjallisella ilmoituksella Esrille. Irtisanominen ilman syytä ei oikeuta Asiakasta saamaan hyvitystä maksetuista maksuista tai irtisanomaan vireillä olevia palvelusitoumuksia ilman velvoitteita. Kumpi tahansa osapuoli voi irtisanoa tämän Sopimuksen tai minkä tahansa lisenssin tai tilauksen, mikäli toinen osapuoli on olennaisesti rikkonut sopimusta eikä ole oikaissut menettelyään 30 päivän kuluessa kirjallisen ilmoituksen vastaanottamisesta. Sopimuksen tullessa irtisanotuksi rikkomuksen vuoksi Esri keskeyttää Palveluiden tarjoamisen. Tämän Sopimuksen irtisanomisesta huolimatta jatkuvat Lisenssit Esrin Tarjoomaan jatkuvat tämän Sopimuksen ehtojen mukaisina.
+
+Jos Esri irtisanoo Sopimuksen Asiakkaan rikkomuksen vuoksi, Esri voi halutessaan irtisanoa myös Asiakkaan lisenssit tai tilaukset Esrin Tarjoomaan. Jos Asiakas irtisanoo Sopimuksen mistä tahansa syystä, Asiakas voi halutessaan irtisanoa myös Asiakkaan lisenssit tai tilaukset Esrin Tarjoomaan.
+
+Lisenssin tai tilauksen tultua irtisanotuksi Asiakas
+
+a.	lopettaa irtisanottujen Esrin Tarjooman osien käyttämisen
+b.	tyhjentää irtisanotuista Online Services ‑palveluista mahdollisesti muodostuneen asiakaspuolen välimuistin, ja
+c.	lakkaa käyttämästä ja poistaa kaikkien Asiakkaan hallussa olevien Esrin Tarjooman kopioiden asennuksen ja tuhoaa ne, niiden mahdollisesti muokatut tai yhdistetyt osat mukaan luettuina, missä tahansa muodossa, sekä toimittaa Esrille tai sen valtuutetulle jakelijalle todisteet näistä toimenpiteistään.
+
+Esri voi keskeyttää Palveluiden suorittamisen välittömästi annettuaan kirjallisen ilmoituksen Asiakkaalle, jos Asiakas aloittaa tai sitä kohtaan käynnistetään konkurssi- tai maksukyvyttömyysmenettely, kunnes pesänhoitaja hoitaa maksulaiminlyönnit ja tarjoaa riittävät takeet tulevista Sopimuksen mukaisista suoritteista. Tämä Sopimus päättyy automaattisesti kumman tahansa osapuolen maksukyvyttömyyteen, selvitystilaan tai konkurssiin.
+
+ARTIKLA 3 - RAJOITETUT TAKUUT JA VASTUUN RAJOITUKSET
+
+3.1 Rajoitetut takuut. Esri takaa
+
+a.	90 päivän ajan toimituspäivästä
+
+1.	että Ohjelmistot ovat olennaisilta osin Dokumentaation mukaiset normaalissa käytössä ja tietovälineessä, jolla Ohjelmisto toimitetaan, ei ole materiaali- eikä valmistusvirheitä
+2.	että Koulutusmateriaalit ovat olennaisilta osin Esrin julkistamien kurssikuvausten mukaiset
+3.	että Palvelut noudattavat olennaisilta osin ohjelmistoalan ammatillisia ja teknisiä standardeja
+4.	että kiinteään hintaan Toimitettavat palvelut noudattavat olennaisilta osin Tilausasiakirjassa ilmoitettuja spesifikaatioita.
+
+b.	Tilausjakson ajan
+
+1.	että Online Services ‑palvelut noudattavat normaalissa käytössä olennaisilta osin Dokumentaatiota
+2.	että Ylläpitopalvelut noudattavat olennaisilta osin ohjelmistoalan ammatillisia ja teknisiä standardeja, ja
+3.	että Esri Managed Cloud Services ‑palvelut vastaavat Tilausasiakirjassa EMCS:lle määriteltyä laajuutta, kuvauksia ja odotuksia.
+
+3.2 Erityinen vastuun rajoitus. Maksutta toimitettu sisältö, Data, näytteet, hot fix -korjaukset, muut korjaukset, päivitykset ja Online Services -palvelut sekä evaluointi- ja Betatuotteet toimitetaan "sellaisenaan" ilman takuita.
+3.3 Yleinen vastuun rajoitus. Edellä tässä Sopimuksessa mainittuja nimenomaisia rajoitettuja takuita lukuun ottamatta Esri kiistää kaikki muut takuut tai ehdot, olivatpa ne suoria tai epäsuoria, mukaan lukien takuut tai ehdot kaupaksi käymisestä ja soveltuvuudesta tiettyyn tarkoitukseen sekä immateriaalioikeuksien loukkaamattomuudesta, näihin rajoittumatta. Esri ei takaa, että sen Tarjooma tai Asiakkaan tarjooman käyttö olisi keskeytyksetöntä, virheetöntä, vikasietoista tai vian sattuessa turvallista, tai että kaikki puutteet pystyttäisiin korjaamaan tai korjattaisiin. Esrin Tarjoomaa ei ole suunniteltu, valmistettu eikä tarkoitettu käytettäviksi sellaisissa ympäristöissä eikä sovelluksissa, jotka voivat johtaa kuolemaan, henkilövahinkoon, omaisuusvahinkoon tai ympäristövahinkoon. Asiakkaan ei tule noudattaa mitään sellaisia reittiehdotuksia, jotka vaikuttavat vaarallisilta tai laittomilta. Tällainen käyttö tapahtuu Asiakkaan omalla vastuulla ja kustannuksella.
+3.4 Vastuun rajoitukset
+
+a.	Internetiä koskeva vastuunrajoitus. Kumpikaan osapuoli ei vastaa minkään laintulkinnan nojalla Internet-palvelun toimintaan tai toimintakatkokseen tai Internetin säätelyyn liittyvästä vahingosta, joka voisi rajoittaa Online Services ‑palveluiden käyttöä tai estää sen.
+b.	Kolmansien osapuolten sisältö ja sivustot. Esri ei vastaa kolmansien osapuolten sivustoista tai Sisällöstä, joka esiintyy tai johon viitataan Esrin Tarjoomassa ja Esrin Web-sivustoilla, joita ovat ainakin www.esri.com ja www.arcgis.com. Linkitys kolmansien osapuolten sivustoille ja resursseihin ei pidä sisällään minkäänlaista tuen osoitusta, kytköstä tai sponsorointia.
+
+3.5 Yksinomainen oikeuskeino. Asiakkaan ainoa oikeuskeino ja Esrin vastuu tässä artiklassa määriteltyjen rajoitettujen takuiden rikkomisesta rajoittuu Esrin harkinnan mukaan (i) viallisen tietovälineen vaihtamiseen, (ii) Esrin Tarjooman korjaukseen, oikaisuun tai virheen kiertävään toimenpiteeseen tai (iii) Asiakkaan sellaisista Esrin Tarjoomista maksamien maksujen palautukseen, jotka eivät täytä Esrin rajoitetun takuun ehtoja, sillä ehdolla, että Asiakas poistaa ja tuhoaa kaikki kyseisten Esrin Tarjoomien kopiot, lopettaa kyseessä olevien Pilvipalveluiden käytön sekä toimittaa Esrille tai sen valtuutetulle jakelijalle todisteet näistä toimenpiteistään.
+
+ARTIKLA 4 - VASTUUN RAJOITUS
+
+4.1 Vastuiden rajoitus. Sen enempää Asiakas, Esri kuin Esrin jakelija tai lisenssinantaja eivät vastaa mistään epäsuorista, erityisistä, liitännäisistä tai välillisistä vahingoista, kuten menetetyistä tuotoista, menetetystä myynnistä tai mainetappioista, korvaavien tuotteiden tai palveluiden hankinnan kustannuksista tai vahingoista, jotka ylittävät kyseisiin toimiin johtaneista Esrin Tarjoomista Esrille maksettujen tai velaksi saatujen lisenssi- tai tilausmaksujen arvon.
+
+4.2 Edellisessä kappaleessa mainitut vastuun rajoitukset eivät koske tilannetta, jossa Asiakas loukkaa, käyttää väärin tai anastaa Esrin tai sen lisenssinantajien immateriaalioikeuksia eikä kummankaan osapuolen korvausvelvollisuutta, törkeää huolimattomuutta, tahallista rikkomusta tai tämän Sopimuksen Vientirajoitusmääräysten rikkomuksia tai sovellettavaa lakia tai määräystä.
+
+4.3 Vastuun rajoitusten ja muiden rajoitusten sovellettavuus. Esri tai sen valtuutettu jakelija on määrittänyt maksunsa ja solminut tämän Sopimuksen luottaen siinä määriteltyihin vastuun rajoituksiin ja muihin rajoituksiin; maksut kuvastavat osapuolten välistä riskinjakoa, joka muodostaa oleellisen perustan osapuolten väliselle sopimukselle. Nämä rajoitukset ovat voimassa riippumatta siitä, onko osapuoli tietoinen vahingon mahdollisuudesta ja siitä huolimatta, että jonkin yksinomaisen oikeussuojakeinon olennainen tarkoitus ei täyty.
+
+4.4 Edellä mainitut takuut, rajoitukset ja poikkeukset eivät välttämättä päde kaikilla lainkäyttöalueilla ja ovat voimassa vain siltä osin, kuin Asiakkaan lainkäyttöalueella sovellettava laki sen sallii. Asiakkaalla voi olla muita lain mukaisia oikeuksia, joista ei voi luopua tai joita ei voi rajoittaa. Esri ei pyri rajoittamaan lisenssinhaltijan takuita tai oikeussuojaa sellaiselta osin, jota laki ei salli.
+
+ARTIKLA 5 - VAHINGONKORVAUKSET
+
+5.1 Määritelmät. Seuraavat määritelmät täydentävät Liitteessä A ilmoitettuja määritelmiä:
+
+a.	"Kanne" (Claim) tarkoittaa mitä tahansa kolmannen osapuolen tekemää kannetta, vaadetta tai reklamaatiota.
+b.	"Korvauksensaajat" (Indemnitees) tarkoittaa Asiakasta ja sen johtajia, toimihenkilöitä ja työntekijöitä.
+c.	"Oikeudenloukkauskanne (-kanteet)" (Infringement Claims) tarkoittaa mitä tahansa Kannetta, jonka mukaan Asiakkaan Esrin Tarjooman käyttö loukkaa yhdysvaltalaista patenttia, tekijänoikeutta, tavaramerkkiä tai liikesalaisuutta.
+d.	"Tappio(t)" (Loss) tarkoittaa mitä tahansa taloudellista tappiota, vahingonkorvausta, sovittelumaksua, -kustannusta tai -kulua korvattavaksi määrätyt asianajokulut mukaan lukien.
+
+5.2 Korvausvastuu oikeudenloukkauksista
+
+a.	Esri puolustaa kaikkia Korvauksensaajia Oikeudenloukkauskanteilta ja korvaa Tappiot, joita aiheutuu Oikeudenloukkauskanteesta seuraavien kohtien mukaisesti.
+b.	Jos Esri toteaa Oikeudenloukkauskanteen aiheelliseksi, Esri voi omalla kustannuksellaan joko (i) hankkia Asiakkaalle oikeudet jatkaa Esrin Tarjooman käyttöä tai (ii) muuttaa Esrin Tarjoomaa kuitenkin säilyttäen oleellisilta osin vastaavan toiminnallisuuden. Jos vaihtoehdoista kumpikaan ei ole kaupallisesti kohtuullinen, Esri voi irtisanoa Asiakkaan oikeuden käyttää Esrin Tarjoomaa ja palauttaa (a) asianmukaiset palvelumaksut, (b) Asiakkaan Pysyvästä lisenssistä maksamat lisenssimaksut kolmannen tahon oikeutta loukanneista Esrin Tarjoomista siten, että korvaus lasketaan tasapoistoina 5 vuodelle jaetusta summasta toimituspäivästä lukien tai (c) vielä käyttämättömän osuuden Määräaikaisista lisensseistä, Tilauksista ja Ylläpitopalveluista maksetuista maksuista.
+c.	Esrillä ei ole velvollisuutta puolustaa Oikeudenloukkauskannetta tai maksaa Asiakkaalle korvauksia siltä osin, kuin Oikeudenloukkauskanne johtuu (i) Esrin Tarjooman yhdistämisestä tai integroinnista tuotteeseen, prosessiin, järjestelmään tai elementtiin, jota Esri ei ole toimittanut eikä määritellyt Dokumentaatiossaan, (ii) jonkun muun kuin Esrin tai sen alihankkijoiden tekemästä muutoksesta Esrin Tarjoomaan, (iii) Asiakkaan spesifikaatioiden noudattamisesta tai (iv) Esrin Tarjooman käytöstä sen jälkeen, kun Esri on joko toimittanut muutetun version oikeudenloukkauksen välttämiseksi tai irtisanonut Asiakkaan oikeuden käyttää Esrin Tarjoomaa.
+
+5.3 Yleinen korvausvastuu. Esri puolustaa kaikkia Korvauksensaajia ja korvaa Tappion, joka aiheutuu henkilövahingon, kuoleman tai esinevahingon (pois lukien tietokannat, joita ei ole varmuuskopioitu asianmukaisesti) vuoksi Korvauksensaajaa vastaan nostetusta Kanteesta siltä osin, kuin se aiheutuu Esrin tai sen johtajien, toimihenkilöiden, työntekijöiden tai agenttien Asiakkaan tiloissa Palveluita suoritettaessa tapahtuneesta laiminlyönnistä tai tahallisesta rikkomuksesta.
+
+5.4 Vahingonkorvauksen ehdot. Vahingonkorvauksen ehtona Korvauksensaajan on (i) viipymättä ilmoitettava Esrille kirjallisesti Kanteesta, (ii) tarjottava kaikki saatavilla olevat Kannetta kuvaavat asiakirjat, (iii) annettava Esrille yksinomainen määräysvalta puolustautumiseen Oikeudenloukkauskannetta vastaan tai sovitteluun liittyvissä oikeudenkäynneissä ja neuvotteluissa sekä (iv) kohtuudella tehtävä yhteistyötä puolustauduttaessa Oikeudenloukkauskannetta vastaan Esrin pyynnöstä ja kustannuksella.
+
+5.5Tämä kohta sisältää Esrin, sen valtuuttaman jälleenmyyjän sekä sen lisenssinantajien velvoitteen suhteessa kaikkiin Kanteisiin kokonaisuudessaan.
+
+ARTIKLA 6 - VAKUUTUS
+
+Jos Esri tarjoaa Palveluita, Esri hankkii itselleen vähintään seuraavan vakuutussuojan:
+
+a.	Laajan yleisen vastuuvakuutuksen tai yrityksen vastuuvakuutuksen, jossa vähimmäissuoja on (1 000 000,00 USD), sekä tapauskohtaisen ruumiinvamma- (kuolema mukaan lukien) ja esinevahinkovastuun, joka sisältää seuraavat:
+
+1.	tilat ja toiminnot
+2.	kattavan sopimusvastuun
+3.	laajan esinevahinkovastuun
+4.	riippumattomat alihankkijat
+5.	henkilövahinko, joka kattaa myös työntekijät ja
+6.	vastuu valmistuneista töistä.
+
+b.	Lakisääteinen tapaturmavakuutus, johon sisältyy regressioikeudesta luopuminen, laissa säädetyn suuruisena.
+
+ARTIKLA 7 - TIETOTURVA JA VAATIMUSTENMUKAISUUS
+
+7.1 Vientimääräysten noudattaminen. Kumpikin osapuoli noudattaa kaikkia sovellettavia vientilakeja ja -määräyksiä, mukaan lukien Yhdysvaltain kauppaministeriön vientimääräyksiä (EAR), Yhdysvaltain ulkoministeriön kansainvälistä asekauppaa koskevia määräyksiä (ITAR) sekä muita voimassa olevia vientimääräyksiä. Asiakas ei vie, jälleenvie, siirrä, vapauta tai muutoin luovuta kokonaan eikä osittain tai anna käyttö- tai siirtolupaa Palveluihin tai Esrin Tarjoomaan mihinkään Yhdysvaltain kauppasaarron alaiseen maahan tai saarron alaisille yrityksille tai henkilöille muutoin kuin voimassa olevien Yhdysvaltain hallinnon vientilakien ja ‑määräysten mukaisesti. Asiakas ei vie, jälleenvie, siirrä tai käytä Palveluita tai Esrin Tarjoomaa eräisiin ohjus-, ydin-, kemiallisiin tai biologisiin aktiviteetteihin tai loppukäyttökohteisiin ilman asianmukaista Yhdysvaltain hallinnon lupaa. Asiakas ilmoittaa Esrille välittömästi kirjallisesti, mikäli jokin Yhdysvaltain valtionhallinnon laitos tai virasto kieltää, jäädyttää tai kumoaa Asiakkaan vientiluvat. Asiakas ei lataa, tallenna tai prosessoi Pilvipalveluissa mitään sellaista Asiakkaan Sisältöä, (i) jolla on muu Vientirajoitusluokitusnumero (ECCN) kuin EAR99 tai (ii) joka on vientirajoitusten piirissä Yhdysvalloista ITAR-määräysten nojalla. Esri ei toimita Palveluita tai tarjoa Esrin Tarjoomia, jotka liittyvät sellaiseen puolustustarvikkeeseen tai -palveluun tai tekniseen dataan, jotka on määritelty ITAR-määräysten kohdissa 120.6, 120.9 ja 120.10, paitsi hankittuaan tarvittavan vientiluvan Yhdysvaltain valtionhallinnolta. Asiakas avustaa Esriä kohtuudella mahdollisesti tarvittavan vientiluvan anomisessa ja hankinnassa.
+
+7.2 Tietoturva. Esrin tietoturvasta on tietoa sivustolla http://doc.arcgis.com/en/trust/security/security-overview.htm. Asiakas voi sallia Esrin henkilökunnalle pääsyn Asiakkaan järjestelmiin tai Asiakkaan tai kolmannen osapuolen henkilötietoihin, jos niihin pääsy on välttämätöntä, jotta Esri voi suorittaa Palvelut, ja jos Esri nimenomaisesti hyväksyy käyttöoikeuden. Esri käyttää kohtuudella hallinnollisia, teknisiä ja fyysisiä suojatoimenpiteitä tällaisen datan suojaamiseksi luvattomalta käytöltä. Asiakas kantaa vastuun (i) sen varmistamisesta, että Esrin julistamat tietoturva- ja yksityisyydensuojakeinot täyttävät juridiset vaatimukset Asiakkaan Sisällön suojaamiseksi ja (ii) siitä, että se lataa tai jakaa suojattua Asiakkaan Sisältöä Pilvipalveluiden kautta vain, mikäli se on laillista. Esrin vastuulla ei ole katselmoida Asiakkaan Sisältöä varmistuakseen sovellettavien lakien ja määräysten mukaisuudesta.
+
+ARTIKLA 8 - PILVIPALVELUIDEN KESKEYTYMINEN TAI PURKAMINEN
+
+8.1 Kielletyt käyttötavat. Asiakas ei saa käyttää Pilvipalveluita
+
+a.	spämmäys-, huijaus- tai kalasteluviesteihin, roskapostin tai loukkaavan tai halventavan aineiston välittämiseen, väijymiseen tai fyysisellä haitalla uhkaamiseen
+b.	Haittakoodin säilyttämiseen tai siirtoon
+c.	lain tai määräysten rikkomiseen
+d.	kolmannen osapuolen oikeuksien loukkaamiseen tai anastamiseen
+e.	Pilvipalveluiden haavoittuvuuden tutkimiseen, skannaamiseen tai testaamiseen tai Pilvipalveluissa käytettyjen tietoturva- tai todennuskeinojen rikkomiseen
+f.	Pilvipalveluiden käytettävyyden, suorituskyvyn tai toiminnallisuuden benchmarkkaukseen kilpailutarkoituksiin.
+
+8.2 Palvelukatkot. Järjestelmähäiriöt tai muut tapahtumat, joita Esri ei kohtuudella voi hallita, saattavat aiheuttaa palvelukatkoja Online Services ‑palveluihin. Esri ei välttämättä kykene ilmoittamaan tällaisista keskeytyksistä etukäteen.
+
+8.3 Asiakkaan sisällön poistaminen. Esri voi poistaa tai tuhota mitä tahansa Asiakkaan sisällön osia, jos on syytä uskoa, että niiden lataaminen Pilvipalveluihin tai käyttäminen Pilvipalveluilla rikkoo tätä Sopimusta. Mikäli se on olosuhteet huomioon ottaen kohtuullista, Esri ilmoittaa Asiakkaalle ennen Asiakkaan sisällön poistamista. Esri reagoi mahdollisiin Digital Millennium Copyright Act -lain mukaisiin poistopyyntöihin Esrin tekijänoikeuspolitiikan mukaisesti, joka on saatavilla osoitteessa http://www.esri.com
+/legal/dmca_policy.
+
+8.4 Palvelun keskeyttäminen. Esri voi keskeyttää pääsyn Pilvipalveluihin (i) jos Asiakas olennaisella tavalla rikkoo tätä Sopimusta eikä korjaa rikkomusta ripeästi, (ii) jos Esrillä on syytä uskoa, että Asiakkaan Pilvipalveluiden käyttö aiheuttaa Esrille välittömän korvausvastuun tai vaikuttaa haitallisesti Pilvipalveluiden integriteettiin, toiminnallisuuteen tai käytettävyyteen, (iii) säännöllisten ylläpitotoimien vuoksi, (iv) estääkseen Pilvipalveluihin kohdistuvan uhan tai hyökkäyksen tai (v) jos Pilvipalvelut kielletään lailla tai niitä aletaan säädellä siinä määrin, että niiden tarjoamisen jatkaminen aiheuttaisi kaupallisia vaikeuksia. Mikäli mahdollista, Esri ilmoittaa Asiakkaalle Pilvipalveluiden keskeyttämisestä etukäteen ja antaa Asiakkaalle kohtuullisen mahdollisuuden korjaaviin toimiin.
+
+Esri ei vastaa vahingosta, vastuusta tai tappioista, joita aiheutuu Online Services ‑palveluiden keskeytyksestä tai Asiakkaan sisällön poistamisesta edellä kuvatusti.
+
+ARTIKLA 9 - YLEISIÄ MÄÄRÄYKSIÄ
+
+9.1 Maksu. Asiakas maksaa kunkin laskun 30 päivän kuluessa sen saamisesta ja osoittaa maksun laskulla ilmoitettuun osoitteeseen.
+
+9.2 Palaute. Esri voi vapaasti käyttää kaikkea Asiakkaan Esrille antamaa palautetta, ehdotuksia ja pyyntöjä Tuotteiden parantamiseksi.
+
+9.3 Patentit. Asiakas ei saa hakea eikä sallia kenenkään muun käyttäjän hakea missään osassa maailmaa sellaista patenttia tai vastaavaa oikeutta, joka perustuu Esrin Tuotteisiin tai joka sisältää niitä. Tämä nimenomainen patentoinnin kielto ei koske Asiakkaan ohjelmistoja ja teknologiaa muutoin kuin siltä osin, että Tuotteet tai jokin osa niistä ovat osana patenttihakemuksen tai vastaavan hakemuksen vaatimusosaa tai edullista suoritusmuotoa.
+
+9.4 Verot ja maksut, rahtikustannukset. Asiakkaalle ilmoitetut maksut eivät sisällä mitään sovellettavia veroja tai maksuja, kuten myyntiveroa, käyttöveroa, arvonlisäveroa (alv), tulleja, valmisteveroja, tariffeja tai rahti- ja käsittelykustannuksia.
+
+9.5 Noudattamisen valvonta. Asiakas pitää täsmällistä ja täydellistä kirjaa tässä Sopimuksessa määrättyjen velvoitteidensa noudattamisesta. Esri tai sen valtuuttama jakelija voi katselmoida tämän kirjanpidon annettuaan asiasta kirjallisen ilmoituksen vähintään 7 arkipäivää etukäteen, tai se voi nimetä riippumattoman osapuolen suorittamaan katselmoinnin puolestaan. Asiakas korjaa viivytyksettä mahdolliset katselmoinnissa ilmenneet puutteet. Esri tai Esrin jakelija ei saa suorittaa Asiakkaan katselmointia 12 kuukauden kuluessa sellaisen aiemman katselmoinnin päättymisestä, jossa ei ole havaittu merkittävää puutetta Asiakkaan sopimuksen noudattamisessa.
+
+9.6 Ei epäsuoraa oikeuksista luopumista. Kummankaan osapuolen luopumista jonkin tämän Sopimuksen määräyksen toimeenpanosta ei katsota luopumiseksi kyseisestä määräyksestä tai osapuolen oikeudesta myöhemmin panna toimeen kyseinen tai mikä tahansa muu määräys.
+
+9.7 Sopimuksen jakamattomuus. Osapuolet vahvistavat, että jos jokin tämän Sopimuksen määräys katsotaan toimeenpanokelvottomaksi mistä tahansa syystä, kyseistä määräystä on korjattava vain siinä määrin, että sen sanamuodon tarkoituksesta tulee toimeenpanokelpoinen.
+
+9.8 Oikeusseuraaja ja sopimuksen siirto. Asiakas ei saa siirtää eikä alilisensoida tätä Sopimusta eikä siirtää Asiakkaan tämän sopimuksen mukaisia oikeuksia eikä velvollisuuksia ilman Esrin ja sen valtuutetun jakelijan etukäteistä kirjallista suostumusta, ja yritys tehdä näin ilman suostumusta on mitätön. Tämä Sopimus sitoo sen osapuolten oikeusseuraajia ja siirronsaajia. Tästä huolimatta hankkija, jolla on sopimus julkishallinnon kanssa Tuotteiden toimittamisesta, voi siirtää tämän Sopimuksen ja toimitettavaksi hankitut Tuotteet julkishallinnon asiakkaalleen ilmoittamalla tästä kirjallisesti Esrille edellyttäen, että julkishallinnon asiakas hyväksyy tämän Sopimuksen ehdot.
+
+9.9 Ehtojen pysyvyys. Tämän Sopimuksen Termien selitykset ja näiden yleisten ehtojen artikloiden 3, 4, 5 ja 9 määräykset pysyvät voimassa Sopimuksen päättymisen tai irtisanomisen jälkeenkin.
+
+9.10 Yhdysvaltain valtionhallintoon kuuluva Asiakas. Tuotteet ovat kaupallisia ja yksityisillä varoilla kehitettyjä tuotteita, joita tarjotaan Asiakkaalle tämän Sopimuksen mukaisesti. Jos Asiakas on Yhdysvaltain valtionhallinnon laitos tai sellaisen alihankkija, Esri lisensoi tai tarjoaa tilaukset Asiakkaalle tämän Sopimuksen sekä FAR-hankintamääräysten alakohtien 12.211/12.212 tai DFARS-hankintaliitteen alakohdan 227.7202 mukaisesti. Esrin Data ja Online Services -palvelut lisensoidaan tai tilataan saman DFARS-alakohdan 227.7202 mukaisesti kuin DFARS:n alaisuudessa hankittavat kaupalliset tietokoneohjelmat. Tuotteet ovat rajoitusten alaisia, ja tämä Sopimus säätelee tarkasti Tuotteiden käyttöä, muuttamista, suorittamista, toisintamista, julkistamista, esittämistä tai ilmaisemista Asiakkaan toimesta. Liittovaltion lain kanssa yhteensopimattomia sopimusmääräyksiä ei sovelleta. Yhdysvaltain valtionhallintoon kuuluva Asiakas saa siirtää Ohjelmiston mihin tahansa toimipaikkaansa, johon se siirtää tietokoneen (tietokoneet), johon Ohjelmisto on asennettu. Jos jokin tuomioistuin, välimies tai lautakunta päättää, että Yhdysvaltain valtionhallintoon kuuluvalla Asiakkaalla on sovellettavan julkisia hankintoja koskevan lain mukaisesti tässä esitettyjä suuremmat oikeudet johonkin osaan Tuotteista, kyseiset oikeudet koskevat vain päätöksen tarkoittamia osia.
+
+9.11 Sovellettava laki. Tähän Sopimukseen sovelletaan Yhdysvaltain liittovaltion lakia ja Kalifornian osavaltion lakia pois lukien niiden lainvalintaperiaatteet. Tähän Sopimukseen ei sovelleta YK:n yleissopimusta kansainvälistä tavaran kauppaa koskevista sopimuksista (CISG).
+
+9.12Riitojen ratkaisu. Osapuolet käyttävät seuraavia riidanratkaisuprosesseja:
+
+a.	Kohtuullinen hyvitys. Kummallakin osapuolella on oikeus hakea kieltotuomiota, luontoiskäytäntöä tai muuta kohtuullista hyvitystä toimivaltaisessa tuomioistuimessa tarvitsematta hyvityksen ehtona asettaa vakuutta tai todistaa vahinkoa.
+b.	Yhdysvaltain valtionhallinnon virastot. Tähän Sopimukseen sovelletaan vuoden 1978 Contract Disputes Act -lakia muutoksineen (41 USC 601-613).
+c.	Muut viranomaisyksiköt. Esri noudattaa sovellettavan lain määräämiä riidanratkaisumenettelyjä.
+d.	Välimiesmenettely. Edellä mainituin poikkeuksin osapuolet alistuvat sitovaan välimiesmenettelyyn ratkoakseen tähän Sopimukseen liittyvät kiistat, joiden ratkaisu neuvottelemalla ei onnistu. Jos Asiakas on Yhdysvalloissa tai sen territorioissa tai erillisalueilla, välimiesmenettelyn määrää American Arbitration Associationin säännöstö Commercial Arbitration Rules. Jos Asiakas on Yhdysvaltain ulkopuolella, menettelyn määrää Kansainvälisen kauppakamarin välimiesmenettelysäännöstö. Osapuolet valitsevat yksittäisen välimiehen sovellettavien välimiesmenettelysääntöjen mukaisesti. Välimiesmenettely käydään englannin kielellä. Välimiesmenettelyn paikka sovitaan erikseen. Kummankin osapuolen on toisen osapuolen pyynnöstä annettava saataville asiakirjoja tai todistajia, jotka ovat riidan tärkeimpien näkökohtien kannalta merkityksellisiä.
+
+9.13 Ylivoimainen este (force majeure). Osapuoli ei ole vastuussa tämän Sopimuksen toimeenpanon laiminlyönnistä tai viivästyksestä ajanjaksolta, jona laiminlyönti tai viivästys johtuu syistä, joiden ei voida kohtuudella katsoa olevan osapuolen hallittavissa. Tällaisia syitä voivat olla muun muassa luonnonmullistukset, sota, lakot, työtaistelut, verkkohyökkäykset, lait, määräykset, hallituksen määräykset tai muu ylivoimainen este.
+
+9.14 Riippumaton alihankkija. Esri on ja tulee olemaan riippumaton alihankkija. Mikään tässä Sopimuksessa ei muodosta työnantaja-työntekijä-, päämies-agentti- tai yhteisyrityssuhdetta Esrin tai sen valtuuttaman jakelijan ja Asiakkaan välille. Kummallakaan osapuolella ei ole valtuuksia solmia sopimuksia toisen nimissä tai muutoin toimia toisen nimissä.
+
+9.15 Ilmoitukset. Asiakas voi lähettää tämän Sopimuksen vaatimat ilmoitukset Esrille seuraavaan osoitteeseen:
+
+Environmental Systems Research Institute, Inc.
+Attn: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+USA
+
+Puh.: +1 909 793 2853
+Sähköposti: LegalNotices@esri.com
+LIITE 1
+TUOTEKOHTAISET KÄYTTÖEHDOT
+(E300 09/22/2016)
+
+OHJELMISTO
+
+Seuraavassa taulukossa ilmaistaan yksittäisiä Ohjelmistoja koskevat lisätyt käyttöehdot. Kukin tuoterivi sisältää yhden tai useamman Tuotetta koskevan alaviitteen. Nämä alaviitteet täydentävät Sopimuksen ehtoja. Kunkin alaviitteen määritelmät ovat taulukon perässä. Ellei asianmukaisessa Tilausasiakirjassa ole muuta mainittu, Ohjelmiston laajennuksia koskee sama käytön laajuus kuin vastaavalle Ohjelmistolle on myönnetty.
+
+Työpöytätuotteet
+▪	ArcGIS Desktop (Advanced, Standard tai Basic) (26)
+▪	ArcGIS Earth (65)
+▪	ArcGIS Explorer Desktop (20)
+▪	ArcGIS for AutoCAD (20)
+▪	ArcPad (13)
+▪	ArcReader (20)
+▪	ArcGIS for Windows Mobile (15; 54)
+▪	ArcGIS for Personal Use (3, 26)
+
+Palvelintuotteet
+▪	ArcGIS Enterprise
+-	Standard tai Advanced (21; 31)
+-	Workgroup Standard tai Advanced (21; 28; 29; 30; 32 )
+-	ArcGIS GIS Server (Standard tai Advanced) (31)
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server Workgroup (Standard tai Advanced) (28; 29; 30; 32 )
+-	ArcGIS GIS Server Workgroup Basic (39)
+-	ArcGIS GIS Server Extension
+-	ArcGIS Maritime: Server (2)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4)
+▪	Esri Business Analyst Server
+-	Workgroup (28; 29; 30; 31; 39)
+-	Enterprise (31; 39)
+▪	World Geocoder for ArcGIS Basic (67)
+Kehitystyökalut
+▪	AppStudio for ArcGIS Standard (11, 16, 19)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt tai WPF (16; 19)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt, tai WPF (15; 18)
+▪	ArcGIS Engine Developer Kit and Extensions (16, 19; 22, 26)
+▪	ArcGIS Engine for Windows/Linux and Extensions (15; 22; 26)
+▪	ArcGIS Web Mapping (johon sisältyvät ArcGIS API for JavaScript/HTML5, ArcGIS API for Flex, ArcGIS API for Microsoft Silverlight) (15; 16; 64; 66)
+▪	ArcGIS Developer Subscription (24; 26)
+▪	Esri File Geodatabase API (47)
+
+Muu
+▪	Navigator for ArcGIS (14)
+
+ Alaviitteet:
+
+1.	Varattu.
+2.	Ei 	navigaatiokäyttöön	.
+3.	Lisenssi myönnetty vain henkilökohtaiseen käyttöön.
+4.	Käytettäessä ArcGIS Enterprise Workgroupin kanssa
+-	Rajoitettu 1 neliydinpalvelimelle.
+-	Voidaan asentaa erilliskoneelle.
+	5-10.	Varattu.
+11.	AppStudio for ArcGIS Standard -tuotteella luotuja sovelluksia koskevat ArcGIS Runtime Standard Level -tuotteen käyttöehdot.
+12.	Varattu.
+13.	"Kaksoiskäyttölisenssi" tarkoittaa sitä, että ohjelmisto voidaan asentaa pöytätietokoneeseen ja sitä voidaan samanaikaisesti käyttää joko kämmentietokoneessa tai kädessä pidettävässä mobiilitietokoneessa edellyttäen, että ohjelmistoa käyttää tietyllä hetkellä vain yksi henkilö.
+14.	Voidaan käyttää navigaatiotarkoituksiin.
+15.	Lisensoitu Levityslisenssinä.
+16.	Asiakas voi käyttää SDK-työkaluja tai API-liittymiä Lisäarvosovellusten luomiseen sekä jaella ja lisensoida kyseisiä Lisäarvosovelluksia loppukäyttäjilleen käytettäväksi kaikkialla, missä vientirajoitukset eivät tätä estä.
+17.	Varattu.
+18.	Levityslisenssi on erillissovellusten osalta Lisäarvosovellus- ja tietokonekohtainen.
+19.	Lisenssiä ei saa käyttää Internet- eikä palvelinpohjaisten lisäarvosovellusten kehittämiseen.
+20.	Asiakas	 saa kopioida ja jakaa Ohjelmistoa edellyttäen, että kaikki seuraavat ehdot täyttyvät:
+
+a.	ohjelmisto kopioidaan ja jaetaan kokonaisuudessaan
+b.	ohjelmiston jokaisen kopion yhteydessä on lisenssisopimus, joka suojaa ohjelmistoa samassa laajuudessa kuin tämä lisenssisopimus, ja vastaanottaja sitoutuu lisenssisopimuksen ehtoihin
+c.	kaikki tekijänoikeus- ja tavaramerkkimaininnat ja -ilmoitukset kopioidaan ja
+d.	ohjelmiston käyttöön ei liity maksuja.
+
+   21.	Asiakas voi muodostaa Lisäarvosovelluksen/-sovelluksia, joita Asiakkaan Nimetyt käyttäjät saavat käyttää. Asiakas ei saa upottaa Nimetyn käyttäjän kirjautumistunnusta Lisäarvosovellukseen. Asiakas ei saa upottaa sovelluksen kirjautumistunnusta Lisäarvosovelluksiin tai käyttää sovelluksen kirjautumistunnusta Lisäarvosovelluksissa. Lisäarvosovellukset edellyttävät nimetyn käyttäjän kirjautumistunnuksia.
+22.	a.	Loppukäyttäjän on lisensoitava joko ArcGIS Engine for Windows/Linux -ohjelmisto tai muu ArcGIS Desktop -ohjelmisto (Basic, Standard tai Advanced) saadakseen oikeuden ajaa ArcGIS Engine -sovellusta 1 tietokoneessa ja
+b.	ArcGIS Engine for Windows/Linux -laajennuksia ei saa käyttää yhdessä ArcGIS Desktop -ohjelmiston kanssa ArcGIS Engine -lisäarvosovellusten ajamiseen. Yksittäisellä käyttäjällä voi olla useita ArcGIS Engine -lisäarvosovelluksia asennettuna 1 tietokoneeseen ainoastaan kyseisen loppukäyttäjän käyttöön.
+23.	Varattu.
+   24.	Ohjelmistoa saa käyttää ainoastaan Lisäarvosovelluksen prototyypin kehittämiseen, testaamiseen ja esittelyyn sekä karttavälimuistien luomiseen. Lisäarvosovelluksia ja karttavälimuisteja voidaan käyttää ArcGIS Enterprise -järjestely- ja levityspalvelinten yhteydessä. Ohjelmisto ja Data voidaan asentaa useisiin tietokoneisiin kenen tahansa ArcGIS Developer -tilaajan käyttöön, jolla on Extend- tai korkeampitasoinen tilaus. Kaikki muu Ohjelmisto lisensoidaan yhden käyttäjän lisenssinä.
+25.	Varattu.
+   26.	Personal Edition -geotietokannan rajoituksena on 10 gigatavua Asiakkaan aineistoa.
+27.	Varattu.
+   28.	Käyttö on rajoitettu 10 samanaikaiseen muiden sovellusten kuin ArcGIS Enterprise Workgroup tai ArcGIS GIS Server Workgroup ‑sovellusten käyttäjään. Rajoitus koskee ArcGIS Desktop -ohjelmiston, ArcGIS Engine -ohjelmiston sekä suoraan mihin tahansa ArcGIS Enterprise Workgroup- tai ArcGIS GIS Server Workgroup ‑geotietokantaan kytkeytyvien kolmannen osapuolen ohjelmistojen käyttöä. Web-sovelluksista tulevien yhteyksien määrää ei ole rajoitettu.
+   29.	Ohjelmistoa voidaan käyttää vain tuetun SQL Server Express -version kanssa. Tuetut versiot on lueteltu tuotteen järjestelmävaatimusten yhteydessä Esrin Web-sivustolla.
+30.	Käyttörajoituksena on enintään 10 gigatavua Asiakkaan aineistoa.
+31.	 	  	Asiakkaalla voi olla ylimääräisiä Esri Server -ohjelmiston asennuksia varatoimintoja varten, mutta ylimääräinen Ohjelmisto saa olla käytössä vain sen ajan, kun ensisijainen palvelin ei ole toiminnassa (active-passive failover). Ylimääräisten ohjelmistoasennusten on pysyttävä käyttämättöminä lukuun ottamatta järjestelmän ylläpitoa ja tietokantojen päivittämistä silloin, kun ensisijainen palvelin tai jokin toinen ylimääräinen palvelin on toiminnassa.
+32.	Ylimääräinen ohjelmistoasennus varatoimintoja varten ei ole sallittu.
+33-38.	Varattu.
+39.	ArcGIS GIS Server -tuotteeseen sisältyviä muokkaustoimintoja ei saa käyttää ArcGIS GIS Server Basic (Workgroup tai Enterprise) -tuotteen kanssa.
+40-46.	Varattu.
+   47.	Asiakas voi kehittää ja jakaa Esri File Geodatabase API -liittymää käyttäviä Lisäarvosovelluksia Asiakkaan loppukäyttäjille.
+48-53.	Varattu.
+   54.	ArcGIS for Windows Mobile Deployments -tuotteet on lisensoitu käytettäviksi ArcGIS Enterprise (Advanced tai Standard) ‑tuotteen, ArcGIS Enterprise Workgroup (Advanced) -tuotteen, ArcGIS Desktop (Advanced, Standard, Basic) -tuotteen sekä ArcGIS Engine ‑lisäarvosovellusten kanssa.
+55-63.	Varattu.
+64.	Web-jakeluun käytettäviä lisäarvosovelluksia on käytettävä yhdessä muiden Esrin tuotteiden kanssa. Lisäarvosovellusten yhteydessä voidaan käyttää myös kolmannen osapuolen teknologioita, kunhan lisäarvosovelluksia käytetään aina yhdessä muiden Esrin tuotteiden kanssa.
+65.	Voidaan käyttää vain yhdessä muiden Esrin Tuotteiden kanssa. ArcGIS Earth -tuotteen yhteydessä voidaan käyttää myös kolmannen osapuolen teknologioita, kunhan ArcGIS Earth -tuotetta käytetään aina yhdessä muiden Esrin tuotteiden kanssa.
+66.	Työpöytäsovellusten osalta kukin lisenssi on organisaatiokohtainen. Tämän lisenssin tarkoituksia varten organisaatio vastaa ensisijaista rekisteröityä ainutkertaista domainin tunnistetta. Domain tarkoittaa Internet-domainin nimeä, joka on rekisteröity domain-rekisterinpitäjälle. Esimerkiksi nimessä example.com example.com on rekisteröity ainutkertainen domainin tunniste. Vastaavasti esimerkiksi nimessä example.com.xx, jossa xx on rekisteröity maakoodi, example.com.xx on rekisteröity ainutkertainen domainin tunniste. Työpöytäsovelluksia voi käyttää kuka tahansa sen organisaation työntekijä, jolla on kyseinen ensisijainen rekisteröity ainutkertainen domainin tunniste. Organisaation sisällä rakennettavien ja levitettävien sovellusten lukumäärää ei ole rajoitettu.
+67.	Rajoitettu 250 000 000 geokoodiin per vuositilaus.
+ ONLINE SERVICES ‑PALVELUT
+
+Seuraavassa taulukossa ilmaistaan yksittäisiä Online Services ‑palveluita koskevat lisätyt käyttöehdot. Kukin tuoterivi sisältää yhden tai useamman Tuotetta koskevan alaviitteen. Kunkin alaviitteen määritelmät ovat taulukon perässä. Ellei asianmukaisessa Tilausasiakirjassa ole muuta mainittu, Ohjelmiston laajennuksia koskee sama käytön laajuus kuin vastaavalle Ohjelmistolle on myönnetty.
+
+▪	ArcGIS Online ‑tilauksia on saatavana useiden myyntiohjelmien kautta:
+
+-	Commercial Retail Enterprise Agreements; Government Programs (1; 2; 3; 11; 12; 14; 20)
+-	Education Program (1; 2; 8; 10; 14; 19)
+-	 	  Non-Profit Progra	m (1; 2; 8; 14; 19; 20)
+
+▪	ArcGIS Online Developer Deployment ‑tilauksia on saatavana useiden Myyntiohjelmien kautta:
+
+-	Commercial Retail Enterprise Agreements; Government Programs
+	Maksuton tilaus (1; 8; 9; 10; 13; 19; 20)
+	Maksullinen tilaus (1; 8; 9; 10; 11; 13; 20)
+-	Education, 	NGO	/NPO, Press/Media Programs
+	Maksuton tilaus (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Maksullinen tilaus (1; 3; 4; 5; 6; 9; 10; 13; 19)
+-	NGO/NPO, Press/Media Programs
+	Maksuton tilaus (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Maksullinen tilaus (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+
+▪	Public Plan
+-	 	  Com	mercial Retail, EAs; Government; NGO/NPO; Press/Media Programs (1; 4; 5; 6; 7; 9; 10; 15; 19; 20)
+-	Education Programs (1; 4; 5; 6; 7; 9; 10; 15; 19)
+▪	Esri Business Analyst Online (16)
+▪	Esri Business Analyst Online Mobile (16)
+▪	Esri Community Analyst (16)
+▪	Esri MapStudio (17)
+
+ Alaviitteet:
+
+1.	Online Services -palveluiden yleisten käyttöehtojen lisäksi:
+
+a.	Asiakas voi käyttää Asiakkaan Esrin Online Services ‑tilaustaan rakentaakseen Lisäarvosovelluksia Asiakkaan sisäiseen käyttöön.
+b.	Asiakas voi myös tarjota kolmansille osapuolille pääsyn Asiakkaan Lisäarvosovelluksiin seuraavilla ehdoilla:
+
+i.	Asiakas voi sallia Anonyymien käyttäjien käyttää Asiakkaan Lisäarvosovelluksia.
+ii.	Asiakas ei saa lisätä kolmansia osapuolia Nimetyiksi käyttäjiksi Asiakkaan ArcGIS Online ‑tilaukseen tarkoituksenaan sallia kolmansien osapuolten pääsy Asiakkaan Lisäarvosovelluksiin. Tämä rajoitus ei koske niitä kolmansia osapuolia, jotka sisältyvät nimettyjen käyttäjien määritelmään.
+iii.	Asiakas ei saa tarjota kolmannelle osapuolelle pääsyä Asiakkaan ArcGIS Online -tilauksen kautta käytössä oleviin ArcGIS Online Services -palveluihin muutoin kuin Asiakkaan Lisäarvosovellusten kautta. Tämä rajoitus ei koske niitä kolmansia osapuolia, jotka sisältyvät nimettyjen käyttäjien määritelmään.
+iv.	Asiakas vastaa yksin teknisen tuen tarjoamisesta Asiakkaan Lisäarvosovelluksille.
+v.	Asiakas ei ilman kirjallista lupaa saa poistaa eikä peittää mitään tavaramerkkejä tai logoja, jotka normaalisti näkyisivät Online Services -palveluiden käytön yhteydessä. Asiakkaan on sisällytettävä sovellukseensa maininta siitä, että sen sovellus käyttää Esrin toimittamia Online Services -palveluita, jos tätä mainintaa ei näytetä automaattisesti Online Services -palvelujen käyttämisen myötä. Ohjeet ovat dokumentaatiossa.
+vi.	Asiakas ei saa upottaa Nimetyn käyttäjän kirjautumistunnusta Lisäarvosovellukseen. Sovelluksen kirjautumistunnus voidaan upottaa vain Lisäarvosovelluksiin, joita käytetään ArcGIS Online -sovelluksen yleisölle tarjottuun anonyymiin käyttöön. Asiakas ei saa upottaa eikä käyttää ArcGIS Online -sovelluksen kirjautumistunnusta sisäiseen käyttöön tarkoitetuissa Lisäarvosovelluksissa. Sisäisesti käytetyt lisäarvosovellukset edellyttävät nimetyn käyttäjän kirjautumistunnuksia.
+
+c.	World Geocoding Service: Asiakas ei saa tallentaa palvelun muodostamia geokoodattuja tuloksia ilman ArcGIS Online -tilausta.
+d.	Infographics Service: Asiakas saa käyttää tämän palvelun kautta saatavaa aineistoa ainoastaan näyttötarkoituksiin. Asiakas ei saa tallentaa mitään tämän palvelun kautta saatavaa aineistoa.
+
+2.	Voidaan käyttää mihin tahansa Asiakkaan organisaation liiketarkoituksiin.
+3.	Voidaan käyttää Asiakkaan organisaation kehitys- ja testaustarkoituksiin.
+4.	Voidaan käyttää opetusorganisaatioissa opetustarkoituksiin.
+5.	Voidaan käyttää Asiakkaan voittoa tavoittelemattoman (NGO/NPO) organisaation eduksi.
+6.	Voidaan käyttää lehdistö- tai mediaorganisaatioiden eduksi.
+7.	Voidaan käyttää henkilökohtaiseen käyttöön.
+8.	Tilaajan Lisäarvosovellukset on julkistettava yleisölle.
+9.	EI saa käyttää voittoa tuottavan tai valtionhallinnon organisaation eduksi.
+10.	Asiakas ei saa luoda yksityisiä ryhmiä tai osallistua yksityisiin ryhmiin.
+11.	Asiakas voi saattaa Lisäarvosovellukset kolmansien osapuolten käyttöön maksua vastaan.
+12.	Asiakas voi käyttää tätä tilausta yksityisten ryhmien luontiin tai yksityisiin ryhmiin osallistumiseen.
+13.	Kukin Asiakkaan tilaus on rajoitettu 1 000 000 taustakartan transaktioon ja 1 000 000 geohakutransaktioon kuukaudessa. "Transaktio" on määritelty ArcGIS Resources -dokumentaatiossa osoitteessa http://links.esri.com/agol/transactiondef.
+14.	Ylärajana kullekin tilaukselle on yhteensä 50 000 000 taustakartta- ja geohakutransaktiota kuukaudessa. "Transaktio" on määritelty ArcGIS Resources -dokumentaatiossa osoitteessa http://links.esri.com/agol/transactiondef.
+15.	Voi sallia oppilaitoksen rekisteröidyille oppilaille pääsyn Online Services ‑palveluihin ja jakaa yksittäisen tilauksen useammalle kuin 1 rekisteröidylle opiskelijalle vain opetuskäyttöön.
+16.	Asiakas ei saa esittää eikä julkistaa enempää kuin 100 Esri Business Analyst Online- tai Community Analyst -raporttia ja karttaa Asiakkaan ulkoisilla Web-sivustoilla.
+17.	Asiakas voi luoda, julkisesti esittää ja jaella karttoja paperimuodossa ja staattisessa sähköisessä muodossa uutisraportointitarkoituksessa noudattaen ArcGIS Online ‑dataa koskevia rajoituksia.
+18.	Varattu.
+19.	Asiakas ei saa saattaa Lisäarvosovelluksia kolmansien osapuolten käyttöön maksua vastaan.
+20.	Lisenssinhaltija ei saa olla lisenssinhaltija kolmannen osapuolen puolesta tai hyväksi.
+

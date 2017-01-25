@@ -1,0 +1,576 @@
+﻿IMPORTANT - CITIŢI CU ATENŢIE
+(E204CW 09/22/2016)
+
+Cu excepția cazului în care este înlocuit cu un contract de licență semnat între dumneavoastră și compania Esri, Esri dorește să vă trimită Ofertele Esri numai în cazul în care acceptați toți termenii și condițiile din prezentul Contract. Citiţi cu atenţie termenii şi condiţiile. Nu puteți să utilizați Ofertele Esri dacă nu sunteți de acord cu termenii și condițiile Contractului. Dacă nu sunteți de acord cu termenii și condițiile indicate, faceți clic pe butonul "I do not accept the agreement" ("Nu accept contractul") de mai jos. Apoi, puteți solicita returnarea plăților efectuate.
+
+Acest Contract se încheie între dvs. ("Clientul") și Environmental Systems Research Institute, Inc. ("Esri"), o companie din California cu sediul în 380 New York Street, Redlands, California 92373-8100 SUA.
+
+1.0 ACORDAREA GENERALĂ A DREPTURILOR ȘI APLICAREA RESTRICȚIILOR
+
+1.1 Anexa A conține definițiile termenilor scriși cu literă mare, utilizați în prezentul Contract. Fiecare secțiune a acestui Contract poate include definiții suplimentare, utilizate exclusiv în secțiunea respectivă.
+
+1.2 Acordarea drepturilor. Având în vedere plata de către Client a tuturor taxelor aplicabile și în conformitate cu acest Contract, Esri acordă Clientului dreptul personal, neexclusiv și netransferabil pentru următoarele:
+
+a.	utilizarea Ofertelor Esri așa cum sunt prevăzute în Documentație și în Documentele de comandă aplicabile;
+b.	copierea și realizarea de lucrări derivate ale Documentației numai pentru utilizarea internă a Clientului în legătură cu utilizarea autorizată a Produselor de către Client. Clientul va include următoarea notificare de atribuire a dreptului de autor prin care recunoaște drepturile de proprietate ale Esri și ale licențiatorilor săi asupra oricăror lucrări derivate:
+
+"Părți din prezentul document includ proprietatea intelectuală a Esri și a licențiatorilor săi și sunt utilizate sub licență. Copyright (c) [Clientul va introduce datele reale privind dreptul de autor din materialele sursă.] Esri și licențiatorii săi. Toate drepturile rezervate."
+
+Drepturile acordate în această secțiune (i) vor continua pe durata abonamentului sau a Termenului aplicabil sau permanent, dacă nici un Termen nu este aplicabil sau prevăzut în Documentele de comandă, și (ii) sunt reglementate prin drepturile și restricțiile suplimentare din acest Contract, inclusiv din Anexa B.
+
+1.3 Accesul consultantului sau contractorului. Clientul va fi singurul responsabil pentru respectarea prevederilor prezentului Contract de către consultanți și contractori și se va asigura că fiecare consultant sau contractactor întrerup utilizarea Ofertelor Esri la finalizarea lucrărilor pe care le desfășoară pentru Client. Consultanților sau contractorilor li se interzice accesul la Ofertele Esri sau utilizarea acestora, dacă nu se realizează exclusiv în beneficiul Clientului.
+
+1.4 Licența de evaluare și licența pentru versiunea beta. Produsele achiziționate în baza unei licențe de evaluare, în baza unui abonament sau a unui program Beta sunt utilizate doar în scopuri de evaluare și testare și nu au utilizare comercială. Orice astfel de utilizare se va face pe riscul Clientului, iar Produsele nu vor fi eligibile pentru serviciile de Mentenanță. În cazul în care Clientul nu trece la o licență achiziționată sau la un abonament înainte de expirarea duratei de evaluare, poate pierde conținutul și modificările particularizate efectuate pe durata de evaluare. În cazul în care Clientul nu dorește să achiziționeze licența sau abonamentul, trebuie să exporte conținutul înainte de sfârșitul perioadei de evaluare.
+
+1.5 Programele educaționale. Clientul este de acord să utilizeze Ofertele Esri furnizate în baza unui program educațional doar în scopuri educaționale pe Durata de utilizare prevăzută în programul educațional. Clientul nu va utiliza Produsele pentru Utilizare administrativă, în afara cazului în care acesta a achiziționat o licență pentru Utilizare administrativă. "Utilizare Administrativă" înseamnă activități administrative care nu sunt direct legate de instruire sau educație, cum ar fi cartografierea patrimoniului, administrarea facilităților, analiza demografică, calcularea rutelor de transport, dispecerizarea siguranței campusului universitar și analiza accesibilității. Clientul nu va utiliza Produsele pentru a obține venituri sau profituri.
+
+1.6 Programele Grant.Clientul poate utiliza Ofertele Esri trimise în baza unui program grant doar în scopuri necomerciale. Cu excepția situațiilor în care recuperează costurile de utilizare sau operare a Ofertelor Esri, Clientul nu va utiliza Ofertele Esri pentru a obține venituri sau profituri.
+
+1.7 Alte programe Esri cu utilizare limitată.În cazul în care Clientul achiziționează Oferte Esri în cadrul unui program cu utilizare limitată care nu a fost menționat mai sus, utilizarea Ofertelor Esri de către Client se poate supune termenilor prevăzuți pe pagina de lansare aplicabilă sau în formularul de înscriere aplicabil sau după cum se descrie pe site-ul web al companiei Esri, în plus față de termenii neconflictuali din prezentul Contract.
+
+1.8 Rezervarea drepturilor. Toate Ofertele Esri constituie lucrările cu drept de autor ale Esri sau ale licențiatorilor săi; toate drepturile care nu au fost special acordate în acest Contract sunt rezervate.
+
+2.0 TERMENII DE UTILIZARE PENTRU PRODUSELE SOFTWARE
+
+2.1 Tipurile de licență. Esri acordă licență pentru Produsele software în baza următoarelor tipuri de licență:
+
+a.	Licența pentru utilizare concurențială: Clientul poate instala și utiliza Produsul software pe computerele dintr-o rețea, dar numărul utilizatorilor simultani nu trebuie să depășească numărul de licențe achiziționate. Licenţa pentru utilizare concurențială include dreptul de a executa instanţe pasive de reluare în caz de nereuşită ale produselor software de gestionare cu Licenţă pentru utilizare concurențială, într-un mediu de sistem de operare separat, pentru asistenţă temporară de reluare în caz de nereuşită.
+b.	Licența de distribuire: Clientul poate încorpora componentele ArcGIS Runtime în Aplicații cu valoare adăugată și poate distribui Aplicațiile cu valoare adăugată către utilizatorii finali ai Clientului.
+c.	Licența de distribuire server: Clientul poate utiliza Produsul software cu Licență de server în toate scopurile permise în Contract și după cum este descris în Documentație.
+d.	Licența de dezvoltare server: Clientul poate utiliza Produsul software în baza unei Licențe de server pentru a crea și pentru a testa Aplicații cu valoare adăugată, după cum este descris în Documentație.
+e.	Utilizarea pentru dezvoltare: Clientul poate instala și utiliza Produsul software pentru a crea și pentru a testa Aplicații cu valoare adăugată, după cum este descris în Documentație.
+f.	Licența de utilizare duală: Clientul poate instala Produsul software pe un computer desktop și îl poate utiliza simultan fie pe un PDA (personal digital assistant), fie pe un echipament mobil, atât timp cât Produsul software este utilizat de o singură persoană la un moment dat.
+g.	Licența pentru operații de reluare în caz de nereușită: Clientul poate instala Produsul software pe sisteme redundante pentru operații de reluare în caz de nereușită, însă Produsele software redundante pot să funcționeze doar în perioadele când site-ul principal nu funcționează. Instalările redundante ale Produsului software vor rămâne inactive, cu excepția perioadelor de întreținere a sistemului și de actualizare a bazelor de date, în timp ce site-ul principal (sau orice alt site redundant) este operațional.
+h.	Licența de redistribuire: Clientul poate reproduce și distribui Produsul software, cu condiția ca toate prevederile următoare să fie îndeplinite:
+
+1.	Clientul reproduce și distribuie Produsul software în întregime;
+2.	fiecare copie a Produsului software este însoțită de un contract de licență care protejează Produsul software în aceeași măsură ca și acest Contract, iar destinatarul este de acord să respecte termenii și condițiile contractului de licență;
+3.	Clientul reproduce toate atribuirile și notificările referitoare la drepturile de autor și marca comercială și
+4.	pentru utilizarea Produsului software, Clientul nu percepe nicio taxă.
+
+i.	Licența de server: Clientul poate instala și utiliza Produsul software pe un computer server. Licențele de server pot fi reglementate prin prevederi privind numărul limitat de nuclee de server sau distribuirea pe mai multe servere, conform Documentelor de comandă sau Documentației. Dacă descrierea Produsului software prevede utilizarea în caz de nereușită, fiecare Licență de server include o Licență pentru operații de reluare în caz de nereușită.
+j.	Licența pentru utilizator unic: Clientul îi poate permite unui utilizator final unic autorizat să instaleze și să utilizeze Produsul software pe un singur computer. Clientul poate permite utilizatorului final unic autorizat să instaleze o a doua copie pentru a fi utilizată exclusiv de către acesta pe un al doilea computer, cu condiția ca o (1) singură copie a Produsului să fie utilizată la un moment dat. Niciun alt utilizator final nu va avea dreptul să utilizeze Produsul software în același timp sub aceeași licență, în niciun alt scop.
+k.	Licența de testare server: Clientul poate utiliza Produsul software în baza unei Licențe de server în următoarele scopuri: crearea și testarea Aplicațiilor cu valoare adăugată și a hărților în format cache, desfășurarea testării acceptării de către utilizator, testarea performanței, testarea încărcării altor produse software terțe, testarea noilor actualizări ale datelor comerciale și desfășurarea de activități de instruire, după cum este descris în Documentație. Clientul poate utiliza Aplicațiile cu valoare adăugată și hărțile în format cache cu Serverele de dezvoltare și distribuire.
+
+2.2 Utilizări permise
+
+a.	Clientul poate să realizeze următoarele activități:
+
+1.	să instaleze, să acceseze ori să păstreze Produsele software și Datele pe suporturi electronice de stocare;
+2.	să efectueze copii pentru arhivare şi copii de rezervă de rutină ale datelor din computer;
+3.	să instaleze și să utilizeze o versiune mai recentă a Produsului software simultan cu versiunea care urmează să fie înlocuită, pe durata unei perioade rezonabile de tranziție care nu va depăși 6 luni, cu condiția ca distribuirea fiecărei versiuni să nu depășească numărul pentru care Clientul are licență; prin urmare, Clientul nu va utiliza, per total, mai multe Produse software decât numărul total de licențe ale Clientului. Această prevedere nu se aplică pentru Produsele software cu licență de utilizare pentru dezvoltare;
+4.	să mute Produsele software în configurația pentru care are licență pe un computer înlocuitor;
+5.	să distribuie unor terțe părți Produsele software și Codurile de autorizare asociate necesare pentru utilizarea unei Licențe de distribuire și
+6.	să folosească Produsele pentru Utilizarea comercială de către un furnizor de servicii de aplicații (ASP), în cazul în care Clientul a achiziționat o licență pentru Utilizare comercială ASP sau este o organizație guvernamentală ori non-profit care administrează un site web sau care oferă un serviciu prin internet cu recuperarea costurilor și nu pentru profit.
+
+b.	Clientul poate personaliza Produsul software utilizând un limbaj de script sau macro, o interfață de programare a aplicației (API) sau biblioteci de coduri obiect sau sursă, dar numai în măsura în care personalizarea este descrisă în Documentație.
+c.	Clientul poate folosi toate fonturile furnizate de Produsul software pentru orice utilizare autorizată a acestuia. De asemenea, Clientul poate utiliza fonturile Esri în mod separat pentru a imprima orice document creat prin intermediul Produsului software. Restricțiile de utilizare a fonturilor terță parte din cadrul unui Produs software sunt stabilite în fișierul aferent fontului.
+d.	Actul adițional 1 prevede termenii de utilizare pentru Produsele software speciale. Periodic, Esri poate actualiza Actul adițional 1.
+
+2.3 Mentenanța. În cazul în care Clientul se află în Statele Unite ale Americii, Esri va furniza servicii de Mentenanță în conformitate cu Programul Esri de mentenanță și asistență. Clienții din afara Statelor Unite ale Americii pot obține mentenanță de la distribuitorul local Esri în conformitate cu termenii proprii distribuitorului.
+
+3.0 TERMENII DE UTILIZARE PENTRU ONLINE SERVICES
+
+3.1 Definiții. Definițiile următoare se adaugă la definițiile furnizate în Anexa A:
+
+a.	"Utilizatori anonimi" înseamnă toți utilizatorii care au acces public (adică nu trebuie să furnizeze credențialele de logare ale unui Utilizator desemnat) la orice parte a Conținutului Clientului sau a Aplicațiilor cu valoare adăugată. Clientul poate permite Utilizatorilor anonimi să acceseze Conținutul sau Aplicațiile sale cu valoare adăugată, prin publicarea acestora cu ajutorul Instrumentelor de partajare, incluse în utilizarea autorizată a Online Services.
+b.	"Credențialele de logare ale aplicației" înseamnă un cod de conectare al aplicației și parola asociată, generate de sistem, furnizate în urma înregistrării unei Aplicații cu valoare adăugată la ArcGIS Online; acestea pot fi încorporate într-o Aplicație cu valoare adăugată pentru a-i permite acesteia accesul la și utilizarea Online Services.
+c.	"Credit pentru servicii" înseamnă o unitate de schimb alocată împreună cu un abonament la Online Services, cu o valoare specificată în Documentul de comandă.
+d.	"Instrumente de partajare" înseamnă funcții de publicare incluse în Online Services și în site-ul web ArcGIS care permit Clientului să pună Conținutul Clientului și Aplicațiile cu valoare adăugată la dispoziția unor terțe părți și/sau la dispoziția Utilizatorilor anonimi.
+
+3.2 Abonamentul la Online Services. Esri oferă abonamente la Online Services în baza termenilor următori. Actul adițional 1 prevede termenii de utilizare speciali pentru Online Services.
+
+3.3 Furnizarea Online Services prin abonament. Pentru Online Services furnizate prin abonament, compania Esri
+
+a.	va furniza Clientului Online Services în conformitate cu Documentația;
+b.	în cazul în care Clientul se află în Statele Unite ale Americii, va furniza servicii de Mentenanță în conformitate cu Programul Esri de mentenanță și asistență. Clienții din afara Statelor Unite ale Americii pot obține mentenanță de la distribuitorul local Esri în conformitate cu termenii proprii distribuitorului.
+c.	va furniza servicii de asistență pentru clienți în conformitate cu politicile standard de asistență pentru clienți ale companiei Esri și servicii de asistență suplimentare pe care Clientul le poate achiziționa; și
+d.	va depune eforturile rezonabile din punct de vedere comercial pentru a se asigura că Online Services nu vor transmite Clientului niciun Cod rău intenționat, cu condiția ca Esri să nu fie responsabilă pentru introducerea Codului rău intenționat în Online Services prin abonamentul Clientului sau prin Conținutul unor terțe părți.
+
+3.4 Acces la Aplicațiile cu valoare adăugată
+
+a.	Utilizatorii desemnați au credențiale de logare unice și individuale. Utilizatorii desemnaţi au acces privat la caracteristicile Online Services care nu sunt accesibile public pentru Utilizatorii anonimi.
+b.	Clientul poate să utilizeze abonamentul la Online Services pentru a crea o Aplicație cu valoare adăugată pentru utilizare internă de către Utilizatorii desemnați.
+c.	Clientul poate să transfere Aplicațiile cu valoare adăugată către orice terță parte pentru a fi utilizate împreună cu abonamentul la Online Services al respectivei terțe părți.
+d.	Clientul nu va adăuga terțe părți ca Utilizatori desemnați la abonamentul său pentru Online Services cu scopul de a le permite să acceseze Aplicațiile sale cu valoare adăugată. Această restricție nu se aplică terțelor părți incluse în definiția Utilizatorilor desemnați.
+e.	Clientul nu va furniza niciunei terțe părți accesul la ArcGIS Online Services prin intermediul abonamentului său ArcGIS Online, cu excepția accesului prin intermediul Aplicațiilor cu valoare adăugată. Această restricție nu se aplică terțelor părți incluse în definiția Utilizatorilor desemnați.
+f.	Clientul le poate permite Utilizatorilor anonimi să acceseze Aplicațiile sale cu valoare adăugată care rulează în baza abonamentului Clientului, cu condiția respectării termenilor următori:
+
+1.	Clientul poate percepe taxe de acces în baza tipurilor de abonament care permit utilizarea în scopul generării de venituri.
+2.	Clientul poate încorpora Credențialele de logare ale aplicației într-o Aplicație cu valoare adăugată, însă nu poate încorpora Credențialele unui Utilizator desemnat.
+3.	Clientul va fi responsabil pentru toate Creditele pentru servicii consumate în cursul utilizării Aplicațiilor cu valoare adăugată de către Utilizatorii anonimi.
+4.	Clientului îi revine în exclusivitate responsabilitatea de a asigura asistența tehnică pentru Aplicațiile cu valoare adăugată.
+5.	Clientul nu poate permite Utilizatorilor anonimi să acceseze Aplicațiile cu valoare adăugată destinate numai utilizării interne de către Client; pentru Aplicațiile cu valoare adăugată folosite la nivel intern este nevoie de credențialele de logare ale Utilizatorilor desemnați.
+
+3.5 Responsabilitățile Clientului
+
+a.	Clientului îi revine în exclusivitate responsabilitatea față de dezvoltarea și exploatarea Conținutului Clientului și a Aplicațiilor cu valoare adăugată, precum și față de respectarea prevederilor acestui Contract de către Utilizatorii desemnați. Clientul și Utilizatorii desemnați ai Clientului sau Utilizatorii anonimi (dacă este cazul) sunt singurele persoane autorizate să acceseze Online Services prin abonamentul Clientului. Credențialele de logare ale Utilizatorilor desemnați sunt destinate doar Utilizatorilor desemnați și nu pot fi utilizate de alte persoane. Clientul poate atribui credențialele de logare ale foștilor Utilizatori desemnați către Utilizatori desemnați noi în cazul în care foștii utilizatori nu mai necesită acces la Online Services. Clientul va notifica imediat compania Esri dacă descoperă orice utilizare neautorizată a abonamentului Clientului sau orice altă încălcare a securității.
+b.	În cazul în care Clientul utilizează instrumente de dezvoltare a aplicațiilor care nu aparțin companiei Esri pentru a crea o aplicație care accesează Online Services ale Esri, acesta trebuie să includă un marcaj de recunoaștere a atribuirii, care să menționeze că aplicația sa utilizează Online Services furnizate de Esri. Instrucțiunile sunt furnizate în cadrul Documentației.
+
+3.6 Modificările Online Services. Esri poate modifica în orice moment Online Services și API-urile asociate, în baza unei notificări emise cu 30 de zile înainte de orice schimbare importantă și cu 90 de zile înainte în cazul reducerii serviciilor. Dacă modificarea, întreruperea sau reducerea Online Services provoacă un impact negativ important asupra activităților Clientului, Esri poate încerca, la alegerea sa, să repare, să corecteze sau să furnizeze o alternativă pentru Online Services. Dacă o soluție fiabilă nu este rezonabilă din punct de vedere comercial, Clientul poate anula abonamentul la Online Services, iar Esri va rambursa o sumă eșalonată proporțional.
+
+3.7 Modificările tarifelor pentru abonamente. Compania Esri poate să majoreze tarifele pentru abonamentele care au o durată mai mare de 1 lună, transmițând Clientului o notificare cu cel puțin 60 de zile înainte de expirarea duratei de abonament valabile la momentul respectiv. Esri poate majora tarifele pentru abonamentele lunare printr-o notificare prealabilă de 30 de zile.
+
+3.8 Conținutul Clientului
+
+a.	Proprietatea. Clientul deține toate drepturile, titlurile de proprietate și interesele referitoare la Conținutul Clientului. Prin prezentul document, Clientul acordă companiei Esri și furnizorilor sau licențiatorilor săi dreptul neexclusiv, netransferabil și valabil la nivel mondial de a găzdui, a executa și a reproduce Conținutul Clientului numai cu scopul de a-i permite să utilizeze Online Services. Fără permisiunea Clientului, compania Esri nu va accesa, nu va utiliza și nu va divulga Conținutul Clientului, decât după cum este necesar în mod rezonabil pentru a permite utilizarea de către Client a Online Services, pentru a răspunde la solicitările de asistență emise de Client, pentru a depana abonamentul Clientului ori în orice alt scop autorizat în scris de Client. În cazul în care Clientul accesează Online Services prin intermediul unei aplicații furnizate de o terță parte, compania Esri poate divulga Conținutul Clientului respectivei terțe părți, după cum este necesar pentru a permite interoperabilitatea între aplicații, Online Services și Conținutul Clientului. Compania Esri poate divulga Conținutul Clientului dacă acest lucru i se solicită prin lege, reglementare sau printr-un ordin judecătoresc ori emis de alt organ guvernamental, caz în care compania Esri va încerca în mod rezonabil să limiteze conținutul divulgat. Clientului îi revine în întregime responsabilitatea de a se asigura că are un Conținut adecvat pentru a fi utilizat împreună cu Online Services și de a menține copii de rezervă offline în mod regulat, cu ajutorul funcțiilor de export și descărcare ale Online Services.
+b.	Partajarea Conținutului Clientului. În cazul în care Clientul alege să partajeze Conținutul său prin Instrumentele de partajare, atunci acesta recunoaște că a permis terțelor părți să utilizeze, să stocheze, să aplice tehnologia cache, să copieze, să reproducă, să (re)distribuie și să (re)transmită Conținutul Clientului prin intermediul Online Services. Compania Esri nu își asumă răspunderea pentru pierderea, ștergerea, modificarea sau divulgarea Conținutului Clientului ca urmare a utilizării sau a utilizării incorecte a Instrumentelor de partajare sau a Online Services, a Conținutului Online, a site-ului web ArcGIS, Documentației sau a materialelor asociate. Clientul va utiliza Instrumentele de partajare doar pe propriul său risc.
+c.	Preluarea Conținutului Clientului la încetarea contractului. La încetarea Contractului de licență sau a oricărei perioade de încercare, de evaluare sau abonament, compania Esri va pune Conținutul Clientului la dispoziția Clientului pentru descărcare, pentru o perioadă de 30 de zile, cu excepția cazului în care Clientul solicită o perioadă de disponibilitate mai mică sau a cazului în care legea îi interzice acest lucru companiei Esri. Ulterior, dreptul Clientului de a accesa sau de a utiliza Conținutul Clientului împreună cu Online Services va înceta, iar compania Esri nu va mai avea nicio altă obligație de a stoca sau de a returna Conținutul Clientului.
+
+3.9 Limitele privind utilizarea Online Services; Creditele pentru servicii. Fiecare abonament la Online Services include Credite pentru servicii, conform descrierii din Documentul de comandă aplicabil. Fiecare Credit pentru servicii permite Clientului să utilizeze un volum stabilit de Online Services, cantitatea acestora variind în funcție de Online Services utilizate. Pe măsură ce Clientul consumă Online Services, Creditele pentru servicii sunt debitate automat din abonamentul Clientului, până se ajunge la numărul maxim disponibil de Credite pentru servicii. Clientul poate achiziționa Credite suplimentare pentru servicii, după cum este necesar. Compania Esri va notifica administratorul de cont responsabil pentru abonamentul Clientului atunci când consumul Serviciilor Clientului ajunge la aproximativ 75% din Creditele pentru servicii care îi sunt alocate Clientului prin abonament. Esri își rezervă dreptul de a suspenda accesul Clientului la Online Services care consumă Credite pentru servicii după ce Clientul a consumat toate Creditele pentru Servicii. Esri va restabili imediat accesul Clientului la Online Services după ce acesta a achiziționat Credite suplimentare pentru servicii.
+
+3.10 ArcGIS Enterprise cu Virtual Cloud Infrastructure. Clientul va furniza informații sau alte materiale cu privire la conținutul său (inclusiv copii ale oricărei aplicații de tip client), după cum i se solicită în mod rezonabil pentru verificarea conformității sale cu prezentul Contract. Esri poate monitoriza interfețele externe (de ex. porturile) ale conținutului Clientului pentru a verifica conformitatea acestuia cu prezentul Contract. Clientul nu va bloca și nu va interveni asupra unei astfel de monitorizări, însă Clientul poate utiliza tehnologii de criptare sau firewall-uri pentru a menține confidențialitatea Conținutului său. Clientul va coopera în mod rezonabil cu Esri pentru a identifica sursa oricărei probleme cu serviciile ArcGIS Enterprise cu Virtual Cloud Infrastructure ce poate fi atribuită în mod rezonabil Conținutului Clientului sau materialelor pentru utilizatorii finali pe care le controlează Clientul.
+
+4.0 TERMENII DE UTILIZARE A DATELOR
+
+4.1 Definiții. Definițiile următoare se adaugă la definițiile furnizate în Anexa A:
+
+a.	"Date de business" înseamnă informațiile referitoare la business, segmente demografice și logistică care îmbunătățesc procesul de luare a deciziilor, optimizează procesele interne, cresc eficiența operațională, generează noi venituri și aduc un avantaj competitiv asupra concurenței.
+b.	"Pachetul cu conținut Esri"este un fișier digital cu conținutul hărților de bază ArcGIS Online (de ex., sectoare de hartă de tip raster, imagini, date vectoriale) extras din serviciile ArcGIS Online Basemap.
+c.	"Date despre străzi" înseamnă Datele care includ sau descriu informații referitoare la drumuri, străzi și funcțiile asociate.
+
+4.2 Utilizări permise
+
+a.	Clientul poate utiliza doar Datele referitoare la Produsele cu care Esri a furnizat Datele.
+b.	Clientul poate să includă reprezentări de Date pe suport imprimat sau în format electronic static (de exemplu, PDF, GIF, JPEG) în pachete de prezentare, studii de marketing sau alte rapoarte ori documente care conțin imaginile hărților sau rezumatele datelor derivate din utilizarea Produselor Esri și să le furnizeze unor terțe părți, conform restricțiilor prevăzute în acest Contract de licență, cu condiția ca Clientul să atașeze la reprezentările de Date o declarație de atribuire care să menționeze că Esri și/sau licențiatorii săi aplicabili sunt sursa porțiunilor de Date utilizate pentru reprezentările de Date.
+c.	Clientul poate prelua offline hărțile de bază ArcGIS Online prin Pachetele cu conținut Esri și apoi le poate furniza (transfera) către orice dispozitiv pentru utilizare exclusiv cu aplicațiile ArcGIS Runtime, ArcGIS Desktop și ArcGIS API for Flex.
+d.	În baza acestui Contract, Esri nu beneficiază de niciun drept asupra datelor Clientului.
+
+4.3 Restricțiile privind utilizarea
+
+a.	Clientul nu poate acționa direct și nu poate autoriza clienții să prezinte Datele drept cobranding, să utilizeze Datele cu orice serviciu sau produs neautorizat sau să ofere Datele prin sau în numele oricărei părți terțe.
+b.	Clientul nu poate să utilizeze ori să permită unor terțe părți să utilizeze Datele pentru compilarea, îmbunătățirea, verificarea, suplimentarea, adăugarea la sau ștergerea dintr-o compilație de informații care este vândută, închiriată, publicată, trimisă sau furnizată în orice mod către o terță parte.
+c.	Datele de business. Dacă nu are autorizație scrisă, Clientul nu poate folosi Datele de Business în scopuri directe de marketing, pentru publicare spre revânzare sau pentru distribuire către terțe părți ca parte a unei liste de corespondență, a unui director, a datelor de publicitate confidențiale sau a altei compilații de informații.
+d.	Datele despre străzi. Clientul nu poate utiliza Datele despre străzi în scopuri de cartografiere, geocodificare și trasare de rute. Dacă nu are autorizație scrisă care să prevadă altceva, Clientul nu poate utiliza Datele despre străzi pentru niciuna dintre activitățile următoare:
+
+1.	îndrumare în timp real pentru navigare, prin alertarea utilizatorului cu privire la efectuarea manevrelor viitoare, cum ar fi avertizările privind un viraj viitor sau calcularea unei rute alternative dacă se ratează un viraj;
+2.	trasarea unor rute sincronizate pentru mai multe vehicule sau
+3.	optimizarea rutelor.
+
+e.	Datele Business Analyst. Datele furnizate cu Business Analyst de la Esri (Server, Desktop) se supun următorilor termeni de utilizare suplimentari:
+
+1.	În cazul în care Clientul comandă o licență pentru produsul software Business Analyst de la Esri sau Business Analyst (Canadian Edition), cu un subset al setului național de date (adică, date regionale, statale, locale), Clientul poate să utilizeze doar subsetul cu licență și nicio altă parte din setul național de date.
+2.	Datele furnizate cu Business Analyst Server nu pot fi cache-uite sau descărcate utilizând aplicațiile și dispozitivele client.
+
+4.4 Termeni și condiții suplimentare referitoare la Date. Anumiți licențiatori de Date solicită companiei Esri să trimită Clientului cerințe de atribuire și termeni de utilizare suplimentari. Acești termeni sunt disponibili pe http://www.esri.com/legal
+/third-party-data.
+ANEXA A
+GLOSAR DE TERMENI
+
+Următorul glosar de termeni se aplică tuturor Ofertelor și Serviciilor Esri pe care compania Esri le poate pune la dispoziția clienților săi. Este posibil ca anumite Oferte sau Servicii Esri să nu fie incluse în obiectul acestui Contract. Nu luați în considerare termenii care nu se aplică Ofertelor sau Serviciilor Esri furnizate în baza acestui Contract.
+
+"API" înseamnă interfața de programare a aplicației.
+
+"Site web ArcGIS" înseamnă http://www.arcgis.com sau orice site web asociat sau succesor.
+
+"Cod de autorizare" înseamnă orice cheie, număr de autorizare, cod de permisiune, credențiale de conectare, cod de activare, simbol, nume și parolă ale utilizatorului sau alt mecanism necesar pentru utilizarea Ofertei Esri.
+
+"Beta" înseamnă orice versiune alfa, beta sau altă versiune de prelansare a unui Produs.
+
+"Servicii în cloud" înseamnă Online Services și EMCS.
+
+"Utilizare comercială de către un furnizor de servicii de aplicații (ASP)" înseamnă utilizarea în calitate de furnizor de servicii de aplicații comerciale, adică, generarea de venituri prin furnizarea de acces la un Produs software sau prin intermediul unei Aplicații cu valoare adăugată, de exemplu, prin perceperea unei taxe de abonament, de serviciu sau de tranzacție sau prin obținerea mai mult decât a unor venituri ocazionale din publicitate.
+
+"Conținut" înseamnă date, imagini, fotografii, animații, videoclipuri, fișiere audio, texte, hărți, baze de date, modele de date, foi de calcul, interfețe utilizator, componente grafice, pictograme, aplicații software, kituri de dezvoltare de software (SDK-uri), API-uri, biblioteci de software, eșantioane de cod și alte resurse.
+
+"Control" înseamnă deținerea a peste 50% din voturi sau alte drepturi de vot asupra Entității controlate.
+
+"Conținutul Clientului" înseamnă orice Conținut pe care Clientul, un Utilizator desemnat al acestuia sau orice alt utilizator îl transmite companiei Esri pentru utilizarea de către Client a Online Services, a oricăror rezultate derivate din utilizarea Conținutului Clientului cu Online Services și a oricăror Aplicații cu valoare adăugată pe care Clientul le creează și le distribuie cu Online Services. Conținutul Clientului exclude orice feedback, sugestii sau solicitări privind îmbunătățirea pe care Clientul le furnizează companiei Esri.
+
+"Date" înseamnă orice seturi de date digitale disponibile pe piață, incluzând, fără limitare la, date vectoriale geografice, rapoarte cu date de tip raster sau atribute tabelare asociate, pe care Esri le livrează ca pachet împreună cu alte Oferte Esri sau în mod independent. Datele exclud Conținutul pe care alte persoane decât angajații, furnizorii sau contractorii Esri le introduc direct pe site-ul web Esri.
+
+"Livrabile" înseamnă tot ceea ce Esri furnizează Clientului ca urmare a executării altor Servicii profesionale decât Produsele, Instruirea sau Mentenanța. Livrabilele pot include, fără a se limita la, servicii de consultanță, cod software, biblioteci de legături dinamice (DLL) și programe furnizate pe orice suport media în formate de cod sursă, obiect sau executabil, inclusiv copii de rezervă, actualizări sau copii fuzionate, metode, tehnici sau know-how, asistență tehnică, procese, formule sau algoritmi, proiecte, dicționare de date și modele, compilații, scheme, documentație, specificații, desene, scheme logice, informări, teste sau proceduri de control al calității.
+
+"Documentație" înseamnă toate documentațiile furnizate împreună cu Produsul, pentru consultare de către utilizatori.
+
+"Servicii în cloud gestionate de Esri" sau "EMCS" înseamnă o platformă de hardware, Produse software, Date și rețele a unei singure entități găzduite și serviciile de monitorizare și asistență pentru sistem furnizate de Esri pentru a găzdui și a pune Conținutul Clientului la dispoziția Clientului sau a utilizatorilor finali ai acestuia prin internet.
+
+"Ofertele Esri" înseamnă orice Produse, servicii de Mentenanță sau Documentație. Dacă Esri furnizează Clientului Servicii de instruire sau Servicii profesionale în mod direct, atunci Ofertele Esri vor include Materiale de instruire și Livrabile.
+
+"GIS" înseamnă sistemele de informații geografice.
+
+"Mentenanță" înseamnă un program de abonament prin care Clientul primește actualizări de Produse și alte beneficii, cum ar fi accesul la asistența tehnică și accesul la resursele de învățare în ritm propriu prin web.
+
+"Cod rău intenționat" înseamnă viruși software, viermi, bombe cu ceas, cai troieni sau alt cod de computer, fișiere, atacuri de tip refuz-serviciu ori programe menite să întrerupă, să distrugă ori să limiteze funcționalitatea produselor software, componentelor hardware sau a echipamentelor de telecomunicații de pe computer.
+
+"Utilizator desemnat" înseamnă angajatul, agentul, consultantul sau contractantul căruia Clientul i-a alocat credențiale de logare (date de identitate) unice, personale și securizate, care permit accesul la un Produs care necesită astfel de date de identitate pentru a activa accesul la opțiunile bazate pe datele de identitate din cadrul unui Produs, în beneficiul exclusiv al Clientului. În cazul utilizării în scopuri educaționale, Utilizatorii desemnați pot include studenți înregistrați.
+
+"Credențiale de logare pentru Utilizatorul desemnat" înseamnă datele de conectare și parola unei persoane, prin care persoana respectivă poate accesa și utiliza Produsele.
+
+"Licența sau abonamentul unui Utilizator desemnat" înseamnă licența sau abonamentul utilizat de un singur Utilizator desemnat.
+
+"Conținut online" înseamnă Conținutul găzduit sau furnizat de compania Esri în cadrul Online Services, inclusiv serviciile de cartografiere, serviciile pentru activități, serviciile de imagistică, kiturile SDK, API-urile, bibliotecile de software, mostrele de cod și alte resurse, dar nu înseamnă Conținutul furnizat de terțe părți pe care Clientul îl accesează prin Online Services.
+
+"Online Services" înseamnă orice sistem geospațial disponibil pe piață, bazat pe internet, inclusiv aplicațiile și API-urile asociate pentru stocarea, gestionarea, publicarea și folosirea hărților, datelor și a altor informații. Online Services exclud Datele și Conținutul.
+
+"Document de comandă" înseamnă o ofertă de vânzare, o ofertă de reînnoire a contractului de Mentenanță, o comandă de achiziționare, o propunere sau un alt document care menționează Produsele ori Serviciile pe care Clientul le-a comandat.
+
+"Licența perpetuă" înseamnă o licență pentru utilizarea pe termen nelimitat a unei versiuni a Produsului pentru care au fost plătite costurile de licență aplicabile, cu excepția întreruperii utilizării de către Esri sau Deținătorul de licență, conform acestui Contract.
+
+"Utilizare în scop personal" înseamnă utilizarea personală, necomercială de către un Client individual. Utilizarea în scop personal exclude utilizarea în beneficiul oricărei terțe părți, inclusiv al unor entități comerciale, de învățământ, guvernamentale sau non-profit.
+
+"Produse" înseamnă Produsele software, Datele și Serviciile în cloud pentru care se obțin licențe sau abonamente conform termenilor prezentului Contract.
+
+"Servicii profesionale" înseamnă servicii de dezvoltare sau consultanță pe care Esri le furnizează Clientului.
+
+"Eșantioane" înseamnă fragmente de cod eșantion, aplicații eșantion, programe de consultare sau extensii eșantion ale Produselor.
+
+"Servicii" înseamnă asistența tehnică acordată în baza contractului de Întreținere. Dacă Esri furnizează Clientului Servicii de instruire sau Servicii profesionale în mod direct, atunci Serviciile vor include Servicii de instruire și Servicii profesionale.
+
+"Produs software" înseamnă toate sau o parte din produsele software autonome comerciale, excluzând Datele, deținute de compania Esri, accesate sau descărcate de pe un site web autorizat de Esri sau furnizate pe orice suport media, în orice format, incluzând copii de rezervă, actualizări, pachete Service Pack, corecții, remedieri rapide sau copii combinate permise.
+
+"Licență cu durată limitată" înseamnă o licență sau accesul furnizat pentru utilizarea unui Produs pe o perioadă limitată de timp ("Durata") sau pe bază de abonament ori tranzacție.
+
+"Instruire" înseamnă serviciile de instruire sau pregătire conduse de un instructor, furnizate în vederea utilizării Produsului software GIS oferit de Esri.
+
+"Materiale de instruire" înseamnă conținutul digital sau imprimat necesar pentru a finaliza Instruirea, care poate include, fără a se limita la, caiete de lucru, date, concepte, exerciții și examene.
+
+"Aplicație cu valoare adăugată" înseamnă aplicațiile dezvoltate de Client pentru utilizare împreună cu utilizarea autorizată a oricărui Produs software, a oricăror Date sau Online Services.
+ ANEXA B
+TERMENI ȘI CONDIȚII GENERALE
+
+Următorii termeni și condiții se aplică tuturor Ofertelor și Serviciilor Esri pe care compania Esri le poate pune la dispoziția clienților săi. Este posibil ca anumite Oferte și Servicii Esri să nu fie disponibile în baza acestui Contract. Nu luați în considerare termenii care nu se aplică Ofertelor sau Serviciilor Esri furnizate în baza acestui Contract.
+
+ARTICOLUL 1 - RESTRICȚII GENERALE PRIVIND UTILIZAREA
+
+Cu excepția cazurilor pentru care a primit permisiunea expresă în cadrul acestui Contract, Clientului nu i se permite să efectueze următoarele:
+
+a.	să vândă, să închirieze, să dea în leasing, să sublicențieze, să distribuie, să împrumute, să partajeze cu limită de timp ori să atribuie Ofertele Esri;
+b.	să folosească Ofertele Esri pentru utilizarea comercială de către un furnizor de servicii de aplicații (ASP) sau pentru birouri;
+c.	să distribuie ori să acorde acces direct la Ofertele Esri unor terțe părți, în întregime sau parțial, inclusiv, dar fără limitare la, extensiile, componentele sau bibliotecile de legături dinamice (DLL-uri);
+d.	să distribuie Codurile de autorizare părţilor terţe;
+e.	să refacă programul sursă, să decompileze sau să dezasambleze Produsele sau Livrabilele furnizate în formă compilată;
+f.	să încerce să evite măsurile tehnologice care controlează accesarea sau utilizarea Ofertelor Esri;
+g.	să stocheze, să cache-uiască, să utilizeze, să încarce, să distribuie ori să sublicențieze Conținutul ori să utilizeze în alt mod Ofertele Esri, încălcând drepturile companiei Esri sau ale părților terțe, inclusiv drepturile privind proprietatea intelectuală, drepturile privind confidențialitatea, legile privind nediscriminarea sau orice alte legi ori reglementări aplicabile;
+h.	să îndepărteze ori să ascundă notificările referitoare la drepturile companiei Esri (sau ale licențiatorilor săi) privind brevetele, drepturile de autor, mărcile comerciale ori proprietatea sa și/sau legendele incluse în ori atașate la Ofertele Esri, rezultatele, fișierele de metadate ori pagina de atribuire a acestor drepturi, furnizată online și/sau pe suport imprimat, pentru Date ori Documentație;
+i.	să separe sau să utilizeze independent părți separate ori componente ale Ofertelor Esri;
+j.	să încorporeze orice parte a Ofertelor Esri într-un produs sau serviciu care face concurență cu Ofertele Esri;
+k.	să publice sau să comunice în orice alt mod rezultatele testelor de evaluare desfășurate pe Produsele beta fără permisiunea scrisă prealabilă din partea companiei Esri ori a licențiatorilor săi ori
+l.	să utilizeze, să încorporeze, să modifice, să distribuie, să asigure accesul la sau să combine Ofertele Esri într-un mod prin care orice parte a acestora ar intra sub incidența termenilor licenței pentru open source sau open database, prin care se solicită ca orice parte a Ofertelor Esri:
+
+1.	să fie divulgată sub formă de cod sursă către terțe părți;
+2.	să fie acordată sub licență unor terțe părți în scopul realizării de lucrări derivate sau
+3.	să fie redistribuită gratuit unor terțe părți.
+
+Aceste restricții nu se vor aplica în măsura în care intră în conflict cu legea sau reglementările aplicabile.
+
+ARTICOLUL 2 - DURATA ȘI ÎNCETAREA CONTRACTULUI
+
+Prezentul Contract intră în vigoare după acceptare. Clientul are dreptul să înceteze prezentul Contract sau orice licență ori abonament pentru Ofertele Esri în orice moment, după trimiterea unei notificări scrise către Esri. Încetarea fără temei nu îi dă Clientului dreptul de a primi înapoi sumele aferente taxelor plătite sau de a înceta contractele de Servicii existente fără a atrage răspunderi ulterioare. Fiecare parte poate să înceteze prezentul Contract sau orice licență ori abonament în baza unei încălcări contractuale grave care nu este remediată în 30 de zile de la notificarea scrisă a părții în culpă. În cazul încetării prezentului Contract din cauza unei încălcări contractuale, Esri va înceta furnizarea Serviciilor. Orice licență asupra Ofertelor Esri care va rămâne în vigoare după încetarea acestui Contract va continua să se afle sub incidența termenilor Contractului.
+
+Dacă Esri încetează acest Contract ca urmare a încălcării contractuale de către Client, atunci Esri, la libera sa alegere, poate înceta licențele sau abonamentele Clientului pentru Ofertele Esri. În cazul în care Clientul încetează acest Contract în baza oricărui temei, atunci Clientul, la libera sa alegere, poate înceta și licențele sau abonamentele Clientului pentru Ofertele Esri.
+
+La încetarea unei licențe sau a unui abonament, Clientul va efectua următoarele:
+
+a.	va întrerupe accesul și utilizarea Ofertelor Esri afectate;
+b.	(va goli orice memorie cache de date ale clientului derivate din serviciile Online Services care au fost încetate și
+c.	va înceta utilizarea, va dezinstala, va înlătura și va distruge toate copiile Ofertelor Esri afectate aflate în posesia sau controlul Clientului, inclusiv părțile modificate sau combinate sub orice formă și va întocmi și va transmite dovezile acestor acțiuni companiei Esri sau distribuitorului său autorizat.
+
+Esri poate înceta furnizarea Serviciilor imediat după trimiterea către Client a unei notificări scrise în cazul în care se inițiază o procedură de declarare a falimentului sau a insolvenței de către Client sau împotriva acestuia, până când administratorul remediază problemele existente și oferă o asigurare adecvată privind performanța în baza Contractului. Prezentul Contract va înceta în caz de insolvență, lichidare sau dizolvare a oricăreia dintre părți.
+
+ARTICOLUL 3 - GARANȚIILE LIMITATE ȘI EXONERĂRILE DE RĂSPUNDERE
+
+3.1 Garanții limitate. Esri garantează:
+
+a.	Pentru o perioadă de 90 de zile,
+
+1.	Produsele software vor fi în mod substanțial conforme cu Documentația, în condiții normale de utilizare, și toate suporturile nu vor avea defecte de materiale și de manoperă începând cu data de livrare;
+2.	materialele de instruire vor fi în mod substanțial conforme cu descrierile cursurilor publicate de Esri, începând cu data de livrare;
+3.	Serviciile vor fi în mod substanțial conforme cu standardele profesionale și tehnice existente în industria produselor software, cu începere de la data funcționării și
+4.	Livrabilele furnizate pe bază de preț fix vor fi în mod substanțial conforme cu specificațiile prevăzute în Documentul de comandă convenit, cu începere de la data acceptării.
+
+b.	Pe durata de abonament aplicabilă,
+
+1.	Online Services vor fi în mod substanțial conforme cu Documentația, în condiții de utilizare normală;
+2.	serviciile de Mentenanță vor fi în mod substanțial conforme cu standardele profesionale și tehnice existente în industria produselor software și
+3.	EMCS va fi conform cu domeniul de activitate, descrierea și premisele pentru EMCS prevăzute în Documentul de comandă.
+
+3.2 Exonerare specială de răspundere. Conținutul, Datele, eșantioanele, remedierile rapide, corecțiile, actualizările, Online Services furnizate gratuit și produsele de evaluare și Produsele beta sunt livrate "ca atare", fără niciun fel de garanție.
+3.3 Exonerare generală de răspundere. Cu excepția garanțiilor limitate speciale prevăzute în acest Contract, compania Esri derogă orice alte garanții sau condiții de orice natură, speciale sau implicite, incluzând, fără limitare la, garanțiile sau condițiile de vandabilitate, de adecvare pentru un anumit scop și de neîncălcare a drepturilor de proprietate intelectuală. Compania Esri nu garantează că Ofertele Esri sau operarea acestora de către Client va fi continuă, fără erori, tolerantă la greșeli sau în siguranță în caz de avarie sau că toate neconformitățile pot fi sau vor fi corectate. Ofertele Esri nu sunt concepute, produse sau destinate pentru a fi utilizate în medii sau aplicații care pot conduce la deces, vătămare corporală sau daune materiale ori ecologice. Clientul nu trebuie să urmeze nicio sugestie de traseu de navigare care pare periculoasă, riscantă sau ilegală. Orice astfel de utilizare se va face pe propriul risc și pe propriile costuri ale Clientului.
+3.4 Exonerări de răspundere
+
+a.	Exonerare de răspundere privind internetul. Niciuna dintre părți nu va răspunde, în niciun cadru legal, pentru pagubele legate de performanța sau nefuncționarea Internetului sau legate de o reglementare privind Internetul care poate restricționa sau interzice operarea Online Services.
+b.	Conținutul și site-urile web ale terțelor părți. Compania Esri nu va fi responsabilă pentru site-ul web ori Conținutul unei terțe părți care apare în sau la care se face referire în Ofertele Esri și site-urile web Esri, inclusiv www.esri.com și www.arcgis.com. Furnizarea de linkuri la site-urile web și resursele unor terțe părți nu implică susținerea, afilierea sau sponsorizarea de niciun fel.
+
+3.5 Remedierea exclusivă. Măsurile reparatorii exclusive luate de Client și răspunderea completă a companiei Esri pentru încălcarea garanțiilor limitate prevăzute în această secțiune se vor limita, la alegerea companiei Esri, la: (i) a înlocui oricare dintre suporturile fizice defecte; (ii) a repara, a corecta sau a oferi soluții alternative pentru Ofertele sau Serviciile Esri ori (iii) a înapoia taxele plătite de Client pentru Ofertele sau Serviciile Esri care nu respectă garanțiile limitate oferite de Esri, cu condiția ca, în acest caz, Clientul să dezinstaleze, să elimine și să distrugă toate copiile Ofertelor Esri aplicabile, să întrerupă accesarea și utilizarea Serviciilor în cloud aplicabile și să întocmească și să transmită dovezi ale acestor acțiuni către compania Esri sau distribuitorul său autorizat.
+
+ARTICOLUL 4 - LIMITAREA RĂSPUNDERII
+
+4.1 Exonerarea de răspundere. Clientul, Esri, distribuitorul Esri sau licențiatorul Esri nu vor fi responsabili pentru niciun fel de daune indirecte, speciale, neprevăzute sau conexe, incluzând pierderile de profit, tranzacțiile pierdute sau pierderea fondului comercial, costurile pentru achiziționarea de bunuri ori servicii înlocuitoare sau daunele care depășesc taxele aplicabile de licență ori abonament plătite sau datorate companiei Esri pentru Ofertele Esri care au determinat acțiunea.
+
+4.2 Limitările și excepțiile privind răspunderea de la paragraful anterior nu se vor aplica în caz de încălcare a prevederilor, utilizare ilicită sau însușire ilegală de către Client a drepturilor de proprietate intelectuală ale Esri sau ale licențiatorilor Esri; de asemenea, nu se vor aplica pentru obligațiile de despăgubire aferente oricăreia dintre părți, în caz de neglijență gravă, conduită ilicită intenționată sau încălcare a clauzei privind Conformitatea la export din acest Contract sau a oricărei legi ori reglementări aplicabile.
+
+4.3 Aplicabilitatea limitărilor și a exonerărilor de răspundere. Esri sau distribuitorul său autorizat a stabilit tarifele și a încheiat prezentul Contract în baza exonerărilor de răspundere și a limitărilor prevăzute în acest Contract; tarifele reflectă o distribuire a riscului între cele două părți și constituie o bază esențială pentru negocierea între ele. Aceste limitări se vor aplica indiferent dacă o parte este conștientă sau nu de posibilitatea survenirii daunelor și în ciuda neatingerii scopului esențial în urma aplicării unei măsuri reparatorii exclusive, limitate.
+
+4.4 Este posibil ca garanțiile, limitările și excepțiile de mai sus să nu fie valabile în anumite jurisdicții și să se aplice doar în limita permisă de legea sau reglementarea în vigoare în jurisdicția Clientului. Clientul poate să beneficieze de drepturi suplimentare la care nu se renunță sau de la care nu se face derogare. Esri nu dorește să limiteze garanțiile sau măsurile reparatorii ale Clientului într-o măsură nepermisă de lege.
+
+ARTICOLUL 5 - DESPĂGUBIRILE
+
+5.1 Definiții. Definițiile următoare se adaugă la definițiile furnizate în Anexa A:
+
+a." Pretenție" înseamnă orice pretenție, acțiune sau solicitare efectuată de o terță parte.
+b." Părțile care au dreptul la despăgubiri" înseamnă Clientul și directorii, conducătorii și angajații săi.
+c." Pretenție de încălcare a prevederilor legale" înseamnă orice Pretenție conform căreia utilizarea sau accesarea de către Client a Ofertelor sau Serviciilor Esri încalcă un brevet, un drept de autor, o marcă comercială sau un secret comercial.
+d." Pierderi" înseamnă pierderile în numerar, deciziile de despăgubire, sumele compensatorii, costurile sau cheltuielile, inclusiv cheltuielile avocațiale stabilite.
+
+5.2 Despăgubirea în caz de încălcare a prevederilor legale
+
+a.	Esri va apăra și va exonera de răspundere toate Părțile care au dreptul la despăgubiri în cazul Pretențiilor de încălcare a prevederilor legale și va compensa pierderile rezultate în urma unei Pretenții de încălcare a prevederilor legale, conform prevederilor din paragrafele următoare.
+b.	Dacă Esri stabilește că o Pretenție de încălcare a prevederilor legale este validă, atunci, pe propria sa cheltuială, poate să întreprindă următoarele acțiuni: (i) să obțină drepturile pentru Client de a continua utilizarea Ofertelor Esri ori (ii) să modifice Ofertele Esri, menținând totodată o funcționalitate substanțial similară. Dacă niciuna dintre alternative nu este rezonabilă din punct de vedere comercial, Esri poate înceta dreptul Clientului de a utiliza Ofertele Esri și va returna (a) toate taxele de Servicii aplicabile; (b) toate taxele de licență pe care Clientul le-a plătit pentru Ofertele Esri ce încalcă prevederile legale și care au fost achiziționate în baza unei Licențe perpetue, prin eșalonare pe 5 ani pe bază de amortizare liniară, începând de la data inițială de furnizare, sau c) partea neutilizată a taxelor plătite pentru Licențele cu durată limitată, Abonamente și Mentenanță.
+c.	Compania Esri nu va avea nici o obligație de a apăra o Pretenție de încălcare a prevederilor legale sau de a despăgubi Clientul dacă Pretenția de încălcare a prevederilor legale a rezultat din (i) combinarea sau integrarea Ofertelor Esri cu un produs, proces, sistem sau element pe care Esri nu îl furnizează sau nu îl specifică în Documentația sa; (ii) modificarea substanțială a Ofertelor Esri de altcineva decât Esri sau subcontractanții săi; (iii) respectarea specificațiilor Clientului ori din (iii) utilizarea Ofertelor Esri după ce Esri a furnizat versiunea modificată pentru a preveni încălcarea prevederilor sau a încetat dreptul Clientului de a utiliza Ofertele Esri.
+
+5.3 Despăgubirile generale. Esri va apăra, va exonera de răspundere toate Părțile care au dreptul la despăgubiri și va despăgubi față de Pierderile rezultate din orice Pretenție de vătămare corporală, deces sau deteriorare a bunurilor (excluzând bazele de date care nu sunt prevăzute cu un program rezonabil de copiere de rezervă) adusă împotriva oricăreia dintre Părțile despăgubite, dacă acestea rezultă din orice act neglijent, omisiune sau conduită ilicită intenționată din partea Esri sau a directorilor, conducătorilor, angajaților sau reprezentanților săi care execută Serviciile la sediul Clientului.
+
+5.4 Condițiile de acordare a despăgubirilor. Condițiile de acordare a despăgubirilor sunt următoarele: Partea care are dreptul la despăgubiri (i) va notifica imediat compania Esri în scris cu privire la Pretenția respectivă, (ii) va furniza toate documentele disponibile pentru descrierea Pretenției, (iii) va acorda companiei Esri control unic asupra apărării în cazul acționărilor în justiție și negocierilor pentru stabilirea apărării sau înțelegerilor în cazul Pretențiilor de încălcare a prevederilor și (iv) va coopera în mod rezonabil pentru stabilirea apărării în cazul unei Pretenții de încălcare a prevederilor, la solicitarea companiei Esri și pe cheltuiala acesteia.
+
+5.5Această secțiune prevede toate obligațiile care revin companiei Esri, distribuitorului său autorizat și licențiatorilor săi cu privire la orice Pretenție.
+
+ARTICOLUL 6 - ASIGURAREA
+
+Dacă Esri furnizează Serviciile, Esri va încheia cel puțin următoarele asigurări:
+
+a.	Polița de asigurare generală sau polița de asigurare generală comercială, cu acoperire minimă de 1.000.000,00 USD, reprezentând limita combinată unică per eveniment în caz de vătămare corporală, inclusiv deces, și polița de asigurare pentru pagube materiale, care vor include următoarele:
+
+1.	sedii și operații;
+2.	răspunderea contractuală globală;
+3.	pagube materiale cuprinzătoare;
+4.	contractori independenți;
+5.	vătămare corporală, clauza privind excluderea angajaților fiind ștearsă, și
+6.	operații finalizate.
+
+b.	Asigurarea de accidente a angajaților, cu renunțare la dreptul de subrogare, într-o valoare care respectă limitele legale.
+
+ARTICOLUL 7 - SECURITATEA ȘI CONFORMITATEA
+
+7.1 Conformitatea la export. Fiecare parte va respecta toate legile şi reglementările referitoare la exporturi, inclusiv reglementările Ministerului Comerţului al S.U.A. privind gestionarea exporturilor (EAR - Export Administration Regulations), reglementările Ministerului de Externe al S.U.A privind traficul internaţional de arme (ITAR - International Traffic in Arms Regulations) şi celelalte legi aplicabile referitoare la exporturi. Clientul nu va exporta, reexporta, transfera, lansa sau elimina în orice alt mod Serviciile sau Ofertele Esri, în întregime sau parțial, sau nu va permite accesul, transferul ori utilizarea acestora în țările aflate sub embargo impus de Statele Unite ale Americii, către entitățile sau persoanele interzise, decât în conformitate cu legile și reglementările privind exporturile pe care guvernul S.U.A le aplică în momentul respectiv. Clientul nu va exporta, reexporta, transfera ori utiliza Serviciile sau Ofertele Esri pentru anumite rachete, activități ori utilizări finale nucleare, chimice sau biologice fără a avea autorizația corespunzătoare din partea guvernului S.U.A. Clientul va înștiința imediat Esri în scris dacă orice entitate de stat sau agenție a S.U.A contestă, suspendă sau revocă privilegiile sale cu privire la export. Clientul nu va încărca, stoca sau procesa în Serviciile în cloud Conținutul Clientului care (i) are alt număr de clasificare pentru controlul la export (ECCN) decât EAR99 sau (ii) este controlat pentru exportul din Statele Unite ale Americii în baza reglementărilor ITAR. Esri nu va presta Servicii și nu va furniza Ofertele Esri pentru articole de apărare, servicii de apărare sau date tehnice, conform definițiilor din Secțiunile 120.6, 120.9 și 120.10 din reglementările ITAR, până când nu a obținut de la guvernul S.U.A. toate licențele pentru export necesare. Clientul va asista în mod rezonabil compania Esri la solicitarea și obținerea unei licențe pentru export, dacă este nevoie.
+
+7.2 Securitatea. Esri publică funcțiile de securitate la http://doc.arcgis.com/en/trust/security/security-overview.htm. Clientul poate acorda companiei Esri acces la sistemele Clientului sau la informațiile cu caracter personal ale Clientului sau ale terțelor părți dacă accesul este esențial pentru prestarea Serviciilor de către Esri, iar Esri este de acord în mod expres cu acesta. Esri va utiliza măsuri de protecție administrative, tehnice și fizice rezonabile pentru a proteja aceste date față de accesarea neautorizată. Clientului îi revine responsabilitatea (i) de a confirma că măsurile luate de Esri pentru controlul securității și confidențialității îndeplinesc toate cerințele legale aplicabile pentru protejarea Conținutului Clientului și (ii) de a încărca și partaja Conținutul controlat al Clientului prin Serviciile în cloud doar dacă această procedură este legală. Esri nu are responsabilitatea de a examina Conținutul Clientului pentru a asigura conformitatea cu legile și reglementările aplicabile.
+
+ARTICOLUL 8 - ÎNTRERUPEREA, ANULAREA ȘI SUSPENDAREA SERVICIILOR ÎN CLOUD
+
+8.1 Utilizări interzise. Clientul nu are dreptul de a accesa sau de a utiliza Serviciile în cloud în scopurile următoare:
+
+a.	trimiterea de spam, e-mailuri înșelătoare sau de tip phish-ing, transmiterea de e-mailuri nedorite sau de materiale ofensatoare ori calomniatoare, urmărire sau emiterea unor amenințări de vătămare corporală;
+b.	stocarea sau transmiterea de cod rău intenționat;
+c.	încălcarea legilor sau reglementărilor;
+d.	încălcarea sau utilizarea ilicită a drepturilor terțelor părți;
+e.	analizarea, scanarea sau testarea vulnerabilității Serviciilor în cloud sau încălcarea măsurilor de securitate sau de autentificare folosite de Serviciile în cloud sau
+f.	testarea disponibilității, performanței sau funcționalității Serviciilor în cloud în scopuri competitive.
+
+8.2 Întreruperea Serviciilor. Erorile de sistem sau alte evenimente aflate în afara controlului rezonabil al Esri pot întrerupe accesul Clientului la Online Services. Este posibil ca Esri să nu poată trimite o notificare în prealabil prin care să anunțe astfel de întreruperi.
+
+8.3 Eliminarea Conținutului Clientului. Compania Esri poate să elimine sau să șteargă orice parte a Conținutului Clientului dacă există motive pentru a considera că încărcarea în sau utilizarea cu Serviciile în cloud încalcă prevederile prezentului Contract. Compania Esri va înștiința Clientul înainte de a elimina Conținutul Clientului, dacă acest lucru este posibil în condițiile date. Compania Esri va răspunde la orice notificări de eliminare transmise conform Digital Millennium Copyright Act (Legea privind drepturile de autor Digital Millennium), în conformitate cu Politica Esri privind drepturile de autor, disponibilă la http://www.esri.com
+/legal/dmca_policy.
+
+8.4 Suspendarea Serviciilor. Esri poate suspenda accesul la Serviciile în cloud (i) în cazul în care Clientul încalcă în mod substanțial prevederile acestui Contract și nu remediază situația; (ii) dacă Esri consideră că utilizarea de către client a Serviciilor în cloud va aduce compania Esri în situație de răspundere imediată sau va afecta negativ integritatea, funcționalitatea sau utilizarea Serviciilor în cloud; (iii) pentru a efectua lucrările de mentenanță planificate; (iv) pentru a opri o amenințare sau un atac asupra Serviciilor în cloud sau (v) dacă Serviciile în cloud sunt interzise prin lege sau reglementate într-un mod care îngreunează din punct de vedere comercial furnizarea acestora. Dacă este posibil, Esri va înștiința Clientul în prealabil cu privire la suspendarea Serviciilor în cloud și îi va acorda posibilitatea rezonabilă de a lua măsuri de remediere.
+
+Esri nu este responsabilă pentru daunele, obligațiile sau pierderile care pot apărea ca urmare a întreruperii ori suspendării Serviciilor în cloud sau ca urmare a eliminării Conținutului Clientului, conform descrierii de mai sus.
+
+ARTICOLUL 9 - PREVEDERI GENERALE
+
+9.1 Plata. Clientul va plăti fiecare factură corectă nu mai târziu de 30 de zile de la primire și va trimite plata la adresa specificată pe factură.
+
+9.2 Feedbackul. Esri poate utiliza gratuit orice feedback, sugestii sau solicitări privind îmbunătățirea Produselor pe care Clientul i le trimite.
+
+9.3 Brevetele. Clientul nu va încerca și nu va permite niciunui alt utilizator să încerce să obțină un brevet sau un alt drept similar la nivel mondial, bazat pe sau care să includă orice Produse. Această interzicere expresă legată de brevetare nu se va aplica pentru produsele software și tehnologia Clientului decât în măsura în care Produsele sau o porțiune a acestora fac parte dintr-o pretenție sau aplicare preferată, din cadrul unei solicitări de brevet sau al unei solicitări similare.
+
+9.4 Taxele și comisioanele; cheltuielile de expediere. Taxele ofertate Clientului exclud toate taxele sau comisioanele aplicabile inclusiv, dar fără a se limita la, impozitul pe vânzări, taxa de utilizare, taxa pe valoare adăugată (TVA), taxele vamale și alte taxe sau la tarifele și cheltuielile de expediere și manevrare.
+
+9.5 Examinarea conformității. Clientul va păstra registre și evidențe exacte și complete referitoare la conformitatea sa față de obligațiile prevăzute în acest Contract. Esri sau distribuitorul său autorizat poate examina conformitatea acestor registre și evidențe în urma unei notificări scrise trimise cu nu mai puțin de 7 zile lucrătoare în prealabil sau poate desemna o terță parte independentă care să desfășoare în numele său o astfel de examinare a conformității. Clientul va remedia imediat orice neconformitate identificată în cursul examinării conformității. Nici Esri, nici distribuitorul său nu vor putea să examineze conformitatea Clientului în interval de 12 luni de la încheierea examinării anterioare a conformității care nu a identificat nicio neconformitate gravă din partea Clientului.
+
+9.6 Fără renunţări implicite. Incapacitatea oricărei părți de a aplica orice prevedere a prezentului Contract nu va fi considerată o renunțare la prevederea respectivă sau la dreptul acelei părți de a impune ulterior prevederea respectivă sau orice altă prevedere.
+
+9.7 Separabilitatea. Părțile sunt de acord că, în cazul în care se consideră că orice prevedere a prezentului Contract nu poate fi aplicată, indiferent de motiv, prevederea respectivă va trebui reformulată doar în măsura necesară pentru a face aplicabilă intenția din textul respectiv.
+
+9.8 Succesorul şi cesionarii. Clientul nu își va cesiona, sublicenția sau transfera drepturile și nici nu va delega obligațiile asumate prin prezentul Contract, decât cu acordul prealabil, scris, al companiei Esri sau al distribuitorului său autorizat, iar orice încercare de a face acest lucru fără consimțământ va fi considerată nulă. Prezentul Contract va fi obligatoriu pentru succesorii și cesionarii părților semnatare ale Contractului. Fără a ține seama de acest lucru, un contractor guvernamental care are un contract cu guvernul pentru livrarea Produselor poate cesiona clientului său guvernamental prezentul Contract și Produsele achiziționate pentru livrare, prin notificare scrisă trimisă companiei Esri, cu condiția ca acest client guvernamental să accepte termenii din acest Contract.
+
+9.9 Valabilitatea clauzelor. Glosarul de termeni și prevederile Articolelor 3, 4, 5 și 9 din Termenii și condițiile generale vor continua să fie valabile după expirarea sau încetarea acestui Contract.
+
+9.10 Client guvernamental S.U.A. Produsele sunt articole comerciale, dezvoltate cu fonduri private, care sunt furnizate Clientului în baza prezentului Contract. În cazul în care Clientul este o entitate guvernamentală din S.U.A. sau un contractant guvernamental din S.U.A, Esri îi acordă licențe sau îi furnizează abonamente în conformitate cu prevederile acestui Contract, în baza subcapitolelor 12.211/12.212 din FAR (Federal Acquisition Regulation - Regulamentul federal privind achizițiile) sau în baza subcapitolului 227.7202 din DFARS (Defense Federal Acquisition Regulation Supplement - Suplimentul la Regulamentul federal al Departamentului de Apărare privind achizițiile). Datele și Online Services ce aparțin companiei Esri sunt licențiate sau acordate prin abonament în baza aceluiași subcapitol 227.7202 din DFARS ca produse software comerciale pentru computere pentru achizițiile efectuate în baza prevederilor DFARS. Produsele se supun restricțiilor, iar prezentul Contract guvernează în mod strict utilizarea, modificarea, executarea, reproducerea, lansarea, afișarea sau divulgarea Produselor de către Client. Nu se vor aplica prevederile referitoare la Contract care nu sunt consecvente cu legile sau reglementările federale. Un Client din S.U.A. poate să transfere Produsele software oricărei agenții către care sunt transferate computere pe care sunt instalate Produsele software respective. În cazul în care o instanță, un arbitru sau un consiliu hotărăște că un Client din S.U.A. deține mai multe drepturi asupra oricărei părți a Produselor în conformitate cu legea aplicabilă privind achizițiile publice, aceste drepturi se vor aplica doar părților în cauză.
+
+9.11 Legislația care guvernează. Acest Contract este reglementat de legea federală a S.U.A. și de legea Statului California, cu excluderea principiilor de alegere a legilor. Prezentul Contract nu va fi guvernat de Convenția Națiunilor Unite cu privire la Contractele pentru Vânzarea Internațională de Bunuri (United Nations Convention on Contracts for the International Sale of Goods).
+
+9.12Soluționarea disputelor. Părțile vor folosi următoarele procese de soluționare a disputelor:
+
+a.	Reparațiile echitabile. Fiecare parte va avea dreptul de a solicita o interdicție, o executare specifică sau alte reparații echitabile în orice instanță din jurisdicția competentă, fără a cere înregistrarea unei cauțiuni sau dovedirea pagubei ca o condiție pentru solicitarea reparațiilor.
+b.	Agențiile guvernamentale din S.U.A. Acest Contract este reglementat de Legea privind disputele contractuale (Contract Disputes Act) din 1978, în forma amendată (41 USC 601-613).
+c.	Alte entități guvernamentale. Esri va respecta soluțiile obligatorii ale disputelor, în conformitate cu legea aplicabilă.
+d.	Arbitrajul. Cu excepția prevederilor de mai sus, părțile se vor supune procedurii de arbitraj obligatoriu pentru a soluționa orice dispută rezultată din sau legată de acest Contract, care nu poate fi rezolvată prin negociere. În cazul în care Clientul se află în Statele Unite ale Americii sau într-unul dintre teritoriile sau regiunile sale îndepărtate, procedurile de arbitraj vor respecta Regulamentul de arbitraj comercial al Asociației Americane de Arbitraj. În cazul în care Clientul se află în afara Statelor Unite ale Americii, procedurile de arbitraj vor respecta Regulamentul de arbitraj al Camerei Internaționale de Comerț. Părțile vor selecta un singur arbitru în conformitate cu regulamentul de arbitraj aplicabil. Limba de arbitraj va fi engleza. Arbitrajul se va desfășura într-un loc ales de comun acord. Fiecare parte, la cererea celeilalte, va pune la dispoziție documente sau dovezi relevante pentru aspectele majore ale disputei.
+
+9.13 Forța majoră. O parte nu va fi responsabilă pentru neaplicarea sau întârzierea aplicării acestui Contract pe perioada cât neaplicarea sau întârzierea aplicării este determinată de cauze aflate în afara controlului rezonabil al părții respective. Aceste cauze pot include, dar nu se limitează la, calamități naturale, războaie, revolte, conflicte de muncă, atacuri cibernetice, legi, reglementări sau decrete de stat sau orice alt eveniment de forță majoră.
+
+9.14 Contractor independent. Esri este și va fi întotdeauna un contractor independent. Nicio prevedere din acest Contract nu creează relații angajator/angajat, director/agent sau asociere în participațiune între Esri sau distribuitorul său autorizat și Client. Nicio parte nu are autoritatea de a încheia contracte în numele altei părți sau de a acționa în orice mod în numele altei părți.
+
+9.15 Notificările. Clientul poate trimite notificările necesare în baza acestui Contract către Esri, la adresa următoare:
+
+Environmental Systems Research Institute, Inc.
+Attn: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+USA
+
+Tel.: 909-793-2853
+Email: LegalNotices@esri.com
+
+ACTUL ADIȚIONAL 1
+TERMENII DE UTILIZARE SPECIALI PENTRU PRODUSE
+(E300 09/22/2016)
+
+PRODUSELE SOFTWARE
+
+Tabelul următor include termenii de utilizare suplimentari care se aplică anumitor Produse software. Pentru fiecare Produs sunt incluse una sau mai multe note de subsol care se aplică Produsului respectiv. Aceste note de subsol se adaugă la termenii Contractului. Definițiile pentru fiecare notă de subsol se află în continuarea tabelului. Cu excepția cazului în care se prevede altceva în Documentul de comandă aplicabil, extensiile aplicate Produselor software respectă același domeniu de utilizare ca și cel valabil pentru Produsele software corespunzătoare.
+
+Produse pentru desktop
+▪	ArcGIS Desktop (Advanced, Standard sau Basic) (26)
+▪	ArcGIS Earth (65)
+▪	ArcGIS Explorer Desktop (20)
+▪	ArcGIS for AutoCAD (20)
+▪	ArcPad (13)
+▪	ArcReader (20)
+▪	ArcGIS for Windows Mobile (15; 54)
+▪	ArcGIS pentru utilizare în scop personal (3, 26)
+
+Produse pentru servere
+▪	ArcGIS Enterprise
+-	Standard sau Advanced (21; 31)
+-	Workgroup Standard sau Advanced (21; 28; 29; 30; 32)
+-	ArcGIS GIS Server (Standard sau Advanced) (31)
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server Workgroup (Standard sau Advanced) (28; 29; 30; 32)
+-	ArcGIS GIS Server Workgroup Basic (39)
+-	ArcGIS GIS Server Extension
+-	ArcGIS Maritime: Server (2)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4)
+▪	Esri Business Analyst Server
+-	Workgroup (28; 29; 30; 31; 39)
+-	Enterprise (31; 39)
+▪	World Geocoder for ArcGIS Basic (67)
+Instrumente pentru dezvoltatori
+▪	AppStudio for ArcGIS Standard (11, 16, 19)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt sau WPF (16; 19)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt sau WPF (15; 18)
+▪	ArcGIS Engine Developer Kit și Extensii (16, 19; 22, 26)
+▪	ArcGIS Engine pentru Windows/Linux și extensii (15; 22; 26)
+▪	ArcGIS Web Mapping (inclusiv ArcGIS API pentru JavaScript/HTML5, ArcGIS API pentru Flex, ArcGIS API pentru Microsoft Silverlight) (15; 16; 64; 66)
+▪	Abonamentul ArcGIS Developer (24; 26)
+▪	Esri File Geodatabase API (47)
+
+Altele
+▪	Navigator for ArcGIS (14)
+
+ Note de subsol:
+
+1.	Rezervat.
+2.	Nu se utilizează în 	navigație	.
+3.	Cu licență doar pentru utilizare în scop personal.
+4.	Când se utilizează cu ArcGIS Enterprise Workgroup
+-	Limitat la 1 server cu patru nuclee.
+-	Poate fi instalat pe un dispozitiv separat.
+	5-10.	Rezervat.
+11.	Aplicațiile dezvoltate cu AppStudio for ArcGIS Standard respectă termenii de utilizare pentru ArcGIS Runtime Standard Level.
+12.	Rezervat.
+13.	"Licență de utilizare duală" înseamnă că Produsul software poate fi instalat pe un computer desktop și poate fi utilizat simultan fie pe un PDA (personal digital assistant), fie pe un echipament mobil, atât timp cât Produsul software este utilizat de o singură persoană la un moment dat.
+14.	Poate fi folosit în navigație.
+15.	Licenţiat ca o Licenţă de distribuire.
+16.	Clientul poate utiliza produsele SDK sau API pentru a crea Aplicații cu valoare adăugată și pentru a distribui și a licenția aceste Aplicații cu valoare adăugată pentru utilizatorii finali, în scopul utilizării acestora în orice zonă nerestricționată de reglementările privind exportul.
+17.	Rezervat.
+18.	În cazul aplicațiilor autonome, Licența de distribuire se acordă per Aplicație cu valoare adăugată, per computer.
+19.	Licența nu poate fi utilizată pentru dezvoltarea de Aplicații cu valoare adăugată pentru internet sau servere.
+20.	Clientul	 poate reproduce și distribui Produsul software, cu condiția ca toate prevederile următoare să fie îndeplinite:
+
+a.	Produsul software este reprodus și distribuit în întregime;
+b.	Fiecare copie a Produsului software este însoțită de un contract de licență care protejează Produsul software în aceeași măsură ca și acest Contract de licență, iar destinatarul este de acord să respecte termenii și condițiile contractului de licență;
+c.	sunt reproduse toate atribuirile/notificările referitoare la drepturile de autor și marca comercială și
+d.	pentru utilizarea Produsului software nu se aplică niciun fel de impozite sau taxe.
+
+21.	Clientul poate să realizeze o Aplicație cu valoare adăugată care să fie utilizată de Utilizatorii săi desemnați. Clientul nu are dreptul să încorporeze credențialele de logare ale unui Utilizator desemnat în Aplicația cu valoare adăugată. Clientul nu are dreptul să încorporeze sau să utilizeze credențialele de logare ale aplicației în Aplicațiile cu valoare adăugată. Aplicațiile cu valoare adăugată necesită credențialele de logare ale Utilizatorului desemnat.
+22.	a.	Un utilizator final trebuie să obțină licență fie pentru Produsul software pentru ArcGIS Engine for Windows/Linux, fie pentru alt Produs software ArcGIS Desktop (Basic, Standard sau Advanced), în vederea obținerii dreptului de a executa o aplicație ArcGIS Engine pe 1 singur computer și
+b.	Extensiile pentru ArcGIS Engine for Windows/Linux nu vor fi utilizate în combinație cu Produsul software ArcGIS Desktop pentru a executa Aplicații cu valoare adăugată ArcGIS Engine. Un singur utilizator poate avea mai multe Aplicații cu valoare adăugată ArcGIS Engine instalate pe 1 singur computer, doar pentru utilizarea exclusivă de către utilizatorul final.
+23.	Rezervat.
+24.	Produsul software poate fi utilizat doar în scopuri de dezvoltare, testare și demonstrare a unei Aplicații cu valoare adăugată prototip și în scopuri de creare de hărți în format cache. Aplicațiile cu valoare adăugată și hărțile în format cache pot fi utilizate cu Serverele de testare și distribuire ArcGIS Enterprise. Produsele software și Datele pot fi instalate pe mai multe computere pentru a fi utilizate de orice abonat ArcGIS Developer cu abonament extins sau cu utilizare superioară; toate celelalte Produse software sunt licențiate cu Licența pentru utilizator unic.
+25.	Rezervat.
+26.	Baza de date geospațiale Personal Edition este limitată la 10 gigaocteți (gigabytes) de date ale Clientului.
+27.	Rezervat.
+28.	Utilizarea este limitată la 10 utilizatori finali simultani ai altor aplicații decât ArcGIS Enterprise Workgroup sau ArcGIS GIS Server Workgroup. Restricția include utilizarea Produsului software ArcGIS Desktop, a Produsului software ArcGIS Engine și a aplicațiilor terță parte care se conectează direct la orice bază de date geospațiale ArcGIS Enterprise Workgroup sau ArcGIS GIS Server Workgroup. Nu există limitări în ceea ce privește numărul conexiunilor de la aplicațiile web.
+29.	Produsul software necesită o versiune acceptată a SQL Server Express. Versiunile acceptate sunt listate împreună cu cerințele de sistem pentru produs pe site-ul web al companiei Esri.
+30.	Utilizarea este limitată la un total maxim de 10 gigaocteți (gigabytes) de date ale Clientului.
+31.	 	 Clientul poate avea instalări redundante ale Produselor software pentru servere Esri pentru operațiile de reluare în caz de n	ereușită, dar Produsele software redundante pot să funcționeze doar în perioadele când site-ul principal nu funcționează (nereușită activă-pasivă). Instalările redundante de Produse software vor rămâne inactive, cu excepția întreținerii sistemului și actualizării bazelor de date, în timp ce site-ul principal sau orice alt site redundant funcționează.
+32.	Nu se permite instalarea redundantă a Produsului software pentru operații de reluare în caz de nereușită.
+33-38.	Rezervat.
+39.	Nu se permite utilizarea niciunei funcționalități de editare incluse în ArcGIS GIS Server împreună cu ArcGIS GIS Server Basic (Workgroup sau Enterprise).
+40-46.	Rezervat.
+47.	Clientul are dreptul să dezvolte și să distribuie către utilizatorii săi finali Aplicații cu valoare adăugată care utilizează API-ul Esri File Geodatabase.
+48-53.	Rezervat.
+54.	Produsele software ArcGIS for Windows Mobile au licență pentru utilizarea cu Aplicațiile cu valoare adăugată ArcGIS Enterprise (Advanced sau Standard), ArcGIS Enterprise Workgroup (Advanced), ArcGIS Desktop (Advanced, Standard, Basic) și ArcGIS Engine.
+55-63.	Rezervat.
+64.	Aplicațiile cu valoare adăugată pentru implementarea pe web trebuie utilizate în asociere cu alte Produse Esri. Tehnologiile terțe pot fi, de asemenea, utilizate în asociere cu Aplicațiile cu valoare adăugată, atâta timp cât Aplicațiile cu valoare adăugată sunt utilizate în permanență în asociere cu alte Produse Esri.
+65.	Pot fi utilizate doar în asociere cu alte Produse Esri. Tehnologiile terțe pot fi, de asemenea, utilizate în asociere cu ArcGIS Earth, atâta timp cât ArcGIS Earth se utilizează întotdeauna în asociere cu alte Produse Esri.
+66.	Pentru aplicațiile desktop, fiecare licență se acordă per organizație. În scopul acestei licenţe, organizaţia este echivalentă cu un identificator unic de domeniu principal înregistrat. Domeniul este numele de domeniu de Internet înregistrat în registrul de denumiri de domenii. De exemplu, în "example.com", "example.com" este identificatorul unic de domeniu. De asemenea, în "example.com.xx", unde "xx" este codul înregistrat al țării, "example.com.xx" este identificatorul unic de domeniu înregistrat. Aplicațiile desktop pot fi utilizate de orice angajat al organizației cu identificatorul unic de domeniu principal înregistrat. Numărul de aplicații care pot fi elaborate și distribuite în cadrul unei organizații este nelimitat.
+67.	Limitat la 250.000.000 de geocodări pe durata abonamentului anual.
+ ONLINE SERVICES
+
+Tabelul următor include termenii de utilizare suplimentari care se aplică anumitor Online Services. Pentru fiecare Produs sunt incluse una sau mai multe note de subsol care se aplică Produsului respectiv. Definițiile pentru fiecare notă de subsol se află în continuarea tabelului. Cu excepția cazului în care se prevede altceva în Documentul de comandă aplicabil, extensiile aplicate Produselor software respectă același domeniu de utilizare ca și cel valabil pentru Produsele software corespunzătoare.
+
+▪	Abonamentele la ArcGIS Online sunt disponibile prin mai multe programe de vânzări:
+
+-	vânzare cu amănuntul, contracte EA, programe guvernamentale (1; 2; 3; ; 11; 12; 14; 20);
+-	programe educaționale (1; 2; 8; 10; 14; 19);
+-	 	 programe non-profi	t (1; 2; 8; 14; 19; 20);
+
+▪	Abonamentele la ArcGIS Online Developer Deployment sunt disponibile prin mai multe programe de vânzări:
+
+-	vânzare cu amănuntul, contracte EA, programe guvernamentale;
+	abonament gratuit (1; 8; 9; 10; 13; 19; 20);
+	abonament cu plată (1; 8; 9; 10; 11; 13; 20);
+-	programe educaționale, 	programe ONG	/NonProfit, programe de presă/media;
+	abonament gratuit (1; 3; 4; 5; 6; 9; 10; 13; 19);
+	abonament cu plată (1; 3; 4; 5; 6; 9; 10; 13; 19);
+-	programe ONG/NonProfit, programe de presă/media;
+	abonament gratuit (1; 3; 4; 5; 6; 9; 10; 13; 19, 20);
+	abonament cu plată (1; 3; 4; 5; 6; 9; 10; 13; 19; 20);
+
+▪	Public Plan (utilizatorii publici);
+-	 	 vân	zare cu amănuntul, contracte EA, programe guvernamentale; programe ONG/NonProfit, programe de presă/media (1; 4; 5; 6; 7; 9; 10; 15; 19; 20);
+-	programe educaționale (1; 4; 5; 6; 7; 9; 10; 15; 19).
+▪	Esri Business Analyst Online (16)
+▪	Esri Business Analyst Online Mobile (16)
+▪	Esri Community Analyst (16)
+▪	Esri MapStudio (17)
+
+ Note de subsol:
+
+1.	În plus față de termenii de utilizare comuni ai Online Services:
+
+a.	Clientul poate să utilizeze abonamentul la serviciile Online Services furnizate de Esri pentru a crea o Aplicație cu valoare adăugată pentru utilizarea internă de către Client.
+b.	Clientul poate, de asemenea, să asigure accesul unor terțe părți la Aplicațiile sale cu valoare adăugată, cu respectarea termenilor următori:
+
+i.	Clientul poate să permită Utilizatorilor anonimi să utilizeze Aplicațiile cu valoare adăugată.
+ii.	Clientul nu va adăuga terțe părți ca Utilizatori desemnați la abonamentul său pentru ArcGIS Online cu scopul de a le permite să acceseze Aplicațiile sale cu valoare adăugată. Această restricție nu se aplică terțelor părți incluse în definiția Utilizatorilor desemnați.
+iii.	Clientul nu va furniza niciunei terțe părți accesul la ArcGIS Online Services prin intermediul abonamentului său ArcGIS Online, cu excepția accesului prin intermediul Aplicațiilor cu valoare adăugată. Această restricție nu se aplică terțelor părți incluse în definiția Utilizatorilor desemnați.
+iv.	Clientului îi revine în exclusivitate responsabilitatea de a asigura asistența tehnică pentru Aplicațiile cu valoare adăugată.
+v.	Clientul nu poate îndepărta sau ascunde mărcile comerciale ori siglele care sunt în mod normal afișate prin utilizarea Online Services, fără permisiunea scrisă în acest sens. În cazul în care marcajul de utilizare a Online Services nu este afișat automat, Clientul trebuie să includă un marcaj de recunoaștere, care să menționeze că aplicația sa utilizează Online Services furnizate de Esri. Instrucțiunile sunt furnizate în cadrul Documentației.
+vi.	Clientul nu are dreptul să încorporeze credențialele de logare ale unui Utilizator desemnat în Aplicația cu valoare adăugată. Credențialele de logare ale aplicației pot fi încorporate doar în Aplicațiile cu valoare adăugată utilizate pentru a asigura acces public, anonim, la ArcGIS Online. Clientul nu are dreptul să încorporeze sau să utilizeze Credențialele de logare ale aplicației ArcGIS Online într-o Aplicație cu valoare adăugată în scopuri de utilizare internă. Aplicațiile cu valoare adăugată utilizate intern necesită datele de conectare ale Utilizatorilor desemnați.
+
+c.	Servicii mondiale de geocodare: Clientul nu poate stoca rezultatele geocodate generate de serviciu fără a avea un abonament ArcGIS Online.
+d.	Serviciul Infographics: Clientul poate să utilizeze datele disponibile prin acest serviciu doar pentru afișare. Clientului îi este interzis să salveze orice date disponibile prin acest serviciu.
+
+2.	Pot fi utilizate în orice scopuri în cadrul activității desfășurate de organizația Clientului.
+3.	Pot fi utilizate în orice scopuri de dezvoltare și testare pentru organizația Clientului.
+4.	Pot fi utilizate pentru învățare în cadrul organizațiilor de învățământ.
+5.	Pot fi utilizate în beneficiul organizației ONG/NonProfit a Clientului.
+6.	Pot fi utilizate în beneficiul organizațiilor de presă sau media.
+7.	Pot fi utilizate în scop personal.
+8.	Aplicațiile cu valoare adăugată ale abonatului vor fi publicate în regim de acces public.
+9.	Nu pot fi utilizate în beneficiul unei organizații care obține profit sau al unei organizații de guvernamentale.
+10.	Clientului nu i se permite să creeze grupuri private ori să participe la grupuri private.
+11.	Clientul poate să perceapă o taxă pentru Aplicațiile cu valoare adăugată puse la dispoziția unor terțe părți.
+12.	Clientul poate utiliza acest abonament pentru a crea sau a participa la grupuri private.
+13.	Fiecare abonament este limitat la 1.000.000 de Tranzacții de hartă și 1.000.000 de Tranzacții de căutare geografică pe lună prin abonamentul Clientului. Termenul "Tranzacție" este definit în Documentația disponibilă la centrul de resurse ArcGIS, la adresa http://links.esri.com/agol/transactiondef.
+14.	Fiecare abonament este limitat la un număr combinat de 50.000.000 de Tranzacții de hartă și de căutare geografică pe lună. Termenul "Tranzacție" este definit în Documentația disponibilă la centrul de resurse ArcGIS, la adresa http://links.esri.com/agol/transactiondef.
+15.	Pot permite studenților înregistrați din cadrul unei instituții de învățământ să acceseze direct Online Services și să partajeze un singur abonament între mai mulți studenți înregistrați, doar pentru utilizare în scopuri educaționale.
+16.	Clientul nu poate să afișeze sau să publice pe site-urile web externe nicio combinație de peste 100 de rapoarte și hărți Esri Business Analyst Online sau Community Analyst.
+17.	Clientul poate să creeze, să afișeze în mod public și să distribuie hărți pe suport imprimat sau în format electronic static în scopul raportării știrilor, sub rezerva restricțiilor pentru ArcGIS Online Data.
+18.	Rezervat.
+19.	Clientul nu poate să perceapă o taxă pentru Aplicațiile cu valoare adăugată puse la dispoziția unor terțe părți.
+20.	Clientului nu i se permite să fie licențiatorul pentru sau în numele unei terțe părți.
+

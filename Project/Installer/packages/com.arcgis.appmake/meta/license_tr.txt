@@ -1,0 +1,575 @@
+﻿ÖNEMLİ- DİKKATLİ OKUYUN
+(E204CW 09/22/2016)
+
+Siz ve Esri arasında yapılacak imzalı bir lisans anlaşması ile geçersiz kılınmadığı sürece, Esri, sadece işbu Lisans Anlaşması'nda bulunan tüm kayıt ve şartları kabul etmeniz halinde Esri Ürünleri'ni size sağlamayı kabul eder. Lütfen koşul ve şartları dikkatli bir şekilde okuyunuz. Anlaşma'nın şart ve koşullarını kabul etmeden Esri Ürünleri'ni kullanamazsınız. Belirtilen şart ve koşulları kabul etmiyorsanız, aşağıdaki "Lisans Anlaşması'nı kabul etmiyorum" kısmına tıklayın; bunun ardından ödediğiniz ücretlerin iadesini talep edebilirsiniz.
+
+Bu Anlaşma siz ("Müşteri") ve Environmental Systems Research Institute, Inc. (380 New York Street, Redlands, California 92373-8100 ABD adresinde mukim bir California şirketi olan "Esri" arasında geçerlidir.
+
+1.0 SAĞLANAN GENEL HAKLAR VE KISITLAMALAR
+
+1.1 Ek A bu Anlaşma'da büyük harf ile yazılan terimlerin tanımını içerir. Bu anlaşmanın her bölümü, o bölüm için özel olarak kullanılan ek tanımları içerebilir.
+
+1.2 Tanınan Haklar. Müşteri'nin ilgili tüm ücretleri ödemesi karşılığında ve bu Anlaşma uyarınca, Esri, Müşteri'ye kişisel, münhasır olmayan ve devredilemeyen bir hakla
+
+a.	Esri Ürünleri'ni, Kılavuz ve ilgili Sipariş Belgeleri'nde açıklanan şekilde kullanmayı;
+b.	Müşteri'nin yetkilendirilmiş Ürün kullanımı ile beraber Müşteri'nin dahili kullanımı için, Kılavuz'u kopyalamayı ve çoğaltmayı sağlar. Müşteri; Esri ve lisans verenlerinin mülkiyet haklarını gösteren aşağıdaki telif hakkı bildirimini, her türlü çoğaltma ve kopyalama işlemine ekleyecektir.
+
+"Bu belgenin bazı bölümleri, Esri ve lisans verenlerine ait fikri mülkiyetler içermektedir ve lisans altında kullanılmaktadır. Copyright (c) [Müşteri, buraya, kaynak materyallerden alınan gerçek telif hakkı tarihlerini ekleyecektir.] Esri ve lisans verenleri. Tüm hakları saklıdır."
+
+Bu bölümde tanınan haklar, (i) üyelik süresi boyunca veya kararlaştırılan Süre boyunca ya da Sipariş Formu'nda öngörülen veya belirtilen bir Süre yoksa süresiz olarak devam eder ve (ii) Ek B dahil olmak üzere bu anlaşmadaki ilave haklara ve kısıtlamalara tabidir.
+
+1.3 Danışman veya Yüklenici Erişimi. Müşteri, danışman veya yüklenicilerini, sadece Müşteri yararının gerektirdiği işler için Esri Ürünleri'ni kullanmak üzere yetkilendirebilir. Müşteri; danışman ve yüklenicilerinin bu Anlaşma'ya uymasından tek başına sorumludur ve tüm danışman ve yüklenicilerin, kendi için yapılan işin tamamlanmasının ardından Esri Ürünleri'ni kullanmayı bırakmalarını sağlayacaktır. Sadece Müşteri yararının gerektirdiği işler dışında, danışman veya yüklenicilerin Esri Ürünleri'ne erişimi ve bu ürünleri kullanmaları yasaktır.
+
+1.4 Değerlendirme ve Beta Lisansları. Değerlendirme lisansı veya üyelik veya Beta program şeklinde alınan Ürünler, yalnızca değerlendirme ve test amaçlıdır ve ticari kullanım için değildir. Bu tür kullanımda risk Müşteri'ye aittir ve Ürünler bakım kapsamında değerlendirilmez. Müşteri, değerlendirme süresi sona ermeden önce lisans alımına veya üyeliğe geçiş yapmaması durumunda, değerlendirme süresi içinde oluşturduğu tüm içerikleri ve yaptığı özelleştirmeleri kaybedebilir. Müşteri, lisans alımına veya üyeliğe geçiş yapmak istemiyorsa, oluşturduğu içerikleri, değerlendirme süresi sona ermeden önce dışarı aktarmalıdır.
+
+1.5 Eğitim Programları. Müşteri, bir eğitim programı çerçevesinde sunulan Esri Ürünleri'ni, sadece eğitim amacıyla ve sadece eğitim Süresi boyunca kullanmayı taahhüt eder. Müşteri, bir İdari Kullanım lisansı edinmedikçe, Ürünler'i İdari Kullanım amacıyla kullanmayacaktır. "İdari Kullanım"; varlık haritası, tesis yönetimi, demografik analiz, rota tayini, kampüs güvenliği ve erişilebilirlik analizi gibi yönerge veya eğitim ile doğrudan ilgisi bulunmayan idari faaliyetler anlamına gelmektedir. Müşteri, Ürünler'i, kazanç sağlama veya kâr elde etme amacıyla kullanamaz.
+
+1.6 Hibe Programları.Müşteri, bir hibe programı çerçevesinde sağlanan Ürünler'i, sadece ticari olmayan amaçlar için kullanabilir. Esri Ürünleri'nin kullanımına ve işletilmesine yönelik maliyeti kurtarma yöntemi dışında, Müşteri, Esri Ürünleri'ni kazanç sağlama veya kâr elde etme amacıyla kullanamaz.
+
+1.7 Diğer Esri Sınırlı Kullanım Programları.Müşteri'nin, Esri Ürünleri'ni, yukarıda listelenmeyen bir sınırlı kullanım programı kapsamında edinmesi durumunda, Müşteri'nin Esri Ürünleri kullanımı, işbu anlaşmanın çelişmeyen koşullarına ek olarak, ilgili lansman sayfasında veya kayıt formunda belirlenen veya Esri'nin web sitesinde açıklanan koşullara tabi olabilir.
+
+1.8 Hakların Korunması. Tüm Esri Ürünleri, Esri ve lisans verenlerinin telifli ürünleridir; bu anlaşmada özel olarak verilmeyen tüm haklar saklıdır.
+
+2.0 YAZILIM KULLANIM KOŞULLARI
+
+2.1 Lisans Türleri. Esri, Yazılım'ı, aşağıdaki lisans türlerine göre lisanslar:
+
+a.	Eş Zamanlı Kullanım Lisansı: Müşteri, Yazılım'ı bir ağ üzerindeki bilgisayar(lar)da kurabilir ve kullanabilir ancak eş zamanlı kullanıcı sayısı, satın alınan lisans sayısından fazla olamaz. Eşzamanlı Kullanım Lisansı, geçici üstlenme desteği için Eşzamanlı Kullanım Lisansı yönetim yazılımının pasif üstlenme örneklerini ayrı bir işletim sistemi ortamında çalıştırma hakkını içerir.
+b.	Dağıtım Lisansı: Müşteri, Katma Değerli Uygulamalar'daki ArcGIS Runtime bileşenlerini birleştirebilir ve Katma Değerli Uygulamalar'ı Müşteri'nin son kullanıcılarına dağıtabilir.
+c.	Dağıtım Sunucusu Lisansı: Müşteri, Yazılım'ı, Anlaşma'da izin verilen tüm kullanımlar için ve Kılavuz'da belirtildiği şekliyle Sunucu Lisansı ile kullanabilir.
+d.	Dağıtım Sunucusu Lisansı: Müşteri, Yazılım'ı, Kılavuz'da belirtildiği şekilde Katma Değerli Uygulamalar kurmak ve test etmek amacıyla Sunucu Lisansı ile kullanabilir.
+e.	Geliştirme Lisansı: Müşteri, Yazılım'ı, Kılavuz'da belirtildiği şekilde Katma Değerli Uygulamalar kurmak ve test etmek amacıyla Sunucu Lisansı ile yükleyip kullanabilir.
+f.	Çift Kullanım Lisansı: Müşteri, Yazılım'ı, masaüstü bilgisayara yükleyebilir ve bir seferde sadece tek bir şahıs tarafından kullanılması kaydıyla aynı zamanda bir kişisel dijital asistan (PDA) veya el bilgisayarı ile kullanabilir.
+g.	Üstlenme Lisansı: Müşteri, Yazılımı üstlenme işlemleri için yedek sistemlere kurabilir ancak fazladan kurulan Yazılım sadece birincil site çalışmıyorken çalışabilir. Yedek Yazılım kurulum(lar)ı, birincil site veya başka bir yedek site çalışırken, sistem bakımı ve veri tabanlarının güncellenmesi durumu hariç olmak üzere, hareketsiz kalacaktır.
+h.	Yeniden Dağıtma Lisansı: Müşteri, aşağıdakilerin sağlanmış olması kaydıyla Yazılımı çoğaltabilir ve dağıtabilir
+
+1.	Müşteri Yazılımı bir bütün olarak kopyalayacak ve dağıtacaktır;
+2.	Yazılımın her kopyasıyla birlikte Yazılımı aynen bu Lisans Anlaşmasında olduğu gibi koruyan bir lisans anlaşması olacak ve alıcı bu lisans anlaşmasının koşullarına ve hükümlerine bağlı kalmayı kabul edecektir;
+3.	Müşteri tüm telif hakkı ve ticari marka atıfları/bildirimleri çoğaltacak; ve
+4.	Müşteri, Yazılımın kullanılmasına yönelik diğer kişilerden herhangi bir ücret almayacaktır.
+
+i.	Server License: Müşteri, Yazılımı bir sunucu bilgisayarına kurabilir ve kullanabilir. Sunucu lisansları, sınırlı sayıda sunucu çekirdeklerine veya Sipariş Dokümanı ve Kılavuzda tarif edildiği üzere çoklu sunucular üzerinde yayılmış dağıtımlara tabi olabilir. Yazılım tanımı üstlenme kullanımını içeriyorsa her bir Sunucu Lisansı, Üstlenme Lisansı içerir.
+j.	Tek Kullanım Lisansı: Müşteri, Yazılımı tek bir bilgisayarda kurmak ve kullanmak için tek bir yetkili son kullanıcıya izin verebilir. Müşteri, tek seferde Yazılımın sadece 1 kopyası kullanıldığı müddetçe, yalnızca söz konusu son kullanıcı tarafından kullanılmak üzere ikinci bir bilgisayara ikinci bir kopya kurması için tek yetkili son kullanıcıya izin verebilir. Başka hiçbir son kullanıcı, söz konusu Yazılımı aynı lisans kapsamında aynı anda başka bir amaçla kullanamaz.
+k.	Kademelendirme Sunucusu Lisansı: Müşteri, Yazılımı Kılavuzda açıklandığı şekilde Katma Değerli Uygulamaların oluşturulması ve test edilmesi; kullanıcı kabulünün, performansın ve diğer üçüncü kişi yazılımı yükleme testinin yürütülmesi; yeni ticari veri güncellemelerinin kademelendirilmesi ve eğitim faaliyetlerini yürütülmesinin kurulması ve test edilmesi için Sunucu Lisansı altında kullanabilir. Müşteri Katma Değerli Uygulamaları ve harita önbelleklerini, Geliştirme ve Dağıtım Sunucuları ile kullanabilir.
+
+2.2 İzin Verilen Kullanımlar
+
+a.	Müşteri
+
+1.	Yazılımı ve Veriyi elektronik depolama cihazlarına kurabilir ve bunlardan erişim sağlayabilir ve bunlarda depolayabilir;
+2.	Arşiv kopyaları ve rutin bilgisayar yedeklemeleri yapabilirsiniz;
+3.	Her bir versiyonun dağıtımı lisanslanan miktarı geçmemek kaydıyla, altı (6) aydan fazla olmamak üzere makul bir geçiş dönemi boyunca yeni Yazılım sürümünü kurabilir ve değiştirilen sürümle aynı anda kullanabilir; böylelikle, Müşteri toplam lisanslanan miktardan daha fazla Yazılım kullanmamalıdır. Bu Geliştirme Kullanımı için lisanslanan Yazılıma uygulanmaz.
+4.	Yazılımı lisanslandırılan konfigürasyonda değiştirilen bilgisayara taşıyabilir; ve
+5.	Bir Dağıtım Lisansı'nın kullanılması için gereken Yazılımları ve tüm ilgili Yetkilendirme Kodlarını üçüncü kişilere dağıtabilir.
+6.	Müşteri'nin bir Ticari Uygulama Hizmet Sağlayıcısı aboneliği elde etmiş veya Müşteri bir web sitesini çalıştıran veya bir İnternet hizmetini yalnızca giderlerini karşılayacak şekilde ve kar amacı gütmeden sağlayan bir hükümet kurumu veya kar amacı gütmeyen bir kuruluş ise, Yazılımı Ticari UHS Kullanımı amacıyla kullanabilir.
+
+b.	Müşteri, makro veya komut dosyası dili, uygulama programlama arayüzü (API) veya kaynak ya da nesne kodu kütüphaneleri kullanarak, söz konusu kişiselleştirmenin yalnızca Kılavuz'da tarif edildiği biçimde olması şartıyla, Yazılımı kişiselleştirebilir.
+c.	Müşteri, Yazılım ile birlikte gönderilen tüm yazı tiplerini Yazılım'ın tüm izin verilen kullanımı kapsamında kullanılabilir. Müşteri, Yazılım kullanılarak oluşturulan her türlü çıktıyı yazdırmak için Esri yazı tiplerini ayrı ayrı da kullanılabilir. Yazılım'a dahil olan üçüncü şahıs yazı tipleri için her kullanım sınırlamaları yazı tipinin kendi dosyasında belirtilmiştir.
+d.	Ek 1 kişisel Yazılım için Ürün temelli kullanım şartlarını içerir. Esri zaman zaman Ek 1 için güncellemeler yayınlayabilir.
+
+2.3 Bakım. Esri, Müşteri ABD'de ise, Esri Bakım ve Destek Programı uyarınca Bakım sağlayacaktır. ABD dışındaki Müşteriler ise kendi yerel Esri dağıtıcısından dağıtıcının kendi koşulları altında Bakım temin edebilir.
+
+3.0 ÇEVRİMİÇİ HİZMETLER KULLANIMI
+
+3.1 Tanımlar. Aşağıdaki tanımlar Ek A içerisinde yer alan tanımlara ilavedir:
+
+a.	"Anonim Kullanıcılar" Müşteri İçeriğinin ve Katma Değerli Uygulamaların herhangi bir bölümüne genel girişe (örn. İsimli Kullanıcı Kartı sağlaması zorunlu olmayan) sahip olan herkes anlamına gelir. Müşteri, İçeriğine veya Katma Değerli Uygulamalara erişim sağlamak için, Müşteri'nin Çevrimiçi Hizmetleri yetkili kullanımı dahil olmak üzere Paylaşım Araçları'nı kullanarak yayınlaması ile Anonim Kullanıcıları devreye sokabilir.
+b.	"Uygulama Oturum Açma Kimlik Bilgisi", sistem tarafından oluşturulan bir uygulama oturumu ve bununla ilişkili şifre anlamına gelir, bir Katma Değerli Uygulamanın ArcGIS Online kaydının yapılmasıyla sağlanır, bu kayıt işlemiyle ArcGIS Online Katma Değerli Uygulama içine eklenir ve söz konusu uygulamanın Online Services'e erişerek bunları kullanmasını sağlar.
+c.	"Hizmet Kredi(ler)i", Sipariş Belgesinde belirtilen miktarda Online Services aboneliği ile birlikte sağlanan bir değişim birimidir.
+d.	"Paylaşım Araçları" Çevrimiçi Hizmetler ve ArcGIS Web Sitesine dahil olan Müşteri'nin, İçeriğini ve Katma Değerli Uygulamalarını üçüncü taraflara sunmasını sağlayan yayınlama özellikleri anlamına gelmektedir.
+
+3.2 Çevrimiçi Hizmetlere Abonelik. Esri, aşağıda belirtilen şartlar altında Çevrimiçi Hizmetleri abonelikleri sağlar. Ek 1 kişisel Çevrimiçi Hizmetler için de Ürün temelli kullanım şartlarını içerir.
+
+3.3 Abonelik Çevrimiçi Hizmetler Hükmü. Abonelik Online Services için Esri
+
+a.	Müşteri'ye, Dokümantasyona uygun olarak Çevrimiçi Hizmetler sağlayacaktır;
+b.	Müşteri ABD'de ise, Bakım ve Destek Programı uyarınca Bakım sağlayacaktır. ABD dışındaki Müşteriler ise Esri dağıtıcısından dağıtıcının kendi koşulları altında Bakım temin edebilir.
+c.	Esri'nin standart müşteri destek ilkelerine uygun müşteri desteğini ve Müşteri'nin satın alabileceği her türlü destek hizmetlerini sağlayacaktır; ve
+d.	Müşteri'nin aboneliği veya üçüncü taraf bir içerik üzerinden Çevrimiçi Hizmetlere eklenmiş Kötü Amaçlı Kod için Esri'nin herhangi bir sorumluluğu olmamak kaydıyla, Çevrimiçi Hizmetlerin Müşteri'nin herhangi bir Kötü Amaçlı Kod aktarmamasını sağlamak için ticari olarak makul tüm çabaları gösterecektir.
+
+3.4 Katma Değerli Uygulamalara Erişim
+
+a.	Belirli Kullanıcılar benzersiz, kişisel oturum açma bilgilerine sahiptir. Belirli Kullanıcıların Anonim Kullanıcılar tarafından halka açık olarak erişilebilir olmayan Online Services özelliklerine özel erişimi vardır.
+b.	Müşteri, Belirli Kullanıcıların iç kullanımı amacıyla bir Katma Değerli Uygulama oluşturmak için kendi Çevrimiçi Hizmetler aboneliğini kullanabilir.
+c.	Müşteri, Katma Değerli Uygulamalarını herhangi bir üçüncü kişiye, üçüncü kişilerin kendi Çevrimiçi Hizmetleri abonelikleri ile birlikte kullanım için devredebilir.
+d.	Müşteri, üçüncü tarafların Müşteri'nin Katma Değerli Uygulamalarına erişmesini sağlamak için bunları Müşteri'nin Çevrimiçi Hizmetler aboneliğine Belirli Kullanıcılar olarak ekleyemez. Bu kısıtlama, Belirli Kullanıcılar tanımında yer alan üçüncü taraflar için geçerli değildir.
+e.	Müşteri, üçüncü taraflara, Müşteri'nin Katma Değerli Uygulamaları dışında Müşteri'nin ArcGIS Online aboneliği üzerinden sağlanan ArcGIS Online Hizmetlerine erişim sağlayamaz. Bu kısıtlama, Belirli Kullanıcılar tanımında yer alan üçüncü taraflar için geçerli değildir.
+f.	Müşteri, Anonim Kullanıcıları Müşteri'nin kendi aboneliği altında çalışan Müşteri'nin Katma Değerli Uygulamalarına erişmesini sağlamak için aşağıdaki şartlara tabi olarak ekleyebilir:
+
+1.	Müşteri, gelir getiren amaçlar için kullanım izni olan abonelik türlerinden erişimler için ücret talep edebilir.
+2.	Lisan Alan, Katma Değerli Uygulamalara Uygulama Giriş Kartı katabilir, ama fakat Belirli Kullanıcı Kartı katamaz.
+3.	Müşteri, Müşteri'nin Katma Değerli Uygulama(lar)ını Anonim Kullanıcıların kullanmasında harcanan tüm Hizmet Kredilerinden sorumludur.
+4.	Müşteri, Müşteri'nin Katma Değerli Uygulamalarına teknik destek sağlamaktan tamamen sorumludur.
+5.	Müşteri, sadece Müşteri'nin dahili kullanımına tasarlanmış olan Katma Değerli Uygulamalara erişim için Anonim Kullanıcıları geçerli kılamayabilir; dahili kullanılan Katma Değerli Uygulamalar için Belirli Kullanıcı oturum açma kimliği gerekir.
+
+3.5 Müşteri'nin Sorumlulukları.
+
+a.	Müşteri İçeriği'nin ve Katma Değerli Uygulamaların geliştirme ve faaliyeti ile kendi Belirli Kullanıcılarının bu anlaşma ile uyumundan yalnızca Müşteri sorumludur. Müşteri ve onun Belirli Kullanıcıları ya da Anonim Kullanıcıları (geçerliyse) Müşteri'nin aboneliği üzerinden Çevrimiçi Hizmetlere erişmeye yetkili tek kişilerdir. Belirli Kullanıcıların oturum açma bilgileri sadece Belirli Kullanıcılara atanmıştır ve diğer kişilerle paylaşılamaz. Müşteri, Belirli Kullanıcıların oturum açma kimliklerini, eski kullanıcıların Çevrimiçi Hizmetlere erişmesi gerekmemesi halinde yeni bir Belirli Kullanıcıya tekrar atayabilir. Müşteri, üyeliğinin izinsiz kullanıldığını veya başka bir güvenlik ihlalini fark ettiği anda durumu acilen Esri'ye bildirmelidir.
+b.	Müşteri Esri'nin Çevrimiçi Hizmetleri uygulamasına erişimi olan bir uygulama oluşturmak için Esri dışında uygulama geliştirme araçları kullanıyorsa, uygulamasının Esri tarafından sağlanan Çevrimiçi Hizmetleri kullandığını belirten ifadeyi uygulamasına eklemek zorundadır. Gerekli açıklamalar Belgeler'de verilmektedir.
+
+3.6 Çevrimiçi Hizmetler'de Değişiklikler. Esri, Çevrimiçi Hizmetleri ve ilgili API'leri, önemli değişikliklerde 30 gün ve iptaller için 90 gün önceden bildirerek, herhangi bir zamanda değiştirebilir. Çevrimiçi Hizmetler'in değiştirilmesi, sona erdirilmesi veya iptali Müşterinin işlemlerinde esaslı, ters bir etkiye neden olursa, Esri sadece kendi takdirine göre Çevrimiçi Hizmetleri onarmaya, düzeltmeye veya bir çözüm bulunmasının sağlanmasına çalışabilir. Uygulanabilir bir çözüm ticari olarak makul değilse, Müşteri Çevrimiçi Hizmetler aboneliğini iptal edebilir ve Esri amortisman bazında bir geri ödeme düzenleyecektir.
+
+3.7 Abonelik Ücreti Değişiklikleri. Esri geçerli abonelik süresinin sona ermesinden en az 60 gün önce Müşteri'ye ihbarda bulunarak 1 aydan uzun süreye sahip aboneliklerin tarifelerini artırabilir. Esri, aylık abonelik tarifeleri, 30 günlük bildirim sonrasında artırılabilir.
+
+3.8 Müşteri İçeriği
+
+a.	Mülkiyet. Müşteri'nin İçeriği'ne dair tüm haklar, mülk ve faydalar Müşteri'ye aittir. Müşteri, Esri ve Esri'nin bayilerine veya lisans verenlerine, sadece Çevrimiçi Hizmetleri kullanmasını sağlamak amacıyla Müşteri'nin İçeriği'ni barındırmak, çalıştırmak ve yeniden üretmek için münhasır olmayan, devredilemez, global bir hak vermektedir. Esri; Müşteri'nin Çevrimiçi Hizmetleri kullanmasını desteklemek, müşteri desteği taleplerini yanıtlamak veya aboneliğinde sorun gidermek veya Müşteri tarafınca yazılı olarak yetki verilmiş diğer amaçlar dışında izni olmadan Müşteri'nin İçeriği'ne erişmeyecek, bu içeriği kullanmayacak veya ifşa etmeyecektir. Müşteri Çevrimiçi Hizmetler'e üçüncü bir tarafın sağladığı bir uygulamayla erişiyorsa, Esri, uygulama, Çevrimiçi Hizmetler ve Müşteri İçeriği ile birlikte çalışmasını sağlamak amacıyla söz konusu üçüncü tarafa Müşterinin İçeriği'ni ifşa edebilir. Esri, yasaların veya yönetmeliklerin gerektirmesi durumunda veya bir mahkeme ya da başka bir devlet kurumunun emri üzerine Müşteri'nin İçeriği'ni ifşa edebilir; böyle bir durumda Esri, ifşaatın kapsamını makul ölçüde sınırlamaya çalışacaktır. Müşteri'nin İçeriği'nin Online Services'la kullanım için uygun olmasını sağlamak ve Online Services'ın dışarı aktarma ve yükleme özelliklerini kullanarak düzenli çevrimdışı yedekler almak tamamen Müşteri'nin sorumluluğundadır.
+b.	Müşteri İçeriği Paylaşımı. Müşteri; Paylaşım Araçları'nı kullanarak Müşteri'nin İçeriği'ni paylaşmayı tercih ederse, Çevrimiçi Hizmetler aracılığıyla Müşteri'nin İçeriği'ni kullanma, depolama, önbelleğe alma, kopyalama, tekrar üretme, (tekrar) dağıtma ve (tekrar) aktarma hakkı ve iznini üçüncü taraflara vermiş olacağını kabul eder. Esri, Paylaşım Araçlarının veya Çevrimiçi Hizmetler'in, ArcGIS İnternet sitesinin, Kılavuzun veya ilgili materyallerin kullanımı veya kötüye kullanımı nedeniyle Müşteri İçeriği'nin kaybedilmesi, silinmesi, değiştirilmesi veya ifşa edilmesinden sorumlu değildir. Paylaşım Araçlarının Müşteri tarafından kullanılmasının riski tamamen Müşteri'ye aittir.
+c.	Fesih sonrasında Müşteri'nin İçeriği'nin Alınması. İşbu Lisans Anlaşması veya herhangi bir deneme, değerlendirme veya aboneliğin feshedilmesinden sonra, Müşteri'nin daha kısa bir süre talep etmesi veya Esri'nin yasal olarak bir süre vermesinin yasak olduğu durumlar dışında Esri, Müşteri'nin İçeriği'ni yüklemesi için 30 günlük bir süre tanıyacaktır. Bu süre sonrasında Müşteri'nin Online Services ile İçeriği'ne erişme veya içeriğini kullanma hakkı sona erecek ve artık Esri'nin Müşteri'nin İçeriği'ni depolama veya geri verme yükümlülüğü olmayacaktır.
+
+3.9 Çevrimiçi Hizmetler'in Kullanımına Dair Kısıtlamalar; Hizmet Kredileri. Her Çevrimiçi Hizmetler üyeliği, uygulanabilir Sipariş Dokümanında tarif edildiği üzere Hizmet Kredileri içerir. Her Hizmet Kredisi ile, Müşteri kendi kullandığı Çevrimiçi Hizmetler'e göre değişen belirli bir miktarda Çevrimiçi Hizmetler kullanabilir. Müşteri Çevrimiçi Hizmetleri kullandıkça, Hizmet Kredileri kullanılabilir Hizmet Kredisi sayısına kadar otomatik olarak Müşterinin üyeliğinden düşer. Müşteri, gerektiğinde ilave Hizmet Kredisi satın alabilir. Esri, Müşteri'nin hizmet kullanımı abonelikle kendisine ayrılan Hizmet Kredilerinin %75'ine ulaştığında, Müşteri'nin abonelik hesap yöneticisine durumu bildirecektir. Müşteri tüm Hizmet Kredilerini kullandığında, Esri, Müşteri'nin Hizmet Kredileri kullanan Çevrimiçi Hizmetlere erişimini durdurma hakkına sahiptir. Esri, Müşteri ek Hizmet Kredileri aldığında, Müşteri'nin Çevrimiçi Hizmetler'e erişimini derhal sağlayacaktır.
+
+3.10 Sanal Bulut Altyapısı ile ArcGIS Enterprise Müşterinin bu Lisans Anlaşması'na uygunluğunun doğrulanması makul şekilde istendiğinde, Müşteri İçeriğiyle ilgili bilgileri ve diğer malzemeleri (istemci tarafı uygulamaların tüm kopyaları dahil) sağlayacaktır. Esri, Müşterinin bu anlaşmaya uygunluğunu doğrulamak için, Müşteri İçeriğinin dış arayüzlerini (örneğin, bağlantı noktaları) izleyebilir. Müşteri bu tür izlemeleri engellemeyecek veya kesintiye uğratmayacaktır, ancak Müşteri İçeriğinin gizliliğinin korumasına yardımcı olmak için şifreleme teknolojisi veya güvenlik duvarları kullanabilir. Müşteri, Sanal Bulut Altyapısı ile ArcGIS Enterprise hizmetleriyle ilgili, Müşterinin İçeriğiyle veya Müşterinin denetimindeki herhangi bir son kullanıcı malzemesiyle ilişkilendirilebilecek sorunların kaynağını belirlemek için Esri ile makul şekilde işbirliği yapabilir.
+
+4.0 VERİ KULLANIM KOŞULLARI
+
+4.1 Tanımlar. Aşağıdaki tanımlar Ek A içerisinde yer alan tanımlara ilavedir:
+
+a.	"İş Verisi" gelişmiş karar vermeyi, optimize edilmiş iç iş süreçleri, artırılmış operasyonel etkinliği, yeni gelirleri ve iş rakipleri üzerindeki rekabetçi avantajları mümkün kılan işler, demografikler ve lojistikler hakkındaki bilgi anlamına gelir,
+b.	"Esri İçerik Paketi" ArcGIS Online temel harita hizmetlerinden alınan ArcGIS Online altlık haritası içeriğini kapsayan (raster haritası döşemeleri, görüntüleri, vektör verileri gibi) bir dijital dosya anlamına gelmektedir.
+c.	"Sokak Verisi" yollar, sokaklar ve ilgili özellikler hakkında bilgi içeren veya gösteren Veri anlamına gelir.
+
+4.2 İzin Verilen Kullanımlar
+
+a.	Müşteri, sadece Esri'nin Veri sağladığı Ürünler ile birlikte ve bağlantılı olarak Veri'yi kullanabilir.
+b.	Müşteri, basılı kopya veya statik, elektronik (PDF, GIF, JPEG) biçimlerde olan Esri Ürünlerinin kullanımından elde edilen harita görüntülerinde ve veri özetleri içeren raporlarını bu Lisans Anlaşması sınırlamaları çerçevesinde üçüncü taraflara gönderirken, Veri sembollerinde kullanılan Veriler ile ilgili olarak Esri ve/veya geçerli lisans verenlerini kaynak olarak gösteren bir ithaf/açıklama metnini; sunum paketleri, pazarlama çalışmaları veya diğer raporlar ya da belgelerine Data Sembolleri dahil edebilir.
+c.	Lisans Sahibi ArcGIS Online taban haritalarını çevrimdışı olarak Esri İçerik Paketlerinden alabilir ve daha sonra lisanslı ArcGIS Runtime uygulamaları, ArcGIS Desktop ve ArcGIS API for Flex uygulamalarıyla özel olarak kullanılmak üzere herhangi bir cihaza gönderebilir (aktarabilir).
+d.	Esri, bu anlaşma altında Müşteri verisinde herhangi bir hak elde etmez.
+
+4.3 Kullanım Kısıtlamaları
+
+a.	Müşteri, müşterilerine Veriyi ortak markalayacak, Veriyi izin verilmemiş herhangi bir hizmet veya üründe kullanacak ya da Veriyi herhangi bir üçüncü şahıs aracılığıyla veya üçüncü şahıs adına sunacak şekilde yetki veremez ya da hareket edemez.
+b.	Müşteri, satılan, kiralanan, yayınlanan, tedarik edilen veya başka bir şekilde üçüncü tarafa sağlanan bilgi derlemesini derleme, yükseltme, doğrulama, destekleme, ekleme veya silme amaçları için Veri'yi kullanamaz veya üçüncü tarafların kullanmasına izin veremez.
+c.	İş Verisi. Yazılı şekilde yetkilendirilmedikçe, Müşteri, doğrudan pazarlama amaçları, yeniden satış duyuruları veya üçüncü tarafa dağıtım için, herhangi bir mail listesi, klasör, seri ilan veya diğer bilgi derlemeleri şeklinde İş Verisi'ni kullanamaz.
+d.	Sokak Verisi. Müşteri, haritalama, yer kodlaması ve noktadan noktaya güzergah amaçları için Sokak Verisi'ni kullanabilir. Yazılı şekilde yetkilendirilmedikçe, Müşteri Sokak Verisi'ni
+
+1.	Yaklaşmakta olan manevralar hakkında (yakındaki bir viraj gibi) veya bir dönüş kaçırıldığında alternatif bir güzergâhın hesaplanması gibi konular dahil gerçek zamanlı navigasyon rehberi olarak;
+2.	Senkronize çoklu araç güzergahı olarak; ya da
+3.	Güzergah iyileştirmesi olarak kullanamaz.
+
+e.	İş Analiz Verisi. Esri İş Analisti (Sunucu, Masaüstü) ile sağlanan veriler, aşağıdaki ek kullanım koşullarına tabidir:
+
+1.	Müşteri, ulusal bir veri kümesi alt kümesiyle (örneğin Bölgesel, Eyalet, Yerel) birlikte Esri Business Analyst veya Business Analyst (Canadian Edition) için bir lisans sipariş ederse, ulusal veri kümesinin herhangi bir kısmını değil sadece lisanslanmış alt kümesini kullanabilir.
+2.	Business Analyst Server ile birlikte sağlanan veri istemci uygulamalar ve cihazları tarafından önbelleğe alınamaz veya indirilemez.
+
+4.4 Veri için Ek Şart ve Koşullar. Belirli Veri lisans verenleri Esri'nin Müşteri'ye ek özellik gereklilikleri ve kullanım şartlarını aktarmasını ister. Bu aktarılan terimlere http://www.esri.com/legal
+/third-party-data adresinde mevcuttur.
+EK A
+TERİMLER SÖZLÜĞÜ
+
+Aşağıdaki terimler sözlüğü Esri'nin müşterilerine teklif edebileceği tüm Esri Teklifleri ve Hizmetlerine uygulanır. Belirli Esri Teklifleri ve Hizmetleri bu anlaşma kapsamında olmayabilir. Bu anlaşma altında teklif edilen Esri Tekliflerine veya Hizmetlerine uygulanamayan terimleri önemsemeyin.
+
+"API", uygulama programlama arayüzü anlamına gelmektedir.
+
+"ArcGIS Website" http://www.arcgis.com ve tüm ilişkili veya halef web siteleri anlamına gelmektedir.
+
+"Yetkilendirme Kod(lar)ı" Esri Tekliflerinin kullanılması için gereken her türlü anahtar, yetkilendirme numarası, devreye alma kodu, oturum açma kimlik bilgisi, etkinleştirme kodu, işleç, hesap kullanıcı adı ve parola veya başka mekanizma anlamına gelmektedir.
+
+"Beta", Ürünün alfa, beta veya diğer ön sürümü anlamına gelmektedir.
+
+"Bulut Hizmetleri", Çevrimiçi Hizmetler ve EMCS anlamına gelmektedir.
+
+"Ticari UHS Kullanımı", Yazılıma bir Katma Değerli Uygulama aracılığıyla erişim sağlayarak, abonelik ücreti, hizmet ücreti veya başka herhangi bir şekilde işlem ücreti alarak veya olası reklam gelirlerinden fazlasını elde etmek için, ticari uygulama hizmet sağlayıcısı olarak kullanmak anlamına gelir.
+
+"İçerik"; veriler, görüntüler, fotoğraflar, animasyonlar, video, ses, metin, haritalar, veri tabanları, veri modelleri, elektronik tablolar, kullanıcı arayüzleri, grafik bileşenleri, ikonlar, yazılım uygulamaları, yazılım geliştirme kitleri (YGK), API'ler, yazılım kütüphaneleri, kod örnekler ve diğer kaynaklar anlamına gelmektedir.
+
+"Kontrol"; Kontrol edilen varlıkta oylama hisselerinin veya diğer oylama imtiyazlarının %50'sinden fazlasına sahip olmak anlamına gelir.
+
+"Müşteri'nin İçeriği" Müşteri'nin, Müşteri'nin son kullanıcılarının veya başka kullanıcıların Esri'ye Esri Tekliflerini kullanmasıyla ilişkili olarak sağladığı İçerik, Esri Teklifleri ile Müşteri'nin İçeriği'nin kullanımından türetilen her türlü sonuç ve Esri Teklifleri ile kurup kullandığı tüm Katma Değerli Uygulamalar anlamına gelmektedir. Müşteri'nin İçeriği, Müşteri'nin Esri'ye sağladığı kişisel bilgi veya her tür geri bildirimin, öneri veya geliştirme taleplerinin hiçbirini içermez.
+
+"Veri"; işbu Esri paketi ya da diğer Esri Teklifleri ile birlikte veya ayrı olarak verilen, herhangi ticari olarak uygulanabilen, bunlarla sınırlı kalmamak kaydıyla coğrafi vektör verileri, tarama veri raporları veya ilişkili tablosal özellikler de dahil dijital veri setleri anlamına gelmektedir. Veri, Esri Çalışanları, tedarikçileri ve üstlenicileri gibi doğrudan Esri İnternet sitesine katkı yapan diğer insanlarla ilgili herhangi İçerik içermez.
+
+"Teslime Hazır Mallar"; Ürünler, Eğitim ya da Bakım harici Esri'nin Müşteri'ye Profesyonel hizmetlerin icrası sonucu teslim ettiği herhangi bir şey anlamına gelir. Teslime Hazır Mallar; danışmanlık hizmetleri, yazılım kodu, dinamik bağlantı kütüphaneleri (DBK), ve kaynakta sağlanan herhangi bir ortamda teslim edilen programları, nesneleri, yürütülebilir kod biçim(ler)ini, yedekleme, güncelleme veya birleştirilmiş kopyaları da dahil; yöntemleri, teknikler veya uzmanlıkları; teknik yardımı, süreçleri, formülleri ya da algoritmaları; veri sözlükleri ve modelleri; derlemeleri; şematikleri; belgelemeleri; teknik özellikleri; çizimleri; akış tabloları; özetleri; ya da test veya kalite kontrol prosedürlerini içeren fakat bunlarla sınırlı olmayanlardır.
+
+"Dokümantasyon", Ürün ile birlikte verilen tüm referans belgeler anlamına gelmektedir.
+
+"Esri Yönetilen Bulut Hizmetleri" veya "EMCS" Esri'nin barındırdığı tek kullanıcılı donanım, Yazılım, Veri ve ağ platformu ve ilgili sistem görüntüleme ve destek hizmetleri ile Müşteri'ye veya Müşteri son kullanıcılarına İnternet aracılığıyla erişilebilir kıldığı Müşteri İçeriği anlamına gelir.
+
+"Esri Teklif(ler)i" herhangi bir Ürün, Bakım veya Kılavuz anlamına gelir. Esri Müşteri'ye doğrudan Eğitim veya Profesyonel Hizmetler sağlarsa, Esri Teklifleri, Eğitim Materyalleri ve Teslime Hazır Malları da içerir.
+
+"GIS" coğrafik bilgi sistemleri anlamına gelir.
+
+"Bakım" Ürün güncellemelerine ve teknik desteğe, kendi kendine, İnternet temelli öğrenme kaynaklarına erişim gibi diğer faydalara hak kazandıran abonelik programları anlamına gelir.
+
+"Zararlı Kod" yazılım virüsleri, solucanlar; saatli bomba; Truva atı; veya diğer bilgisayar kodu, dosyaları, hizmet engelleme, veya herhangi bir bilgisayar yazılımını, donanımını ya da iletişim araçlarını kesmeye, yok etmeye veya sınırlamaya tasarlanmış programlar anlamına gelir.
+
+"Adlandırılan Kullanıcı" Müşteri'nin özel yararına olmak üzere, benzersiz ve güvenli adlandırılan kullanıcı oturum açma kimlik bilgilerini (kimlik) bir Ürün için kimlik ile yönetilen özellikleri kullanabilmeleri amacıyla Müşteri'nin çalışanlarına, aracılarına, danışmanlarına veya yüklenicilerine ataması anlamına gelir. Eğitim amaçlı kullanım için Adlandırılan Kullanıcılar, kayıtlı öğrencileri de içerebilir.
+
+"Adlandırılan Kullanıcı Kimlik Bilgileri" kişinin Ürünlere erişimi ve kullanmasını sağlayan bireysel oturum açma ve ilgili şifresi anlamına gelir.
+
+"Adlandırılan Kullanıcı Lisansı veya Aboneliği" tek bir Adlandırıla Kullanıcı için olan lisans veya abonelik anlamına gelir.
+
+"Çevrimiçi İçerik"; harita hizmetleri, görev hizmetleri, görüntü hizmetleri, SDK'lar, API'ler, yazılım kütüphaneleri, kod örnekler ve diğer kaynaklar dahil fakat Müşterinin Çevrimiçi Hizmetler üzerinden eriştiği ve üçüncü taraflarca sağlanan içerik hariç Çevrimiçi Hizmetlerin bir parçası olarak Esri tarafından barındırılan veya sağlanan içerik anlamına gelmektedir.
+
+"Çevrimiçi Hizmetler", harita, veri ve diğer bilgilerin depolanması, yönetilmesi, yayımlanması ve kullanılması amacıyla yararlanılan, uygulamalar ve ilişkili API'lar da dahil olmak üzere her türlü ticari olarak erişilebilir, İnternet tabanlı coğrafi sistem anlamına gelmektedir. Veri ve İçerik, Çevrimiçi Hizmetlere dahil değildir.
+
+"Sipariş Doküman(lar)ı", Müşterinin sipariş ettiği Ürünlere ve Hizmetlere dair fiyat teklifleri, Bakım yenileme teklifi, alım emirleri, teklifleri veya diğer belgeler anlamına gelmektedir.
+
+"Kalıcı Lisans", ilgili lisans ücretleri ödenmiş bir Ürün'ün sürümünü kullanmak için Esri veya işbu Anlaşma gereği yetkilendirilmiş Müşteri tarafından sonlandırılmadıkça süresiz lisans anlamına gelmektedir.
+
+"Kişisel Kullanım", bir bireysel Müşteri'nin ticari olmayan kişisel kullanımı anlamına gelir. Kişisel Kullanım; ticari kurumlar, eğitim kurumları, kamu kurumları veya kar amacı gütmeyen kurumları kapsayan üçüncü tarafların çıkarına kullanımı kapsamaz.
+
+"Ürün(ler)", işbu anlaşmanın şartları uyarınca lisanslanan veya abone olunan Yazılım, Veri, Bulut Hizmetleri anlamına gelmektedir.
+
+"Profesyonel Hizmetler" Esri'nin Müşteri'ye sağladığı her türlü geliştirme ve danışma hizmetleri anlamına gelir.
+
+"Örnek(ler)", Ürünler ile ilgili örnek kodlar, örnek uygulamalar, eklemeler veya örnek uzantılar anlamına gelmektedir.
+
+"Hizmetler" Bakım altında sağlanan teknik destek anlamına gelir. Esri Müşteri'ye doğrudan Eğitim veya Profesyonel Hizmetler sağlarsa, Hizmetler, Eğitim ve Profesyonel Hizmetleri de içerir.
+
+"Yazılım", yetkili bir Esri web sitesinden erişilen veya indirilen veya herhangi bir formatta herhangi bir ortamda teslim edilen Esri'nin özel mülkiyeti olan, Veriler hariç, ticari satışa hazır yazılımının tamamı veya herhangi bir kısmı anlamına gelmektedir ki buna, yedeklemeler, güncellemeler, hizmet paketleri, yamalar, düzeltmeler veya izin verilmiş birleştirilmiş kopyalar dahildir.
+
+"Sınırlı Lisans", bir Ürünün sınırlı bir süre ("Süre") için veya abonelik veya işlem temelinde kullanılabilmesi için sağlanan lisans veya erişim anlamına gelmektedir.
+
+"Eğitim" Esri'nin GIS Yazılımının kullanımı için eğitmen önderli eğitimi ve özel ders hizmetleri anlamına gelir.
+
+"Eğitim Materyalleri" el kitabı, veri, kavramlar, alıştırmalar ve sınavlar dahil fakat bunlarla sınırlı olmaksızın Eğitimin tamamlanması için gerekli dijital veya basılı içerik anlamına gelir.
+
+"Katma Değerli Uygulama", Müşteri tarafından herhangi bir Yazılım, Veri veya Online Services'ın izin verilen kullanımı ile birlikte kullanılmak üzere geliştirilen bir uygulama anlamına gelmektedir.
+ EK B
+GENEL ŞARTLAR VE KOŞULLAR
+
+Aşağıdaki genel şart ve koşullar Esri'nin müşterilerine teklif edebileceği tüm Esri Teklifleri ve Hizmetlerine uygulanır. Belirli Esri Teklifleri ve Hizmetleri bu anlaşma altında olmayabilir. Bu anlaşma altında teklif edilen Esri Tekliflerine veya Hizmetlerine uygulanamayan terimleri önemsemeyin.
+
+MADDE 1-GENEL KULLANIM KISITLAMALARI
+
+Bu anlaşmada açıkça izin verilmediği sürece, Müşteri
+
+a.	Esri Tekliflerini satmayacak, kiralamayacak, başkalarına lisanslamayacak, dağıtmayacak, devretmeyecek veya başkasına vermeyecek;
+b.	Esri Tekliflerini Ticari Uygulama Servis Sağlayıcısı Kullanımı veya servis bürosu amaçlarına göre kullanmayacak;
+c.	Uzantılar, bileşenler veya DLL'ler dahil, ancak bunlarla sınırlı kalmamak üzere Esri Tekliflerini tamamen veya kısmen üçüncü taraflara dağıtmayacak veya sağlamayacak;
+d.	Yetkilendirme Kodlarını üçüncü şahıslara dağıtamaz;
+e.	Derlenmiş biçimde teslim edilen herhangi bir Ürünü veya Teslime Hazır Emtiayı ters mühendislik yapmayacak, geri derlemeyecek veya sökmeyecek;
+f.	Esri Tekliflerine erişimi veya bunların kullanımını kontrol eden teknolojik uygulamaları bozmaya çalışmayacak;
+g.	Fikri mülkiyet hakları, ayrımcılık yapmama yasaları veya yürürlükteki her türlü diğer yasa veya yönetmelikler dahil olmak üzere, Esri'nin veya üçüncü tarafların haklarını ihlal eder şekilde İçerik depolamayacak, önbelleğe almayacak, kullanmayacak, yüklemeyecek, dağıtmayacak veya alt lisansını vermeyecek ya da Esri Tekliflerini başka türlü kullanmayacaktır;
+h.	Her türlü Esri Teklifi, çıktı, meta veri dosyası veya tüm Veriler veya Dokümantasyonun çevrimiçi ve/veya basılı çıktı nitelik sayfasında bulunan veya bunlara eklenmiş olan herhangi bir Esri (veya lisans verenleri) patenti, telif hakkı, ticari markası veya mülkiyet hakkı bildirimleri ve/veya etiketlerini çıkartmayacak veya engellemeyecek;
+i.	Esri Tekliflerinin tek tek veya bileşen parçalarını sökmeyecek veya bağımsız kullanmayacak;
+j.	Esri Teklifleri ile rekabet halindeki bir ürün veya hizmete Esri Tekliflerinin herhangi bir parçasını eklemeyeceksiniz;
+k.	Beta Ürünleri sürümünde çalıştırılan değerlendirme testlerinin sonuçlarını Esri ve onun lisans verenlerinin önceden alınmış yazılı izni olmadan yayımlamayacak veya farklı bir yolla iletmeyecek;
+l.	Esri Teklifleri'nin herhangi bir parçasının açık kaynaklı ve açık veri tabanlı lisans şekline gelmesine neden olacak herhangi bir şekilde kullanmayacak, içermeyecek, değiştirmeyecek, dağıtılmayacak, erişim sağlamayacak veya birleştirmeyecek ki Esri Teklifleri'nin herhangi bir parçası
+
+1.	Üçüncü kişilere kaynak kodu biçiminde açıklanmış;
+2.	İşleme yapmak amacıyla üçüncü kişilere lisanslanmış; ve
+3.	Üçüncü kişilere bedelsiz dağıtılmış.
+
+Yürürlükteki kanun veya yönetmelikle çakışmadığı sürece bu kısıtlamalar uygulanacaktır.
+
+MADDE 2-SÜRE VE FESIH
+
+İşbu anlaşma kabul edildiğinde geçerli olmaya başlayacaktır. Müşteri Esri'ye yazılı bildirimde bulunduktan sonra işbu anlaşmayı veya herhangi bir Esri Teklifi lisansını ya da aboneliğini istediği zaman feshedebilir. Sebep bildirmeksizin fesih, Müşteri'ye ödenen ücretleri geri isteme veya herhangi bir sorumluluğu olmadan bekleyen Hizmet taahhütlerini sona erdirme hakkı vermez. Taraflardan herhangi biri, diğer tarafa gönderilecek yazılı ihbardan sonra 30 gün içinde telafi edilmeyen bir ihlal nedeniyle işbu anlaşmayı veya herhangi bir lisansı ya da aboneliği feshedebilir. İhlalden dolayı anlaşmanın herhangi bir şekilde feshi üzerine, Esri Hizmetleri sağlamayı durduracaktır. Anlaşmanın feshinden etkilemeyen herhangi Esri Teklifleri lisansı işbu anlaşma hükümleri altında devam edecektir.
+
+Müşteri'nin ihlalini takiben Esri bu anlaşmayı feshederse, Esri, kendi tercihine göre, Müşteri'nin Esri Teklifleri'ndeki lisanslarını ve aboneliklerini sona erdirebilir. Müşteri herhangi bir sebepten dolayı bu anlaşmayı feshederse, Müşteri da, kendi tercihine göre, Müşteri'nin Esri Teklifleri'ndeki lisanslarını ve aboneliklerini sona erdirebilir.
+
+Lisansın ve aboneliğin feshi üzerine, Müşteri
+
+a.	Feshedilen Esri Tekliflerine erişimini ve kullanımını durduracak;
+b.	Feshedilen Çevrimiçi Hizmetler'den elde edilen müşteri taraflı önbelleğini temizleyecek; and
+c.	Değiştirilen veya birleştirilen parçalar dahil olmak üzere, Müşteri'nin mülkiyetinde veya kontrolünde bulunan Esri Tekliflerinin etkilenen tüm kopyalarını kullanmayı, silmeyi, kaldırmayı veya yok etmeyi durduracak ve söz konusu eylemlerin delillerini yerine getirip Esri'ye veya onun yetkili dağıtıcısına teslim edecektir.
+
+Müşteri tarafından iflas açıklanır veya ona karşı tasfiyeye gidilirse, kayyum anlaşma altındaki mevcut ihlalleri giderene ve takip eden ifalar için yeterli güvence gösterene kadar, Esri, Müşteri'ye yazılı bildirimde bulunarak Hizmetleri yerine getirmeyi derhal durdurabilir. Bu anlaşma taraflardan birinin iflası, tasfiyesi veya sona ermesiyle fesholur.
+
+MADDE 3-SINIRLI GARANTILER VE SORUMLULUK REDDI
+
+3.1 Sınırlı Garantiler. Esri:
+
+a.	90 günlük süre boyunca,
+
+1.	Yazılım, normal kullanım altında Kılavuz'a esas olarak uyumlu olacak ve teslim tarihi itibariyle tüm ortam materyal ve işçilik kusurlarından ari olacaktır.
+2.	Eğitim Materyalleri, teslim tarihi itibariyle Esri'nin yayınlanan kurs tanımlarıyla esas olarak uyumlu olacaktır.
+3.	Hizmetler, teslim tarihi itibariyle yazılım endüstrisinin profesyonel ve teknik standartlarına esas olarak uyumlu olacaktır;ve
+4.	Şirkete sabit fiyattan sağlanan Teslime Hazır Ürünler, kabul tarihi itibariyle anlaşılan Sipariş Dokümanı'nda belirtilen özelliklere esas olarak uyumlu olacaktır.
+
+b.	Yürürlükteki abonelik süresi boyunca,
+
+1.	Çevrimiçi Hizmetler normal kullanım altında Kılavuz'a esas olarak uyumlu olacaktır;
+2.	Bakım, yazılım endüstrisinin profesyonel ve teknik standartlarına esas olarak uyumlu olacaktır;ve
+3.	EMCS, Sipariş Dokümanında belirtilen kapsama, tanıma ve taahhütlere esas olarak uyumlu olacaktır.
+
+3.2 Özel Sorumluluk Reddi. İçerik, veriler, örnekler, düzeltmeler, yamalar, güncellemeler, ücretsiz olarak sağlanan Çevrimiçi Hizmetler ve değerlendirme ve Beta Ürünleri "olduğu gibi", herhangi bir garanti verilmeksizin teslim edilmektedir.
+3.3 Genel Sorumluluk Reddi. Bu anlaşmada açıkça ifade edilmiş olan sınırlı garantiler hariç olmak üzere Esri, ister açık ister zımni olsun diğer her türlü garantiyi ve koşulu reddetmektedir ve buna, bunlarla sınırlı kalmaksızın, ticari mal uygunluğu, özel bir amaca uygunluk, veya fikri mülkiyet haklarının ihlal edilmemesi konusundaki zımni garantiler dahildir. Esri, Esri Tekliflerinin veya Müşteri'nin faaliyetlerinin kullanımının kesintiye uğramayacağını, hatasız olacağını, arızaya karşı toleranslı olacağını veya arızaya karşı güveli olacağını veya uyumsuzlukların tamamının düzeltilebileceğini garanti etmez. Esri Teklifleri ölüme, kişisel yaralanmaya, fiziksel özelliğe veya çevresel zarara neden olabilecek ortamlarda veya uygulamalarda kullanılmak üzere tasarlanmamıştır, imal ed-ilmemiştir veya bu amaca yönelik değildir. Müşteri, tehlikeli, güvensiz veya yasa dışı görünen hiçbir navigasyonel rotayı takip etmemelidir. Söz konusu herhangi bir kullanım Müşteri'nin kendi riski ve masrafı üzerindedir.
+3.4 Sorumluluk Reddi.
+
+a.	İnternet Sorumluluk Reddi. Hiçbir taraf İnternet işleminin kesilmesi ya da yerine getirilmesi veya Çevrimiçi Hizmetlerin çalışmasını kısıtlayacak ya da yasaklayacak İnternet düzenlemeleri ile ilgili herhangi bir hukuk teorisi altında zararlardan sorumlu değildir.
+b.	Üçüncü Taraf İçeriği ve Web Siteleri. Esri, www.esri.com ve www.arcgis.com dahil Esri Teklifleri ve Esri İnternet sitesinde beliren veya referans edilen hiçbir üçüncü taraf İnternet sitesi ya da İçeriğinden sorumlu değildir. Üçüncü taraf web siteleri ve kaynaklarına bağlantı sağlanması, herhangi bir onay, ortaklık veya sponsorluk anlamına gelmemektedir.
+
+3.5 Tek Telafi Yolu. Bu bölüm altındaki sınırlı garantilerin ihlaline ilişkin olarak Müşteri'nin tek telafisi ve Esri'nin tüm sorumluluğu, tamamen Esri'nin tercihine bağlı olarak (i) herhangi bir kusurlu ortamı değiştirmek, (ii) Esri Teklifleri veya Hizmetlerini onarmak, düzeltmek veya bunlar için bir risk geçiştirme tedbiri almak veya (iii) Müşterinin tüm Esri Tekliflerinin kopyalarını kaldırması, silmesi veya imha etmesi, uyumlu Bulut Hizmetlerine erişimi ve kullanmayı bırakması ve bunları yaptığına ilişkin kanıtları Esri veya yetkili distribütörüne temin etmesi kaydıyla, Esri'nin sınırlı garantilerini karşılamayan Esri Teklifleri için Müşteri tarafından ödenmiş olan ücretlerini iade etmek ile sınırlı olacaktır.
+
+MADDE 4-SORUMLULUK SINIRLANDIRMASI.
+
+4.1 Sorumluluk Reddi. Ne Lisan Alan, Esri ne de Esri'nin herhangi bir distribütörü veya lisans vereni, eylemin sebebine mahal bırakmaksızın ortaya çıkan kar kaybı, satış kaybı veya itibar kaybı dahil dolaylı, ilgili, tesadüfi, sebebe bağlı hasarlardan; değiştirebilir ürün ve hizmetlerin tedariki masraflarından; yürürlükteki lisansa ya da abonelik ücretine ödenen veya Esri'ye borçlu olunan miktarı aşan zararlardan sorumludur.
+
+4.2 Önce gelen paragraftaki sınırlamalar ve sorumluluk bertarafı Müşteri'nin ihlaline, yanlış kullanımına veya Esri'nin veya Esri'nin lisans verenlerinin fikri mülkiyet haklarının kötüye kullanımına, her bir tarafın tazminat yükümlülüğüne, ağır kusuruna, kötü niyetli hareketine veya bu anlaşmanın İhracat Yükümlülüğü maddesinin ihlallerine veya yürürlükteki kanunlara ve yönetmeliklere uygulanmaz.
+
+4.3 Sorumluluk Retlerinin ve Sınırlandırmalarının Uygulanabilirliği. Esri veya yetkili distribütörü, bu anlaşmada belirtilmiş olan sorumluluk retlerine ve sınırlandırmalara dayalı olarak fiyatlarını belirlemiş ve işbu anlaşmayı imzalamış; ücretler, taraflar arasındaki pazarlığın önemli bir temelini oluşturan bir riski yansıtır. Bu sınırlamalar, taraflardan birinin, herhangi bir özel, sınırlı tazminatın esaslı amaç ihlaline bakılmaksızın herhangi bir zarar ihtimalinin farkında olsa da olmasa da uygulanır.
+
+4.4 Yukarıdaki garantiler, sınırlamalar ve istisnalar bazı yargı bölgelerinde geçerli olmayabilir ve sadece Müşteri'nin bulunduğu yerde yürürlükteki yasaların veya yönetmeliklerin izin verdiği ölçüde geçerlidir. Müşteri, feragat edilemeyecek veya reddedilemeyecek başka haklara da sahip olabilir. Esri, Müşteri'nin garanti veya tazminatlarını yasaların izin vermediği ölçüde sınırlandırmamaktadır.
+
+MADDE 5-TAZMINATLAR
+
+5.1 Tanımlar. Aşağıdaki tanımlar Ek A içerisinde yer alan tanımlara ilavedir:
+
+a.	"İddia" üçüncü kişi tarafından her türlü iddia, dava veya talep anlamına gelir.
+b.	"Tazminat Alacaklısı" Müşteri ve onun yöneticileri, memurları ve çalışanları anlamına gelir.
+c.	"Tazminat İddia(lar)ı" Müşteri'nin Esri Teklifleri veya Hizmetlerini kullanmasının veya erişiminin ABD patent, telif, marka veya ticari sır ihlalini ileri süren her türlü İddia anlamına gelir.
+d.	"Kayıp(lar)" avukatlık ücretleri dahil sarf edilen kayıp, zarar ödeneği, anlaşma miktarı, masraf veya harcama anlamına gelir.
+
+5.2 İhlal Tazminatı
+
+a.	Esri, tüm Koruma Lehdarlarını koruyacak ve İhlal İddiasından zarar görmemesini sağlayacak ve aşağıdaki paragraflarda açıklanan İhlal İddiasından kaynaklanan herhangi bir Kaybı tazmin edecektir.
+b.	Eğer Esri İhlal İddiasının gerçek olduğuna karar verirse, Esri, masrafları kendine ait olmak üzere, ya (i) Esri Tekliflerinin kullanımının devamı için Müşteri'ye hakları temin edecek ya da (ii) önemli ölçüde benzer işlevselliği koruyarak Esri Tekliflerini değiştirecektir. Eğer hiçbir alternatif ticari olarak makul değilse, Esri, Müşteri'nin Esri Tekliflerini kullanım hakkını sona erdirebilir ve herhangi bir (a) yürürlükteki Hizmet bedellerini; (b) ilk teslimat tarihinden başlamak üzere, beş (5) yıl üzerinden orantılayarak, Kalıcı Lisans altında temin edilmiş ve Müşteri tarafından ödenmiş, ihlal eden Esri Teklifleri'ne ödenen lisans ücretlerini; ya da (c) Süreli Lisansların, Aboneliklerin ve Bakımın kullanılmayan kısmını iade edecektir.
+c.	Esri'nin, (i)Esri Tekliflerinin Esri tarafından tedarik edilmemiş ya da belirtilmemiş veya Kılavuzunda belirtilmemiş bir ürün, proses, sistem veya unsur ile birlikte kullanılması veya entegrasyonu; (ii) Esri veya alt yüklenicileri dışında herhangi bir kişi tarafından Esri Tekliflerinin değiştirilmesi; (iii) Müşteri'nin tariflerine uyumluluk; veya (iv) Esri'nin ya ihlalden kaçınmak için değiştirilmiş bir versiyonunu sağlaması ya da Müşteri'nin Esri Tekliflerini kullanma hakkını sona erdirmesinden sonra Esri Tekliflerinin kullanılması İhlal İddialarına kadar İhlal İddiasını savunma veya Müşteri'yi tazmin etme yükümlülüğü yoktur.
+
+5.3 Genel Tazminat. Müşteri'nin sitesinde icra eden Esri veya yöneticileri, memurlar, çalışanlar veya temsilcileri tarafından herhangi bir ihmal veya kusur veya görevi kötüye kullanmadan ortaya duruma kadar, Esri tüm Koruma Lehdarlarını, Koruma Lehdarları Tarafına yöneltilecek vücut yaralanması, ölüm ya da mal zararı (makul bir yedekleme programı ile çalışmayan veri tabanları) hariç kaynaklı herhangi bir İddia'dan ortaya çıkan Kayıptan savunacak, zarar görmemesini sağlayacak ve tazmin edecektir.
+
+5.4 Tazminat için Koşullar. Tazminatın koşulları olarak, tazminat lehdarı (i) derhal Esri'yi İddia hakkında yazılı olarak bilgilendirecek, (ii) İddiayı tanımlayan tüm uygun dokümanları sağlayacak, (iii) herhangi bir İhlal İddiasına karşı her türlü eylemi savunmak, savunma veya anlaşmaya yönelik müzakere etmek için Esri'ye mutlak kontrol verecek, ve (iv) talep ve masraf Esri'ye ait olmak üzere İhlal İddiasının savunmasında makul şekilde işbirliği yapacaktır.
+
+5.5Bu bölüm, herhangi bir İddiaya karşı Esri'nin, yetkili dağıtıcısının ve lisans verenlerinin bütün yükümlülüklerini ortaya koyar.
+
+MADDE 6-SIGORTA
+
+Esri hizmetleri sağlıyorsa, Esri, asgari olarak aşağıdaki riskleri karşılar:
+
+a.	Ölüm dahil, vücut yaralanması, ve mal zararı sorumluluğu için aşağıdakileri içeren kapsayıcı genel sorumluluk veya olay başına ($1,000,000.00) asgari korumalı ticari genel sorumluluk
+
+1.	Mülk ve faaliyetler;
+2.	Genel sözleşmesel sorumluluk;
+3.	Geniş biçimde mal hasarı;
+4.	Bağımsız müteahhitler;
+5.	Çalışan bertarafı silinmiş kişisel yaralanma; ve
+6.	Tamamlanmış faaliyetler.
+
+b.	Çalışanların tazminat sigortası, halefiyetten feragat ile, kanuni limitler ile örtüşen miktardır.
+
+MADDE 7-GÜVENLİK VE UYUMLULUK
+
+7.1 İhracat Uyumluluğu. Her iki taraf da şunları kapsayan tüm geçerli ihracat yasa ve düzenlemelerine uymakla yükümlüdür: ABD Ticaret Bakanlığı İhracat Yönetimi Düzenlemeleri (Export Administration Regulations -EAR), ABD İç İşleri Bakanlığı Uluslararası Silah Ticareti Düzenlemeleri (International Traffic in Arms Regulations - ITAR) ve diğer geçerli ihracat yasaları. Müşteri, Hizmetleri ve Esri Tekliflerini geçerli zaman diliminde yürürlükte olan ABD hükümeti ihracat yasa ve düzenlemelerinde belirtilenler dışında Amerika Birleşik Devletleri'nin ambargo uyguladığı veya yasakladığı kurumlar veya kişilere ihraç etmeyecek, yeniden ihraç etmeyecek, aktarmayacak, yayınlamayacak veya herhangi bir şekilde tamamen ya da kısmen, düzenlemeyecek veya erişim sağlamayacaktır. Müşteri, ABD hükümetinin uygun yetkilendirmesi olmadan füze, nükleer, kimyasal veya biyolojik faaliyetler veya son kullanımı için Hizmetleri veya Esri Tekliflerini ihraç etmeyecek, yeniden ihraç etmeyecek, devretmeyecek veya kullanmayacaktır. Müşteri, Müşterinin ihracat ayrıcalıkları herhangi bir ABD kamu kuruluşu veya dairesi tarafından yok sayıldığında, askıya alındığında veya iptal edildiğinde, derhal yazılı olarak durumu Esri'ye bildirmek durumundadır. Müşteri, Bulut Hizmetleri'ne (i) İthalat Kontrol Sınıflama Numarası (ECCN) EAR99'dan farklı olan (ii) ITAR altında ABD'den ithali kontrol edilen Müşteri İçeriği yüklemeyecek, depolamayacak veya işlemeyecektir. Esri ABD hükümetinden gerekli herhangi bir ihracat lisansı alana kadar, ITAR Bölümü altında tanımlanan, sırasıyla, 120.6, 120.9 ve 120.10'daki savunma malzemesi, savunma hizmeti veya teknik veri ile ilgili Hizmetler sunmayacak ve Esri Teklifleri sağlamayacaktır. Müşteri, ihracat lisansı başvurusu ve alımı gerektiğinde Esri'ye makul ölçüde yardımcı olacaktır.
+
+7.2 Güvenlik. Esri, kendi güvenlik imkanlarını http://doc.arcgis.com/en/trust/security/security-overview.htm adresinde yayınlar. Esri'nin Hizmetleri yerine getirmesi için erişim önemliyse ve Esri bu erişimi açıkça kabul ederse, Müşteri, Esri'ye Müşteri sistemine veya Müşteri ya da üçüncü kişi kişisel bilgilerine personel erişimi verebilir. Esri, söz konusu veriyi korumak ve yetkisiz erişimleri engellemek için makul idari, teknik ve fiziksel koruma kullanacaktır. Müşteri (i) Esri'nin yayınlanmış güvenlik, gizlilik kontrollerinin Müşteri İçeriğinin korunması için tüm yasal gereklilikleri karşıladığını teyit etme (ii) sadece yasal olduğunda Bulut Hizmetleri aracılığı ile Müşteri İçeriğini yükleme ve paylaşma sorumluluğunu taşır Esri, yürürlükteki yasalar ve düzenlemelerle uyumluluğundan emin olmak için Müşteri İçeriğinin gözden geçirilmesinden sorumlu değildir.
+
+MADDE 8-BULUT HİZMETLERi KESiNTiLERi, KALDıRıLMALARı VE DURDURULMALARı
+
+8.1 Yasaklı Kullanımlar. Müşteri, Bulut Hizmetlerine şunlar için giremez veya kullanamaz:
+
+a.	İstenmeyen, aldatıcı, şifre çalıcı e-postalar gönderilmesi; gereksiz eposta veya saldırgan veya lekeleyici içerik gönderilmesi; gizlice takip etmesi veya fiziksel zarar tehdidinde bulunulması;
+b.	Zararlı Kodun depolanması veya iletilmesi;
+c.	Herhangi bir yasanın veya düzenlemenin ihlal edilmesi;
+d.	Üçüncü kişilerin haklarının ihlal edilmesi veya kötüye kullanılması;
+e.	Bulut Hizmetlerinin sistem açığının yoklanması ya da test edilmesi veya Bulut Hizmetleri tarafından kullanılan doğrulama veya güvenlik önlemlerinin ihlal edilmesi; veya
+f.	Rekabet amaçları için Bulut Hizmetlerinin uygunluğunu, performansını veya işlevselliğini referans alma.
+
+8.2 Hizmet Kesintisi. Esri'nin makul kontrolü ötesindeki sistem hataları ve diğer olaylar, Müşteri'nin Çevrimiçi Hizmetlere erişimini kesebilir. Esri, söz konusu kesintiler için önceden bildirim sağlayamayabilir.
+
+8.3 Müşteri İçeriğinin Kaldırılması. Esri, Müşteri'nin İçeriği'nin Bulut Hizmetleri'ne yüklenmesinin veya kullanılmasının işbu anlaşmayı ihlal ettiğini düşünüyorsa, Müşteri'nin İçeriği'nin bölümlerini kaldırabilir veya silebilir. Bu koşullara göre makul olması durumunda Esri, Müşteri'nin İçeriği'nin kaldırılacağını Müşteri'ye önceden bildirecektir. Esri http://www.esri.com
+/legal/dmca_policy adresinde bulunan Esri Telif Hakları İlkeleriyle uyumlu olarak her türlü Dijital Çağ Telif Hakkı Yasası kaldırma bildirimlerine yanıt verecektir.
+
+8.4 Hizmetin Askıya Alınması. Esri, (i) Müşteri'nin işbu anlaşmaya esaslı ihlali olur ve ihlalini zamanında düzeltmezse; (ii) Esri, Müşteri'nin Bulut Hizmetlerini kullanmasının Esri'ye doğrudan sorumluluk çıkaracağına veya Bulut Hizmetlerinin bütünlüğünü, işlevselliğini veya kullanılabilirliğini ters etki doğuracağını düşünürse; (iii) planlanmış bakım olursa; (iv) Bulut Hizmetlerine bir tehdit veya saldırıyı engellemek için; (v) Bulut Hizmetleri kanun tarafından yasaklanırsa veya hizmetin sağlanmasına devam etmenin ticari bir zorluk meydana getirecek derecede değiştirilirse Bulut Hizmetlerine erişimi durdurabilir. Uygun olduğunda, Esri, Bulut Hizmetlerinin askıya alınmasını Müşteri'ye önceden bildirecek ve düzeltici önlemler alması için Müşteri'ye makul fırsat tanıyacaktır.
+
+Esri, Çevrimiçi Hizmetlerin kesilmesinden ya da durdurulmasından veya Müşteri içeriğinin yukarıda açıklanan şekilde kaldırılmasından ortaya çıkan zarardan, sorumluluklardan veya kayıplardan sorumlu değildir.
+
+MADDE 9-GENEL HÜKÜMLER
+
+9.1 Ödeme. Müşteri, her bir doğru faturayı teslim aldıktan sonra 30 gün geçmeden ödeyecek ve ödemeyi faturada yer alan adrese gönderecektir.
+
+9.2 Geri Bildirim. Esri'ye Müşterinin sağladığı tüm geri bildirimler, öneriler veya Ürün geliştirme talebini Esri tarafından serbest bir şekilde kullanılabilir.
+
+9.3 Patentler. Müşteri herhangi bir Ürünü temel alan veya bunu içeren bir tasarım için patent veya dünya çapında geçerli benzeri bir hak almaya çalışmayacak ve başkalarının da bu türde hakları almak için başvuruda bulunmasına izin vermeyecektir. Patent üzerindeki bu açık yasaklama Müşteri'nin kendi yazılım ve teknolojilerine uygulanmaz, şu istisnayla ki söz konusu patent veya benzer bir uygulama, Ürünlerin bir bölümünü, parçasını veya tercih edilen unsuru barındırmamalıdır.
+
+9.4 Vergiler ve Ücretler; Sevkiyat Ücretleri. Müşteri'a verilen ücretleri hiçbir geçerli vergi veya ek ücreti içermemektedir ki buna, bunlarla sınırlı kalmaksızın, satış vergisi, kullanım vergisi veya katma değer vergisi (KDV); gümrük vergisi; veya resmi, harç ve sevkiyat ve depolama ücretleri dahildir.
+
+9.5 Uyumluluk İncelemesi. Müşteri, bu anlaşma çerçevesindeki yükümlülüklerine uymakla ilgili olarak doğru ve eksiksiz kayıt ve hesap tutmak durumundadır. Esri veya yetkili dağıtımcısı söz konusu kayıtların ve hesapların uyumluluk incelemesini yedi 7 iş gününden az olmamak üzere yazılı olarak bildirerek yapabilir veya kendi adına bu incelemeyi yapmak üzere bağımsız bir üçüncü partiyi görevlendirebilir. Müşteri uyumluluk incelemesi sırasında belirlenen herhangi bir uyumsuzluğu anında düzeltmek zorundadır. Esri ya da dağıtımcı, Müşteri'nin somut herhangi bir uyumsuzluğu göstermeyen bir önceki uyumluluk incelemesinin tamamlanmasından sonraki 12 ay içinde yeni bir inceleme yapamaz.
+
+9.6 Gizli Feragatin Olmaması. Taraflardan herhangi birinin işbu Lisans Anlaşmasının herhangi bir hükmünü icra etmemesi, söz konusu tarafın, söz konusu hüküm veya diğer herhangi bir hükümden veya buna yönelik hakkından feragat ettiği anlamına gelmeyecektir.
+
+9.7 Ayrılabilirlik. Taraflar şunu kabul etmektedir ki, işbu anlaşmanın herhangi bir hükmünün herhangi bir nedenle icra edilemez hale gelmesi durumunda, söz konusu hüküm sadece ifadenin amacını icra edilebilir kılmak için gerekli ölçüde yenilenecektir.
+
+9.8 Halef ve Vekiller. Esri'nin veya yetkili distribütörün önceden yazılı izni olmaksızın, Müşteri, kendisinin işbu anlaşmanın altındaki yükümlülüklerini veya haklarını, herhangi bir şekilde devretmeyecek, alt lisans vermeyecek veya temlik etmeyecektir ve bu konudaki izinsiz her girişim geçersiz sayılacaktır. İşbu anlaşma, Anlaşmanın taraflarının ilgili halefleri ve vekilleri üzerinde de bağlayıcı olacaktır. Buna bakılmaksızın, devletle imzaladığı sözleşme tahtında Ürünleri almış olan bir yüklenici, işbu anlaşmayı ve Ürünleri, Esri'ye yazılı ihbarda bulunarak devlet müşterisine devredebilir, ancak söz konusu devlet müşterisinin de işbu anlaşmanın koşullarına tabi olması gerekmektedir.
+
+9.9 Hükümlerin Geçerli Kalması. Tanımlar Sözlüğü ile Genel Şartlar ve Koşulların 2, 5, 6, 7, 8 ve 9. Maddelerinin hükümleri, işbu anlaşmanın süresinin dolması ve feshedilmesinden sonra da geçerli kalmaya devam edecektir.
+
+9.10 ABD Hükümeti Müşteri ise. Ürünler, özel harcamalarla geliştirilmiş ve işbu anlaşma kapsamında Müşteri'ye sağlanmış ticari kalemlerdir. Müşteri bir ABD devlet kurumu veya ABD devlet yüklenicisiyse, Esri, Müşteri'ye FAR Alt Bölüm 12.211/12.212 veya DFARS Alt Bölüm 227.7202 uyarınca işbu anlaşmayla uyumlu olarak lisanslar veya abonelik sağlar. Esri Veri ve Online Services, DFARS kapsamında yapılan ticari bilgisayar yazılımlarıyla aynı DFARS Alt Bölümü 227.7202 kurallarına göre lisanslanmakta veya abonelik sağlanmaktadır. Ürünler kısıtlamalara tabidir ve işbu anlaşmadaki ticari lisans haklarının, Müşteri'nin Ürünleri kullanması, değiştirilmesi, uygulanması, çoğaltması, yayınlanması, görüntülenmesi veya açıklaması üzerinde kesin olarak hükmü bulunmaktadır. Yerel yasa düzenlemeleri ile çakışan anlaşma maddeleri geçerlilik kazanmaz. ABD hükümet Müşteri'yi, Yazılımı, Yazılımın kurulduğu bilgisayarların aktarıldığı tesisine aktarabilir. Herhangi bir mahkemenin, hakemin veya kurulun ABD hükümeti Müşteri'nin yürürlükteki kamu satın alma kanunu altında Ürünlerin herhangi bir kısmında daha fazla hakkı olduğuna karar vermesi durumunda, söz konusu haklar sadece etkilenen kısımlar için geçerli olacaktır.
+
+9.11 Uygulanan Kanun. Tarafların hukuki prensiplerin ilgili seçimleri hariç olmak üzere, bu anlaşmaya ABD federal hukuku ve California Eyaleti yasaları uygulanır. İşbu anlaşma, Birleşmiş Milletler Malların Uluslararası Satışı için Sözleşmeler Konvansiyonuna tabi değildir.
+
+9.12İhtilafların Çözümü. Taraflar aşağıdaki ihtilaf çözüm süreçlerini kullanacaktır:
+
+a.	Parasal Olmayan Tedbir. Tedbir için bir sebep olarak, bono sunma veya zararı ispat gerekmeden, her bir taraf, yetkili yargı olan herhangi bir mahkemede ihtiyati tedbir, aynen ifa veya diğer parasal olmayan tedbir arama hakkına sahiptir.
+b.	ABD Hükümeti Temsilcileri. Bu anlaşma, (41 USC 601-613) ile değiştirilen 1978 yıllı Sözleşme İhtilafları Kanunu'na tabidir.
+c.	Diğer Hükümet Varlıkları. Esri, yürürlükteki kanun altındaki zorunlu ihtilaf çözümlerine uyum sağlayacaktır.
+d.	Tahkim. Yukarıda belirtilenin dışında, taraflar, bu anlaşmadan ortaya çıkan veya bu anlaşma ile ilgili, uzlaşma ile çözülemeyen ihtilafları çözmek için bağlayıcı tahkime başvuracaklardır. Müşteri veya onun bölgelerinden biri ya da dış birimi ABD'de ise, Amerikan Tahkim Birliği Ticari Tahkim Kuralları tahkim süreçlerine uygulanacaktır. Müşteri ABD dışındaysa, Uluslararası Ticaret Odası Tahkim Kuralları süreçlere uygulanacaktır. Taraflar, uygulanabilen tahkim kuralları uyarınca tek bir hakem seçecektir. Tahkimin dili İngilizce olacaktır. Tahkim, üzerinde mutabık kalınan bir yerde olacaktır. Taraflardan herhangi birisi, diğer tarafın talebi üzerine, ihtilafın önemli yönlerine ilişkin belgeleri veya tanıkları temin edecektir.
+
+9.13 9.13 Mücbir Sebepler. İşbu anlaşmasının yürütülmesi sırasında taraflardan biri, söz konusu durum ilgili tarafın makul denetimi dışındaki bir nedenden dolayı gerçekleşen herhangi bir uyumsuzluk veya gecikmeden sorumlu tutulmayacaktır. Bu gibi nedenler şunları kapsamakla birlikte, sayılanlarla sınırlı kalmaz: doğal afetler, savaş, grev, anlaşmazlıklar, siber saldırılar, yasalar, hükümet kararları veya diğer mücbir olaylar.
+
+9.14 Bağımsız Müteahhit. Esri bağımsız müteahhittir ve her zaman öyle olacaktır. Bu anlaşmadaki hiçbir şey, Esri veya yetkili dağıtıcılar ile Müşteri arasında işveren/işçi, müdür/temsilci veya iş ortaklığı ilişkisi oluşturmaz. Hiçbir tarafın, diğer taraf adına sözleşme akdetme veya diğer taraf adına hareket etme yetkisi yoktur.
+
+9.15 Bildirimler. Müşteri, bu anlaşma altında gerekli bildirimleri Esri'ye aşağıdaki adresten gönderebilir:
+
+Environmental Systems Research Institute, Inc.
+Dikkatine: Sözleşmeler & Hukuk Departmanı
+380 New York Street
+Redlands, CA 92373-8100
+ABD
+
+Tel.: 909-793-2853
+Email: LegalNotices@esri.com
+EK 1
+ÜRÜN-ÖZELLİKLİ KULLANIM KOŞULLARI
+(E300 09/22/2016)
+
+YAZILIM
+
+Belirli Yazılımlara uygulanan ek kullanım koşulları aşağıdaki tabloda gösterilmiştir. Her Ürün listelemesi, o Ürüne uygulanan bir ya da daha fazla dipnotu tanımlar. Bu dipnotlar, anlaşma şartlarını destekler. Her bir dipnotun tanımı için tabloyu takip edin. Yürürlükteki Sipariş Belgesinde aksi belirtilmediği takdirde Yazılım modülleri ilgili Yazılım için verilenle aynı kullanım kapsamına tabidir.
+
+Masaüstü Ürünler
+▪	ArcGIS Desktop (Advanced, Standard veya Basic) (26)
+▪	ArcGIS Earth (65)
+▪	ArcGIS Explorer Desktop (20)
+▪	ArcGIS for AutoCAD (20)
+▪	ArcPad (13)
+▪	ArcReader (20)
+▪	ArcGIS for Windows Mobile (15; 54)
+▪	ArcGIS for Personal Use (3, 26)
+
+Sunucu Ürünleri
+▪	ArcGIS Enterprise
+-	Standard veya Advanced (21; 31)
+-	Workgroup Standard or Advanced (21; 28; 29; 30; 32 )
+-	ArcGIS GIS Server (Standard veya Advanced) (31)
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server Workgroup (Standard veya Advanced) (28; 29; 30; 32 )
+-	ArcGIS GIS Server Workgroup Basic (39)
+-	ArcGIS GIS Server Extension
+-	ArcGIS Maritime: Sunucu (2)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4)
+▪	Esri Business Analyst Server
+-	Workgroup (28; 29; 30; 31; 39)
+-	Enterprise (31; 39)
+▪	World Geocoder for ArcGIS Basic (67)
+Geliştirici Araçları
+▪	AppStudio for ArcGIS Standard (11, 16, 19)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [masaüstü], Windows Phone, Windows Store), Qt veya WPF (16; 19)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [masaüstü], Windows Phone, Windows Store), Qt veya WPF (15; 18)
+▪	ArcGIS Engine Developer Kit ve Uzantıları (16, 19; 22, 26)
+▪	Windows/Linux ve Uzantıları için ArcGIS Engine (15; 22; 26)
+▪	ArcGIS Web Mapping (ArcGIS API for JavaScript/HTML5, ArcGIS API for Flex, ArcGIS API for Microsoft Silverlight ürünleri dahil) (15; 16; 64; 66)
+▪	ArcGIS Developer Subscription (24; 26)
+▪	Esri File Geodatabase API (47)
+
+Diğer
+▪	▪Navigator for ArcGIS (14)
+
+ Dipnotlar:
+
+1.	Rezerve.
+2.	Gezinme	 amaçlı kullanılamaz.
+3.	Yalnızca Kişisel Kullanım için lisanslanmıştır.
+4.	ArcGIS Enterprise Workgroup ile kullanıldığında
+-	1 dört çekirdekli sunucu ile sınırlıdır
+-	Ayrı bir makinaya yüklenebilir.
+	5-10.	Rezerve.
+11.	AppStudio for ArcGIS Standard ile oluşturulan uygulamalar ArcGIS Runtime Standard Level lisansı koşullarına tabidir.
+12.	Rezerve.
+13.	"Çift Kullanım Lisansı", Yazılım'ın bir seferde sadece tek bir şahıs tarafından kullanılması kaydıyla bir masaüstü bilgisayara yüklenebileceği ve aynı zamanda bir kişisel dijital asistan (PDA) veya el bilgisayarı ile kullanılabilmesi anlamına gelmektedir.
+14.	Gezinme amaçlı olarak kullanılabilir.
+15.	Dağıtım Lisansı olarak lisanslanmıştır.
+16.	Müşteri, Katma Değerli Uygulamaları oluşturmak için SDK'lar veya API'ler kullanabilir ve bu Katma Değerli Uygulamalar için ihracat yönetmeliği gereğince yasaklanmamış her yerde Katma Değerli Uygulamaları kullanmak üzere nihai kullanıcılara dağıtabilir ve lisans verebilir.
+17.	Rezerve.
+18.	Dağıtım Lisansı, bağımsız uygulamalar için bilgisayar başına ve Katma Değerli Uygulama başına verilir.
+19.	Lisans İnternet veya sunucu tabanlı Katma Değerli Uygulamaları geliştirmek için kullanılamaz.
+20.	Lisan Alan	, aşağıdakilerin hepsinin gerçekleşmiş olması kaydıyla Yazılımı çoğaltabilir ve dağıtabilir:
+
+a.	Yazılım bir bütün olarak kopyalanmıştır ve dağıtılmıştır;
+b.	Yazılımın her kopyasıyla birlikte Yazılımı aynen bu Lisans Anlaşmasında olduğu gibi koruyan bir lisans anlaşması bulunmaktadır ve alıcı, bu lisans anlaşmasının koşullarına ve hükümlerine bağlı kalmayı kabul etmektedir;
+c.	tüm telif hakkı ve ticari marka atıfları/bildirimleri çoğaltılmıştır; ve
+d.	Yazılımın kullanılmasına yönelik herhangi bir bedel veya ücret alınmamaktadır.
+
+21.	Müşteri, Müşteri'nin Adlandırılan Kullanıcılarına sunulmak üzere Katma Değerli Uygulama(lar) oluşturabilir. Müşteri, Katma Değerli Uygulama içine Belirlenmiş Kullanıcı kimlik bilgisi ekleyemez. Müşteri, Katma Değerli Uygulama içine Uygulama Oturum Açma Kimlik Bilgileri ekleyemez veya birlikte kullanamaz. Katma Değerli Uygulamalar Adlandırılan Kullanıcı oturum kimlik bilgilerini gerektirir.
+22.	a.	Bir son kullanıcının, 1 bilgisayar üzerinde ArcGIS Engine uygulamasını çalıştırma hakkını elde edebilmesi için ya ArcGIS Engine for Windows/Linux Yazılımının ya da diğer ArcGIS Desktop Yazılımının (ArcView, ArcEditor veya ArcInfo) lisansını alması gerekir; ve
+b.	ArcGIS Engine for Windows/Linux uzantıları, ArcGIS Engine Katma Değerli Uygulamalarını çalıştırmak için ArcGIS Desktop Yazılımı ile birlikte kullanılamaz. Tek bir kullanıcı, sadece o son kullanıcı tarafından kullanılmak üzere 1 bilgisayar üzerinde birden fazla ArcGIS Engine Katma Değerli Uygulama kurabilir.
+23.	Rezerve.
+24.	Yazılım sadece geliştirme, test ve prototip Katma Değerli Uygulamanın gösterilmesi ve harita önbelleklerinin oluşturulması amacıyla kullanılabilir. Katma Değerli Uygulamalar ve harita önbellekleri, Kademelendirme ve Dağıtım ArcGIS Enterprise sunucuları ile kullanılabilir. Yazılım ve Verileri, belirlenen herhangi bir ArcGIS Developer Subscribers with Extend veya daha yüksek abonelikler tarafından kullanılmak üzere birden çok bilgisayara kurulabilir; diğer tüm Yazılımlar Tek Kullanımlık Lisans olarak lisanslanmaktadır.
+25.	Rezerve.
+26.	Bir Personal Edition coğrafi veri tabanı, 10 gigabaytlık Müşteri verileriyle sınırlıdır.
+27.	Rezerve.
+28.	ArcGIS Enterprise Workgroup veya ArcGIS GIS Server Workgroup uygulamaları dışındaki uygulamalar, on (10) eşzamanlı son kullanıcı ile sınırlıdır. Bu sınırlama, ArcGIS Desktop Yazılımını, ArcGIS Engine Yazılımını ve herhangi bir ArcGIS Enterprise Workgroup ya da ArcGIS GIS Server Workgroup coğrafi veri tabanına doğrudan bağlı üçüncü şahıs uygulamalarını içerir. Web uygulamalarından gelen bağlantı sayısında herhangi bir sınırlandırma yoktur.
+29.	Yazılım, SQL Server Express'in desteklenen bir sürümü gerektirir. Desteklenen sürümler, Esri web sitesinde ürün sistem gereksinimlerinde verilmiştir.
+30.	Maksimum 10 gigabaytlık Müşteri'nin verisi ile sınırlıdır.
+31.	 	 Müşteri'nin yedek Esri Server Yazılım Kurulumları	üstlenme işlemleri için olabilir ancak yedek Yazılım sadece birincil site çalışmıyorken çalışabilir. Yedek Yazılım kurulumları, birincil site veya başka bir yedek site çalışırken, sistem bakımı ve veritabanlarının güncellenmesi durumu hariç olmak üzere, hareketsiz kalacaktır.
+32.	Devir işlemleri için yedek Yazılım kurulumuna izin verilmez.
+33-38.	Rezerve.
+39.	ArcGIS GIS Server'e dahil edilmiş hiçbir düzenleme işlevi, ArcGIS GIS Server Basic (Workgroup veya Enterprise) ile birlikte kullanılamaz.
+40-46.	Rezerve.
+47.	Müşteri, Esri File Geodatabase API'si kullanan Katma Değerli Uygulamalar geliştirebilir ve Müşteri'nin son kullanıcılarına dağıtabilir.
+48-53.	Rezerve.
+54.	ArcGIS for Windows Mobile Dağıtımları, ArcGIS for Server Enterprise (Advanced veya Standard), ArcGIS Enterprise Workgroup (Advanced), ArcGIS Desktop (Advanced, Standard, Basic) ve ArcGIS Engine Katma Değerli Uygulamaları ile birlikte kullanım için lisanslanmıştır.
+55-63.	Rezerve.
+64.	Web dağıtımı için Katma Değerli Uygulama(lar) diğer Esri Ürünleri ile birlikte kullanılmalıdır. Katma Değerli Uygulama(lar) daima diğer Esri Ürünleri ile birlikte kullanıldıkça üçüncü şahıs teknolojiler de Katma Değerli Uygulamalar ile birlikte kullanılabilir.
+65.	Yalnızca diğer Esri Ürünleriyle birlikte kullanılabilir. ArcGIS Earth her zaman için diğer Esri Ürünleri ile birlikte kullanıldıkça, üçüncü taraf teknolojileri de ArcGIS Earth ile birlikte kullanılabilir.
+66.	Masaüstü uygulamaları için her bir lisans, organizasyon başına verilir. Bu lisansın amaçları kapsamında, organizasyon bir öncelikli kayıtlı tek alan adına eşdeğerdir. Etki alanı, bir etki alanı kaydetme kuruluşu nezdinde kaydedilen İnternet etki alanı adıdır. Örneğin, example.com örneğinde, example.com kayıtlı tek etki alanı tanımlayıcısıdır. Benzer şekilde, example.com.xx adresinde (xx uzantısı kayıtlı ülke kodudur) example.com.xx, kayıtlı tek etki alanı tanımlayıcısıdır. Masaüstü uygulamaları, kayıtlı bir tek ana etki alanı tanımlayıcısına sahip bir organizasyonun herhangi bir çalışanı tarafından kullanılabilir. Bir organizasyonunda oluşturulabilecek ve kurulup kullanılabilecek uygulama sayısı sınırsızdır.
+67.	Her bir yıllık abonelik 250.000.000 coğrafi kodla sınırlıdır.
+ ÇEVRİMİÇİ HİZMETLER
+
+Belirli Çevrimiçi Hizmetlere uygulanan ek kullanım koşulları aşağıdaki tabloda gösterilmiştir. Her Ürün listelemesi, o Ürüne uygulanan bir ya da daha fazla dipnotu tanımlar. Her bir dipnotun tanımı için tabloyu takip edin. Yürürlükteki Sipariş Belgesinde aksi belirtilmediği takdirde Yazılım modülleri ilgili Yazılım için verilenle aynı kullanım kapsamına tabidir.
+
+▪	ArcGIS Online abonelikler, çoklu Satış Programları aracılığıyla erişilebilirdir:
+
+-	Ticari Satış, EAs; Hükümet Programları (1; 2; 3; 11; 12; 14; 20)
+-	Eğitim Programı(1; 2; 8; 10; 14; 19)
+-	 	 Kar Gözetmeyen Program	(1; 2; 8; 14; 19; 20)
+
+▪	ArcGIS Online Geliştirici Dağıtımı aboneliklerine aracılığıyla erişilebilir olan çoklu Satış Programları:
+
+-	Ticari Satış, EAs; Hükümet Programları
+	Bedava Abonelik (1; 8; 9; 10; 13; 19; 20)
+	Ücretli Abonelik (1; 8; 9; 10; 11; 13; 20)
+-	Eğitim, 	Sivil Toplum Kuruluşu	/Kar Amacı Gütmeyen Kuruluş, Basın/Medya Programları
+	Bedava Abonelik (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Ücretli Abonelik (1; 3; 4; 5; 6; 9; 10; 13; 19)
+-	Sivil Toplum Kuruluşu/Kar Amacı Gütmeyen Kuruluş, Basın/Medya Programları
+	Bedava Abonelik (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+	Ücretli Abonelik (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+
+▪	Kamu Planı
+-	 	 Ticari	Satış, EAs; Hükümet; Sivil Toplum Kuruluşu/Kar Amacı Gütmeyen Kuruluş, Basın/Medya Programları (1; 4; 5; 6; 7; 9; 10; 15; 19; 20)
+-	Eğitim Programları (1; 4; 5; 6; 7; 9; 10; 15; 19)
+▪	Esri Business Analyst Online (16)
+▪	Esri Business Analyst Online Mobile (16)
+▪	Esri Community Analyst (16)
+▪	Esri MapStudio (17)
+
+ Dipnotlar:
+
+1.	Online Services genel kullanım koşullarına ek olarak:
+
+a.	Müşteri, Müşteri'nin iç kullanımı amacıyla bir Katma Değerli Uygulama oluşturmak için kendi Esri Çevrimiçi Hizmetler aboneliğini kullanabilir.
+b.	Müşteri, aşağıdaki koşullara tabi olmak üzere üçüncü taraflara Müşteri'nin Katma Değerli Uygulamalarına erişim de verebilir:
+
+i.	Müşteri, Anonim Kullanıcıların Müşteri'nin Katma Değerli Uygulamalarına erişmesine izin verebilir.
+ii.	Müşteri, üçüncü tarafların Müşteri'nin Katma Değerli Uygulamalarına erişmesini sağlamak için bunları Müşteri'nin ArcGIS Online aboneliğine Belirli Kullanıcılar olarak eklememelidir. Bu kısıtlama, Belirli Kullanıcılar tanımında yer alan üçüncü taraflar için geçerli değildir.
+iii.	Müşteri, üçüncü taraflara, Müşteri'nin Katma Değerli Uygulamaları dışında Müşteri'nin ArcGIS Online aboneliği üzerinden sağlanan ArcGIS Online Hizmetlerine erişim sağlamamalıdır. Bu kısıtlama, Belirli Kullanıcılar tanımında yer alan üçüncü taraflar için geçerli değildir.
+iv.	Müşteri, Müşteri'nin Katma Değerli Uygulamalarına teknik destek sağlamaktan tamamen sorumludur.
+v.	Müşteri, Online Services'ın kullanımı sırasında normal olarak görüntülenmesi gereken ticari markaların veya logoların hiçbirini yazılı izin almaksızın kaldıramaz veya engelleyemez. Müşteri, uygulamasının Esri'nin Online Services uygulamasını kullandığını, uygulaması bu kullanımı Online Services için otomatik olarak görüntülemiyorsa, uygulamasına eklemek zorundadır. Gerekli açıklamalar Belgeler'de verilmektedir.
+vi.	Müşteri, Katma Değerli Uygulama içine Belirlenmiş Kullanıcı kimlik bilgisi ekleyemez. ArcGIS Online Uygulaması Oturum Açma Kimlik Bilgisi, sadece ArcGIS Online'a genel, anonim erişim sağlamak için kullanılan Katma Değerli Uygulama içine eklenebilir. Müşteri, dahili kullanım amacıyla Katma Değerli Uygulama içine ArcGIS Online Uygulaması Oturum Açma Kimlik Bilgisi ekleyemez veya birlikte kullanamaz. Dahili olarak kullanılan Katma Değerli Uygulamalar Belirli Kullanıcı oturum açma kimlik bilgisi gerektirir.
+
+c.	World Geocoding Service: Müşteri, ArcGIS Online aboneliği olmaksızın hizmetin kullanımından elde edilen konum kodlu sonuçları saklayamaz.
+d.	Infographics Service: Müşteri bu hizmet aracılığıyla erişilebilen verileri sadece görüntüleme amaçlı olarak kullanabilir. Müşterinin bu hizmet aracılığıyla erişebildiği verileri kaydetmesi yasaktır.
+
+2.	Müşteri'nin organizasyonun herhangi bir iş amacı için kullanılabilir.
+3.	Müşteri'nin organizasyonu için geliştirme ve test amacıyla kullanılabilir.
+4.	Eğitim organizasyonunda eğitmek amaçlı kullanılabilir.
+5.	Müşteri'nin nitelikli STK/Kar Amacı gütmeyen organizasyonun faydasına kullanılabilir.
+6.	Basın veya medya organizasyonun faydasına kullanılabilir.
+7.	Kişisel kullanım için kullanılabilir.
+8.	Abone'nin Katma Değerli Uygulamaları, kamusal erişim için yayınlanmalıdır.
+9.	Kar veya hükümet organizasyonun faydasına kullanılamaz.
+10.	Müşteri, özel gruplar oluşturamaz veya herhangi özel gruplarda yer alamaz.
+11.	Müşteri Katma Değerli Uygulamaları bir ücret karşılığı üçüncü kişilere erişilebilir yapabilir.
+12.	Müşteri bu aboneliğini özel gruplar oluşturmak veya özel gruplarda yer almak için kullanabilir.
+13.	Her abonelik, Müşteri'nin aboneliği ile bağlantılı olarak aylık 1.000.000 altlık haritası ve 1.000.000 konum arama İşlemi kullanabilir. "İşlem" http://links.esri.com/agol/transactiondef adresindeki ArcGIS Resources'da bulunan Dokümantasyonda tanımlanmaktadır.
+14.	Her abonelik, aylık bir milyon (1.000.000) altlık haritası ve konum arama İşlemleri kombinasyonu ile sınırlıdır. "İşlem" http://links.esri.com/agol/transactiondefadresindeki ArcGIS Resources'da bulunan Dokümantasyonda tanımlanmaktadır.
+15.	Sadece eğitim amacıyla birden çok kayıtlı öğrenci arasında Çevrimiçi Hizmetlere erişim ve tek abonelik paylaşmak için eğitim kurumunun kayıtlı öğrencilere izin verilir.
+16.	Müşteri, Business Analyst Online ya da Community Analyst Raporları ve haritalarının en fazla 100 birleşimini kendi harici web sitelerinizde görüntüleyebilir veya bunlara gönderebilir.
+17.	Lisans Alan, Ek 2, Not 1'deifade edilen ArcGIS Online Data için tüm kısıtlamalara tabi olarak habercilik amacıyla haritaları basılı kopya ve statik elektronik formatta oluşturabilir, halka açık bir şekilde görüntüleyebilir ve dağıtabilir.
+18.	Rezerve.
+19.	Müşteri üçüncü taraflara Katma Değerli Uygulamaları'nı ücret karşılığı sunamaz.
+20.	Lisans Alan, üçüncü bir taraf adına Lisans Alan olamaz.
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>RiverReaches</Name>
+    <Version>1.0.10</Version>
+    <Title>RiverReaches 1.0.10</Title>
+    <Publisher></Publisher>
+    <ProductUrl></ProductUrl>
+    <Logo>logo.png</Logo>
+    <InstallerWindowIcon>icon</InstallerWindowIcon>
+    <InstallerApplicationIcon>icon</InstallerApplicationIcon>
+    <Watermark>watermark.png</Watermark>
+    <Background>background.png</Background>
+    <StartMenuDir>ArcGIS/RiverReaches</StartMenuDir>
+    <TargetDir>@homeDir@/ArcGIS/RiverReaches</TargetDir>
+    <AdminTargetDir>@rootDir@/ArcGIS/RiverReaches</AdminTargetDir>
+    <RunProgram></RunProgram>
+    <RunProgramDescription></RunProgramDescription>
+    <AllowSpaceInPath>true</AllowSpaceInPath>
+    <AllowNonAsciiCharacters>true</AllowNonAsciiCharacters>
+</Installer>

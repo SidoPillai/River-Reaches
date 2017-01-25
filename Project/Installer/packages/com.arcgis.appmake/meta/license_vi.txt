@@ -1,0 +1,575 @@
+﻿QUAN TRỌNG-ĐỌC CẨN THẬN
+(E204CW 09/22/2016)
+
+Trừ khi được thay thế bởi một thỏa thuận cấp phép đã ký giữa bạn và Esri, Esri sẽ chỉ sẵn sàng cấp phép Sản phẩm cho bạn khi bạn đồng ý tất cả các điều khoản và điều kiện có trong Thỏa thuận này. Vui lòng đọc cẩn thận các điều khoản và điều kiện này. Bạn không thể sử dụng Sản phẩm của Esri cho đến khi bạn đồng ý với các điều khoản và điều kiện của Thỏa thuận. Nếu bạn không đồng ý với các điều khoản và điều kiện được trình bày, hãy bấm vào "Tôi không đồng ý với thỏa thuận" ở bên dưới; sau đó bạn có thể yêu cầu hoàn trả các khoản phí hiện hành.
+
+Thỏa thuận này là thỏa thuận giữa bạn ("Khách hàng") và Environmental Systems Research Institute, Inc. ("Esri"), một tập đoàn ở California có trụ sở tại 380 New York Street, Redlands, California 92373-8100 USA.
+
+1.0 CÁC QUYỀN ĐƯỢC CẤP VÀ CÁC HẠN CHẾ CHUNG
+
+1.1 Tài liệu A đính kèm chứa định nghĩa của các thuật ngữ được viết hoa trong Thỏa thuận này. Mỗi mục của Thỏa thuận này có thể bao gồm các định nghĩa bổ sung được sử dụng riêng trong mục đó.
+
+1.2 Các quyền Được cấp. Căn cứ vào khoản thanh toán của Khách hàng cho tất cả các khoản phí hiện hành và tuân theo Thỏa thuận này, Esri cấp cho Khách hàng quyền cá nhân, không độc quyền, không thể chuyển nhượng để
+
+a.	Sử dụng Sản phẩm của Esri như được quy định trong Tài liệu này và các Tài liệu Đặt hàng hiện hành;
+b.	Sao chép và tạo các sản phẩm phái sinh của Tài liệu cho mục đích sử dụng nội bộ của chính Khách hàng khi sử dụng cùng với các Sản phẩm mà Khách hàng được cấp phép. Khách hàng sẽ bao gồm thông báo ghi nhận bản quyền sau công nhận các quyền độc quyền của Esri và nhà cấp phép của Esri trong bất kỳ sản phẩm phái sinh nào:
+
+"Các phần tài liệu này bao gồm tài sản trí tuệ của Esri và các nhà cấp phép của Esri và được sử dụng theo giấy phép. Bản quyền (c) [Khách hàng sẽ thêm (các) ngày bản quyền thực tế từ tài liệu nguồn.] Esri và các nhà cấp phép của Esri. Mọi quyền được bảo lưu".
+
+Các quyền được cấp trong mục này (i) tiếp tục được duy trì cho khoảng thời gian của đăng ký hay Thời hạn được áp dụng hoặc vĩnh viễn nếu không có Thời hạn nào được áp dụng hoặc được xác định trong Tài liệu Đặt hàng và (ii) tuân theo các quyền và hạn chế bổ sung trong Thỏa thuận này, bao gồm cả Tài liệu B đính kèm.
+
+1.3 Quyền truy cập của Tư vấn viên hoặc Nhà thầu. Khách hàng chỉ được cho phép tư vấn viên hoặc nhà thầu của mình sử dụng Sản phẩm của Esri vì lợi ích của Khách hàng. Khách hàng sẽ chịu hoàn toàn trách nhiệm đối với việc tuân thủ Thỏa thuận này của tư vấn viên và nhà thầu đồng thời đảm bảo rằng từng tư vấn viên hoặc nhà thầu sẽ ngừng sử dụng Sản phẩm của Esri sau khi hoàn thành công việc cho Khách hàng. Nghiêm cấm việc tư vấn viên hoặc nhà thầu truy cập hoặc sử dụng Sản phẩm của Esri mà không vì lợi ích của Khách hàng.
+
+1.4 Giấy phép Đánh giá và Beta. Các sản phẩm có được theo đăng ký hoặc giấy phép đánh giá hoặc theo chương trình Beta chỉ được dùng cho mục đích đánh giá và kiểm tra, không dành cho mục đích sử dụng thương mại. Mọi sử dụng cho mục đích thương mại sẽ do Khách hàng tự chịu rủi ro và Sản phẩm sẽ không đủ điều kiện để được Bảo dưỡng. Nếu Khách hàng không chuyển đổi sang đăng ký hoặc giấy phép phải trả phí trước khi hết thời hạn đánh giá, Khách hàng có thể mất mọi nội dung và tùy chỉnh được thực hiện trong thời hạn đánh giá. Nếu không muốn mua giấy phép hoặc đăng ký, Khách hàng nên xuất nội dung này trước khi kết thúc thời gian đánh giá.
+
+1.5 Chương trình dành cho Giáo dục. Khách hàng đồng ý chỉ sử dụng Sản phẩm do Esri cung cấp theo chương trình dành cho giáo dục cho mục đích giáo dục trong Thời hạn sử dụng dành cho giáo dục. Khách hàng không được sử dụng Sản phẩm cho bất kỳ mục đích Sử dụng Quản lý nào trừ khi Khách hàng có được giấy phép cho mục đích Sử dụng Quản lý. "Mục đích Sử dụng Quản lý" nghĩa là các hoạt động quản lý không trực tiếp liên quan đến hướng dẫn hay giáo dục, chẳng hạn như ánh xạ nội dung, quản lý cơ sở, phân tích nhân khẩu học, định tuyến, an toàn trường sở và phân tích khả năng tiếp cận. Khách hàng không được sử dụng Sản phẩm cho các mục đích tạo doanh thu hoặc vì lợi nhuận.
+
+1.6 Chương trình Trợ cấp.Khách hàng chỉ có thể sử dụng Sản phẩm mà Esri cung cấp theo chương trình trợ cấp cho mục đích phi thương mại. Ngoại trừ mục đích bù vào chi phí sử dụng và vận hành Sản phẩm của Esri, Khách hàng không được sử dụng Sản phẩm của Esri cho mục đích tạo doanh thu hoặc vì lợi nhuận.
+
+1.7 Các chương trình Sử dụng Bị giới hạn Khác của Esri.Nếu Khách hàng có được Sản phẩm của Esri theo bất kỳ chương trình sử dụng bị giới hạn nào không được liệt kê ở trên, việc Khách hàng sử dụng Sản phẩm của Esri phải tuân theo các điều khoản được quy định trong trang bắt đầu hoặc mẫu đăng ký tham gia tương ứng hoặc như được mô tả trên trang web của Esri cộng với các điều khoản không xung đột của Thỏa thuận này.
+
+1.8 Các quyền Được bảo lưu. Tất cả các Sản phẩm của Esri đều là các sản phẩm có bản quyền của Esri hoặc nhà cấp phép của Esri; tất cả các quyền không được cấp rõ ràng trong Thỏa thuận này đều được bảo lưu.
+
+2.0 ĐIỀU KHOẢN SỬ DỤNG PHẦN MỀM
+
+2.1 Các loại Giấy phép. Esri cấp phép Phần mềm theo các loại giấy phép sau:
+
+a.	Giấy phép Sử dụng Đồng thời: Khách hàng có thể cài đặt và sử dụng Phần mềm trên (các) máy tính thuộc cùng một mạng, nhưng số lượng người dùng đồng thời không được vượt quá số lượng giấy phép được cấp. Giấy phép Sử dụng Đồng thời bao gồm quyền chạy các phiên bản dự phòng bị động của phần mềm quản lý Giấy phép Sử dụng Đồng thời trong một môi trường hệ điều hành riêng để hỗ trợ dự phòng tạm thời.
+b.	Giấy phép Triển khai: Khách hàng có thể kết hợp các cấu phần ArcGIS Runtime vào Ứng dụng Giá trị Gia tăng và phân phối Ứng dụng Giá trị Gia tăng đó tới người dùng cuối của Khách hàng.
+c.	Giấy phép Máy chủ Triển khai: Khách hàng có thể sử dụng Phần mềm theo Giấy phép Máy chủ cho mọi mục đích sử dụng được phép trong Thỏa thuận và như được mô tả trong Tài liệu.
+d.	Giấy phép Máy chủ Phát triển: Khách hàng có thể sử dụng Phần mềm theo Giấy phép Máy chủ để xây dựng và thử nghiệm các Ứng dụng Giá trị Gia tăng như được mô tả trong Tài liệu.
+e.	Mục đích Sử dụng Phát triển: Khách hàng có thể cài đặt và sử dụng Phần mềm để xây dựng và thử nghiệm các Ứng dụng Giá trị Gia tăng như được mô tả trong Tài liệu.
+f.	Giấy phép Sử dụng Chung: Khách hàng có thể cài đặt Phần mềm trên một máy tính để bàn và sử dụng đồng thời với một thiết bị kỹ thuật số trợ giúp cá nhân (PDA) hoặc máy tính xách tay miễn là tại bất kỳ thời điểm nào, Phần mềm chỉ được sử dụng bởi một cá nhân duy nhất.
+g.	Giấy phép Dự phòng: Khách hàng có thể cài đặt Phần mềm trên các hệ thống dư thừa cho các trường hợp dự phòng, tuy nhiên Phần mềm được cài đặt dôi ra chỉ có thể hoạt động trong thời gian trang web chính thức không hoạt động. Ngoại trừ trường hợp bảo dưỡng hệ thống và cập nhật cơ sở dữ liệu, (các) bản cài đặt Phần mềm dôi ra sẽ không hoạt động khi trang web chính (hoặc bất kỳ trang web dôi ra nào khác) hoạt động.
+h.	Giấy phép Phân phối lại: Khách hàng có thể tái tạo và phân phối Phần mềm miễn là
+
+1.	Khách hàng tái tạo và phân phối toàn bộ Phần mềm;
+2.	Có một thỏa thuận cấp phép đi kèm với mỗi bản sao của Phần mềm, bảo vệ Phần mềm ở cùng một mức như Thỏa thuận này và người nhận đồng ý với các điều khoản và điều kiện của thỏa thuận cấp phép đó;
+3.	Khách hàng tái tạo tất cả các thông báo cũng như các quy định thương hiệu và bản quyền; và
+4.	Khách hàng không tính khoản phí nào khác ngoài khoản phí sử dụng Phần mềm.
+
+i.	Giấy phép Máy chủ: Khách hàng có thể cài đặt và sử dụng Phần mềm trên máy chủ. Giấy phép máy chủ có thể phải tuân theo giới hạn về số lõi của máy chủ hoặc số lượng triển khai được phân phối trên nhiều máy chủ như được mô tả trong Tài liệu Đặt hàng hoặc Tài liệu. Nếu mô tả Phần mềm bao gồm cả việc sử dụng dự phòng, mỗi Giấy phép Máy chủ sẽ có một Giấy phép Dự phòng.
+j.	Giấy phép Sử dụng Đơn lẻ Khách hàng có thể cho phép một người dùng cuối được cấp quyền cài đặt và sử dụng Phần mềm trên một máy tính duy nhất. Khách hàng có thể cho phép một người dùng cuối được cấp quyền cài đặt bản sao thứ hai để phục vụ cho việc sử dụng độc quyền của người dùng cuối này trên một máy tính thứ hai, miễn là vào bất kỳ thời điểm nào, chỉ có 1 bản sao của Phần mềm được sử dụng. Không người dùng cuối nào khác được sử dụng Phần mềm theo cùng một giấy phép tại cùng một thời điểm cho bất kỳ mục đích nào khác.
+k.	Giấy phép Máy chủ Tổ chức: Khách hàng có thể sử dụng Phần mềm theo Giấy phép Máy chủ để xây dựng và thử nghiệm các Ứng dụng Giá trị Gia tăng và bộ nhớ cache bản đồ; tiến hành kiểm tra mức độ chấp nhận của người dùng, kiểm tra hiệu suất cũng như kiểm tra tải của phần mềm khác của bên thứ ba; tổ chức các bản cập nhật dữ liệu thương mại mới; và tiến hành các hoạt động đào tạo như được mô tả trong Tài liệu. Khách hàng có thể sử dụng các Ứng dụng Giá trị Gia tăng và bộ nhớ cache bản đồ với Máy chủ Triển khai và Phát triển.
+
+2.2 Mục đích Sử dụng Được phép
+
+a.	Khách hàng có thể
+
+1.	Cài đặt, truy cập hoặc lưu trữ Phần mềm và Dữ liệu trên (các) thiết bị lưu trữ điện tử;
+2.	Tạo các bản sao lưu trữ và các bản sao lưu thường xuyên cho máy tính;
+3.	Cài đặt và sử dụng phiên bản Phần mềm mới hơn cùng với phiên bản sẽ được thay thế trong thời gian chuyển tiếp hợp lý không quá 6 tháng, miễn là việc triển khai một trong hai phiên bản không vượt quá số lượng được cấp phép cho Khách hàng; sau đó, Khách hàng sẽ không được sử dụng tổng cộng nhiều Phần mềm hơn tổng số được cấp phép cho Khách hàng. Điều này không áp dụng cho Phần mềm được cấp phép để Sử dụng cho Mục đích Phát triển.
+4.	Chuyển Phần mềm trong cấu hình được cấp phép vào máy tính thay thế;
+5.	Phân phối Phần mềm và bất kỳ Mã Cấp quyền được liên kết nào cần thiết để sử dụng Giấy phép Triển khai cho bên thứ ba; và
+6.	Sử dụng Phần mềm máy chủ cho mục đích Sử dụng ASP Thương mại nếu Khách hàng đã mua giấy phép Sử dụng ASP Thương mại hoặc là một tổ chức chính phủ hoặc tổ chức phi lợi nhuận điều hành một trang web hoặc cung cấp dịch vụ Internet trên cơ sở lấy thu bù chi và không vì mục đích lợi nhuận.
+
+b.	Khách hàng có thể tùy chỉnh Phần mềm bằng bất kỳ ngôn ngữ macro hay ngôn ngữ soạn tập lệnh, API hoặc thư viện mã đối tượng hay mã nguồn nào, nhưng chỉ trong trường hợp việc tùy chỉnh đó được mô tả trong Tài liệu.
+c.	Khách hàng có thể sử dụng tất cả các phông chữ được cung cấp kèm theo Phần mềm cho bất kỳ mục đích sử dụng Phần mềm được phép nào. Khách hàng cũng có thể sử dụng riêng các phông chữ của Esri để in bất kỳ nội dung nào do Phần mềm tạo ra. Mọi hạn chế sử dụng đối với phông chữ của bên thứ ba đi kèm với Phần mềm được quy định trong chính tệp phông chữ.
+d.	Phụ mục 1 cung cấp các điều khoản sử dụng cụ thể theo Sản phẩm cho từng Phần mềm riêng lẻ. Esri có thể cập nhật Phụ mục 1 bất cứ lúc nào.
+
+2.3 Bảo dưỡng. Nếu Khách hàng ở Hoa Kỳ, Esri sẽ cung cấp dịch vụ Bảo dưỡng tuân theo Chương trình Hỗ trợ và Bảo dưỡng của Esri. Những Khách hàng ở ngoài Hoa Kỳ có thể nhận được dịch vụ Bảo dưỡng từ nhà phân phối của Esri tại địa phương theo các điều khoản riêng của nhà phân phối.
+
+3.0 ĐIỀU KHOẢN SỬ DỤNG DỊCH VỤ TRỰC TUYẾN
+
+3.1 Định nghĩa. Các định nghĩa sau bổ sung cho các định nghĩa có trong Tài liệu A đính kèm:
+
+a.	"Người dùng Ẩn danh" có nghĩa là tất cả những người có quyền truy cập công khai (nghĩa là không phải cung cấp Thông tin Đăng nhập của Người dùng Được đặt tên) cho bất kỳ phần Nội dung hoặc Ứng dụng Giá trị Gia tăng nào của Khách hàng. Khách hàng có thể cho phép Người dùng Ẩn danh truy cập Nội dung hoặc Ứng dụng Giá trị Gia tăng của mình bằng cách đăng nội dung hoặc ứng dụng thông qua Công cụ Chia sẻ, kèm với quyền sử dụng các Dịch vụ Trực tuyến mà Khách hàng được cấp phép.
+b.	"Thông tin Đăng nhập Ứng dụng" nghĩa là thông tin đăng nhập và mật khẩu liên kết do ứng dụng tạo ra, được cung cấp bằng cách đăng ký một Ứng dụng Giá trị Gia tăng với ArcGIS Online, có thể được nhúng vào một Ứng dụng Giá trị Gia tăng để cho phép Ứng dụng Giá trị Gia tăng đó truy cập và sử dụng Dịch vụ Trực tuyến.
+c.	"Tín dụng Dịch vụ" nghĩa là đơn vị trao đổi được phân bổ với một đăng ký Dịch vụ Trực tuyến với số tiền được quy định trong Tài liệu Đặt hàng.
+d.	"Công cụ Chia sẻ" có nghĩa là các tính năng đăng nội dung và ứng dụng đi kèm với Dịch vụ Trực tuyến và Trang web ArcGIS cho phép Khách hàng cung cấp Nội dung và Ứng dụng Giá trị Gia tăng của Khách hàng cho các bên thứ ba và/hoặc Người dùng Ẩn danh.
+
+3.2 Đăng ký Dịch vụ Trực tuyến. Esri cung cấp các đăng ký Dịch vụ Trực tuyến theo những điều khoản sau. Phụ mục 1 cũng cung cấp các điều khoản sử dụng cụ thể theo Sản phẩm cho từng Dịch vụ Trực tuyến riêng lẻ.
+
+3.3 Điều khoản về Dịch vụ Trực tuyến Đăng ký. Đối với Dịch vụ Trực tuyến đăng ký, Esri sẽ
+
+a.	Cung cấp Dịch vụ Trực tuyến cho Khách hàng tuân theo Tài liệu;
+b.	Cung cấp dịch vụ Bảo dưỡng theo Chương trình Hỗ trợ và Bảo dưỡng của Esri nếu Khách hàng ở Hoa Kỳ. Những Khách hàng ở ngoài Hoa Kỳ có thể nhận được dịch vụ Bảo dưỡng từ nhà phân phối của Esri theo các điều khoản riêng của nhà phân phối.
+c.	Cung cấp hỗ trợ khách hàng theo chính sách hỗ trợ khách hàng tiêu chuẩn của Esri và bất kỳ hỗ trợ bổ sung nào mà Khách hàng có thể mua; và
+d.	Dùng mọi nỗ lực hợp lý về mặt thương mại để đảm bảo rằng Dịch vụ Trực tuyến sẽ không truyền tới Khách hàng bất kỳ Mã Độc nào, với điều kiện là Esri không chịu trách nhiệm đối với Mã Độc đã được đưa vào Dịch vụ Trực tuyến thông qua đăng ký của Khách hàng hoặc thông qua Nội dung của bên thứ ba.
+
+3.4 Quyền truy cập Ứng dụng Giá trị Gia tăng
+
+a.	Người dùng Được đặt tên có thông tin đăng nhập riêng, duy nhất. Người dùng Được đặt tên có quyền truy cập cá nhân vào các tính năng của Dịch vụ Trực tuyến mà Người dùng Ẩn danh không thể truy cập công khai.
+b.	Khách hàng có thể sử dụng đăng ký Dịch vụ Trực tuyến của mình để xây dựng (các) Ứng dụng Giá trị Gia tăng cho mục đích sử dụng nội bộ của Người dùng Được đặt tên.
+c.	Khách hàng có thể chuyển giao Ứng dụng Giá trị Gia tăng cho bất kỳ bên thứ ba nào để sử dụng cùng với đăng ký Dịch vụ Trực tuyến của bên thứ ba đó.
+d.	Khách hàng không được thêm các bên thứ ba làm Người dùng Được đặt tên vào đăng ký Dịch vụ Trục tuyến của Khách hàng nhằm mục đích cho phép bên thứ ba truy cập (các) Ứng dụng Giá trị Gia tăng của Khách hàng. Hạn chế này không áp dụng cho các bên thứ ba được bao gồm trong định nghĩa về Người dùng Được đặt tên.
+e.	Khách hàng không được cấp cho bên thứ ba quyền truy cập vào Dịch vụ ArcGIS Online thông qua đăng ký ArcGIS Online của Khách hàng thay vì thông qua (các) Ứng dụng Giá trị Gia tăng của Khách hàng. Hạn chế này không áp dụng cho các bên thứ ba được bao gồm trong định nghĩa về Người dùng Được đặt tên.
+f.	Khách hàng có thể cho phép Người dùng Ẩn danh truy cập (các) Ứng dụng Giá trị Gia tăng của Khách hàng đang chạy dưới đăng ký của Khách hàng, tuân theo các điều khoản sau:
+
+1.	Khách hàng có thể tính phí cho việc truy cập này với các loại đăng ký cho phép sử dụng cho mục đích tạo doanh thu.
+2.	Khách hàng có thể nhúng Thông tin Đăng nhập Ứng dụng vào Ứng dụng Giá trị Gia tăng nhưng không thể nhúng thông tin đăng nhập của Người dùng Được đặt tên.
+3.	Khách hàng chịu trách nhiệm cho tất cả các khoản Tín dụng Dịch vụ được chi cho việc Người dùng Ẩn danh sử dụng (các) Ứng dụng Giá trị Gia tăng của Khách hàng.
+4.	Khách hàng chịu hoàn toàn trách nhiệm cung cấp hỗ trợ kỹ thuật cho (các) Ứng dụng Giá trị Gia tăng của Khách hàng.
+5.	Khách hàng không được cho phép Người dùng Ẩn danh truy cập Ứng dụng Giá trị Gia tăng chỉ được dành cho mục đích sử dụng nội bộ của Khách hàng; các Ứng dụng Giá trị Gia tăng được sử dụng nội bộ yêu cầu thông tin đăng nhập của Người dùng Được đặt tên.
+
+3.5 Trách nhiệm của Khách hàng
+
+a.	Khách hàng hoàn toàn chịu trách nhiệm đối với việc phát triển và vận hành Nội dung và Ứng dụng Giá trị Gia tăng của Khách hàng cũng như đối với sự tuân thủ Thỏa thuận này của Người dùng Được đặt tên. Khách hàng và Người dùng Được đặt tên hoặc Người dùng Ẩn danh của Khách hàng (nếu có) là những cá nhân duy nhất được cấp quyền truy cập Dịch vụ Trực tuyến thông qua đăng ký của Khách hàng. Thông tin đăng nhập của Người dùng Được đặt tên chỉ dành cho Người dùng Được đặt tên đã chỉ định và không được phép dùng chung với các cá nhân khác. Khách hàng có thể chỉ định thông tin đăng nhập của Người dùng Được đặt tên cũ cho Người dùng Được đặt tên mới nếu người dùng cũ không còn cần quyền truy cập vào Dịch vụ Trực tuyến nữa. Khách hàng sẽ lập tức thông báo cho Esri nếu Khách hàng nhận thấy việc sử dụng trái phép đăng ký của Khách hàng hoặc bất kỳ hành vi vi phạm bảo mật nào khác.
+b.	Nếu Khách hàng sử dụng các công cụ phát triển ứng dụng không phải của Esri để xây dựng ứng dụng truy cập vào Dịch vụ Trực tuyến của Esri, Khách hàng phải bao gồm quy định xác nhận rằng ứng dụng của Khách hàng sử dụng Dịch vụ Trực tuyến của Esri. Các nguyên tắc được cung cấp trong Tài liệu.
+
+3.6 Sửa đổi Nội dung Trực tuyến. Esri có thể thay đổi Dịch vụ Trực tuyến và API được liên kết bất cứ lúc nào, trong đó phải thông báo trước 30 ngày đối với những thay đổi quan trọng và 90 ngày đối với trường hợp ngừng cung cấp dịch vụ. Nếu bất kỳ hoạt động sửa đổi, dừng hoặc ngừng cung cấp Dịch vụ Trực tuyến nào gây ra tác động bất lợi nghiêm trọng tới hoạt động của Khách hàng, Esri có thể, theo quyết định của mình, cố gắng sửa chữa, khắc phục hoặc đưa ra giải pháp thay thế cho Dịch vụ Trực tuyến. Nếu giải pháp khả thi không hợp lý về mặt thương mại, Khách hàng có thể hủy đăng ký Dịch vụ Trực tuyến và Esri sẽ hoàn lại tiền theo tỷ lệ.
+
+3.7 Thay đổi Giá Đăng ký. Esri có thể tăng giá đối với các đăng ký có thời hạn trên 1 tháng bằng cách thông báo cho Khách hàng trước khi kết thúc thời hạn đăng ký hiện hành khi đó ít nhất 60 ngày. Esri có thể tăng giá đăng ký hàng tháng sau khi thông báo trước 30 ngày.
+
+3.8 Nội dung của Khách hàng
+
+a.	Quyền sở hữu. Khách hàng vẫn có mọi quyền và lợi ích liên quan tới Nội dung của Khách hàng. Khách hàng theo đó cấp cho Esri và nhà cung cấp hoặc người cấp phép của Esri quyền không độc quyền, không thể chuyển nhượng, trên toàn cầu để lưu trữ, chạy và tái tạo Nội dung của Khách hàng chỉ với mục đích là cho phép Khách hàng có thể sử dụng Dịch vụ Trực tuyến. Nếu không có sự cho phép của Khách hàng, Esri sẽ không truy cập, sử dụng hay tiết lộ Nội dung của Khách hàng ngoại trừ trường hợp cần thiết để hỗ trợ việc sử dụng Dịch vụ Trực tuyến của Khách hàng, phản hồi yêu cầu hỗ trợ của Khách hàng hoặc khắc phục sự cố xảy ra với đăng ký của Khách hàng hoặc cho bất kỳ mục đích nào khác được Khách hàng cho phép bằng văn bản. Nếu Khách hàng truy cập Dịch vụ Trực tuyến bằng một ứng dụng do bên thứ ba cung cấp, Esri có thể tiết lộ Nội dung của Khách hàng cho bên thứ ba đó khi cần để cho phép hoạt động liên kết giữa ứng dụng, Dịch vụ Trực tuyến và Nội dung của Khách hàng. Esri có thể tiết lộ Nội dung của Khách hàng nếu luật hay quy định yêu cầu làm vậy hoặc theo lệnh của tòa án hay cơ quan chính phủ khác, trong trường hợp đó Esri sẽ tìm cách hợp lý để giới hạn phạm vi tiết lộ. Khách hàng chịu hoàn toàn trách nhiệm đảm bảo rằng Nội dung của Khách hàng phù hợp để sử dụng với Dịch vụ Trực tuyến và để duy trì bản sao lưu ngoại tuyến thường xuyên bằng khả năng tải xuống và xuất của Dịch vụ Trực tuyến.
+b.	Chia sẻ Nội dung của Khách hàng. Nếu Khách hàng chọn chia sẻ Nội dung của Khách hàng bằng Công cụ Chia sẻ thì điều đó có nghĩa là Khách hàng xác nhận rằng Khách hàng đã cho phép các bên thứ ba sử dụng, lưu trữ, lưu vào bộ nhớ cache, sao chép, tái tạo, phân phối (lại) và truyền (lại) Nội dung của Khách hàng thông qua Dịch vụ Trực tuyến. Esri không chịu trách nhiệm đối với mọi mất mát, xóa, sửa đổi hay tiết lộ Nội dung của Khách hàng phát sinh từ việc sử dụng hoặc sử dụng sai Công cụ Chia sẻ hay Dịch vụ Trực tuyến, Nội dung Trực tuyến, Trang web ArcGIS, Tài liệu hoặc nội dung có liên quan. Khách hàng tự chịu rủi ro khi sử dụng Công cụ Chia sẻ.
+c.	Truy xuất Nội dung của Khách hàng sau khi Chấm dứt. Sau khi chấm dứt Thỏa thuận hoặc bất kỳ thời gian dùng thử, đánh giá hoặc đăng ký nào, Esri sẽ cung cấp Nội dung của Khách hàng để Khách hàng tải xuống trong khoảng thời gian 30 ngày trừ khi Khách hàng yêu cầu thời gian ngắn hơn hoặc Esri bị cấm làm vậy theo luật. Sau thời gian đó, Khách hàng sẽ không còn quyền truy cập hoặc sử dụng Nội dung của Khách hàng bằng Dịch vụ Trực tuyến và Esri sẽ không có nghĩa vụ nào khác đối với việc lưu trữ hoặc trả lại Nội dung của Khách hàng.
+
+3.9 Giới hạn đối với Việc sử dụng Dịch vụ Trực tuyến; Tín dụng Dịch vụ. Mỗi đăng ký Dịch vụ Trực tuyến đều có Tín dụng Dịch vụ như được mô tả trong Tài liệu Đặt hàng hiện hành. Mỗi Tín dụng Dịch vụ cho phép Khách hàng sử dụng một lượng Dịch vụ Trực tuyến đã định, lượng này thay đổi tùy theo Dịch vụ Trực tuyến mà Khách hàng sử dụng. Khi Khách hàng sử dụng Dịch vụ Trực tuyến, Tín dụng Dịch vụ tự động được ghi nợ vào đăng ký của Khách hàng, cho đến số lượng Tín dụng Dịch vụ tối đa khả dụng. Khách hàng có thể mua Tín dụng Dịch vụ bổ sung khi cần. Esri sẽ thông báo cho quản trị viên tài khoản đăng ký của Khách hàng khi việc sử dụng Dịch vụ của Khách hàng đạt xấp xỉ 75% số Tín dụng Dịch vụ được phân bổ cho Khách hàng thông qua đăng ký của Khách hàng. Esri bảo lưu quyền tạm ngừng quyền truy cập của Khách hàng vào Dịch vụ Trực tuyến cần sử dụng Tín dụng Dịch vụ khi Khách hàng dùng hết Tín dụng Dịch vụ của mình. Esri sẽ ngay lập tức khôi phục quyền truy cập của Khách hàng vào Dịch vụ Trực tuyến sau khi Khách hàng mua thêm Tín dụng Dịch vụ.
+
+3.10 ArcGIS Enterprise với Virtual Cloud Infrastructure. Khách hàng sẽ cung cấp thông tin hoặc các tài liệu khác liên quan đến Nội dung của mình (bao gồm cả bản sao của bất kỳ ứng dụng bên máy khách nào) khi được yêu cầu một cách hợp lý để xác minh sự tuân thủ của Khách hàng đối với Thỏa thuận này. Esri có thể giám sát các giao diện bên ngoài (ví dụ: cổng) của Nội dung của Khách hàng để xác minh sự tuân thủ của Khách hàng đối với Thỏa thuận này. Khách hàng sẽ không được chặn hoặc can thiệp vào việc giám sát này, tuy nhiên Khách hàng có thể sử dụng công nghệ mã hóa hoặc tường lửa để giúp giữ bí mật Nội dung của mình. Khách hàng sẽ cộng tác ở mức hợp lý với Esri để xác định nguồn gốc của mọi sự cố xảy ra cho các dịch vụ ArcGIS Enterprise với Virtual Cloud Infrastructure mà một cách hợp lý có thể quy cho Nội dung của Khách hàng hoặc bất kỳ nội dung nào của người dùng cuối mà Khách hàng kiểm soát.
+
+4.0 ĐIỀU KHOẢN SỬ DỤNG DỮ LIỆU
+
+4.1 Định nghĩa. Các định nghĩa sau bổ sung cho các định nghĩa có trong Tài liệu A đính kèm:
+
+a.	"Dữ liệu Kinh doanh" có nghĩa là thông tin về các hoạt động kinh doanh, nhân khẩu học và hậu cần cho phép đưa ra các quyết định tốt hơn, tối ưu hóa quy trình nội bộ của doanh nghiệp, tăng hiệu quả hoạt động, tạo thêm doanh thu và lợi thế cạnh tranh so với các đối thủ kinh doanh.
+b.	"Gói Nội dung Esri" có nghĩa là một tệp kỹ thuật số chứa nội dung bản đồ cơ sở ArcGIS Online (ví dụ: ô bản đồ raster, hình ảnh, dữ liệu véc-tơ) được trích xuất từ dịch vụ bản đồ cơ sở ArcGIS Online.
+c.	"Dữ liệu Đường phố" có nghĩa là Dữ liệu bao gồm hoặc mô tả thông tin về đường, phố và các đối tượng liên quan.
+
+4.2 Mục đích Sử dụng Được phép
+
+a.	Khách hàng chỉ có thể sử dụng Dữ liệu cùng với các Sản phẩm theo đó Esri đã cung cấp Dữ liệu.
+g.	Khách hàng có thể bao gồm các bản trình bày Dữ liệu dưới hình thức bản cứng hoặc định dạng điện tử, tĩnh (ví dụ: PDF, GIF, JPEG) trong các gói trình bày, nghiên cứu tiếp thị hoặc trong các báo cáo hoặc tài liệu khác có chứa tóm tắt dữ liệu hoặc hình ảnh bản đồ được phái sinh từ việc sử dụng (các) Sản phẩm của Esri cho bên thứ ba theo các hạn chế được quy định trong Thỏa thuận Cấp phép này, với điều kiện là Khách hàng phải thêm vào các bản trình bày Dữ liệu một tuyên bố xác nhận nguồn của (các) phần Dữ liệu được sử dụng cho bản trình bày Dữ liệu là từ Esri và/hoặc (các) nhà cấp phép hiện hành của Esri.
+c.	Khách hàng có thể lấy dữ liệu bản đồ cơ sở ngoại tuyến ArcGIS Online thông qua Gói Nội dung của Esri, sau đó gửi (truyền) tới bất kỳ thiết bị nào để sử dụng riêng với ứng dụng ArcGIS Runtime, ArcGIS Desktop và ứng dụng ArcGIS API for Flex được cấp phép.
+d.	Esri không có bất kỳ quyền nào đối với dữ liệu của Khách hàng theo Thỏa thuận này.
+
+4.3 Hạn chế Sử dụng
+
+a.	Khách hàng không được trực tiếp hoặc cho phép khách hàng của mình tạo đồng nhãn hiệu Dữ liệu, sử dụng Dữ liệu trong bất kỳ dịch vụ hoặc sản phẩm không được cấp phép nào hoặc cung cấp Dữ liệu thông qua hoặc thay mặt cho bên thứ ba bất kỳ.
+b.	Khách hàng không được sử dụng hay cho phép bên thứ ba sử dụng Dữ liệu cho mục đích biên soạn, cải thiện, xác minh, bổ sung, thêm hoặc xóa khỏi tài liệu biên soạn thông tin được bán, cho thuê, xuất bản, chuẩn bị hoặc cung cấp cho bên thứ ba theo bất kỳ cách nào.
+c.	Dữ liệu Kinh doanh. Trừ khi được cho phép bằng văn bản, Khách hàng không được sử dụng Dữ liệu Kinh doanh cho bất kỳ mục đích tiếp thị trực tiếp nào, không được bán lại ấn bản dữ liệu hoặc phân phối cho bên thứ ba như là một phần trong danh sách gửi thư, thư mục, quảng cáo được phân loại hoặc hình thức biên soạn thông tin nào khác.
+d.	Dữ liệu Đường phố. Khách hàng có thể sử dụng Dữ liệu Đường phố cho các mục đích ánh xạ, mã hóa địa lý và định tuyến giữa các điểm Trừ khi được cho phép bằng văn bản, Khách hàng không được sử dụng Dữ liệu Đường phố để
+
+1.	Hướng dẫn điều hướng trong thời gian thực, bao gồm cảnh báo người dùng về đường đi sắp tới, chẳng hạn như cảnh báo ngã rẽ sắp tới hoặc tính toán lộ trình thay thế nếu bị bỏ lỡ một ngã rẽ;
+2.	Định tuyến nhiều phương tiện được đồng bộ hóa; hoặc
+3.	Tối ưu hóa lộ trình.
+
+e.	Dữ liệu Phân tích Kinh doanh. Dữ liệu được cung cấp kèm với Esri Business Analyst (Máy chủ, Máy tính để bàn) chịu sự điều chỉnh của các điều khoản sử dụng bổ sung sau:
+
+1.	Nếu Khách hàng yêu cầu giấy phép cho Esri Business Analyst hoặc Business Analyst (phiên bản Canada) với tập hợp con của chuỗi dữ liệu quốc gia (nghĩa là Vùng, Bang, Địa phương), Khách hàng chỉ có thể sử dụng tập hợp con được cấp phép, chứ không phải bất kỳ phần nào khác của chuỗi dữ liệu quốc gia.
+2.	Dữ liệu được cung cấp kèm với Business Analyst Server có thể không được lưu vào bộ nhớ cache hoặc tải xuống bởi các ứng dụng và thiết bị khách.
+
+4.4 Điều khoản và Điều kiện Bổ sung dành cho Dữ liệu. Một số nhà cấp phép Dữ liệu nhất định yêu cầu Esri chuyển các yêu cầu ghi nhận tác giả và điều khoản sử dụng bổ sung cho Khách hàng. Các điều khoản được chuyển qua này có tại http://www.esri.com/legal
+/third-party-data.
+TÀI LIỆU A ĐÍNH KÈM
+BẢNG CHÚ GIẢI THUẬT NGỮ
+
+Bảng chú giải thuật ngữ sau áp dụng cho tất cả các Sản phẩm và Dịch vụ của Esri mà Esri có thể cung cấp cho khách hàng của mình. Một số Sản phẩm hoặc Dịch vụ nhất định của Esri có thể không nằm trong phạm vi của Thỏa thuận này. Vui lòng bỏ qua bất kỳ thuật ngữ nào không áp dụng cho các Sản phẩm hoặc Dịch vụ của Esri được cung cấp theo Thỏa thuận này.
+
+"API" có nghĩa là giao diện lập trình ứng dụng.
+
+"Trang web ArcGIS Website" có nghĩa là http://www.arcgis.com và bất kỳ trang web liên quan hoặc kế thừa nào.
+
+"(Các) Mã Cấp quyền" có nghĩa là bất kỳ khóa, số cấp quyền, mã cấp quyền, thông tin đăng nhập, mã kích hoạt, mã thông báo, tên người dùng và mật khẩu hoặc cơ chế nào khác được yêu cầu để sử dụng Sản phẩm của Esri.
+
+"Beta" có nghĩa là mọi bản alpha, beta hay bản tiền phát hành của Sản phẩm.
+
+"Dịch vụ Đám mây" có nghĩa là Dịch vụ Trực tuyến và EMCS.
+
+"Sử dụng ASP Thương mại" có nghĩa là sử dụng với tư cách nhà cung cấp dịch vụ ứng dụng thương mại; tức là để tạo doanh thu bằng cách cấp quyền truy cập vào Phần mềm thông qua Ứng dụng Giá trị Gia tăng; chẳng hạn bằng cách trả phí đăng ký, phí dịch vụ hay bất kỳ khoản phí giao dịch nào khác hoặc bằng cách tạo thêm doanh thu nhờ quảng cáo ngẫu nhiên.
+
+"Nội dung" có nghĩa là dữ liệu, hình ảnh, ảnh, hoạt ảnh, video, âm thanh, văn bản, bản đồ, cơ sở dữ liệu, mô hình dữ liệu, bảng tính, giao diện người dùng, cấu phần đồ họa, biểu tượng, ứng dụng phần mềm, bộ phát triển phần mềm (SDK), API, thư viện phần mềm, mã mẫu và các tài nguyên khác.
+
+"Kiểm soát" có nghĩa là có hơn 50% cổ phiếu có quyền biểu quyết hoặc cổ phần có quyền biểu quyết khác trong tổ chức bị Kiểm soát.
+
+"Nội dung của Khách hàng" có nghĩa là bất kỳ Nội dung nào mà Khách hàng, người dùng cuối của Khách hàng hoặc bất kỳ người dùng nào khác cung cấp cho Esri có liên quan đến việc Khách hàng sử dụng Sản phẩm của Esri; bất kỳ kết quả nào phái sinh từ việc sử dụng Nội dung của Khách hàng cùng với Sản phẩm của Esri; và bất kỳ Ứng dụng Giá trị Gia tăng nào mà Khách hàng xây dựng và triển khai bằng Sản phẩm. Nội dung của Khách hàng không bao gồm bất kỳ phản hồi, đề xuất hoặc yêu cầu cải tiến nào mà Khách hàng cung cấp cho Esri.
+
+"Dữ liệu" có nghĩa là bất kỳ chuỗi dữ liệu kỹ thuật số nào khả dụng về mặt thương mại, bao gồm nhưng không giới hạn ở dữ liệu véc-tơ địa lý, báo cáo dữ liệu raster hoặc thuộc tính bảng được liên kết mà Esri cung cấp riêng hoặc cung cấp kèm theo các Sản phẩm khác của Esri. Dữ liệu không bao gồm bất kỳ Nội dung nào mà các cá nhân không phải là nhân viên, nhà cung ứng hoặc nhà thầu của Esri có thể đóng góp trực tiếp vào trang web của Esri.
+
+"Thứ có thể phân phối" có nghĩa là bất kỳ thứ gì ngoài Sản phẩm, Đào tạo hoặc Bảo dưỡng mà Esri phân phối cho Khách hàng như là kết quả của việc thực hiện Dịch vụ Chuyên môn. Thứ có thể phân phối có thể bao gồm nhưng không giới hạn ở các dịch vụ tư vấn, mã phần mềm, thư viện liên kết động (DLL) và các chương trình được phân phối trên bất kỳ phương tiện nào dưới định dạng mã nguồn, mã đối tượng hoặc mã thực thi, kể cả các bản sao lưu, cập nhật hoặc bản sao hợp nhất; các phương thức, kỹ thuật hoặc bí quyết; hỗ trợ kỹ thuật, quy trình, công thức hoặc thuật toán; thiết kế; mô hình và từ điển dữ liệu; các tài liệu biên soạn; các lược đồ; tài liệu; thông số; bản vẽ; lưu đồ, hướng dẫn; hoặc các quy trình kiểm tra hoặc kiểm soát chất lượng.
+
+"Tài liệu" có nghĩa là tất cả tài liệu tham khảo dành cho người dùng được cung cấp cùng với Sản phẩm.
+
+"Dịch vụ Đám mây do Esri Quản lý" hoặc "EMCS" có nghĩa là phần cứng được thuê bởi một bên duy nhất, Phần mềm, Dữ liệu và nền tảng mạng và hệ thống có liên quan giám sát và hỗ trợ các dịch vụ mà Esri cung cấp cho hộ gia đình và khiến Nội dung của Khách hàng khả dụng đối với Khách hàng hoặc người dùng cuối của Khách hàng qua Internet.
+
+"(Các) Sản phẩm của Esri" có nghĩa là mọi Sản phẩm, Bảo dưỡng hoặc Tài liệu. Nếu Esri cung cấp Đào tạo hoặc Dịch vụ Chuyên môn trực tiếp cho Khách hàng, thì Sản phẩm của Esri cũng bao gồm cả Tài liệu Đào tạo và những Thứ có thể phân phối.
+
+"GIS" có nghĩa là các hệ thống thông tin địa lý.
+
+"Bảo dưỡng" có nghĩa là chương trình đăng ký cho phép Khách hàng nhận được các bản cập nhật Sản phẩm và những lợi ích khác như quyền tiếp cận hỗ trợ kỹ thuật và quyền truy cập vào các tài nguyên trên web dùng để tự đào tạo.
+
+"Mã Độc" có nghĩa là vi-rút phần mềm; sâu, bom hẹn giờ, Trojan horse; hoặc bất kỳ mã, tệp, lỗi từ chối dịch vụ hay chương trình máy tính nào khác được thiết kế nhằm làm gián đoạn, phá hủy hoặc giới hạn chức năng của phần mềm, phần cứng của máy tính hoặc thiết bị viễn thông.
+
+"Người dùng Được đặt tên" là nhân viên, nhân viên đại lý, tư vấn viên hoặc nhà thầu của Khách hàng đã được Khách hàng chỉ định thông tin đăng nhập an toàn và duy nhất cho người dùng được đặt tên (thông tin nhận dạng). Thông tin này cho phép truy cập vào Sản phẩm yêu cầu thông tin nhận dạng này để có thể truy cập vào các tính năng được quản lý bằng thông tin nhận dạng trong Sản phẩm vì lợi ích độc quyền của Khách hàng. Đối với mục đích sử dụng cho giáo dục, Người dùng Được đặt tên có thể bao gồm các sinh viên đã đăng ký.
+
+"Thông tin Đăng nhập của Người dùng Được đặt tên" có nghĩa là thông tin đăng nhập và mật khẩu được liên kết của một cá nhân cho phép cá nhân đó truy cập và sử dụng Sản phẩm.
+
+"Đăng ký hoặc Giấy phép cho Người dùng Được đặt tên" có nghĩa là giấy phép hoặc đăng ký được sử dụng bởi một Người dùng Được đặt tên.
+
+"Nội dung Trực tuyến" có nghĩa là Nội dung được Esri lưu trữ hoặc cung cấp như một phần của Dịch vụ Trực tuyến, bao gồm mọi dịch vụ bản đồ, dịch vụ tác vụ, dịch vụ hình ảnh, SDK, API, thư viện phần mềm, mã mẫu và các tài nguyên khác, nhưng không bao gồm Nội dung do bên thứ ba cung cấp mà Khách hàng truy cập qua Dịch vụ Trực tuyến.
+
+"Dịch vụ Trực tuyến" có nghĩa là bất kỳ hệ thống không gian địa lý trên Internet nào khả dụng về mặt thương mại, bao gồm cả các ứng dụng và API được liên kết để lưu trữ, quản lý, xuất bản và sử dụng bản đồ, dữ liệu cũng như các thông tin khác. Dịch vụ Trực tuyến không bao gồm Dữ liệu và Nội dung.
+
+"(Các) Tài liệu Đặt hàng" có nghĩa là bảng báo giá bán, báo giá gia hạn Bảo dưỡng, đơn đặt hàng, đơn yêu cầu hay tài liệu khác xác định Sản phẩm hoặc Dịch vụ mà Khách hàng đặt hàng.
+
+"Giấy phép Vĩnh viễn" có nghĩa là giấy phép sử dụng một phiên bản của Sản phẩm, theo đó phí cấp phép áp dụng đã được trả, vô thời hạn, trừ khi Esri hoặc Khách hàng chấm dứt như được cho theo Thỏa thuận này.
+
+"Mục đích Sử dụng Cá nhân" có nghĩa là sử dụng cá nhân, phi thương mại của Khách hàng là người dùng cá nhân. Mục đích Sử dụng Cá nhân không bao gồm việc sử dụng phục vụ cho lợi ích của bất kỳ bên thứ ba nào, bao gồm các tổ chức thương mại, giáo dục, chính phủ hoặc phi lợi nhuận.
+
+"(Các) Sản phẩm" có nghĩa là Phần mềm, Dữ liệu và Dịch vụ Đám mây được cấp phép hoặc đăng ký theo các điều khoản của Thỏa thuận này.
+
+"Dịch vụ Chuyên môn" có nghĩa là bất kỳ dịch vụ tư vấn hoặc phát triển nào mà Esri cung cấp cho Khách hàng.
+
+"(Các) Mẫu" có nghĩa là mã mẫu, ứng dụng mẫu, chương trình bổ trợ hoặc tiện ích mẫu của Sản phẩm.
+
+"Dịch vụ" có nghĩa là hỗ trợ kỹ thuật được cung cấp theo Bảo dưỡng. Nếu Esri cung cấp Đào tạo hoặc Dịch vụ Chuyên môn trực tiếp cho Khách hàng, thì Dịch vụ cũng bao gồm cả Đào tạo và Dịch vụ Chuyên môn.
+
+"Phần mềm" có nghĩa là tất cả hoặc bất kỳ phần nào trong công nghệ phần mềm độc quyền, có sẵn, mang tính thương mại của Esri, không bao gồm Dữ liệu, được truy cập hoặc tải xuống từ trang web do Esri cấp quyền hoặc được phân phối trên phương tiện bất kỳ dưới mọi định dạng, bao gồm cả bản sao lưu, bản cập nhật, gói dịch vụ, bản vá, bản khắc phục sự cố hay các bản sao hợp nhất được phép.
+
+"Giấy phép có Thời hạn" có nghĩa là giấy phép hoặc quyền truy cập được cung cấp để sử dụng Sản phẩm trong khoảng thời gian giới hạn ("Thời hạn") hoặc trên cơ sở giao dịch hay đăng ký.
+
+"Đào tạo" có nghĩa là các dịch vụ đào tạo và huấn luyện có người hướng dẫn để biết cách sử dụng Phần mềm GIS của Esri.
+
+"Tài liệu Đào tạo" có nghĩa là nội dung kỹ thuật số hoặc nội dung in cần có để hoàn thành chương trình Đào tạo. Tài liệu Đào tạo có thể bao gồm nhưng không giới hạn ở sách bài tập, dữ liệu, các khái niệm, sách thực hành và các bài kiểm tra.
+
+"Ứng dụng Giá trị Gia tăng" có nghĩa là ứng dụng do Khách hàng phát triển để sử dụng cùng với hoạt động sử dụng Phần mềm, Dữ liệu hoặc Dịch vụ Trực tuyến bất kỳ đã được cấp phép.
+ TÀI LIỆU B ĐÍNH KÈM
+ĐIỀU KHOẢN VÀ ĐIỀU KIỆN CHUNG
+
+Các điều khoản và điều kiện chung sau áp dụng cho tất cả các Sản phẩm và Dịch vụ của Esri mà Esri có thể cung cấp cho khách hàng của mình. Một số Sản phẩm hoặc Dịch vụ nhất định của Esri có thể không được cung cấp theo Thỏa thuận này. Vui lòng bỏ qua bất kỳ thuật ngữ nào không áp dụng cho các Sản phẩm hoặc Dịch vụ của Esri được cung cấp theo Thỏa thuận này.
+
+ĐIỀU 1 - HẠN CHẾ SỬ DỤNG CHUNG
+
+Ngoại trừ được cho phép rõ ràng trong Thỏa thuận này, Khách hàng sẽ không được
+
+a.	Bán, thuê, cho thuê, cấp phép bổ sung, phân phối, cho mượn, chia thời gian dùng hoặc chỉ định Sản phẩm của Esri;
+b.	Sử dụng Sản phẩm của Esri cho mục đích Sử dụng ASP Thương mại hoặc cho các mục đích của văn phòng dịch vụ;
+c.	Phân phối hoặc cung cấp cho bên thứ ba quyền truy cập trực tiếp vào toàn bộ hoặc một phần Sản phẩm của Esri, bao gồm nhưng không giới hạn ở các tiện ích, cấu phần hoặc DLL;
+d.	Phân phối Mã Cấp quyền cho bên thứ ba;
+e.	Thiết kế đối chiếu, dịch ngược hoặc tách rời bất kỳ Sản phẩm hoặc Thứ có thể phân phối nào được cung cấp dưới hình thức biên soạn;
+f.	Cố tránh né (các) biện pháp công nghệ kiểm soát quyền truy cập hoặc việc sử dụng Sản phẩm của Esri;
+g.	Lưu trữ, lưu vào bộ nhớ cache, sử dụng, tải lên, phân phối hoặc cấp phép bổ sung Nội dung hoặc nếu không thì sử dụng Sản phẩm của Esri theo cách vi phạm quyền của Esri hoặc của bên thứ ba, bao gồm quyền sở hữu trí tuệ, quyền riêng tư, luật không phân biệt đối xử hoặc bất kỳ luật hay quy định hiện hành nào khác;
+h.	Xóa hoặc che khuất bất kỳ thông báo và/hoặc chú thích nào về sáng chế, bản quyền, thương hiệu, quyền sở hữu của Esri hoặc nhà cấp phép của Esri có trong hoặc được thêm vào Sản phẩm của Esri, nội dung đầu ra, tệp siêu dữ liệu hay trang ghi nhận tác giả dưới dạng bản in và/hoặc trực tuyến của bất kỳ Dữ liệu hay Tài liệu nào;
+i.	Gỡ hoặc sử dụng độc lập các bộ phận riêng lẻ hoặc bộ phận cấu thành Sản phẩm của Esri;
+j.	Kết hợp bất kỳ phần nào trong Sản phẩm của Esri vào sản phẩm hoặc dịch vụ của bên thứ ba cạnh tranh với Sản phẩm của Esri;
+k.	Công khai hoặc tiết lộ bằng bất kỳ cách nào khác các kết quả kiểm tra đánh giá tính năng của Sản phẩm Beta khi không có sự chấp thuận trước bằng văn bản của Esri và nhà cấp phép của Esri; hoặc
+l.	Sử dụng, kết hợp, sửa đổi, phân phối, cấp quyền truy cập hay phối hợp bất kỳ Sản phẩm nào của Esri theo cách sẽ buộc mọi thành phần trong Sản phẩm của Esri phải tuân theo các điều khoản cấp phép dành cho cơ sở dữ liệu mở hoặc nguồn mở yêu cầu mọi thành phần trong Sản phẩm của Esri phải
+
+1.	Được tiết lộ dưới dạng mã nguồn cho bên thứ ba;
+2.	Được cấp phép cho bên thứ ba cho mục đích tạo các sản phẩm phái sinh; hoặc
+3.	Phân phối lại miễn phí cho bên thứ ba.
+
+Các hạn chế này sẽ không áp dụng trong trường hợp chúng xung đột với luật hoặc quy định hiện hành.
+
+ĐIỀU 2 - THỜI HẠN VÀ CHẤM DỨT
+
+Thỏa thuận này có hiệu lực khi được chấp nhận. Khách hàng có thể chấm dứt Thỏa thuận này hoặc bất kỳ giấy phép hay đăng ký Sản phẩm nào của Esri vào bất cứ lúc nào sau khi thông báo bằng văn bản cho Esri. Chấm dứt không có lý do sẽ khiến Khách hàng mất quyền nhận bất kỳ khoản hoàn trả nào cho phí đã thanh toán hoặc mất quyền chấm dứt các thỏa thuận Dịch vụ đang chờ xử lý mà không phải chịu thêm trách nhiệm pháp lý nào khác. Một trong hai bên có thể chấm dứt Thỏa thuận này hoặc bất kỳ giấy phép hay đăng ký nào vì một vi phạm nghiêm trọng không được xử lý trong vòng 30 ngày kể từ khi gửi thông báo bằng văn bản cho bên vi phạm. Trong mọi trường hợp chấm dứt Thỏa thuận do vi phạm, Esri sẽ ngừng cung cấp Dịch vụ. Mọi giấy phép có trong Sản phẩm của Esri còn hiệu lực sau khi Thỏa thuận này chấm dứt sẽ tiếp tục có hiệu lực theo các điều khoản của Thỏa thuận này.
+
+Nếu Esri chấm dứt Thỏa thuận này do vi phạm của Khách hàng, thì Esri cũng có thể, theo lựa chọn của mình, chấm dứt các giấy phép hoặc đăng ký của Khách hàng trong Sản phẩm của Esri. Nếu Khách hàng chấm dứt Thỏa thuận này vì bất cứ lý do gì, thì Khách hàng, theo quyết định riêng của mình, cũng có thể chấm dứt các giấy phép hoặc đăng ký của Khách hàng trong Sản phẩm của Esri.
+
+Sau khi chấm dứt giấy phép hoặc đăng ký, Khách hàng sẽ
+
+a.	Ngừng truy cập và sử dụng các Sản phẩm của Esri bị chấm dứt;
+b.	Xóa bất kỳ bộ nhớ cache nào lưu dữ liệu bên phía máy khách phát sinh từ Dịch vụ Trực tuyến bị chấm dứt; và
+c.	Ngừng sử dụng, gỡ cài đặt, xóa và hủy tất cả các bản sao Sản phẩm của Esri bị ảnh hưởng mà Khách hàng đang sở hữu hoặc kiểm soát, bao gồm bất kỳ thành phần nào được hợp nhất hoặc sửa đổi theo đó, dưới mọi hình thức, và thực hiện rồi gửi bằng chứng về những hành động này cho Esri hoặc nhà phân phối được ủy quyền của Esri.
+
+Esri có thể ngừng cung cấp Dịch vụ ngay sau khi thông báo bằng văn bản tới Khách hàng nếu thủ tục phá sản hoặc vỡ nợ được bắt đầu bởi hoặc chống lại Khách hàng cho tới khi người được ủy thác xử lý hết mọi khoản nợ và đảm bảo chắc chắn về việc thực hiện theo Thỏa thuận trong tương lai. Thỏa thuận này chấm dứt khi một trong hai bên vỡ nợ, đóng cửa hoặc giải thể.
+
+ĐIỀU 3 - BẢO ĐẢM CÓ GIỚI HẠN VÀ TUYÊN BỐ TỪ CHỐI TRÁCH NHIỆM
+
+3.1 Bảo đảm Có giới hạn. Bảo đảm của Esri:
+
+a.	Trong khoảng thời gian 90 ngày,
+
+1.	Phần mềm về mặt cơ bản sẽ đúng như Tài liệu mô tả trong điều kiện sử dụng thông thường và tất cả các phương tiện sẽ không có lỗi vật liệu và tay nghề tính từ ngày được giao;
+2.	Tài liệu Đào tạo về mặt cơ bản sẽ đúng như các mô tả khóa học đã xuất bản của Esri tính từ ngày được giao;
+3.	Dịch vụ về mặt cơ bản sẽ tuân thủ các tiêu chuẩn kỹ thuật và chuyên môn của ngành công nghệ phần mềm tính từ ngày tiến hành; và
+4.	Thứ có thể phân phối được cung cấp trên cơ sở giá cố định về mặt cơ bản sẽ tuân theo các thông số được quy định trong Tài liệu Đặt hàng đã được thỏa thuận tính từ ngày chấp nhận.
+
+b.	Trong thời hạng đăng ký áp dụng,
+
+1.	Dịch vụ Trực tuyến về mặt cơ bản sẽ đúng như Tài liệu mô tả trong điều kiện sử dụng thông thường;
+2.	Bảo dưỡng về mặt cơ bản sẽ tuân thủ các tiêu chuẩn kỹ thuật và chuyên môn của ngành công nghệ phần mềm; và
+3.	EMCS sẽ tuân theo phạm vi, mô tả và giả định cho EMCS được quy định trong Tài liệu Đặt hàng.
+
+3.2 Tuyên bố Từ chối Trách nhiệm Đặc biệt. Nội dung, Dữ liệu, mẫu, bản khắc phục sự cố, bản vá, bản cập nhật, Dịch vụ Trực tuyến được cung cấp miễn phí cũng như các Sản phẩm đánh giá và Beta được cung cấp "nguyên trạng" mà không có bảo đảm dưới bất kỳ hình thức nào.
+3.3 Tuyên bố Từ chối Trách nhiệm Chung. Ngoại trừ các bảo đảm có giới hạn rõ ràng được quy định trong Thỏa thuận này, Esri khước từ tất cả các bảo đảm và điều kiện khác dưới mọi hình thức, cho dù được diễn đạt rõ ràng hay ngụ ý, bao gồm, nhưng không giới hạn ở các bảo đảm hoặc điều kiện về khả năng bán được, sự phù hợp với một mục đích cụ thể và không vi phạm quyền sở hữu trí tuệ. Esri không bảo đảm rằng Sản phẩm của Esri hoặc việc vận hành Sản phẩm của Khách hàng sẽ không bị gián đoạn, không gặp lỗi, không bị trục trặc hoặc không bị sai sót hoặc tất cả các hư hỏng có thể hoặc sẽ được khắc phục. Sản phẩm của Esri không được thiết kế, sản xuất hoặc được dành để sử dụng trong các điều kiện môi trường hoặc ứng dụng có thể dẫn đến tử vong, thương tích cá nhân hoặc thiệt hại vật chất hay môi trường. Khách hàng không được tuân theo bất kỳ đề xuất lộ trình nào có vẻ nguy hiểm, không an toàn hoặc trái pháp luật. Mọi sử dụng như vậy sẽ do Khách hàng tự chịu rủi ro và chi phí.
+3.4 Tuyên bố Từ chối Trách nhiệm
+
+a.	Tuyên bố từ chối trách nhiệm liên quan tới Internet. Không bên nào sẽ chịu trách nhiệm pháp lý cho các thiệt hại theo bất kỳ luật nào liên quan đến hiệu suất hoặc việc ngừng hoạt động của Internet hoặc việc điều chỉnh Internet có thể hạn chế hoặc ngăn cấm việc vận hành Dịch vụ Trực tuyến.
+b.	Nội dung và Trang web của Bên thứ ba. Esri không chịu trách nhiệm đối với bất kỳ trang web hoặc Nội dung của bên thứ ba nào xuất hiện trong hoặc được tham chiếu bởi Sản phẩm và trang web của Esri, bao gồm cả www.esri.com và www.arcgis.com. Việc cung cấp các liên kết tới trang web và tài nguyên của bên thứ ba không ngụ ý sự phê duyệt, sát nhập hoặc tài trợ dưới bất kỳ hình thức nào.
+
+3.5 Biện pháp Khắc phục Độc quyền. Biện pháp khắc phục độc quyền của Khách hàng và toàn bộ trách nhiệm pháp lý của Esri đối với việc vi phạm các bảo đảm có giới hạn được quy định trong phần này sẽ được giới hạn, theo quyết định riêng của Esri, ở việc (i) thay thế bất kỳ phương tiện nào bị lỗi; (ii) sửa chữa, hiệu chỉnh hay khắc phục Sản phẩm hoặc Dịch vụ hiện hành của Esri; hoặc (iii) trả lại phí mà Khách hàng đã thanh toán cho Sản phẩm hoặc Dịch vụ của Esri không đáp ứng được các bảo đảm có giới hạn của Esri, với điều kiện là Khách hàng gỡ cài đặt, xóa và hủy tất cả bản sao Sản phẩm hoặc Dịch vụ hiện hành của Esri; dừng truy cập và sử dụng Dịch vụ Đám mây hiện hành; đồng thời thực hiện và cung cấp bằng chứng của các hành động đó cho Esri hoặc nhà phân phối được ủy quyền của Esri.
+
+ĐIỀU 4 - GIỚI HẠN TRÁCH NHIỆM PHÁP LÝ
+
+4.1 Tuyên bố Từ chối Trách nhiệm Pháp lý. Khách hàng, Esri hay bất kỳ nhà phân phối hay người cấp phép nào của Esri sẽ không phải chịu trách nhiệm pháp lý cho mọi thiệt hại gián tiếp, đặc biệt, ngẫu nhiên hoặc do hậu quả, bao gồm thua lỗ, mất doanh thu hoặc mất uy tín; chi phí thu mua hàng hóa hoặc dịch vụ thay thế; hoặc thiệt hại vượt quá mức phí đăng ký hoặc cấp phép hiện hành đã thanh toán hoặc còn nợ Esri cho Sản phẩm của Esri gây ra nguyên nhân tố tụng.
+
+4.2 Các giới hạn và loại trừ trách nhiệm pháp lý ở đoạn trước không áp dụng cho việc Khách hàng vi phạm, sử dụng sai hoặc không phù hợp các quyền sở hữu trí tuệ của Esri hoặc người cấp phép của Esri, các nghĩa vụ bồi thường, sơ xuất không thể tha thứ, hành vi sai trái cố ý hoặc các vi phạm điều khoản Tuân thủ Luật xuất khẩu của Thỏa thận này hoặc bất kỳ luật hay quy định hiện hành nào của một trong hai bên.
+
+4.3 Khả năng áp dụng Tuyên bố Từ chối Trách nhiệm và Giới hạn. Esri hoặc nhà phân phối được ủy quyền của Esri đã đưa ra các khoản phí và tham gia vào Thỏa thuận này dựa trên các tuyên bố từ chối trách nhiệm và giới hạn được quy định trong Thỏa thuận này; các khoản phí phản ánh sự phân bổ rủi ro là cơ sở thiết yếu cho thỏa thuận giữa các bên. Các giới hạn sẽ áp dụng cho dù một bên có biết được khả năng xảy ra hư hại hay không và bất kể có sự sai lệch mục đích cơ bản của bất kỳ biện pháp khắc phục có giới hạn, độc quyền nào.
+
+4.4 Các bảo đảm, giới hạn và loại trừ được đề cập ở trên có thể không có hiệu lực tại một số khu vực pháp lý và chỉ áp dụng trong trường hợp được luật pháp hoặc quy định hiện hành cho phép tại khu vực pháp lý của Khách hàng. Khách hàng có thể có các quyền bổ sung không thể bị từ chối hoặc khước từ. Esri không được tìm cách giới hạn bảo đảm hoặc biện pháp khắc phục của Khách hàng trong bất kỳ phạm vi nào mà luật không cho phép.
+
+ĐIỀU 5 - BỒI THƯỜNG
+
+5.1 Định nghĩa. Các định nghĩa sau bổ sung cho các định nghĩa có trong Tài liệu A đính kèm:
+
+a.	"Khiếu nại" có nghĩa là bất kỳ khiếu nại, tố tụng hoặc yêu cầu nào của bên thứ ba.
+b.	"Người được bồi thường"có nghĩa là Khách hàng cũng như giám đốc, viên chức và nhân viên của Khách hàng.
+c.	"(Các) Khiếu nại Vi phạm" có nghĩa là bất kỳ Khiếu nại nào cáo buộc rằng việc sử dụng hay truy cập của Khách hàng vào các Sản phẩm hoặc Dịch vụ của Esri là vi phạm bằng sáng chế, bản quyền, thương hiệu hoặc bí mật thương mại của Hoa Kỳ.
+d.	"(Các) Tổn thất" có nghĩa là các tổn thất bằng tiền mặt, phán quyết bồi thường thiệt hại, chi phí hòa giải, chi phí hoặc phí, bao gồm cả phí phải chịu cho luật sư.
+
+5.2 Bồi thường do Vi phạm
+
+a.	Esri sẽ bảo vệ và không làm tổn hại đến tất cả những Người được bồi thường trước mọi Khiếu nại Vi phạm và sẽ bồi thường mọi Tổn thất phát sinh từ Khiếu nại Vi phạm như được quy định trong các đoạn bên dưới.
+b.	Nếu Esri xác định rằng Khiếu nại Vi phạm là hợp lệ, Esri có thể, với chi phí của mình (i) tìm cách giúp Khách hàng có các quyền để tiếp tục sử dụng Sản phẩm của Esri hoặc (ii) sửa đổi Sản phẩm của Esri sao cho về căn bản vẫn giữ được chức năng tương tự. Nếu không có biện pháp thay thế nào khả thi về mặt thương mại, Esri có thể chấm dứt quyền sử dụng của Khách hàng đối với Sản phẩm của Esri và sẽ hoàn lại bất cứ (a) khoản phí Dịch vụ hiện hành nào; (b) các khoản phí cấp phép mà Khách hàng đã thanh toán cho Sản phẩm vi phạm của Esri được mua theo Giấy phép Vĩnh viễn, phân chia theo cơ sở khấu hao đường thẳng, 5 năm tính từ ngày bắt đầu giao Sản phẩm; hoặc (c) phần phí chưa sử dụng đã thanh toán cho Giấy phép Có thời hạn, Đăng ký và Bảo dưỡng.
+c.	Esri không có nghĩa vụ bảo vệ trước Khiếu nại Vi phạm hoặc nghĩa vụ bồi thường cho Khách hàng trong trường hợp Khiếu nại Vi phạm phát sinh từ việc (i) kết hợp hoặc tích hợp Sản phẩm của Esri với một sản phẩm, quá trình, hệ thống hoặc thành phần không được Esri cung cấp hay chỉ định trong Tài liệu; (ii) thay đổi Sản phẩm của Esri bởi bất kỳ ai không phải là Esri hoặc nhà thầu phụ của Esri; hoặc (iii) tuân thủ các thông số của Khách hàng; hoặc (iv) sử dụng Sản phẩm của Esri sau khi Esri cung cấp phiên bản đã sửa đổi để tránh vi phạm hoặc sau khi Esri chấm dứt quyền sử dụng của Khách hàng đối với Sản phẩm đó.
+
+5.3 Bồi thường chung. Esri sẽ bảo vệ và không làm tổn hại đến tất cả những Người được bồi thường và bồi thường mọi Tổn thất phát sinh từ bất kỳ Khiếu nại về thương tích thân thể, tử vong hoặc thiệt hại tài sản (không bao gồm cơ sở dữ liệu không được khôi phục theo chương trình sao lưu phù hợp) chống lại Bên được bồi thường trong trường hợp phát sinh do hành vi tắc trách, thiếu sót hay hành vi sai trái cố ý của Esri hoặc giám đốc, viên chức, nhân viên hay đại diện của Esri thực hiện Dịch vụ khi ở cơ sở của Khách hàng.
+
+5.4 Điều kiện Bồi thường. Để được bồi thường, Bên được bồi thường phải (i) ngay lập tức thông báo bằng văn bản cho Esri về Khiếu nại, (ii) cung cấp tất cả các tài liệu hiện có mô tả Khiếu nại, (iii) để cho Esri có toàn quyền bào chữa trước bất kỳ hành động tố tụng nào cũng như toàn quyền thương lượng liên quan tới việc bào chữa hay giải quyết Khiếu nại Vi phạm, và (iv) hợp tác ở mức hợp lý trong việc bào chữa Khiếu nại Vi phạm theo yêu cầu và chi phí của Esri.
+
+5.5Phần này quy định toàn bộ nghĩa vụ của Esri, nhà phân phối được ủy quyền và người cấp phép của Esri liên quan đến Khiếu nại.
+
+ĐIỀU 6 - BẢO HIỂM
+
+Nếu Esri cung cấp Dịch vụ, Esri sẽ chịu, ở mức tối thiểu, khoản bảo hiểm sau:
+
+a.	Trách nhiệm pháp lý chung toàn diện hoặc trách nhiệm pháp lý chung về mặt thương mại với số tiền bảo hiểm tối thiểu ($1.000.000) kết hợp với giới hạn riêng cho mỗi trường hợp xảy ra trách nhiệm pháp lý đối với thương tích thân thể, kể cả tử vong, và thiệt hại tài sản, bao gồm các trường hợp sau:
+
+1.	Tài sản và hoạt động;
+2.	Trách nhiệm pháp lý có tính chất chung theo hợp đồng;
+3.	Thiệt hại tài sản ở phạm vi rộng;
+4.	Nhà thầu độc lập;
+5.	Thương tích cá nhân, với loại trừ nhân viên đã bị xóa; và
+6.	Hoạt động đã hoàn thành.
+
+b.	Bảo hiểm bồi thường cho nhân viên, với việc khước từ quyền thay mặt đòi bồi thường, ở số tiền tuân thủ các giới hạn theo luật định.
+
+ĐIỀU 7 - BẢO MẬT VÀ TUÂN THỦ
+
+7.1 Tuân thủ Luật xuất khẩu. Mỗi bên đều phải tuân thủ tất cả các quy chế và luật xuất khẩu hiện hành, bao gồm Quy định Quản lý Xuất khẩu (EAR) của Bộ Thương mại Hoa Kỳ, Quy định Quốc tế về Buôn bán Vũ khí (ITAR) của Bộ Ngoại giao Hoa Kỳ và các luật xuất khẩu hiện hành khác. Khách hàng không được xuất khẩu, tái xuất khẩu, chuyển giao, phát hành hoặc thải bỏ, toàn bộ hoặc một phần, hay cung cấp quyền truy cập, chuyển giao hoặc sử dụng Dịch vụ hay Sản phẩm của Esri tới bất kỳ quốc gia nào bị Hoa Kỳ cấm vận hoặc bất kỳ cá nhân hay tổ chức nào bị từ chối ngoại trừ trường hợp tuân thủ tất cả các quy định và luật xuất khẩu hiện hành của chính phủ Hoa Kỳ. Khách hàng không được xuất khẩu, tái xuất khẩu, chuyển giao hoặc sử dụng Dịch vụ hay Sản phẩm của Esri cho các mục đích sử dụng cuối hoặc hoạt động liên quan tới tên lửa, hạt nhân, hóa học hoặc sinh học mà không được chính phủ Hoa Kỳ cho phép. Khách hàng phải thông báo ngay cho Esri bằng văn bản nếu có bất kỳ cơ quan hay tổ chức nào của chính phủ Hoa Kỳ từ chối, đình chỉ hoặc thu hồi đặc quyền xuất khẩu của Khách hàng. Khách hàng không được tải lên, lưu trữ hoặc xử lý trong Dịch vụ Đám mây bất kỳ Nội dung Khách hàng nào (i) có Số Phân loại Kiểm soát Xuất khẩu (ECCN) khác với EAR99 hoặc (ii) bị kiểm soát xuất khẩu từ Hoa Kỳ theo ITAR. Esri sẽ không tiến hành Dịch vụ hoặc cung cấp Sản phẩm của Esri liên quan tới bất kỳ điều khoản phòng vệ, dịch vụ hoặc dữ liệu kỹ thuật phòng vệ nào, như được định nghĩa trong Mục 120.6, 120.9 và 120.10 của ITAR, tương ứng, cho tới khi Esri có được bất kỳ giấy phép xuất khẩu cần thiết nào từ chính phủ Hoa Kỳ. Khách hàng sẽ hỗ trợ Esri ở mức hợp lý để xin và có được giấy phép xuất khẩu nếu cần.
+
+7.2 Bảo mật. Esri đăng các tính năng bảo mật tại http://doc.arcgis.com/en/trust/security/security-overview.htm. Khách hàng có thể cấp cho Esri quyền truy cập cá nhân vào các hệ thống của Khách hàng hoặc vào thông tin cá nhân của Khách hàng hay bên thứ ba nếu quyền truy cập là cần thiết để Esri thực hiện Dịch vụ và nếu Esri đồng ý một cách rõ ràng với quyền truy cập này. Esri sẽ sử dụng các biện pháp vật lý, kỹ thuật, quản trị phù hợp để bảo vệ những dữ liệu này cũng như bảo vệ chống lại việc truy cập trái phép. Khách hàng chịu trách nhiệm (i) xác nhận rằng các biện pháp kiểm soát quyền riêng tư và bảo mật đã đăng của Esri đáp ứng tất cả các yêu cầu pháp lý hiện hành để bảo vệ Nội dung của Khách hàng và (ii) chỉ tải lên hoặc chia sẻ Nội dung bị kiểm soát của Khách hàng thông qua Dịch vụ Đám mây khi điều đó được luật cho phép. Esri không chịu trách nhiệm xem xét Nội dung của Khách hàng để đảm bảo nội dung tuân thủ với các luật và quy định hiện hành.
+
+ĐIỀU 8 - GIÁN ĐOẠN, GỠ BỎ VÀ TẠM NGỪNG DỊCH VỤ ĐÁM MÂY
+
+8.1 Sử dụng Bị nghiêm cấm. Khách hàng không được truy cập hay sử dụng Dịch vụ Đám mây để
+
+a.	Spam, bịp bợm hoặc lừa đảo qua email; truyền email rác hoặc nội dung xúc phạm hay phỉ báng; hoặc theo dõi hay đe dọa gây hại về mặt thể chất;
+b.	Lưu trữ hoặc truyền Mã Độc;
+c.	Vi phạm bất kỳ luật hay quy định nào;
+d.	Vi phạm hoặc lạm dụng các quyền của bên thứ ba;
+e.	Thăm dò, quét hoặc kiểm tra lỗ hổng bảo mật của Dịch vụ Đám mây hoặc vi phạm bất kỳ biện pháp xác thực hay bảo mật nào được Dịch vụ Đám mây sử dụng; hoặc
+f.	Đánh giá tính khả dụng, hiệu suất hoặc tính năng của Dịch vụ Đám mây cho các mục đích cạnh tranh.
+
+8.2 Gián đoạn Dịch vụ. Lỗi hệ thống hoặc các trường hợp khác nằm ngoài khả năng kiểm soát hợp lý của Esri có thể làm gián đoạn quyền truy cập của Khách hàng vào Dịch vụ Trực tuyến. Esri không thể cung cấp thông báo trước cho những trường hợp gián đoạn như vậy.
+
+8.3 Xóa Nội dung của Khách hàng. Esri có thể loại bỏ hoặc xóa bất kỳ phần nào trong Nội dung của Khách hàng nếu có lý do tin rằng việc tải lên Nội dung của Khách hàng hoặc sử dụng Nội dung đó với Dịch vụ Đám mây sẽ vi phạm Thỏa thuận này. Nếu hợp lý trong các tình huống này, Esri sẽ thông báo cho Khách hàng trước khi Nội dung của Khách hàng bị xóa. Esri sẽ phản hồi mọi thông báo yêu cầu gỡ bỏ theo Đạo luật về Bản quyền Thiên niên kỷ Kỹ thuật số tuân theo chính sách bản quyền của Esri, có tại http://www.esri.com
+/legal/dmca_policy.
+
+8.4 Tạm ngừng Dịch vụ. Esri có thể tạm ngừng quyền truy cập vào Dịch vụ Đám mây (i) nếu Khách hàng vi phạm nghiêm trọng Thỏa thuận này và không khắc phục vi phạm một cách kịp thời; (ii) nếu Esri có lý do hợp lý để tin rằng việc sử dụng Dịch vụ Đám mây của Khách hàng sẽ khiến Esri phải chịu trách nhiệm pháp lý trực tiếp hoặc gây ảnh hưởng bất lợi tới sự toàn vẹn, chức năng hoặc tính khả dụng của Dịch vụ Đám mây; (iii) để bảo dưỡng theo lịch; (iv) để ngăn hành vi đe dọa hoặc tấn công trên Dịch vụ Đám mây; hoặc (v) nếu Dịch vụ Đám mây bị nghiêm cấm theo luật hoặc được điều chỉnh tới mức độ việc tiếp tục cung cấp Dịch vụ sẽ gặp khó khăn về mặt thương mại. Khi có thể, Esri sẽ thông báo trước cho Khách hàng về bất kỳ trường hợp tạm ngừng Dịch vụ Đám mây nào cũng như cho Khách hàng cơ hội hợp lý để tiến hành hành động khắc phục.
+
+Esri không chịu trách nhiệm đối với bất kỳ thiệt hại, trách nhiệm pháp lý hoặc tổn thất nào có thể bị gây ra do việc tạm ngừng hoặc gián đoạn Dịch vụ Trực tuyến hoặc do việc xóa nội dung của Khách hàng như được mô tả ở trên.
+
+ĐIỀU 9 - QUY ĐỊNH CHUNG
+
+9.1 Thanh toán. Khách hàng sẽ thanh toán mỗi hóa đơn chính xác không chậm quá 30 ngày sau khi nhận và sẽ chuyển khoản thanh toán tới địa chỉ được nêu trên hóa đơn.
+
+9.2 Phản hồi. Esri có thể thoải mái sử dụng mọi phản hồi, đề xuất hoặc yêu cầu cải thiện Sản phẩm mà Khách hàng cung cấp cho Esri.
+
+9.3 Sáng chế. Khách hàng không được tìm cách có được và cho phép bất kỳ người dùng nào khác tìm cách có được bằng sáng chế hoặc quyền tương tự trên toàn cầu do dựa trên hoặc kết hợp với bất kỳ Sản phẩm nào. Nghiêm cấm rõ ràng liên quan đến bằng sáng chế này sẽ không áp dụng đối với phần mềm và công nghệ của Khách hàng ngoại trừ trường hợp Sản phẩm hoặc bất kỳ phần nào của Sản phẩm, là một phần của xác nhận quyền sở hữu hoặc của đặc điểm vượt trội được nêu trong đơn đăng ký bằng sáng chế hoặc đơn tương tự.
+
+9.4 Thuế và Phí; Phí Vận chuyển. Các loại phí được báo giá cho Khách hàng không bao gồm bất kỳ và tất cả các loại thuế hoặc phí hiện hành, bao gồm nhưng không giới hạn ở thuế bán hàng, thuế sử dụng, thuế giá trị gia tăng (VAT); thuế nhập khẩu, thuế hải quan hoặc thuế xuất nhập khẩu; phí vận chuyển và giao hàng.
+
+9.5 Đánh giá Tuân thủ. Khách hàng phải lưu giữ đầy đủ và chính xác các loại hồ sơ và sổ sách liên quan đến việc tuân thủ những nghĩa vụ của Khách hàng theo Thỏa thuận này. Esri hoặc nhà phân phối được ủy quyền của Esri có thể tiến hành đánh giá mức độ tuân thủ của các hồ sơ và sổ sách này nếu có thông báo bằng văn bản tối thiểu 7 ngày làm việc trước khi tiến hành hoặc có thể chỉ định một bên thứ ba độc lập thay mặt Esri tiến hành đánh giá mức độ tuân thủ. Khách hàng phải nhanh chóng khắc phục mọi hoạt động không tuân thủ được xác định trong quá trình đánh giá mức độ tuân thủ. Cả Esri lẫn nhà phân phối của Esri đều không được tiến hành đánh giá mức độ tuân thủ của Khách hàng trong vòng 12 tháng sau khi có kết luận của bất kỳ quá trình đánh giá mức độ tuân thủ nào trước đó cho biết không phát hiện thấy hoạt động không tuân thủ nghiêm trọng nào của Khách hàng.
+
+9.6 Không có Từ bỏ Ngụ ý. Việc một trong hai bên không thực thi bất kỳ điều khoản nào trong Thỏa thuận này sẽ không được coi là sự từ bỏ các điều khoản hoặc quyền thực thi điều khoản đó hay bất kỳ điều khoản nào khác của bên đó.
+
+9.7 Tính hiệu lực từng phần. Các bên đồng ý rằng nếu bất kỳ điều khoản nào trong Thỏa thuận này bị xem là không thể thực thi vì bất kỳ lý do nào thì điều khoản đó sẽ chỉ được sửa đổi trong trường hợp cần thiết nhằm mục đích khiến nội dung của điều khoản trở nên có thể thực thi.
+
+9.8 Người thừa kế và Chuyển nhượng. Khách hàng không được chuyển nhượng, cấp phép bổ sung hoặc chuyển giao các quyền của Khách hàng hay ủy nhiệm các nghĩa vụ của Khách hàng theo Thỏa thuận này mà không có sự đồng ý trước bằng văn bản của Esri và nhà phân phối được ủy quyền của Esri và mọi nỗ lực để làm vậy mà không có sự đồng ý sẽ không có hiệu lực. Thỏa thuận này sẽ mang tính ràng buộc đối với những người thừa kế và người được chuyển nhượng tương ứng của các bên tham gia vào Thỏa thuận này. Tuy nhiên, một nhà thầu phân phối Sản phẩm theo hợp đồng với chính phủ có thể chuyển nhượng Thỏa thuận này và các Sản phẩm có được để phân phối cho khách hàng chính phủ của nhà thầu đó sau khi gửi thông báo bằng văn bản đến Esri, với điều kiện là khách hàng chính phủ đồng ý với các điều khoản của Thỏa thuận này.
+
+9.9 Hiệu lực của các Điều khoản. Chú giải Thuật ngữ và các điều khoản của Điều 3, 4, 5 và 9 trong Điều khoản và Điều kiện Chung này sẽ tiếp tục có hiệu lực sau khi Thỏa thuận này chấm dứt hoặc hết hạn.
+
+9.10 Khách hàng là Chính phủ Hoa Kỳ. Sản phẩm là các hạng mục thương mại, được phát triển bằng chi phí riêng, được cung cấp cho Khách hàng theo Thỏa thuận này. Nếu Khách hàng là cơ quan chính phủ Hoa Kỳ hoặc nhà thầu của chính phủ Hoa Kỳ, Esri sẽ cấp phép hoặc cung cấp đăng ký cho Khách hàng tuân theo Thỏa thuận này dưới sự điều chỉnh của Tiểu mục 12.211/12.212 của FAR hoặc tiểu mục 227.7202 của DFARS. Dữ liệu và Dịch vụ Trực tuyến của Esri được cấp phép hoặc đăng ký theo chính sách DFARS, Tiểu mục 227.7202 giống như phần mềm máy tính thương mại đối với hoạt động thu mua được thực hiện theo DFARS. Sản phẩm tuân theo các hạn chế và Thỏa thuận này quản lý nghiêm ngặt việc sử dụng, sửa đổi, thi hành, tái tạo, phát hành, công bố hoặc tiết lộ Sản phẩm của Khách hàng. Các điều khoản của Thỏa thuận không nhất quán với luật hoặc quy định của liên bang sẽ không được áp dụng. Khách hàng là chính phủ Hoa Kỳ có thể chuyển giao Phần mềm tới bất kỳ cơ sở nào mà (các) máy tính đã cài đặt Phần mềm này được chuyển tới. Nếu bất kỳ tòa án, trọng tài hoặc ban nào quyết định rằng Khách hàng là chính phủ Hoa Kỳ có quyền lớn hơn đối với phần bất kỳ nào của Sản phẩm theo luật thu mua công hiện hành, các quyền như vậy sẽ chỉ nằm trong phạm vi các phần bị ảnh hưởng.
+
+9.11 Luật Điều chỉnh. Luật liên bang Hoa Kỳ và luật của Bang California sẽ điều chỉnh Thỏa thuận này, ngoại trừ nguyên tắc lựa chọn luật tương ứng. Thỏa thuận này sẽ không chịu sự điều chỉnh của Công ước Liên Hiệp Quốc về Hợp đồng Mua bán Hàng hóa Quốc tế.
+
+9.12Giải quyết Tranh chấp. Các bên sẽ sử dụng quy trình giải quyết tranh chấp sau:
+
+a.	Đền bù theo Luật công bằng. Một trong hai bên có quyền tìm kiếm lệnh của tòa, hành động cụ thể hoặc đền bù khác theo luật công bằng ở bất kỳ tòa án nào thuộc khu vực pháp lý có thẩm quyền mà không cần phải đưa ra cam kết hoặc chứng minh thương tích như là điều kiện để được đền bù.
+b.	Cơ quan Chính phủ Hoa Kỳ. Thỏa thuận này chịu sự điều chỉnh của Đạo luật Giải quyết Tranh chấp Hợp đồng năm 1978, như được sửa đổi (41 USC 601-613).
+c.	Các cơ quan Chính phủ Khác. Esri sẽ tuân thủ các quy trình giải quyết tranh chấp bắt buộc theo luật hiện hành.
+d.	Phân xử. Ngoại trừ được nêu ở trên, các bên sẽ tuân theo quy trình phân xử bắt buộc để giải quyết bất kỳ tranh chấp nào nảy sinh từ hoặc liên quan đến Thỏa thuận này mà không thể giải quyết thông qua thương lượng. Nếu Khách hàng ở Hoa Kỳ hoặc ở một trong những lãnh thổ hay khu vực xa xôi hẻo lánh của Hoa Kỳ, Quy tắc Phân xử Thương mại của Hiệp hội Trọng tài Hoa Kỳ sẽ điều chỉnh quy trình phân xử. Nếu Khách hàng ở ngoài Hoa Kỳ, Quy tắc Phân xử của Phòng Thương mại Quốc tế sẽ điều chỉnh quy trình phân xử. Các bên sẽ chọn một trọng tài tuân theo các quy tắc phân xử hiện hành. Ngôn ngữ phân xử sẽ là Tiếng Anh. Nơi phân xử sẽ là địa điểm được thỏa thuận. Một trong hai bên, theo yêu cầu của bên kia, sẽ cung cấp các tài liệu hoặc bằng chứng liên quan đến các khía cạnh chính của tranh chấp.
+
+9.13 Trường hợp Bất khả kháng. Một bên sẽ không phải chịu trách nhiệm pháp lý đối với bất kỳ lỗi hoặc chậm trễ nào trong việc thực hiện Thỏa thuận này trong khoảng thời gian mà lỗi hay sự chậm trễ đó do những nguyên nhân nằm ngoài khả năng kiểm soát hợp lý của bên đó gây ra. Những nguyên nhân này có thể bao gồm, nhưng không giới hạn ở thiên tai, chiến tranh, đình công, tranh chấp lao động, các hoạt động tấn công mạng, luật, quy định, lệnh của chính phủ hoặc bất kỳ trường hợp bất khả kháng nào khác.
+
+9.14 Nhà thầu Độc lập. Esri là và sẽ luôn là một nhà thầu độc lập. Không có điều khoản nào trong Thỏa thuận này sẽ tạo nên mối quan hệ chủ lao động/nhân viên, chủ/đại lý hoặc quan hệ liên doanh giữa Esri hoặc nhà phân phối được ủy quyền của Esri và Khách hàng. Không bên nào có quyền tham gia vào các hợp đồng thay mặt cho bên kia hoặc hành động nhân danh bên kia.
+
+9.15 Thông báo. Khách hàng có thể gửi thông báo được yêu cầu theo Thỏa thuận này cho Esri theo địa chỉ sau:
+
+Environmental Systems Research Institute, Inc.
+Attn: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+USA
+
+Tel.: 909-793-2853
+Email: LegalNotices@esri.com
+PHỤ MỤC 1
+ĐIỀU KHOẢN SỬ DỤNG CỤ THỂ THEO SẢN PHẨM
+(E300 09/22/2016)
+
+PHẦN MỀM
+
+Bảng sau xác định các điều khoản sử dụng bổ sung áp dụng cho Phần mềm cụ thể. Mỗi Sản phẩm được liệt kê có một hoặc nhiều chú dẫn áp dụng cho Sản phẩm đó. Các chú dẫn này bổ sung cho những điều khoản của Thỏa thuận. Các định nghĩa cho từng chú dẫn nằm ở phía dưới bảng. Trừ khi có các quy định khác được nêu trong Tài liệu Đặt hàng hiện hành, các tiện ích của Phần mềm sẽ tuân theo chính phạm vi sử dụng được cấp cho Phần mềm tương ứng.
+
+Sản phẩm cho Máy tính để bàn
+▪	ArcGIS Desktop (Nâng cao, Tiêu chuẩn hoặc Cơ bản) (26)
+▪	ArcGIS Earth (65)
+▪	ArcGIS Explorer Desktop (20)
+▪	ArcGIS for AutoCAD (20)
+▪	ArcPad (13)
+▪	ArcReader (20)
+▪	ArcGIS for Windows Mobile (15; 54)
+▪	ArcGIS cho Mục đích Sử dụng Cá nhân (3, 26)
+
+Sản phẩm cho Máy chủ
+▪	ArcGIS Enterprise
+-	Tiêu chuẩn hoặc Nâng cao (21; 31)
+-	Workgroup Tiêu chuẩn hoặc Nâng cao (21; 28; 29; 30; 32)
+-	ArcGIS GIS Server (Tiêu chuẩn hoặc Nâng cao) (31)
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server Workgroup (Tiêu chuẩn hoặc Nâng cao) (28; 29; 30; 32)
+-	ArcGIS GIS Server Workgroup Basic (39)
+-	ArcGIS GIS Server Extension
+-	ArcGIS Maritime: Server (2)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4)
+▪	Esri Business Analyst Server
+-	Workgroup (28; 29; 30; 31; 39)
+-	Enterprise (31; 39)
+▪	World Geocoder for ArcGIS Basic (67)
+Công cụ cho Nhà phát triển
+▪	AppStudio for ArcGIS Standard (11, 16, 19)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt hoặc WPF (16; 19)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt hoặc WPF (15; 18)
+▪	ArcGIS Engine Developer Kit and Extensions (16, 19; 22, 26)
+▪	ArcGIS Engine for Windows/Linux and Extensions (15; 22; 26)
+▪	ArcGIS Web Mapping (bao gồm ArcGIS API for JavaScript/HTML5, ArcGIS API for Flex, ArcGIS API for Microsoft Silverlight) (15; 16; 64; 66)
+▪	ArcGIS Developer Subscription (24; 26)
+▪	Esri File Geodatabase API (47)
+
+Khác
+▪	Navigator for ArcGIS (14)
+
+ Chú dẫn:
+
+1.	Được bảo lưu.
+2.	Không dùng trong 	điều hướng	.
+3.	Được cấp phép chỉ cho Mục đích Sử dụng Cá nhân.
+4.	Khi sử dụng với ArcGIS Enterprise Workgroup
+-	Được giới hạn ở 1 máy chủ bốn lõi.
+-	Có thể được cài đặt trên một máy riêng.
+	5-10.	Được bảo lưu.
+11.	Các ứng dụng được xây dựng với AppStudio for ArcGIS Standard tuân theo các điều khoản sử dụng cho ArcGIS Runtime Standard Level.
+12.	Được bảo lưu.
+13.	"Giấy phép Sử dụng Chung" nghĩa là Phần mềm có thể được cài đặt trên một máy tính để bàn và sử dụng đồng thời với thiết bị kỹ thuật số trợ giúp cá nhân (PDA) hoặc máy tính di động cầm tay miễn là Phần mềm chỉ được sử dụng bởi một cá nhân duy nhất tại một thời điểm bất kỳ.
+14.	Có thể được sử dụng cho mục đích điều hướng.
+15.	Được cấp phép dưới dạng Giấy phép Triển khai.
+16.	Khách hàng có thể sử dụng SDK hoặc API để tạo các Ứng dụng Giá trị Gia tăng cũng như phân phối và cấp phép các Ứng dụng Giá trị Gia tăng đó tới người dùng cuối của mình để sử dụng Ứng dụng Giá trị Gia tăng ở bất cứ đâu không bị cấm theo quy định xuất khẩu.
+17.	Được bảo lưu.
+18.	Giấy phép Triển khai dành cho mỗi Ứng dụng Giá trị Gia tăng trên mỗi máy tính đối với các ứng dụng độc lập.
+19.	Giấy phép không được sử dụng để phát triển các Ứng dụng Giá trị Gia tăng dựa trên máy chủ.
+20.	Khách hàng	 có thể tái tạo và phân phối Phần mềm miễn là có tất cả các điều kiện sau:
+
+a.	Phần mềm được tái tạo và phân phối toàn bộ;
+b.	Một thỏa thuận cấp phép đi kèm với mỗi bản sao của Phần mềm, bảo vệ Phần mềm trong cùng phạm vi như Thỏa thuận Cấp phép này và người nhận đồng ý chịu ràng buộc bởi các điều khoản và điều kiện của thỏa thuận cấp phép;
+c.	Tất cả quy định/thông báo thương hiệu và bản quyền đều được tái tạo và
+d.	Không có khoản phí hoặc chi phí nào được quy cho việc sử dụng Phần mềm.
+
+21.	Khách hàng có thể xây dựng (các) Ứng dụng Giá trị Gia tăng cho Người dùng Được đặt tên của Khách hàng sử dụng. Khách hàng không được nhúng thông tin đăng nhập của Người dùng Được đặt tên vào Ứng dụng Giá trị Gia tăng. Khách hàng không được nhúng hoặc sử dụng Thông tin Đăng nhập Ứng dụng trong Ứng dụng Giá trị Gia tăng. Ứng dụng Giá trị Gia tăng yêu cầu thông tin đăng nhập của Người dùng Được đặt tên.
+22.	a.	Một người dùng cuối phải cấp phép Phần mềm ArcGIS Engine for Windows/Linux hoặc Phần mềm ArcGIS Desktop khác (Cơ bản, Tiêu chuẩn hoặc Nâng cao) để có quyền chạy ứng dụng ArcGIS Engine trên 1 máy tính; và
+b.	Các tiện ích mở rộng ArcGIS Engine for Windows/Linux không được sử dụng kết hợp với phần mềm ArcGIS Desktop để chạy các Ứng dụng Giá trị Gia tăng ArcGIS Engine. Một người dùng có thể cài đặt nhiều Ứng dụng Giá trị Gia tăng ArcGIS Engine trên 1 máy tính để chỉ sử dụng bởi người dùng đó.
+23.	Được bảo lưu.
+24.	Chỉ được sử dụng Phần mềm cho mục đích phát triển, kiểm tra và trình diễn Ứng dụng Giá trị Gia tăng nguyên mẫu cũng như tạo bộ nhớ cache bản đồ. Có thể sử dụng các Ứng dụng Giá trị Gia tăng và bộ nhớ cache bản đồ với máy chủ ArcGIS Enterprise Triển khai và Tổ chức. Có thể cài đặt Dữ liệu và Phần mềm trên nhiều máy tính để bất kỳ Người đăng ký nào là Nhà phát triển ArcGIS với các đăng ký theo gói mở rộng hoặc cao hơn sử dụng; tất cả các Phần mềm khác được cấp phép dưới dạng Giấy phép Sử dụng Đơn lẻ.
+25.	Được bảo lưu.
+26.	Cơ sở dữ liệu địa lý Phiên bản Cá nhân được hạn chế ở 10 gigabyte dữ liệu của Khách hàng.
+27.	Được bảo lưu.
+28.	Việc sử dụng giới hạn ở 10 người dùng cuối đồng thời đối với các ứng dụng không phải là ứng dụng ArcGIS Enterprise Workgroup hoặc ArcGIS GIS Server Workgroup. Hạn chế này bao gồm việc sử dụng Phần mềm ArcGIS Desktop, Phần mềm ArcGIS Engine và bất kỳ ứng dụng của bên thứ ba nào kết nối trực tiếp với cơ sở dữ liệu địa lý ArcGIS Enterprise Workgroup hoặc ArcGIS GIS Server Workgroup bất kỳ. Không có giới hạn nào về số lượng kết nối từ các ứng dụng web.
+29.	Phần mềm yêu cầu phiên bản SQL Server Express được hỗ trợ. Các phiên bản được hỗ trợ được liệt kê với yêu cầu hệ thống cho sản phẩm trên trang web của Esri.
+30.	Việc sử dụng được hạn chế ở tối đa 10 gigabyte dữ liệu của Khách hàng.
+31.	 	 Khách hàng có thể có dôi ra (các) bản cài đặt Phần mềm Máy chủ của Esri để d	ự phòng, tuy nhiên Phần mềm dôi ra chỉ có thể hoạt động trong khoảng thời gian trang web chính thức không hoạt động (dự phòng chủ động-bị động). (Các) bản cài đặt Phần mềm thừa sẽ vẫn không hoạt động, ngoại trừ cho mục đích bảo dưỡng hệ thống và cập nhật cơ sở dữ liệu, trong khi trang chính hoặc bất kỳ trang thừa nào khác hoạt động.
+32.	Không được phép cài đặt Phần mềm Dư thừa để hoạt động dự phòng.
+33-38.	Được bảo lưu.
+39.	Không được phép sử dụng bất kỳ chức năng chỉnh sửa nào được bao gồm trong ArcGIS GIS Server với ArcGIS GIS Server Cơ bản (Workgroup hoặc Enterprise).
+40-46.	Được bảo lưu.
+47.	Khách hàng có thể phát triển và phân phối Ứng dụng Giá trị Gia tăng sử dụng Esri File Geodatabase API cho người dùng cuối của Khách hàng.
+48-53.	Được bảo lưu.
+54.	Các bản triển khai ArcGIS for Windows Mobile được cấp phép để sử dụng với ArcGIS Enterprise (Nâng cao hoặc Tiêu chuẩn), ArcGIS Enterprise Workgroup (Nâng cao), ArcGIS Desktop (Nâng cao, Tiêu chuẩn, Cơ bản) và các Ứng dụng Giá trị Gia tăng ArcGIS Engine.
+55-63.	Được bảo lưu.
+64.	Ứng dụng Giá trị Gia tăng cho bản triển khai trên web phải được sử dụng cùng với (các) Sản phẩm khác của Esri. Bạn cũng có thể sử dụng công cụ của bên thứ ba cùng với (các) Ứng dụng Giá trị Gia tăng với điều kiện (các) Ứng dụng Giá trị Gia tăng luôn được sử dụng cùng với (các) Sản phẩm khác của Esri.
+65.	Chỉ có thể được sử dụng cùng với (các) Sản phẩm khác của Esri. Bạn cũng có thể sử dụng công nghệ của bên thứ ba cùng với ArcGIS Earth với điều kiện luôn sử dụng ArcGIS Earth cùng với (các) Sản phẩm khác của Esri.
+66.	Đối với các ứng dụng cho máy để bàn, mỗi giấy phép dành cho một tổ chức. Vì mục đích của giấy phép này, tổ chức tương đương với người đứng đầu được đăng ký định danh miền duy nhất. Miền là tên miền Internet được đăng ký với tổ chức đăng ký tên miền. Chẳng hạn, trong example.com, example.com là định danh miền duy nhất đã đăng ký. Tương tự, trong example.com.xx thì xx là mã quốc gia đã đăng ký, example.com.xx là định danh miền duy nhất đã đăng ký. Mọi nhân viên của tổ chức đều có thể sử dụng các ứng dụng cho máy bàn với người đứng đầu được đăng ký định danh miền duy nhất. Không có giới hạn đối với số lượng ứng dụng có thể được xây dựng và triển khai trong một tổ chức.
+67.	Được giới hạn ở 250.000.000 mã địa lý cho mỗi thời hạn đăng ký hàng năm.
+ DỊCH VỤ TRỰC TUYẾN
+
+Bảng sau xác định các điều khoản sử dụng bổ sung áp dụng cho các Dịch vụ Trực tuyến cụ thể. Mỗi Sản phẩm được liệt kê có một hoặc nhiều chú dẫn áp dụng cho Sản phẩm đó. Các định nghĩa cho từng chú dẫn nằm ở phía dưới bảng. Trừ khi có các quy định khác được nêu trong Tài liệu Đặt hàng hiện hành, các tiện ích của Phần mềm sẽ tuân theo chính phạm vi sử dụng được cấp cho Phần mềm tương ứng.
+
+▪	Các đăng ký ArcGIS Online được cung cấp thông qua nhiều Chương trình Bán hàng:
+
+-	Bán lẻ Thương mại, EA; Chương trình dành cho Chính phủ (1; 2; 3; 11; 12; 14; 20)
+-	Chương trình dành cho Giáo dục (1; 2; 8; 10; 14; 19)
+-	 	 Chương trình dành cho Tổ chức Phi lợi nhuậ	n (1; 2; 8; 14; 19; 20)
+
+▪	Các đăng ký Triển khai dành cho Nhà phát triển ArcGIS Online được cung cấp thông qua nhiều Chương trình Bán hàng:
+
+-	Bán lẻ Thương mại, EA; Chương trình dành cho Chính phủ
+	Đăng ký Miễn phí (1; 8; 9; 10; 13; 19; 20)
+	Đăng ký Phải trả phí (1; 8; 9; 10; 11; 13; 20)
+-	Chương trình dành cho Giáo dục, 	NGO	/NPO, Báo chí/Truyền thông
+	Đăng ký Miễn phí (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Đăng ký Phải trả phí (1; 3; 4; 5; 6; 9; 10; 13; 19)
+-	Chương trình dành cho NGO/NPO, Báo chí/Truyền thông
+	Đăng ký Miễn phí (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+	Đăng ký Phải trả phí (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+
+▪	Gói Công khai
+-	 	 Bán lẻ Thương mạ	i, EA; Chương trình dành cho Chính phủ; NGO/NPO; Báo chí/Truyền thông (1; 4; 5; 6; 7; 9; 10; 15; 19; 20)
+-	Chương trình dành cho Giáo dục (1; 4; 5; 6; 7; 9; 10; 15; 19)
+▪	Esri Business Analyst Online (16)
+▪	Esri Business Analyst Online Mobile (16)
+▪	Esri Community Analyst (16)
+▪	Esri MapStudio (17)
+
+ Chú dẫn:
+
+1.	Ngoài các điều khoản sử dụng chung của Dịch vụ Trực tuyến:
+
+a.	Khách hàng có thể sử dụng đăng ký Dịch vụ Trực tuyến Esri của mình để xây dựng (các) Ứng dụng Giá trị Gia tăng cho mục đích sử dụng nội bộ của Khách hàng.
+b.	Khách hàng cũng có thể cấp quyền truy cập vào (các) Ứng dụng Giá trị Gia tăng của Khách hàng cho các bên thứ ba, theo các điều khoản sau:
+
+i.	Khách hàng có thể cho phép Người dùng Ẩn danh truy cập vào (các) Ứng dụng Giá trị Gia tăng của Khách hàng.
+ii.	Khách hàng không được thêm các bên thứ ba làm Người dùng Được đặt tên vào đăng ký ArcGIS Online của Khách hàng nhằm mục đích cho phép bên thứ ba truy cập (các) Ứng dụng Giá trị Gia tăng của Khách hàng. Hạn chế này không áp dụng cho các bên thứ ba được bao gồm trong định nghĩa về Người dùng Được đặt tên.
+iii.	Khách hàng không được cấp cho bên thứ ba quyền truy cập vào Dịch vụ ArcGIS Online thông qua đăng ký ArcGIS Online của Khách hàng thay vì thông qua (các) Ứng dụng Giá trị Gia tăng của Khách hàng. Hạn chế này không áp dụng cho các bên thứ ba được bao gồm trong định nghĩa về Người dùng Được đặt tên.
+iv.	Khách hàng chịu hoàn toàn trách nhiệm cung cấp hỗ trợ kỹ thuật cho (các) Ứng dụng Giá trị Gia tăng của Khách hàng.
+v.	Khách hàng không được xóa hoặc che khuất bất kỳ thương hiệu hoặc logo nào thường được hiển thị thông qua việc sử dụng Dịch vụ Trực tuyến mà không được phép bằng văn bản. Khách hàng phải bao gồm quy định thừa nhận rằng ứng dụng của mình đang sử dụng Dịch vụ Trực tuyến do Esri cung cấp nếu quy định không tự động được hiển thị thông qua việc sử dụng Dịch vụ Trực tuyến. Các nguyên tắc được cung cấp trong Tài liệu.
+vi.	Khách hàng không được nhúng thông tin đăng nhập của Người dùng Được đặt tên vào Ứng dụng Giá trị Gia tăng. Chỉ có thể nhúng Thông tin Đăng nhập Ứng dụng vào Ứng dụng Giá trị Gia tăng được sử dụng để cấp quyền truy cập công khai, ẩn danh vào ArcGIS Online. Khách hàng không được nhúng hoặc sử dụng Thông tin Đăng nhập Ứng dụng ArcGIS Online trong Ứng dụng Giá trị Gia tăng để sử dụng nội bộ. Các Ứng dụng Giá trị Gia tăng được sử dụng nội bộ yêu cầu thông tin đăng nhập của Người dùng Được đặt tên.
+
+c.	Dịch vụ Mã hóa Địa lý toàn Thế giới: Khách hàng không được lưu trữ các kết quả được mã hóa địa lý do dịch vụ tạo ra mà không có đăng ký ArcGIS Online.
+d.	Dịch vụ Đồ họa thông tin: Khách hàng chỉ có thể sử dụng dữ liệu có thể truy cập qua dịch vụ này cho mục đích hiển thị. Khách hàng bị nghiêm cấm lưu bất kỳ dữ liệu nào có thể truy cập qua dịch vụ này.
+
+2.	Có thể được sử dụng cho bất kỳ mục đích kinh doanh nào trong tổ chức của Khách hàng.
+3.	Có thể được sử dụng cho mục đích phát triển và thử nghiệm trong tổ chức của Khách hàng.
+4.	Có thể được sử dụng cho mục đích giảng dạy trong các tổ chức giáo dục.
+5.	Có thể được sử dụng vì lợi ích của tổ chức NGO/NPO đủ điều kiện của Khách hàng.
+6.	Có thể được sử dụng vì lợi ích của các tổ chức truyền thông hoặc báo chí.
+7.	Có thể được sử dụng cho mục đích cá nhân.
+8.	Ứng dụng Giá trị Gia tăng của người đăng ký phải được xuất bản để truy cập công khai.
+9.	Không được sử dụng vì lợi ích của tổ chức chính phủ hoặc tổ chức vì lợi nhuận.
+10.	Khách hàng không được phép tạo các nhóm riêng tư hoặc tham gia vào bất kỳ nhóm riêng tư nào.
+11.	Khách hàng có thể cung cấp Ứng dụng Giá trị Gia tăng cho bên thứ ba để thu phí.
+12.	Khách hàng có thể sử dụng đăng ký này để tạo hoặc tham gia các nhóm riêng tư.
+13.	Mỗi đăng ký được giới hạn ở 1.000.000 Giao dịch bản đồ cơ sở và 1.000.000 Giao dịch tìm kiếm theo vị trí địa lý mỗi tháng cùng với đăng ký của Khách hàng. "Giao dịch" được định nghĩa trong Tài liệu trên Tài nguyên ArcGIS có tại http://links.esri.com/agol/transactiondef.
+14.	Mỗi đăng ký được giới hạn ở tổng cộng 50.000.000 giao dịch bản đồ cơ sở và tìm kiếm theo vị trí địa lý mỗi tháng. "Giao dịch" được định nghĩa trong Tài liệu trên Tài nguyên ArcGIS có tại http://links.esri.com/agol/transactiondef.
+15.	Có thể cho phép các sinh viên đã đăng ký của một cơ sở giáo dục truy cập trực tiếp vào Dịch vụ Trực tuyến và dùng chung một đăng ký cho mục đích giảng dạy.
+16.	Khách hàng không được hiển thị hoặc đăng bất kỳ tổ hợp nào bao gồm nhiều hơn 100 Báo cáo và bản đồ Esri Business Analyst Online hoặc Community Analyst trên trang web bên ngoài của Khách hàng.
+17.	Khách hàng có thể tạo, hiển thị công khai và phân phối bản đồ bằng bản cứng và bất kỳ định dạng điện tử tĩnh nào cho mục đích báo cáo tin tức, theo bất kỳ hạn chế nào đối với Dữ liệu ArcGIS Online.
+18.	Được bảo lưu.
+19.	Khách hàng không được cung cấp Ứng dụng Giá trị Gia tăng cho bên thứ ba để thu phí.
+20.	Bên được cấp phép không được phép là người được cấp phép của hoặc thay mặt cho bên thứ ba.
+

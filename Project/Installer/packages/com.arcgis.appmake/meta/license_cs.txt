@@ -1,0 +1,577 @@
+﻿DŮLEŽITÉ - ČTĚTE PEČLIVĚ
+(E204CW 09/22/2016)
+
+Pokud nebude tato smlouva nahrazena jinou podepsanou licenční smlouvou uzavřenou mezi vámi a společností Esri, je společnost Esri ochotna poskytnout vám produkty Esri pouze tehdy, pokud přijmete všechny podmínky obsažené v této smlouvě. Pečlivě si tyto smluvní podmínky přečtěte. Dokud nevyjádříte souhlas s podmínkami této smlouvy, nesmíte produkty Esri používat. Pokud s uvedenými smluvními podmínkami nesouhlasíte, klikněte níže na odkaz "I do not accept the agreement" (Nepřijímám tuto smlouvu). Poté můžete požádat o vrácení uhrazených poplatků.
+
+Tato licenční smlouva byla uzavřena mezi vámi ("zákazník") a společností Environmental Systems Research Institute, Inc. ("Esri"), která má sídlo ve státě Kalifornie na adrese 380 New York Street, Redlands, Kalifornie, 92373-8100, USA.
+
+1.0 VŠEOBECNÁ UDĚLENÍ PRÁV A OMEZENÍ
+
+1.1 Příloha A uvádí definice důležitých termínů, které se používají v této smlouvě. Jednotlivé oddíly této smlouvy mohou obsahovat další definice, které se používají výlučně v rámci dotyčného oddílu.
+
+1.2 Udělení práv Za předpokladu, že zákazník uhradí všechny příslušné poplatky a v souladu s touto smlouvou Esri uděluje zákazníkovi osobní, nevýlučné a nepřenosné právo
+
+a.	Používat produkty Esri v souladu s dokumentací a příslušnými objednacími dokumenty;
+b.	Kopírovat a odvozovat informace z dokumentace pro interní potřebu zákazníka v souvislosti s oprávněným používáním produktů ze strany zákazníka. Zákazník začlení následující upozornění na autorská práva společnosti Esri a jejích poskytovatelů licence do veškerých odvozených materiálů:
+
+"Části tohoto dokumentu obsahují duševní vlastnictví společnosti Esri a jejích licenčních partnerů a používají se za podmínek licence. Copyright (c) [Zákazník vloží datum/data podle autorských práv ze zdrojových materiálů.] Esri a její licenční partneři. Všechna práva vyhrazena."
+
+Udělení práv v tomto oddílu (i) zůstává v platnosti po dobu předplatného nebo po příslušnou dobu nebo bez časového omezení, není-li v objednacích dokumentech stanovena nebo uvedena příslušná doba, a (ii) podléhá dalším právům a omezením uvedeným v této smlouvě včetně přílohy B.
+
+1.3 Přístup pro konzultanty a smluvní partnery. Zákazník může oprávnit své konzultanty nebo smluvní partnery k použití produktů Esri výhradně ve svůj vlastní prospěch. Zákazník bude plně odpovídat za dodržování této smlouvy jeho konzultanty a smluvními partnery a zajistí, aby každý konzultant nebo smluvní partner po dokončení práce zadané zákazníkem přestal dané produkty Esri používat. Je zakázáno, aby konzultanti nebo smluvní partneři měli přístup k produktům Esri či je využívali, pokud by se tak nedělo výhradně k prospěchu zákazníka.
+
+1.4 Zkušební licence a licence k beta verzím. Produkty získané v rámci zkušební licence nebo předplatného nebo programu beta verze jsou určeny pouze k účelům hodnocení a testování, a nikoli ke komerčnímu užívání. Takové užívání je na vlastní riziko zákazníka a produkty nemají nárok na systémovou podporu (maintenance). Pokud před vypršením zkušebního období nezmění zákazník svoji zkušební licenci na předplatné, může zákazník ztratit veškerý obsah a přizpůsobení, které odeslal nebo provedl během zkušebního období. Pokud si zákazník nepřeje zakoupit licenci nebo předplatné, musí takový obsah vyexportovat před ukončením zkušebního období.
+
+1.5 Vzdělávací programy. Zákazník souhlasí, že bude produkty Esri poskytnuté v rámci vzdělávacího programu užívat výhradně pro vzdělávací účely a pouze po dobu platnosti vzdělávacího programu. Zákazník produkty neužije k žádnému administrativnímu účelu, pokud nezískal licenci k administrativnímu užití. "Administrativní užití" znamená administrativní činnosti, které nejsou přímo spojeny s výukou nebo vzděláváním, jako je mapování majetku, facility management, demografická analýza, trasování, bezpečnost výukových prostor a analýza dostupnosti. Zákazník nesmí produkty užívat k vytváření příjmů nebo zisků.
+
+1.6 Grantové programy.Zákazník může produkty Esri poskytnuté v rámci grantového programu užívat pouze k nekomerčním účelům. S výjimkou kompenzace nákladů na užívání a provozování produktů Esri zákazník nesmí produkty Esri užívat k vytváření příjmů nebo zisků.
+
+1.7 Jiné programy Esri pro omezené použití.Získá-li zákazník produkty Esri v rámci jakéhokoli programu pro omezené užití, který není uveden výše, užívání produktů Esri zákazníkem může podléhat podmínkám stanoveným na příslušné spouštěcí stránce nebo v registračním formuláři nebo dle popisu na webové stránce společnosti Esri, což bude dodatkem k podmínkám této smlouvy, které nejsou s tímto v rozporu.
+
+1.8 Výhrada práv. Veškeré produkty Esri jsou autorská díla společnosti Esri a jejích licenčních partnerů. Všechna práva, která nejsou výslovně uvedena v této smlouvě, jsou vyhrazena.
+
+2.0 PODMÍNKY UŽÍVÁNÍ SOFTWARU
+
+2.1 Typy licencí. Esri uděluje následující typy licencí pro software:
+
+a.Licence pro současné užití více uživateli: Zákazník může instalovat a užívat software ve více počítačích propojených v síti, avšak počet souběžných uživatelů nesmí překročit počet udělených licencí. Licence pro současné použití více uživateli zahrnuje právo spouštět pasivní instance softwaru pro správu licence pro současné použití více uživateli v prostředí odděleného operačního systému pro účely dočasné podpory v případě selhání.
+b.Licence pro nasazení: Zákazník může zahrnout komponenty produktu ArcGIS Runtime do aplikací s přidanou hodnotou a distribuovat aplikace s přidanou hodnotou svým koncovým uživatelům.
+c.Licence pro produkční server: Zákazník může užívat software na základě licence pro server pro veškeré účely povolené smlouvou tak, jak je popsáno v dokumentaci.
+d.Licence pro vývojový server: Zákazník může užívat software na základě licence pro server pro účely vytváření a testování aplikací s přidanou hodnotou, jak je popsáno v dokumentaci.
+e.Užití pro vývoj: Zákazník může instalovat a užívat software pro účely vytváření a testování aplikací s přidanou hodnotou, jak je popsáno v dokumentaci.
+f.Licence na dvě užití: Zákazník může instalovat software do stolního počítače a současně jej může užívat v zařízení PDA (Personal Digital Assistant) nebo v mobilním zařízení, pokud tento software ve kterémkoli momentu užívá pouze jediná osoba.
+g.Licence pro pasivní instalace: Zákazník může instalovat software na redundantní systémy pro účely převzetí služeb, redundantně instalovaný software však smí být v provozu pouze po dobu, kdy je primární server mimo provoz. Jakmile bude primární server (nebo jiný záložní server) uveden do provozu, tyto záložní instalace softwaru budou ponechány v nečinnosti, s výjimkou údržby systému a aktualizace databází.
+h.Redistribuční licence: Zákazník smí reprodukovat a distribuovat tento software za předpokladu, že
+
+1.	Zákazník reprodukuje a distribuuje software jako celek.
+2.	Ke každé kopii softwaru je přiložena licenční smlouva, která chrání software stejně jako tato smlouva, a příjemce se zaváže k dodržování jejích podmínek.
+3.	Zákazník bude reprodukovat všechna prohlášení o autorských právech a ochranné známky.
+4.	Zákazník nebude ostatním účtovat poplatky za užívání softwaru.
+
+j.Licence pro server: Zákazník může instalovat a užívat software na určitém serverovém počítači. Licence pro server mohou být omezeny na určitý počet procesorových jader serveru nebo na distribuované nasazení na více serverech podle popisu v objednacích dokumentech nebo v dokumentaci. Pokud popis softwaru zahrnuje použití pro účely převzetí služeb v případě selhání, každá jednotlivá licence pro server zahrnuje licenci pro pasívní instalaci.
+j.Licence pro jednoho uživatele: Zákazník může určitého oprávněného koncového uživatele oprávnit k instalaci a používání softwaru na jediném určitém počítači. Zákazník smí povolit tomuto jednomu koncovému uživateli, aby si nainstaloval druhou kopii do druhého počítače výhradně pro vlastní použití, pokud bude v jednom okamžiku používána vždy pouze jedna kopie softwaru. V rámci stejné licence nesmí software k žádným jiným účelům užívat žádný jiný koncový uživatel.
+k.Licence pro pracovní server: Zákazník smí používat software na základě licence pro server k vytváření a testování aplikací s přidanou hodnotou a mapových mezipamětí, k provádění akceptačního testování uživateli, testování výkonu a testování zátěže jiného softwaru jiného výrobce, publikace nových aktualizací obchodních dat a k provádění školicí činnosti, jak je popsáno v dokumentaci. Zákazník smí používat aplikace s přidanou hodnotou a mapovou mezipamětí s vývojovými a produkčními servery.
+
+2.2 Povolené využití
+
+a.	Zákazník smí
+
+1.	Instalovat, zobrazovat a uchovávat software a data na elektronickém úložném zařízení.
+2.	pořízení archivních kopií a běžných záloh počítače,
+3.	Instalovat a užívat novější verze softwaru souběžně s verzí, která má být nahrazena, po přiměřené přechodové období nepřekračující 6 měsíců, pokud nasazení některé z verzí nepřekročí objem, pro který zákazník vlastní licenci; poté zákazník nebude používat software ve větším souhrnném objemu, než pro který vlastní licenci. Toto neplatí pro software s licencí k použití pro vývoj.
+4.	Přesouvat software v konfiguraci, na kterou se vztahuje licence, do náhradního počítače.
+5.	Distribuovat třetím stranám software a související autorizační kódy nutné k užívání licence pro nasazení.
+6.	Používat serverový software pro komerční užívání ASP, pokud zákazník získal licenci pro komerční užívání ASP nebo pokud je organizací státní správy a samosprávy nebo neziskovou organizací, která provozuje webové stránky nebo nabízí internetovou službu na bázi zpětného získání nákladů, nikoli pro zisk.
+
+b.	Zákazník si může software individuálně upravovat pomocí libovolného makra nebo skriptovacího jazyka, rozhraní API nebo knihoven zdrojových nebo objektových kódů, ale pouze v rozsahu, v jakém je individualizace popsána v dokumentaci.
+c.	Zákazník smí používat veškerá písma poskytnutá se softwarem v rámci autorizovaného užívání softwaru. Zákazník smí rovněž používat písma Esri samostatně k tisku jakéhokoli výstupu vytvořeného za použití softwaru. Veškerá omezení užívání písem od třetích stran obsažených v softwaru jsou uvedena přímo v souboru písma.
+d.Dodatek 1 uvádí podmínky použití specifické pro produkty pro konkrétní software. Esri může příležitostně vydávat aktualizace dodatku 1.
+
+2.3 Údržba (Maintenance). Esri bude poskytovat systémovou podporu v souladu s programem systémové podpory a podpory Esri, pokud zákazník působí ve Spojených státech. Zákazníci mimo Spojené státy mohou získat systémovou podporu od svého místního distributora Esri na základě podmínek tohoto distributora.
+
+3.0 PODMÍNKY UŽÍVÁNÍ SLUŽEB ONLINE
+
+3.1 Definice. Následující definice doplňují definice uvedené v příloze A:
+
+a.	"anonymní uživatelé" označuje všechny osoby, které mají veřejný přístup (tj. bez nutnosti zadání pověření pojmenovaného uživatele) k libovolné části obsahu zákazníka nebo aplikacím s přidanou hodnotou. Zákazník smí anonymním uživatelům umožnit přístup ke svému obsahu nebo aplikacím s přidanou hodnotou jejich publikováním prostřednictvím nástrojů pro sdílení, což je součástí oprávněného užívání služeb online ze strany zákazníka.
+b.	"Přihlašovací údaje aplikace" (App Login) označují systémem generované přihlašovací údaje aplikace a heslo, které jsou poskytnuty registrací aplikace s přidanou hodnotou ve službě ArcGIS Online a které lze integrovat do aplikace s přidanou hodnotou a umožnit jí přístup ke službám online a jejich užívání.
+c.	"Kredit na služby" je směnná jednotka přidělovaná v rámci předplatného služeb online v počtu uvedeném v objednacím dokumentu.
+d.	"Nástroje pro sdílení" jsou funkce publikování zahrnuté ve službách online a webu ArcGIS, které zákazníkovi umožňují poskytnout jeho obsah a aplikace s přidanou hodnotou třetím stranám anebo anonymním uživatelům.
+
+3.2 Předplatné služeb online. Společnost Esri poskytuje předplatné služeb online na základě následujících podmínek. Dodatek 1 také uvádí podmínky použití specifické pro produkty pro konkrétní služby online.
+
+3.3 Poskytování předplatného na služby online. Pro předplatné na služby Online Services společnosti Esri platí:
+
+a.	Společnost Esri bude zákazníkovi poskytovat služby online v souladu s dokumentací.
+b.	Společnost Esri bude poskytovat systémovou podporu v souladu s programem systémové podpory a podpory Esri, pokud zákazník působí ve Spojených státech. Zákazníci mimo Spojené státy mohou získat systémovou podporu od distributora Esri na základě podmínek tohoto distributora.
+c.	Společnost Esri bude poskytovat zákaznickou podporu v souladu se standardními zásadami zákaznické podpory společnosti Esri a další služby podpory, které si zákazník zakoupí.
+d.	Společnost Esri se bude s využitím z obchodního hlediska přiměřených opatření snažit o to, aby zákazníkovi služby online nepředaly žádný škodlivý kód, společnost Esri však nenese odpovědnost za škodlivý kód, který vnikl do služeb online prostřednictvím předplatného zákazníka nebo obsahu třetích stran.
+
+3.4 Přístup k aplikacím s přidanou hodnotou
+
+a.	Pojmenovaní uživatelé mají unikátní, individuální přihlašovací údaje. Pojmenovaní uživatelé mají soukromý přístup k funkcím služeb Online Services, které nejsou veřejně přístupné pro Anonymní uživatele.
+b.	Zákazník smí svoje předplatné služeb online využít k vytváření aplikací s přidanou hodnotou pro interní užití pojmenovanými uživateli.
+c.	Zákazník může převádět aplikace s přidanou hodnotou na jakoukoli třetí stranu pro použití ve spojení s vlastním předplatným služeb online třetí strany.
+d.	Do svého předplatného služeb online nesmí zákazník přidávat třetí strany jako pojmenované uživatele, aby těmto třetím stranám umožnil přístup ke svým aplikacím s přidanou hodnotou. Toto omezení se nevztahuje na třetí strany zahrnuté do definice pojmenovaných uživatelů.
+e.	Třetím stranám nesmí zákazník poskytnout přístup ke službám online ArcGIS dostupným prostřednictvím jeho předplatného služeb online ArcGIS jinak než v rámci svých aplikací s přidanou hodnotou. Toto omezení se nevztahuje na třetí strany zahrnuté do definice pojmenovaných uživatelů.
+f.	Zákazník může anonymním uživatelům umožnit přístup ke svým aplikacím s přidanou hodnotou provozovaným v rámci jeho vlastního předplatného podle následujících podmínek:
+
+1.	Zákazník si za tento přístup v rámci typů předplatného umožňujících použití pro účely vytváření příjmů účtovat poplatky.
+2.	Zákazník může vložit pověření aplikace do aplikací s přidanou hodnotou, ale nemůže vložit pověření pojmenovaného uživatele.
+3.	Zákazník je odpovědný za všechny kredity služby využívané anonymními uživateli u aplikací s přidanou hodnotou zákazníka.
+4.	Odpovědnost za poskytování technické podpory k jeho aplikacím s přidanou hodnotou nese výhradně zákazník.
+5.	Zákazník nemůže anonymním uživatelům umožnit přístup k aplikacím s přidanou hodnotou, které jsou určeny pouze k jejich internímu použití; aplikace s přidanou hodnotou používané interně vyžadují přihlašovací údaje pojmenovaného uživatele.
+
+3.5 Povinnosti zákazníka
+
+a.	Zákazník nese výhradní odpovědnost za vývoj a provoz svého obsahu a aplikací s přidanou hodnotou a za dodržení této smlouvy ze strany svých pojmenovaných uživatelů. Prostřednictvím předplatného zákazníka smí získávat přístup ke službám online pouze zákazník a jeho pojmenovaní uživatelé či anonymní uživatelé (je-li to možné). Přihlašovací údaje pojmenovaných uživatelů jsou určeny pouze pro dotyčné pojmenované uživatele a nesmí být sdíleny s jinými jednotlivci. Zákazník může přidělit přihlašovací údaje dřívějších pojmenovaných uživatelů novým pojmenovaným uživatelům, pokud dřívější uživatelé již nepotřebují přístup ke službám online. Pokud se zákazník dozví o neoprávněném užití svého předplatného nebo jiném narušení zabezpečení, musí to neprodleně oznámit společnosti Esri.
+b.	Pokud zákazník užívá pro vytváření aplikace přistupující ke službám online společnosti Esri nástroje pro vývoj aplikací jiných výrobců, musí do aplikace zahrnout prohlášení udávající, že tato aplikace používá služby online společnosti Esri. Pokyny jsou uvedeny v dokumentaci.
+
+3.6 Úpravy služeb online. Společnost Esri může kdykoli změnit služby online a přidružená rozhraní API na základě oznámení zásadních změn s 30denní ohlašovací lhůtou a 90denní ohlašovací lhůtou pro zařazení mezi zastaralé. V případě, že jakékoli pozměnění, ukončení poskytování služeb online nebo jejich zařazení mezi zastaralé bude mít významný nepříznivý dopad na operace zákazníka, může se společnost Esri dle svého uvážení pokusit o opravu, nápravu nebo poskytnutí alternativního řešení pro služby online. Pokud uskutečnitelné řešení není komerčně přiměřené, zákazník je oprávněn ke zrušení svého předplatného služeb online a společnost Esri vydá poměrnou náhradu.
+
+3.7 Změny sazeb předplatného. Společnost Esri smí zvýšit sazby předplatného s dobou platnosti delší než 1 měsíc po upozornění zákazníkovi poskytnutém s předstihem alespoň 60 dnů před vypršením platnosti aktuálního období předplatného. Společnost Esri může zvýšit měsíční sazby předplatného po upozornění poskytnutém s předstihem třiceti 30 dnů.
+
+3.8 Obsah zákazníka
+
+a.Vlastnictví. Zákazník si ponechává veškerá práva, vlastnické nároky a zájmy související s jeho obsahem. Zákazník tímto společnosti Esri a jejím prodejcům nebo poskytovatelům licence uděluje nevýhradní, nepřevoditelné celosvětové právo hostovat, provozovat a reprodukovat jeho obsah, a to výhradně za účelem toho, aby mu umožnila užívat služby online. Bez souhlasu zákazníka společnost Esri nesmí získávat přístup k jeho obsahu ani jej užívat nebo zveřejňovat, s výjimkou případů, kdy je to přiměřeně nezbytné k podpoře jeho užívání služeb online, reagování na jeho žádosti o zákaznickou podporu nebo řešení potíží s jeho účtem či k jinému účelu, který zákazník písemně povolí. Získá-li zákazník ke službám online přístup prostřednictvím aplikace poskytované třetí stranou, společnost Esri smí odhalit jeho obsah této třetí straně v míře nezbytné k tomu, aby byla možná spolupráce mezi aplikací, službami online a obsahem zákazníka. Společnost Esri smí odhalit obsah zákazníka, pokud jí to nařizuje zákon, předpis, soudní příkaz nebo příkaz jiného vládního orgánu, a v takovém případě se bude společnost Esri v přiměřené míře snažit omezit rozsah takového odhalení. Plnou odpovědnost za zajištění vhodnosti jeho obsahu k použití se službami online a za pořizování pravidelných záloh v režimu offline pomocí funkcí exportu a stahování ve službách online nese výhradně zákazník.
+b.Sdílení obsahu zákazníka. Pokud se zákazník rozhodne prostřednictvím nástrojů pro sdílení sdílet obsah, bere na vědomí, že třetím stranám umožnil užívání, ukládání, ukládání do mezipaměti, kopírování, reprodukci, distribuci a další distribuci, přenos a další přenos svého obsahu prostřednictvím služeb online. Společnost Esri nenese odpovědnost za žádné ztráty, odstranění, úpravy či odhalení obsahu zákazníka vyplývající z užívání nebo zneužití těchto nástrojů pro sdílení nebo služeb online, obsahu online, webových stránek ArcGIS, dokumentace nebo souvisejících materiálů. Zákazník smí užívat nástroje pro sdílení pouze na vlastní riziko.
+c.Získání obsahu zákazníka po ukončení platnosti smlouvy. Po ukončení platnosti smlouvy, zkušebního období či předplatného dá společnost Esri zákazníkovi jeho obsah k dispozici na dobu třiceti 30 dnů, kdy si jej může stáhnout, pokud nepožádá o kratší období dostupnosti nebo pokud takový postup společnosti Esri nezakazuje zákon. Pak právo zákazníka na přístup nebo užívání jeho obsahu ve spojení se službami online přestane platit a společnost Esri již nebude mít žádnou povinnost ukládat jeho obsah nebo mu jej vrátit.
+
+3.9 Omezení užívání služeb online; kredity na služby. Každé předplatné služeb online zahrnuje kredity na služby popsané v příslušném objednávacím dokumentu. Každý kredit na služby opravňuje zákazníka k užívání služeb online ve stanoveném objemu, který se liší v závislosti na konkrétních službách online, jež zákazník užívá. V průběhu užívání služeb online jsou kredity na služby automaticky odečítány z účtu zákazníka až do maximálního objemu dostupných kreditů na služby. Zákazník může v případě potřeby zakoupit dodatečné kredity na služby. Společnost Esri upozorní správce účtu předplatného zákazníka, když spotřeba služeb zákazníka dosáhne přibližně 75 % celkového počtu kreditů na služby, který mu byl přidělen v rámci předplatného. Společnost Esri si vyhrazuje právo na pozastavení přístupu zákazníka ke službám online, které spotřebovávají kredity na služby, pokud zákazník všechny své kredity na služby spotřebuje. Společnost Esri neprodleně obnoví přístup zákazníka ke svým službám online, jakmile zákazník zakoupí dodatečné kredity na služby.
+
+3.10 ArcGIS Enterprise with Virtual Cloud Infrastructure. Zákazník poskytne informace nebo jiné materiály související s jeho obsahem (včetně kopií jakýchkoli klientských aplikací), je-li to přiměřeně požadováno pro účely ověření jeho dodržování této smlouvy. Společnost Esri může monitorovat externí rozhraní (např. porty) obsahu zákazníka za účelem ověření jeho dodržování této smlouvy. Zákazník nebude takové monitorování blokovat ani do něj jinak zasahovat, avšak může pro zachování důvěrnosti svého obsahu použít technologii šifrování nebo brány firewall. Zákazník bude přiměřeně spolupracovat se společností Esri na identifikaci zdroje jakéhokoli problému se službami ArcGIS Enterprise with Virtual Cloud Infrastructure, které lze přiměřeně přisuzovat jeho obsahu nebo jakýmkoli materiálům koncových uživatelů, nad nimiž má zákazník kontrolu.
+
+4.0 PODMÍNKY UŽÍVÁNÍ DAT
+
+4.1 Definice. Následující definice doplňují definice uvedené v příloze A:
+
+a." Obchodní data" jsou informace o podnicích, demografii a logistice, které umožňují lepší rozhodování, optimalizované interní obchodní procesy, vyšší provozní efektivitu, nové příjmy a konkurenční výhody vůči obchodním soupeřům.
+b." Esri Content Package" znamená digitální soubor zahrnující obsah ArcGIS Online Basemap (např. rastrové mapové dlaždice, snímky, vektorová data) extrahovaný ze služeb ArcGIS Online Basemap Services.
+c." Data o provozu" jsou data zahrnující nebo popisující informace o silnicích, ulicích a souvisejících funkcích.
+
+4.2 Povolené využití
+
+a.	Zákazník může data využívat pouze ve spojení s produkty, se kterými společnost Esri tato data poskytla.
+b.	Zákazník může zahrnout reprezentace dat v tištěné podobě nebo ve statických elektronických formátech (např. PDF, GIF, JPEG) do prezentačních balíčků, marketingových studií nebo jiných zpráv či dokumentů obsahujících obrazové mapy nebo souhrny dat odvozené z užívání produktů společnosti Esri třetím stranám, a to v souladu s omezeními uvedenými v této licenční smlouvě, za předpokladu, že zákazník k reprezentacím dat přiloží prohlášení o vlastnictví dat, které jako zdroj částí dat použitých pro reprezentace dat uznává společnost Esri nebo její příslušné poskytovatele licencí.
+c.	Zákazník může data online podkladových map ArcGIS stáhnout do svého systému prostřednictvím balíčků s obsahem Esri Content Package a následně je doručit (přenést) do libovolného zařízení pro účely výhradního použití s licencovanými aplikacemi vytvořenými pomocí ArcGIS Runtime, ArcGIS Desktop a aplikacemi vytvořenými pomocí ArcGIS API for Flex.
+d.	Esri nezískává žádná práva na data zákazníka v rámci této smlouvy.
+
+4.3 Omezení užívání
+
+a.	Zákazník nesmí způsobit přivlastnění dat zákazníky ani oprávnit své zákazníky k přivlastnění dat, používat data v rámci neoprávněné služby nebo produktu ani poskytovat data prostřednictvím třetí osoby nebo jejím jménem.
+b.	Zákazník nesmí používat data ani třetím stranám umožnit používání dat za účelem kompilace, vylepšování, ověřování, doplňování, rozšiřování ani odstraňování z celku informací, které jsou prodávány, pronajímány, publikovány, dodávány nebo jakýmkoli jiným způsobem poskytovány třetí straně.
+c.Obchodní data. Bez písemného svolení zákazník nesmí používat obchodní data pro žádný účel přímého marketingu, publikování za účelem následného prodeje ani distribuce žádné třetí straně v rámci seznamů adres, adresářů, obchodních adresářů nebo jiných souborů informací.
+d.Data o provozu. Zákazník může používat data o provozu pro účely mapování, geokódování a stanovení trasy mezi body. Nemá-li k tomu zákazník písemné svolení, nesmí data o provozu používat pro
+
+1.	poskytování navigace v reálném čase, k čemuž patří i upozorňování uživatele na blížící se kroky (například na blížící se zatáčku) nebo k výpočtu alternativní trasy v případě, že uživatel neodbočí na stanoveném místě,
+2.	synchronizovanou navigaci více vozidel, nebo
+3.	optimalizaci trasy.
+
+e.Data produktu Business Analyst. Data poskytovaná s produktem Esri Business Analyst (Server, Desktop) podléhají následujícím doplňkovým podmínkám užívání:
+
+1.	Objedná-li si zákazník licenci k produktům Esri Business Analyst či Business Analyst (Canadian edition) s příslušnou částí celonárodní sady dat (např. Region, State, Local), smí užívat pouze příslušnou část sady, ke které má licenci, a žádnou jinou část celonárodní sady dat.
+2.	Data poskytovaná s produktem Business Analyst Server nelze ukládat do mezipaměti nebo stahovat za použití klientských aplikací nebo zařízení.
+
+4.4 Doplňkové podmínky pro data. Někteří poskytovatelé licencí pro data po Esri požadují předávání doplňkových autorských požadavků a podmínek použití zákazníkovi. Takovéto postupované podmínky jsou k dispozici na adrese http://www.esri.com/legal
+/third-party-data.
+PŘÍLOHA A
+SLOVNÍK TERMÍNŮ
+
+Následující slovník termínů platí pro všechny produkty a služby Esri, jež Esri může nabízet svým zákazníkům. Určité produkty a služby Esri nemusejí být pokryty touto smlouvou. Ignorujte prosím případné podmínky, které neplatí pro produkty či služby Esri poskytované v rámci této smlouvy.
+
+Termín "API" označuje aplikační programovací rozhraní (Application Programming Interface).
+
+Termín "web ArcGIS" označuje portál http://www.arcgis.com a veškeré související či následnické webové stránky.
+
+"Autorizační kód" je jakýkoli klíč, autorizační číslo, aktivační kód, přihlašovací údaje, token, uživatelské jméno a heslo k účtu nebo jiný mechanismus nutný k užívání produktu Esri.
+
+"Beta verze" je kterákoli alfa verze, beta verze nebo jiná předprodejní verze produktu.
+
+Termín "Cloudové služby" označuje služby online a EMCS.
+
+Termín "komerční používání ASP" označuje použití komerčním poskytovatelem aplikačních služeb, a to pro vytváření zisku poskytováním přístupu k softwaru prostřednictvím aplikace s přidanou hodnotou. Například účtováním poplatku za předplatné, službu nebo jakoukoli jinou formu transakce, případně vytvářením významného zisku z inzerce.
+
+Termín "obsah" označuje data, obrázky, fotografie, animace, videa, zvukové výstupy, text, mapy, datové modely, tabulky, uživatelská rozhraní, grafické prvky, ikony, softwarové aplikace, sady pro vývoj softwaru (SDK), rozhraní API, softwarové knihovny, ukázky kódu a další prostředky.
+
+Termín "ovládání" znamená více než 50 % hlasujících akcií nebo jiného hlasujícího podílu ovládaného subjektu.
+
+Termín "obsah zákazníka" označuje veškerý obsah, který zákazník, jeho koncoví uživatelé nebo jiný uživatel poskytne společnosti Esri v souvislosti s užíváním produktů Esri zákazníkem, veškeré výsledky odvozené z užívání obsahu zákazníka s produkty Esri a všechny aplikace s přidanou hodnotou, které zákazník sestaví a nasadí s produkty. Obsahem zákazníka se nerozumí zpětná vazba, návrhy nebo požadavky na vylepšení, které zákazník poskytne společnosti Esri.
+
+Termín "data" označuje jakékoli komerčně dostupné digitální datové sady, včetně například geografických vektorových dat, rastrových dat, zpráv nebo přidružených tabulkových atributů, které Esri dodává v balíčcích s ostatními produkty Esri nebo které poskytuje samostatně. Termín "data" nezahrnuje obsah vložený přímo na web Esri jinými osobami než jsou zaměstnanci, dodavatelé nebo zhotovitelé Esri.
+
+Termín "dodávky" označuje vše, co Esri dodává zákazníkovi jako výsledek výkonu profesionálních služeb vyjma produkty, školení a systémovou podporu. Dodávky mohou zahrnovat například poradenské služby, softwarový kód, knihovny DLL a programy poskytované na libovolném nosiči ve formátu zdrojového, objektového nebo spustitelného kódu včetně záloh, aktualizací nebo sloučených kopií, dále metody, postupy a vědomosti, technickou podporu, procesy, vzorce či algoritmy, návrhy, datové slovníky a modely, soubory, schémata, dokumentaci, specifikace, výkresy, vývojové diagramy, instruktáže nebo postupy pro testování a zajišťování kvality.
+
+Termín "dokumentace" znamená veškeré referenční materiály pro uživatele dodávané společně s produktem.
+
+Termín "Spravované cloudové služby Esri" nebo "EMCS" označuje jedním držitelem užívanou hardwarovou, softwarovou, datovou a síťovou platformu a související služby monitorování a podpory systému, jejichž Esri poskytuje k provozu a zpřístupňování obsahu zákazníka zákazníkovi a koncovým uživatelům zákazníka prostřednictvím internetu.
+
+Termín "produkt Esri" označuje libovolný produkt, systémovou podporu nebo dokumentaci. Pokud Esri poskytuje školení nebo profesionální služby přímo zákazníkovi, zahrnuje termín produkt Esri rovněž školicí materiály a dodávky.
+
+Termín "GIS" označuje geografické informační systémy.
+
+Termín "systémová podpora" označuje předplacený program opravňující zákazníka k získávání aktualizací produktů a ostatních výhod, například přístupu k technické podpoře a k webovým výukovým prostředkům s volitelnou intenzitou.
+
+Termín "škodlivý kód" označuje softwarové viry, červy, logické bomby, trojské koně nebo jiný počítačový kód, soubory nebo programy určené k přerušení, zničení či omezení funkcí počítačového softwaru, hardwaru nebo telekomunikačních zařízení.
+
+Termín "pojmenovaný uživatel" označuje zaměstnance, zástupce, konzultanty nebo dodavatele zákazníka, jimž zákazník přiřadil unikátní zabezpečené přihlašovací údaje pojmenovaného uživatele (identita) umožňující přístup k produktu, který takovouto identitu vyžaduje pro zpřístupnění funkcí v produktu spravovaných na základě identity, a to výhradně ve prospěch zákazníka. Pro vzdělávací účely mohou Pojmenovaní uživatelé zahrnout registrované studenty.
+
+Termín "pověření pojmenovaného uživatele" označuje přihlašovací jméno konkrétní osoby s příslušným heslem, jež této osobě umožňuje přístup k produktům a užívání těchto produktů.
+
+Termín "licence nebo předplatné pojmenovaného uživatele" označuje licenci nebo předplatné k užití jediným pojmenovaným uživatelem.
+
+Termín "online obsah" označuje obsah hostovaný nebo poskytovaný společností Esri v rámci služeb online, včetně všech mapových a úkolových služeb, sad SDK, rozhraní API, softwarových knihoven, ukázek kódu a dalších prostředků, avšak vyjma obsahu poskytnutého třetími stranami, k němuž uživatel přistupuje prostřednictvím služeb online.
+
+Termín "služby online" označuje jakýkoli komerčně dostupný internetový geoprostorový systém včetně aplikací a souvisejících rozhraní API pro ukládání, správu, publikování a užívání map, dat a dalších informací. Služby online nezahrnují data a obsah.
+
+Termín "objednací dokumenty" znamená prodejní nabídku, nabídku obnovení systémové údržby, nákupní objednávku, návrh nebo jiný dokument identifikující produkty nebo služby objednané zákazníkem.
+
+Termín "časově neomezená licence" označuje licenci k užívání verze produktu, pro kterou byly uhrazeny příslušné licenční poplatky, po dobu neurčitou, pokud ji neukončí společnost Esri nebo zákazník na základě této smlouvy.
+
+Termín "osobní použití" znamená osobní, nekomerční použití jednotlivým zákazníkem. Osobní použití vylučuje použití ve prospěch jakékoli třetí strany včetně komerčních, vzdělávacích, státních nebo neziskových subjektů.
+
+Termín "produkt" označuje software, data a cloudové služby licencované nebo předplacené v souladu s podmínkami této smlouvy.
+
+Termín "profesionální služby" označuje jakékoli vývojové nebo poradenské služby poskytované společností Esri zákazníkovi.
+
+Termín "vzorek" označuje vzorový kód, vzorové aplikace, doplňky či vzorová rozšíření produktů.
+
+Termín "služby" označuje technickou podporu poskytovanou v rámci systémové podpory. Pokud Esri poskytuje školení nebo profesionální služby přímo zákazníkovi, zahrnuje termín služby rovněž školicí materiály a profesionální služby.
+
+Termín "software" označuje kteroukoli část vlastní komerční softwarové technologie společnosti Esri vyjma dat, k nimž lze získat přístup nebo je stáhnout prostřednictvím webových stránek autorizovaných společností Esri nebo která se dodávají na libovolných médiích a v kterémkoli formátu, včetně záloh, aktualizací, aktualizací Service Pack, oprav, oprav Hot Fix nebo povolených sloučených kopií.
+
+Termín "termínovaná licence" označuje licenci nebo přístup, které jsou poskytovány za účelem užívání produktu v omezeném časovém období ("doba užívání") nebo na základě předplatného či transakce.
+
+Termín "školení" označuje školitelem vedené školení a služby instruktáže pro používání softwaru GIS společnosti Esri.
+
+Termín "školicí materiály" označuje digitální nebo tištěný obsah potřebný k absolvování školení, který může zahrnovat například pracovní sešity, data, koncepty, cvičení a zkoušky.
+
+Termín "aplikace s přidanou hodnotou" označuje aplikaci vyvinutou zákazníkem pro použití ve spojení s autorizovaným užíváním jakéhokoli softwaru, dat nebo služeb online.
+ PŘÍLOHA B
+VŠEOBECNÉ PODMÍNKY A UJEDNÁNÍ
+
+Následující všeobecné podmínky a ujednání platí pro všechny produkty a služby Esri, jež Esri může nabízet svým zákazníkům. Určité produkty a služby Esri nemusejí být k dispozici v rámci této smlouvy. Ignorujte prosím případné podmínky, které neplatí pro produkty či služby Esri poskytované v rámci této smlouvy.
+
+ČLÁNEK 1 - VŠEOBECNÁ OMEZENÍ POUŽITÍ
+
+Není-li to výslovně povoleno v této smlouvě, zákazník nebude provádět tyto činnosti
+
+a.	prodej produktů, jejich pronájem, poskytování sublicencí, půjčování, sdílení nebo převod produktů,
+b.	užívání produktů Esri pro komerční užívání ASP nebo pro účely servisní kanceláře,
+c.	distribuce nebo poskytování přímého přístupu k produktům Esri třetím stranám, a to jak v celku, tak po částech, včetně například rozšíření, komponent nebo knihoven DLL,
+d.	distribuovat autorizační kódy třetím stranám,
+e.	zpětná analýza, dekompilace nebo převod libovolného zkompilovaného produktu nebo dodávky do zdrojového kódu,
+f.	jakékoli pokusy o vyhnutí se technologickým opatřením, která řídí přístup k produktům Esri nebo jejich užívání,
+g.	ukládání, ukládání do mezipaměti, užívání, odesílání, distribuce nebo sublicencování obsahu či jiné užívání produktů Esri porušující práva Esri nebo třetích stran, včetně práv duševního vlastnictví, vlastnických práv, zákonů proti diskriminaci či jiných platných zákonů nebo předpisů,
+h.	odstranění či zakrytí upozornění na patentová práva, autorská práva, ochranné známky, vlastnická práva nebo popisky společnosti Esri nebo jejích licenčních partnerů obsažená v kterémkoli produktu Esri, v jeho výstupu, souboru metadat nebo webové či tištěné stránce s informacemi o vlastnictví dat či dokumentace poskytnutých v souladu s tímto dokumentem nebo k nim připojená,
+i.	oddělování nebo nezávislé užívání samostatných nebo dílčích součástí produktů Esri,
+j.	začlenění kterékoli části produktů Esri do produktu nebo služby nezávislého dodavatele představující konkurenci těchto produktů Esri,
+k.	publikování nebo jakékoli jiné sdělování výsledků výkonnostních testů beta verze produktu bez předchozího písemného souhlasu společnosti Esri a jejích poskytovatelů licence, nebo
+l.	užívání, začleňování, úpravy, distribuce, zpřístupnění nebo kombinování jakéhokoli produktu Esri způsobem, jehož následkem by kterákoli část produktu Esri podléhala podmínkám otevřené licence, které vyžadují, aby počítačový kód
+
+1.	byl dostupný ve formě zdrojového kódu třetím stranám,
+2.	byl v rámci licence poskytnut třetím stranám pro účely vytváření odvozených děl nebo
+3.	umožňoval bezplatnou další distribuci třetím stranám.
+
+Tato omezení se nepoužijí v míře, v níž jsou v konfliktu s platnými zákony či předpisy.
+
+ČLÁNEK 2 - PLATNOST A UKONČENÍ
+
+Tato smlouva nabývá platnosti jejím přijetím. Platnost této smlouvy nebo kterékoli licence nebo předplatného na produkt Esri může zákazník kdykoli ukončit písemnou výpovědí zaslanou společnosti Esri. Ukončení bez udání důvodu neopravňuje zákazníka k náhradě uhrazených poplatků ani k ukončení závazků v souvislosti se službami bez dalšího. Každá ze stran může ukončit platnost této smlouvy nebo libovolné licence či předplatného z důvodu podstatného porušení, pokud do 30 dnů od doručení písemného oznámení porušující straně nedojde k nápravě tohoto porušení. Při ukončení platnosti této smlouvy z důvodu porušení Esri zastaví poskytování služeb. Veškeré licence v produktech Esri, jejichž platnost přetrvá ukončení této smlouvy, budou nadále poskytovány v souladu s podmínkami této smlouvy.
+
+Pokud Esri ukončí tuto smlouvu po porušení ze strany zákazníka, může Esri na základě svého uvážení ukončit rovněž platnost licencí nebo předplatných pro produkty Esri. Pokud zákazník ukončí tuto smlouvu z libovolného důvodu, může zákazník na základě svého uvážení rovněž ukončit platnost licencí nebo předplatných zákazníka pro produkty Esri.
+
+V momentu ukončení licence nebo předplatného zákazník
+
+a.	ukončí přístup k ukončeným produktům Esri a jejich užívání,
+b.	vymaže veškerou datovou mezipaměť na straně klienta odvozenou ze služeb online a
+c.	ukončí užívání, odinstaluje, odebere a zničí všechny kopie příslušných produktů Esri, které vlastní či nad nimi má kontrolu, včetně všech upravených či sloučených částí těchto produktů v jakékoli podobě, a doručí společnosti Esri nebo jejímu autorizovanému distributorovi důkaz o tom, že tak učinil.
+
+Esri může zastavit poskytování služeb od momentu doručení písemného oznámení zákazníkovi v případě úpadku nebo insolvenčního řízení iniciovaného zákazníkem nebo vůči zákazníkovi, dokud konkurzní správce neuhradí veškeré prodlené závazky a neposkytne přiměřenou záruku budoucího výkonu závazků vyplývajících z této smlouvy. Tato smlouva se ukončuje na základě insolvence, likvidace nebo rozpuštění libovolné ze stran.
+
+ČLÁNEK 3 - OMEZENÁ ZÁRUKA A ZŘEKNUTÍ SE ODPOVĚDNOSTI
+
+3.1 Omezená záruka. Esri zaručuje:
+
+a.	na období o délce 90 dnů, že
+
+1.	software bude při běžném používání v zásadě odpovídat dokumentaci a že veškeré nosiče budou v momentu dodání prosty závad materiálu a provedení,
+2.	školicí materiály budou k datu dodání v zásadě odpovídat popisům kurzů publikovaným společností Esri,
+3.	služby budou v zásadě odpovídat profesionálním a technickým standardům softwarového odvětví od data prvního použití a
+4.	dodávky poskytnuté na základě pevné ceny budou v zásadě odpovídat specifikacím stanoveným ve sjednaném objednacím dokumentu ode dne přijetí.
+
+b.	po dobu příslušného předplatného
+
+1.	služby online budou v zásadě odpovídat při běžném užívání dokumentaci,
+2.	systémová podpora bude v zásadě odpovídat profesionálním a technickým standardům softwarového odvětví a
+3.	EMCS budou odpovídat rozsahu, popisům a předpokladům pro EMCS stanoveným v objednacím dokumentu.
+
+3.2 Specifické omezení záruky. Obsah, data, vzorky, opravy hot fix, opravy, aktualizace, služby online poskytované bezplatně a produkty beta verze softwaru jsou dodávány "jak stojí a leží", bez jakékoli záruky.
+3.3 Omezení obecné odpovědnosti. S výjimkou výslovných záruk uvedených v této smlouvě společnost Esri odmítá veškeré další záruky a podmínky jakéhokoli druhu, výslovné i předpokládané, včetně například předpokládaných záruk nebo podmínek prodejnosti, vhodnosti k určitému účelu, začlenění do systému a dodržování práv duševního vlastnictví. Společnost Esri nezaručuje, že produkty Esri nebo provoz těchto produktů realizovaný zákazníkem budou nepřerušované, bezchybné, odolné proti selhání nebo zabezpečené proti poruchám ani že veškeré nesrovnalosti mohou být nebo budou opraveny. Produkty Esri nejsou navrženy, vyrobeny ani určeny k použití v prostředích či aplikacích, kde by mohly způsobit úmrtí, újmu na zdraví či fyzickém majetku, případně poškodit životní prostředí. Zákazník nesmí následovat žádné návrhy tras, které se zdají být riskantní, nebezpečné nebo nelegální. Veškeré takovéto užívání provádí zákazník na své riziko a náklady.
+3.4 Zřeknutí se odpovědnosti
+
+a.Omezení odpovědnosti za internet. Žádná ze stran nenese odpovědnost za škody podle žádné právní teorie v souvislosti s výkonem nebo přerušením provozu Internetu nebo v souvislosti s regulací internetu, jež může omezit nebo znemožnit provoz služeb online.
+b.Obsah a weby třetích stran. Esri nenese odpovědnost za žádný web ani obsah třetí strany, který se zobrazuje v produktech Esri nebo webech Esri včetně portálů www.esri.com a www.arcgis.com. Poskytnutí odkazů na weby a prostředky třetích stran nevyjadřuje žádné doporučení, přidružení nebo sponzorský vztah.
+
+3.5 Výhradní prostředek nápravy. Výhradní prostředek nápravy zákazníka a veškerá odpovědnost společnosti Esri v případě porušení omezených záruk uvedených v tomto oddílu budou omezeny podle vlastního uvážení společnosti Esri na (i) výměnu vadného média, (ii) opravu, nápravu nebo poskytnutí alternativního řešení pro příslušný produkt nebo služby nebo na (iii) vrácení zákazníkem uhrazených poplatků za produkty nebo služby Esri, které nesplňují podmínky omezené záruky poskytované společností Esri, a to za předpokladu, že zákazník odinstaluje, odebere a zničí všechny kopie příslušných produktů Esri, přestane přistupovat ke službám a užívat příslušné cloudové služby a předloží společnosti Esri nebo jejímu autorizovanému distributorovi důkaz tom, že tak učinil.
+
+ČLÁNEK 4 - OMEZENÍ ODPOVĚDNOSTI ZA ŠKODU
+
+4.1 Omezení odpovědnosti za škodu. Zákazník, Esri ani žádný distributor a licenční partner Esri nebudou odpovědni za žádné nepřímé, zvláštní, náhodné nebo následné škody včetně ušlého zisku, ušlého prodeje nebo ztráty dobrého jména, nákladů na zajištění náhradního zboží nebo služeb nebo škod překračujících příslušné licenční poplatky nebo poplatky předplatného uhrazené nebo dlužené společnosti Esri za produkty Esri, které jsou příčinou žaloby.
+
+4.2 Omezení a vyloučení odpovědnosti uvedené v předchozím odstavci se nevztahuje na porušení, zneužití nebo zcizení práv k duševnímu vlastnictví společnosti Esri nebo držitelů jejích licencí, povinností odškodnění stanovených kteroukoli ze stran, hrubého opomenutí, úmyslného pochybení, porušení ujednání této smlouvy o dodržování exportních předpisů nebo jakéhokoli příslušného zákona nebo předpisu ze strany zákazníka.
+
+4.3 Uplatnitelnost omezení záruky a odpovědnosti za škody. Společnost Esri nebo její autorizovaný distributor stanovili poplatky a uzavřeli tuto smlouvu na základě omezení odpovědnosti a záruk uvedených v této smlouvě a tyto poplatky odrážejí rozdělení rizik představující základ obchodní dohody mezi oběma smluvními stranami. Tato omezení budou platit bez ohledu na to, zda si je smluvní strana vědoma možnosti jakékoli škody a bez ohledu na jakékoli selhání základního účelu jakéhokoli výhradního a omezeného prostředku nápravy.
+
+4.4 Výše uvedené záruky, omezení a vyloučení nemusí být v některých jurisdikcích platná a platí pouze v rozsahu povoleném příslušnými zákony či předpisy v jurisdikci zákazníka. Zákazník může mít další zákonná práva, která nelze odebrat nebo se jich zřeknout. Společnost Esri nemá v úmyslu omezovat záruku zákazníka či prostředky nápravy v míře, kterou zákon nepovoluje.
+
+ČLÁNEK 5 - ODŠKODNĚNÍ
+
+5.1 Definice. Následující definice doplňují definice uvedené v příloze A:
+
+a." Nárok" znamená jakýkoli nárok, žalobu nebo požadavek kterékoli třetí strany.
+b." Odškodněné subjekty" představují zákazníka a jeho ředitele, vedení a zaměstnance.
+c." Nároky z porušení smlouvy" jsou jakékoli nároky obviňující zákazníka, že svým užíváním či přístupem k produktům nebo službám společnosti Esri porušuje patent platný ve Spojených státech amerických, autorská práva, práva k ochranné známce nebo obchodní tajemství.
+d." Ztráty" označují ztráty hrazené z vlastní kapsy, náhradu škody, částku vyrovnání, náklady nebo výdaje, včetně přiznaných poplatků za advokáta.
+
+5.2 Odškodnění za porušení práv
+
+a.	Společnost Esri bude hájit a odškodní všechny subjekty s nárokem na odškodnění v případě jakéhokoli nároku z porušení a odškodní všechny ztráty vyplývající z nároku z porušení, jak je uvedeno v následujících odstavcích.
+b.	Jestliže společnost Esri určí, že nárok z porušení je platný, může na své náklady buďto (i) získat práva pro zákazníka, tak aby mohl nadále využívat produkty společnosti Esri, nebo (ii) změnit produkty společnosti Esri při zachování výrazně podobných funkcí. Není-li žádná z alternativ komerčně přiměřená, společnost Esri může ukončit právo zákazníka na užívání jejích produktů a vrátí všechny (a) odpovídající poplatky za služby; (b) licenční poplatky uhrazené zákazníkem za produkty společnosti Esri porušující práva získané na základě časově neomezené licence, vypočtené na základě 5letého přímého odpisu počínaje datem dodávky; nebo (c) nevyužitou část poplatků uhrazených za termínované licence, předplatné a systémovou podporu.
+c.	Společnost Esri nemá žádnou povinnost obhajovat nárok z porušení ani odškodnit zákazníka, pokud nárok z porušení práv vyplývá z (i) kombinace nebo integrace produktů společnosti Esri s produktem, procesem, systémem nebo prvkem, který není dodán ani stanoven společností Esri v její dokumentaci; (ii) změny produktů společnosti Esri provedené jakýmkoli jiným subjektem než společností Esri nebo jejími subdodavateli; (iii) dodržení specifikací zákazníka nebo (iv) užití produktů společnosti Esri poté, co společnost poskytne upravenou verzi, aby se vyhnula porušení práv, nebo ukončí právo zákazníka na užívání produktů společnosti Esri.
+
+5.3 Celkové odškodnění. Společnost Esri bude hájit všechny subjekty s nárokem na odškodnění a nebude je činit odpovědnými, odškodní jakoukoli ztrátu vyplývající z libovolného nároku ze zranění, smrti nebo poškození majetku (s výjimkou databází, které nejsou zahrnuty do přiměřeného programu zálohování) vzneseného proti libovolné ze stran s nárokem na odškodnění v případě, že tento nárok vyplývá z jakékoli nedbalosti nebo opomenutí či úmyslného pochybení ze strany společnosti Esri nebo jejích ředitelů, vedení, zaměstnanců nebo zástupců provádějících služby na pracovišti zákazníka.
+
+5.4 Podmínky pro odškodnění. Podmínky pro odškodnění stanovují, že subjekt s nárokem na odškodnění (i) neprodleně písemnou formou informuje společnost Esri o tomto nároku, (ii) poskytne všechny dostupné dokumenty popisující daný nárok, (iii) poskytne společnosti Esri výhradní kontrolu nad obhajobou jakékoli žaloby a jednání souvisejících s obhajobou nebo urovnáním jakýchkoli nároků z porušení práv a (iv) přiměřeně spolupracuje při obhajobě nároku z porušení práv na žádost a na náklady společnosti Esri.
+
+5.5Tento oddíl stanovuje kompletní povinnosti společnosti Esri, jejího autorizovaného prodejce a jejích držitelů licencí v souvislosti s libovolným nárokem.
+
+ČLÁNEK 6 - POJIŠTĚNÍ
+
+Pokud společnost Esri poskytuje služby, bude uplatňovat minimálně níže uvedené krytí:
+
+a.	Komplexní obecnou odpovědnost nebo komerční obecnou odpovědnost s minimálním krytím ($1 000 000,00) kombinovaného jednoho omezení na výskyt pro tělesné zranění, včetně smrti, a odpovědnost za poškození majetku zahrnující následující:
+
+1.	Prostory a provoz;
+2.	Sdružená smluvní odpovědnost;
+3.	Široká forma poškození majetku;
+4.	Nezávislí dodavatelé;
+5.	Újma na zdraví, bez vynětí zaměstnanců; a
+6.	Dokončené operace.
+
+b.	Pojištění pro případ pracovního úrazu se zřeknutím se práva subrogace ve výši odpovídající zákonným limitům.
+
+ČLÁNEK 7 - ZABEZPEČENÍ A DODRŽOVÁNÍ PRÁV
+
+7.1 Dodržování exportních předpisů. Každá ze smluvních stran bude dodržovat všechny příslušné exportní zákony a předpisy, včetně předpisů Export Administration Regulations (EAR) vydaných ministerstvem obchodu USA, předpisů International Traffic in Arms Regulations (ITAR) vydaných ministerstvem zahraničí USA a dalších příslušných exportních zákonů. Zákazník nebude služby nebo produkty společnosti Esri vyvážet, znovu vyvážet, převádět, poskytovat ani jinak s nimi nakládat, ať vcelku, nebo po částech, ani neumožní přístup k těmto službám nebo produktům, jejich převod nebo užívání žádné zemi, na kterou Spojené státy americké uvalily embargo, ani zakázaným subjektům nebo osobám, není-li to v souladu se všemi aktuálně platnými exportními zákony a předpisy vydanými vládou Spojených států amerických. Zákazník nebude vyvážet, znovu vyvážet, převádět ani využívat služby ani produkty společnosti Esri ke konkrétním aktivitám souvisejícím s raketami, jadernými, chemickými nebo biologickými zbraněmi nebo koncovým použitím bez řádného schválení vládou Spojených států amerických. Zákazník bude neprodleně písemnou formou informovat společnost Esri v případě, že kterýkoli subjekt či úřad vlády Spojených států amerických zamítne, pozastaví nebo odvolá jeho vývozní oprávnění. Zákazník nebude odesílat, ukládat ani zpracovávat v rámci cloudových služeb žádný zákaznický obsah, který (i) má přiděleno číslo klasifikace kontroly vývozu (ECCN) jiné než EAR99 nebo (ii) je kontrolován jeho vývoz ze Spojených států amerických na základě předpisů ITAR. Společnost Esri nebude provádět služby ani poskytovat svoje produkty týkající se jakéhokoli zboží pro obranu, služeb obrany ani technických dat, jak definují předpisy ITAR, oddíly 120.6, 120.9 a 120.10, dokud společnost Esri neobdrží libovolnou nezbytnou licenci k vývozu od vlády Spojených států amerických. Zákazník bude přiměřeným způsobem pomáhat společnosti Esri při požadování a získání vývozní licence v případě potřeby.
+
+7.2 Zabezpečení. Společnost Esri publikuje své schopnosti zabezpečení na adrese http://doc.arcgis.com/en/trust/security/security-overview.htm. Zákazník může pracovníkům společnosti Esri poskytnout přístup k zákaznickým systémům nebo osobním údajům zákazníka či třetí strany, pokud je přístup nezbytný pro provádění služeb společností Esri a společnost Esri výslovně souhlasí s tímto přístupem. Společnost Esri využije přiměřené administrativní, technické a fyzické prostředky ochrany pro ochranu těchto dat a obranu proti neoprávněnému přístupu. Zákazník nese odpovědnost za (i) potvrzení, že kontroly zabezpečení a ochrany osobních údajů publikované společností Esri splňují všechny platné zákonné požadavky na ochranu obsahu zákazníka a (ii) odeslání nebo sdílení kontrolovaného obsahu zákazníka prostřednictvím cloudových služeb, pouze pokud je to legální. Společnost Esri neodpovídá za kontrolu obsahu zákazníka pro zajištění shody s příslušnými závody a předpisy.
+
+ČLÁNEK 8 - PŘERUŠENÍ, VYŘAZENÍ A POZASTAVENÍ CLOUDOVÝCH SLUŽEB
+
+8.1 Zakázané využití. Zákazník nesmí přistupovat ani užívat cloudové služby k
+
+a.	Zasílání spamu, předstírání identity nebo zasílání phishingových e-mailů; rozesílání nevyžádané pošty nebo urážlivých či hanlivých materiálů nebo obtěžování či vyhrožování fyzickou újmou;
+b.	Ukládání nebo přenášení škodlivého kódu;
+c.	Porušování jakýchkoli zákonů a předpisů.
+d.	Porušování nebo neoprávněné přisvojování práv libovolné třetí strany;
+e.	Zkoušení, skenování nebo testování zranitelnosti cloudových služeb nebo porušování jakýchkoli opatření ověřování využívaných cloudovými službami.
+f.	Srovnávací testy dostupnosti, výkonu nebo funkcí cloudových služeb pro získání konkurenčních výhod.
+
+8.2 Přerušení služby. Selhání systému nebo jiné události mimo přiměřenou kontrolu společnosti Esri mohou přerušit přístup zákazníka k online službám. Společnost Esri nemusí být schopná poskytovat předběžné upozornění na taková přerušení.
+
+8.3 Odebrání obsahu zákazníka. Společnost Esri smí kteroukoli část obsahu zákazníka odebrat nebo odstranit, pokud existuje důvodné podezření, že jeho odeslání do služeb online nebo použití se službami online představuje porušení této smlouvy. Pokud to bude za těchto okolností přiměřené, společnost Esri zákazníka před odebráním jeho obsahu upozorní. Společnost Esri bude reagovat na žádosti o stažení obsahu podle zákona USA Digital Millennium Copyright Act v souladu se zásadami společnosti Esri pro autorská práva, které jsou k dispozici na adrese http://www.esri.com
+/legal/dmca_policy.
+
+8.4 Pozastavení služby. Společnost Esri může pozastavit přístup ke cloudovým službám, (i) pokud zákazník zásadním způsobem poruší tuto smlouvu a nezajistí včas nápravu tohoto porušení; (ii) pokud se společnost Esri důvodně domnívá, že užívání cloudových služeb zákazníkem ji vystaví okamžité odpovědnosti nebo negativně ovlivní integritu, funkčnost nebo použitelnost cloudových služeb; (iii) po dobu plánované údržby; (iv) pro zamezení hrozbě nebo útoku na cloudové služby nebo (v) pokud jsou cloudové služby zakázány zákonem či regulovány do té míry, že jejich poskytování by znamenalo obchodní obtíže. Je-li to proveditelné, společnost Esri upozorní zákazníka na jakékoli pozastavení cloudových služeb předem a poskytne zákazníkovi přiměřenou příležitost, aby mohl podniknout kroky k nápravě.
+
+Společnost Esri neodpovídá za žádné škody, povinnosti či ztráty, které mohou vyplývat z jakéhokoli přerušení nebo pozastavení služeb online nebo odebrání obsahu zákazníka, jak je popsáno výše.
+
+ČLÁNEK 9 - VŠEOBECNÁ USTANOVENÍ
+
+9.1 Platby. Zákazník uhradí každou správně vystavenou fakturu maximálně 30 dnů od jejího přijetí a poukáže platbu na adresu, která je na faktuře uvedena.
+
+9.2 Zpětná vazba. Společnost Esri smí volně nakládat s veškerou zpětnou vazbou, návrhy nebo požadavky na vylepšení produktů, které zákazník společnosti Esri poskytne.
+
+9.3 Patenty. Zákazník nesmí podat žádost o patent, ani dovolit uživatelům podání žádosti o patent nebo podobné celosvětové právo na základě nebo se zahrnutím libovolných produktů. Tento výslovný zákaz patentových přihlášek se nebude vztahovat na software a technologii zákazníka s výjimkou rozsahu, ve kterém produkty nebo jejich část budou součástí jakéhokoliv nároku nebo nejlepšího způsobu realizace vynálezu v žádosti o vydání patentu nebo podobné žádosti.
+
+9.4 Daně a poplatky, přepravní poplatky. Poplatky sdělované zákazníkovi nezahrnují žádné platné daně a poplatky, včetně zejména daně z obratu, daně za užívání nebo daně z přidané hodnoty (DPH), cla, tarifů a poplatků za přepravu a manipulaci.
+
+9.5 Kontrola souladu.Zákazník bude vést přesné a kompletní záznamy a účty týkající se jeho dodržování povinností vyplývajících z této smlouvy. Společnost Esri nebo její autorizovaný distributor mohou provádět kontroly souladu těchto záznamů a účtů na základě písemného oznámení zaslaného nejméně sedm 7 pracovních dnů předem nebo mohou prováděním těchto kontrol souladu pověřit nezávislou třetí stranu. Zákazník bezodkladně napraví jakýkoli nesoulad zjištěný během těchto kontrol. Společnost Esri ani její distributor nemohou provádět kontrolu souladu zákazníka před uplynutím 12 měsíců od uzavření jakékoli předchozí kontroly souladu, která neprokázala žádný závažný nesoulad zákazníka.
+
+9.6 Neuplatnění práv. Pokud kterákoli smluvní strana v některém okamžiku neuplatní kterékoli ustanovení této smlouvy, nebude to znamenat, že se tato smluvní strana vzdala svého práva na uplatnění tohoto ustanovení později nebo na uplatnění jiného ustanovení této smlouvy.
+
+9.7 Oddělitelnost. Strany se dohodly, že pokud se kterékoli ustanovení této smlouvy stane z nějakého důvodu nevymahatelným, bude opraveno do té míry, aby se jeho záměr stal znovu vymahatelným.
+
+9.8 Právní nástupci. Zákazník nesmí převést nebo formou podlicence předat svá práva nebo povinnosti podle této licenční smlouvy bez předchozího písemného souhlasu společnosti Esri a jejího autorizovaného distributora. Veškeré pokusy tak učinit budou považovány za neplatné. Tato smlouva bude závazná pro všechny případné právní nástupce smluvních stran této smlouvy. Bez ohledu na výše uvedené smí dodavatel, který s vládou uzavřel smlouvu na poskytování těchto produktů, převést tuto smlouvu a produkty, které získal za účelem poskytování, po písemném oznámení společnosti Esri na svého vládního zákazníka, a to za předpokladu, že tento zákazník bude souhlasit s podmínkami této smlouvy.
+
+9.9 Přetrvávající platnost. Slovník termínů a ustanovení článků 3, 4, 5 a 9 těchto všeobecných ujednání a podmínek zůstanou v platnosti i po vypršení nebo ukončení platnosti této smlouvy.
+
+9.10 Vládní zákazník (USA). Produkty představují komerční zboží vyvinuté na soukromé náklady, které je zákazníkovi poskytováno za podmínek této smlouvy. Je-li zákazník vládním orgánem USA nebo dodavatelem pro vládu USA, společnost Esri zákazníkovi poskytne licenci nebo předplatné za podmínek této smlouvy v souladu s nařízením FAR (oddíly 12.211/12.212) nebo DFARS (oddíl 227.7202). Data a služby online společnosti Esri jsou licencovány nebo poskytnuty jako předplatné za podmínek stejného oddílu 227.7202 nařízení DFARS jako komerční počítačový software v případě nákupu softwaru v souladu s nařízením DFARS. Na produkty se vztahují omezení a užívání, změny, výkon, reprodukce, poskytování, zobrazování nebo zveřejňování produktů zákazníkem se přísně řídí touto smlouvou. Smluvní ustanovení, která nejsou konzistentní s federálními právními předpisy, neplatí. Vládní zákazník (USA) smí software převést na kteroukoli organizaci, na kterou byly převedeny počítače, v nichž je software nainstalován. Pokud bude mít kterýkoli soud, rozhodce nebo tribunál za to, že podle příslušných zákonů o veřejných zakázkách má zákazník větší práva na některou část produktů, budou se tato práva vztahovat jen na části, kterých se budou výslovně dotýkat.
+
+9.11 Rozhodné právo.Tato smlouva se řídí federálními zákony Spojených států amerických a zákony státu Kalifornie, s výjimkou jejich příslušné volby právních principů. Tato smlouva nepodléhá Úmluvě Spojených národů o smlouvách o mezinárodním prodeji zboží.
+
+9.12Řešení sporů. Smluvní strany budou využívat následující procesy řešení sporů:
+
+a.Spravedlivé odškodnění. Kterákoli ze smluvních stran bude mít právo požadovat náhrady, zvláštní výkony nebo jiné spravedlivé odškodnění a může je vymáhat soudní cestou u soudu odpovídající jurisdikce bez nutnosti prokázání způsobených škod jako podmínky tohoto odškodnění.
+b.Vládní orgány (USA). Tato smlouva podléhá zákonu Contract Disputes Act (zákon o řešení smluvních sporů) z roku 1978 v platném znění (41 USC 601-613).
+c.Další vládní subjekty. Společnost Esri bude jednat v souladu s povinnými řešeními sporů podle příslušného zákona.
+d.Rozhodčí řízení. Kromě případů uvedených výše se smluvní strany uchýlí k závaznému rozhodčímu řízení s cílem vyřešení jakéhokoli sporu vyplývajícího nebo týkajícího se této smlouvy, který nelze urovnat prostřednictvím vyjednávání. Jestliže zákazník sídlí ve Spojených státech amerických nebo na jednom z jejich území či v přidružených oblastech, bude se rozhodčí řízení řídit pravidly komerční arbitráže americké asociace rozhodčích tribunálů (American Arbitration Association). Jestliže zákazník sídlí mimo území Spojených států amerických, bude řízení podléhat pravidlům rozhodčího řízení mezinárodní obchodní komory. Smluvní strany si zvolí jednoho rozhodce v souladu s platnými pravidly rozhodčího řízení. Jazykem rozhodčího řízení bude angličtina. Rozhodčí řízení se bude konat v místě, na kterém se strany dohodnou. Obě strany jsou povinny na žádost druhé strany poskytnout dokumenty nebo zajistit svědky relevantní pro hlavní otázky řešeného sporu.
+
+9.13 Vyšší moc. Strana nenese odpovědnost za neplnění či opožděné plnění této smlouvy po dobu, kdy je toto neplnění nebo opožděné plnění způsobeno příčinami, nad kterými uvedená strana nemá přiměřenou kontrolu. Tyto příčiny mohou zahrnovat mimo jiné zásahy vyšší moci, válku, stávky, pracovní spory, kybernetické útoky, zákony, předpisy nebo vládní nařízení či jakékoli jiné události spojené s působením vyšší moci.
+
+9.14 Nezávislý dodavatel. Společnost Esri je a vždy bude nezávislým dodavatelem. Žádné ujednání této smlouvy nevytváří vztah zaměstnavatel/zaměstnanec, vedoucí/zástupce nebo vztah společného podniku mezi společností Esri nebo jejím oprávněným distributorem a zákazníkem. Žádná ze smluvních stran nemá žádné oprávnění k uzavírání smluv v zastoupení jiné strany nebo jinému jednání v zastoupení jiné strany.
+
+9.15 Oznámení. Zákazník může zasílat oznámení vyžadovaná podle této smlouvy společnosti Esri na následující adresu:
+
+Environmental Systems Research Institute, Inc.
+Attn: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+USA
+
+Tel.: 909-793-2853
+E-mail: LegalNotices@esri.com
+
+
+DODATEK 1
+SPECIFICKÉ PODMÍNKY UŽÍVÁNÍ PRODUKTU
+(E300 09/22/2016)
+
+SOFTWARE
+
+V následující tabulce jsou uvedeny dodatečné podmínky užívání, které se vztahují na konkrétní software. Každý seznam produktů určuje jednu nebo více poznámek, které se k danému produktu vztahují. Tyto poznámky doplňují podmínky této smlouvy. Pod tabulkou jsou uvedeny definice jednotlivých poznámek. Není-li v příslušném objednacím dokumentu uvedeno jinak, na nadstavby softwaru se vztahuje stejný rozsah použití jako na odpovídající software.
+
+Produkty pro stolní počítače (Desktop)
+▪	ArcGIS Desktop (Advanced, Standard nebo Basic) (26)
+▪	ArcGIS Earth (65)
+▪	ArcGIS Explorer Desktop (20)
+▪	ArcGIS for AutoCAD (20)
+▪	ArcPad (13)
+▪	ArcReader (20)
+▪	ArcGIS for Windows Mobile (15; 54)
+▪	ArcGIS for Personal Use (3, 26)
+
+Serverové produkty
+▪	ArcGIS Enterprise
+-	Standard nebo Advanced (21; 31)
+-	Workgroup Standard nebo Advanced (21; 28; 29; 30; 32 )
+-	ArcGIS GIS Server (Standard nebo Advanced) (31)
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server Workgroup (Standard nebo Advanced) (28; 29; 30; 32 )
+-	ArcGIS GIS Server Workgroup Basic (39)
+-	Nadstavba produktu ArcGIS GIS Server
+-	ArcGIS Maritime: Server (2)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4)
+▪	Esri Business Analyst Server
+-	Workgroup (28; 29; 30; 31; 39)
+-	Enterprise (31; 39)
+▪	World Geocoder for ArcGIS Basic (67)
+Nástroje pro vývojáře
+▪	AppStudio for ArcGIS Standard (11, 16, 19)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt, nebo WPF (16; 19)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt, nebo WPF (15; 18)
+▪	ArcGIS Engine Developer Kit a nadstavby (16, 19; 22, 26)
+▪	ArcGIS Engine for Windows/Linux a Extensions (15; 22; 26)
+▪	ArcGIS Web Mapping (včetně ArcGIS API pro JavaScript/HTML5, ArcGIS API pro Flex, ArcGIS API pro Microsoft Silverlight) (15; 16; 64; 66)
+▪	Předplatné ArcGIS Developer (24; 26)
+▪	Esri File Geodatabase API (47)
+
+Jiné
+▪	Navigator for ArcGIS (14)
+
+ Poznámky:
+
+1.	Vyhrazeno.
+2.	Není určeno k 	navigaci	.
+3.	Licencováno pouze pro osobní použití.
+4.	V případě použití s ArcGIS Enterprise Workgroup
+-	Omezeno na 1 čtyřjádrový server.
+-	Lze instalovat na samostatný počítač.
+	5-10.	Vyhrazeno.
+11.	Aplikace sestavené pomocí produktu AppStudio for ArcGIS Standard podléhají podmínkám užívání stanoveným pro produkt ArcGIS Runtime Standard Level.
+12.	Vyhrazeno.
+13.	"Licence na dvě použití" znamená, že tento software může být nainstalován do stolního počítače a současně jej lze využívat v zařízení PDA (Personal Digital Assistant) nebo v mobilním zařízení, pokud tento software současně používá jediná osoba.
+14.	Může být použito pro účely navigace.
+15.	Poskytováno v rámci licence pro nasazení.
+16.	Zákazník smí sady SDK nebo rozhraní API používat k vytváření aplikací s přidanou hodnotou a k distribuci a licencování těchto aplikací s přidanou hodnotou koncovým uživatelům k užívání takových aplikací s přidanou hodnotou kdekoli, kde to není zakázáno na základě exportních předpisů.
+17.	Vyhrazeno.
+18.	Licence pro nasazení se vztahuje na jednu aplikaci s přidanou hodnotou a jeden počítač v případě samostatných aplikací.
+19.	Licenci nelze použít k vývoji internetových nebo serverových Aplikací s přidanou hodnotou.
+20.	Zákazník	 smí reprodukovat a distribuovat tento software, pokud splní všechny následující podmínky:
+
+a.	Software je reprodukován a distribuován jako celek.
+b.	Ke každé kopii softwaru je přiložena licenční smlouva, která chrání software stejně jako tato licenční smlouva, a příjemce se zaváže k dodržování jejích podmínek.
+c.	Jsou reprodukována všechna prohlášení o autorských právech a ochranné známky.
+d.	Užívání softwaru není nijak zpoplatněno.
+
+21.	Zákazník smí sestavovat aplikace s přidanou hodnotou určené pro své vlastní pojmenované uživatele. Zákazník nesmí vložit pověření pojmenovaného uživatele do aplikace s přidanou hodnotou. Zákazník nesmí do aplikací s přidanou hodnotou vkládat přihlašovací údaje aplikace (App Login) ani je v těchto aplikacích používat. Aplikace s přidanou hodnotou vyžadují přihlašovací údaje pojmenovaného uživatele.
+22.	a.	Koncový uživatel musí získat licenci k softwaru ArcGIS Engine for Windows/Linux nebo k jinému softwaru ArcGIS Desktop (Basic, Standard nebo Advanced), která mu poskytne právo spouštět aplikaci ArcGIS Engine v 1 počítači.
+b.	Ke spouštění ArcGIS Engine s aplikací přidanou hodnotou se nesmějí používat nadstavby ArcGIS Engine for Windows/Linux v kombinaci se softwarem ArcGIS Desktop. Jednotlivý uživatel může mít v 1 počítači instalováno více ArcGIS Engine aplikací s přidanou hodnotou, ale smí je používat jenom sám.
+23.	Vyhrazeno.
+24.	Software smí být používán pouze pro účely vývoje, testování a předvádění prototypu aplikace s přidanou hodnotou a vytváření mapových mezipamětí. Aplikace s přidanou hodnotou a mapovou mezipamětí lze použít s produkčními a vývojovými servery ArcGIS Enterprise. Software a data smí být instalovány do více počítačů za účelem použití kterýmkoliv předplatitelem ArcGIS Developer s tarifem Extend nebo vyšším; veškerý další software je poskytován v rámci licence pro jednoho uživatele.
+25.	Vyhrazeno.
+26.	Aplikace Personal Edition Geodatabase je omezena na 10 gigabajtů dat uživatele.
+27.	Vyhrazeno.
+28.	Užití je omezeno na 10 souběžných koncových uživatelů jiných aplikací než ArcGIS Enterprise Workgroup nebo ArcGIS GIS Server Workgroup. Toto omezení zahrnuje užívání softwaru ArcGIS Desktop, ArcGIS Engine a aplikací třetích stran, které jsou přímo spojeny s libovolnou geodatabází ArcGIS Enterprise Workgroup nebo ArcGIS GIS Server Workgroup. Počet připojení z webových aplikací není nijak omezen.
+29.	Software vyžaduje podporovanou verzi systému SQL Server Express. Podporované verze jsou uvedeny v systémových požadavcích produktu na webu společnosti Esri.
+30.	Použití je omezeno na maximální celkový objem 10 gigabytů dat zákazníka.
+31.	 	 Zákazník smí mít k dispozici redundantní instalace serverového softwaru Esri pro účely p	řevzetí služeb v případě selhání, redundantní software však smí být v provozu pouze po dobu, kdy je primární server mimo provoz (aktivní - pasívní záložní instance softwaru). Jakmile bude primární server nebo jiný záložní server uveden do provozu, tyto záložní instalace softwaru budou ponechány v nečinnosti, s výjimkou údržby systému a aktualizace databází.
+32.	Záložní instalace softwaru pro účely převzetí služeb v případě selhání nejsou povoleny.
+33-38.	Vyhrazeno.
+39.	V softwaru ArcGIS GIS Server Basic (Workgroup nebo Enterprise) nejsou povoleny žádné funkce editace dat, které jsou součástí produktu ArcGIS GIS Server.
+40-46.	Vyhrazeno.
+47.	Zákazník může pro své koncové uživatele vyvíjet a distribuovat aplikace s přidanou hodnotou, které využívají rozhraní Esri File Geodatabase API.
+48-53.	Vyhrazeno.
+54.	Produkt ArcGIS for Windows Mobile Deployments lze v rámci licence používat společně s aplikacemi ArcGIS Enterprise (Advanced nebo Standard), ArcGIS Enterprise Workgroup (Advanced), ArcGIS Desktop (Advanced, Standard, Basic) a ArcGIS Engine Aplikacemi s přidanou hodnotou.
+55-63.	Vyhrazeno.
+64.	Aplikace s přidanou hodnotou pro nasazení na webu musí být používány ve spojení s dalším Produktem (dalšími Produkty) Esri. Technologie jiných výrobců smí také být používány ve spojení s Aplikacemi s přidanou hodnotou, pokud jsou Aplikace s přidanou hodnotou vždy používány ve spojení s dalším Produktem (dalšími Produkty) Esri.
+65.	Lze používat pouze v kombinaci s dalšími produkty Esri. Technologie jiných výrobců smí také být používány ve spojení s aplikací ArcGIS Earth, pokud je aplikace ArcGIS Earth vždy používána ve spojení s dalším Produktem (dalšími Produkty) Esri.
+66.	V případě aplikací pro stolní počítače se každá licence vztahuje na celou organizaci. Pro účely této licence je organizace shodná s hlavním registrovaným jedinečným identifikátorem domény. Doména je název internetové domény registrovaný v rejstříku názvů domén. Například u adresy example.com je example.com registrovaný jedinečný identifikátor domény. A podobně, u adresy example.com.xx, kde xx je registrovaný kód země, představuje example.com.xx registrovaný jedinečný identifikátor domény. Aplikace pro stolní počítače smí používat kterýkoli zaměstnanec organizace s hlavním registrovaným jedinečným identifikátorem domény. Počet aplikací, které je dovoleno v rámci organizace sestavit a nasadit, není omezen.
+67.	Omezeno na 250 000 000 geokódů během ročního předplatného.
+ SLUŽBY ONLINE
+
+V následující tabulce jsou uvedeny dodatečné podmínky užívání, které se vztahují na konkrétní služby online. Každý seznam produktů určuje jednu nebo více poznámek, které se k danému produktu vztahují. Pod tabulkou jsou uvedeny definice jednotlivých poznámek. Není-li v příslušném objednacím dokumentu uvedeno jinak, na nadstavby softwaru se vztahuje stejný rozsah použití jako na odpovídající software.
+
+▪	Předplatné služby ArcGIS Online je dostupné prostřednictvím více prodejních programů:
+
+-	Komerční maloobchod, EA; vládní programy (1; 2; 3; 11; 12; 14; 20)
+-	Vzdělávací program (1; 2; 8; 10; 14; 19)
+-	 	 Neziskový progra	m (1; 2; 8; 14; 19; 20)
+
+▪	Předplatné ArcGIS Online Developer Deployment je dostupné prostřednictvím více prodejních programů:
+
+-	Komerční maloobchod, EA; vládní programy
+	Bezplatný odběr (1; 8; 9; 10; 13; 19; 20)
+	Placený odběr (1; 8; 9; 10; 11; 13; 20)
+-	Programy pro vzdělávání, 	nevládní organizace	/ neziskové organizace, tisk/média
+	Bezplatný odběr (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Placený odběr (1; 3; 4; 5; 6; 9; 10; 13; 19)
+-	Programy pro nevládní organizace / neziskové organizace, tisk/média
+	Bezplatný odběr (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+	Placený odběr (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+
+▪	Veřejný plán
+-	 	 Kom	erční maloobchod, EA; vládní programy; programy pro nevládní organizace / neziskové organizace; tisk/média (1; 4; 5; 6; 7; 9; 10; 15; 19; 20)
+-	Vzdělávací programy (1; 4; 5; 6; 7; 9; 10; 15; 19)
+▪	Esri Business Analyst Online (16)
+▪	Esri Business Analyst Online Mobile (16)
+▪	Esri Community Analyst (16)
+▪	Esri MapStudio (17)
+
+ Poznámky:
+
+1.	Vedle společných podmínek užívání služeb Online Services platí následující podmínky:
+
+a.	Zákazník smí svoje předplatné služeb online Esri zákazníka využít k vytváření aplikací s přidanou hodnotou pro své interní využití.
+b.	Ke svým aplikacím s přidanou hodnotou může zákazník také poskytnout přístup třetím stranám, pokud jsou splněny následující podmínky:
+
+i.	Ke svým aplikacím s přidanou hodnotou smí zákazník povolit přístup anonymním uživatelům.
+ii.	Do svého předplatného služeb online ArcGIS nesmí zákazník přidávat třetí strany jako pojmenované uživatele, aby těmto třetím stranám umožnil přístup ke svým aplikacím s přidanou hodnotou. Toto omezení se nevztahuje na třetí strany zahrnuté do definice pojmenovaných uživatelů.
+iii.	Třetím stranám nesmí zákazník poskytnout přístup ke službám online ArcGIS dostupným prostřednictvím jeho předplatného služeb online ArcGIS jinak než v rámci svých aplikací s přidanou hodnotou. Toto omezení se nevztahuje na třetí strany zahrnuté do definice pojmenovaných uživatelů.
+iv.	Odpovědnost za poskytování technické podpory k jeho aplikacím s přidanou hodnotou nese výhradně zákazník.
+v.	Zákazník nesmí bez písemného souhlasu odstranit ani zakrýt žádné ochranné známky nebo loga, které by se běžně zobrazily při používání služeb online. Zákazník musí do aplikace zahrnout prohlášení udávající, že tato aplikace používá služby online poskytované společností Esri, pokud se takové prohlášení nezobrazí automaticky při používání služeb online. Pokyny jsou uvedeny v dokumentaci.
+vi.	Zákazník nesmí vložit pověření pojmenovaného uživatele do aplikace s přidanou hodnotou. Přihlašovací údaje aplikace lze vložit pouze do aplikací s přidanou hodnotou, které jsou využívány k poskytování veřejného, anonymního přístupu ke službě online ArcGIS. Zákazník nesmí vložit přihlašovací údaje aplikace (App Login) služby ArcGIS Online do aplikace s přidanou hodnotou pro interní použití ani je v této aplikaci používat. Aplikace s přidanou hodnotou používané interně vyžadují přihlašovací údaje Pojmenovaného uživatele.
+
+c.	Služba World Geocoding Service: Zákazník nesmí ukládat výsledky geokódování generované službou, pokud nemá předplatné služby online ArcGIS.
+d.	Služba infografiky: Zákazník smí data dostupná prostřednictvím této služby užít jen za účelem zobrazení. Zákazníkovi je zakázáno ukládat jakákoli data dostupná prostřednictvím této služby.
+
+2.	Lze použít k jakýmkoli obchodním účelům organizace zákazníka.
+3.	Lze použít k účelům vývoje a testování pro organizaci zákazníka.
+4.	Lze použít k výukovým účelům ve vzdělávacích organizacích.
+5.	Lze použít ve prospěch nevládní/neziskové organizace kvalifikované zákazníkem.
+6.	Lze použít ve prospěch tiskových nebo mediálních organizací.
+7.	Lze použít k osobnímu použití.
+8.	Aplikace předplatitele s přidanou hodnotou musí být publikovány tak, aby byly veřejně přístupné.
+9.	Nelze použít ve prospěch ziskové nebo vládní organizace.
+10.	Zákazník nesmí vytvářet soukromé skupiny nebo se do libovolných soukromých skupin zapojovat.
+11.	Zákazník může zpřístupňovat aplikace s přidanou hodnotou třetím stranám za poplatek.
+12.	Zákazník může toto předplatné použít k vytváření soukromých skupin nebo k zapojení do těchto soukromých skupin.
+13.	Každé předplatné je ve spojení s předplatným zákazníka omezeno na jeden 1 000 000 transakcí basemap (podkladové mapy) měsíčně a 1 000 000 transakcí geosearch (vyhledání polohy) měsíčně. Pojem "transakce" je definován v dokumentaci na stránkách ArcGIS Resources na adrese http://links.esri.com/agol/transactiondef.
+14.	Každé předplatné omezeno na souhrnných 50 000 000 transakcí basemap (podkladové mapy) a transakcí geosearch (vyhledání polohy) měsíčně. Pojem "transakce" je definován v dokumentaci na stránkách ArcGIS Resources na adrese http://links.esri.com/agol/transactiondef.
+15.	Může povolovat registrovaným studentům vzdělávací instituce přímý přístup ke službám online a sdílení jednoho předplatného mezi více registrovanými studenty, avšak pouze pro účely výuky.
+16.	Zákazník nesmí zobrazit ani vystavit na svých externích webových stránkách více než 100 sestav a map produktů Esri Business Analyst Online nebo Community Analyst.
+17.	Zákazník smí vytvářet, veřejně zobrazovat a distribuovat mapy v tištěné podobě a statickém elektronickém formátu pro účely zpravodajství v souladu se všemi omezeními pro data služby ArcGIS Online.
+18.	Vyhrazeno.
+19.	Zákazník nesmí zpřístupňovat aplikace s přidanou hodnotou třetím stranám za poplatek.
+20.	Držitel licence se nesmí stát držitelem licence pro žádnou třetí stranu nebo jejím jménem.
+

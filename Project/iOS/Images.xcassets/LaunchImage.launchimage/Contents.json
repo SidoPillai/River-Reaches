@@ -1,0 +1,79 @@
+{
+    "images": [
+        {
+            "extent": "full-screen",
+            "filename": "LaunchImage-640x960.png",
+            "idiom": "iphone",
+            "minimum-system-version": "7.0",
+            "orientation": "portrait",
+            "scale": "2x"
+        },
+        {
+            "extent": "full-screen",
+            "filename": "LaunchImage-640x1136.png",
+            "idiom": "iphone",
+            "orientation": "portrait",
+            "scale": "2x",
+            "subtype": "retina4"
+        },
+        {
+            "extent": "full-screen",
+            "filename": "LaunchImage-320x480.png",
+            "idiom": "iphone",
+            "orientation": "portrait",
+            "scale": "1x"
+        },
+        {
+            "extent": "full-screen",
+            "filename": "LaunchImage-640x960.png",
+            "idiom": "iphone",
+            "orientation": "portrait",
+            "scale": "2x"
+        },
+        {
+            "extent": "full-screen",
+            "filename": "LaunchImage-768x1024.png",
+            "idiom": "ipad",
+            "minimum-system-version": "7.0",
+            "orientation": "portrait",
+            "scale": "1x"
+        },
+        {
+            "extent": "full-screen",
+            "filename": "LaunchImage-1024x768.png",
+            "idiom": "ipad",
+            "minimum-system-version": "7.0",
+            "orientation": "landscape",
+            "scale": "1x"
+        },
+        {
+            "extent": "full-screen",
+            "filename": "LaunchImage-1536x2048.png",
+            "idiom": "ipad",
+            "minimum-system-version": "7.0",
+            "orientation": "portrait",
+            "scale": "2x"
+        },
+        {
+            "extent": "full-screen",
+            "filename": "LaunchImage-2048x1536.png",
+            "idiom": "ipad",
+            "minimum-system-version": "7.0",
+            "orientation": "landscape",
+            "scale": "2x"
+        },
+        {
+            "extent": "full-screen",
+            "filename": "LaunchImage-640x1136.png",
+            "idiom": "iphone",
+            "minimum-system-version": "7.0",
+            "orientation": "portrait",
+            "scale": "2x",
+            "subtype": "retina4"
+        }
+    ],
+    "info": {
+        "author": "xcode",
+        "version": 1
+    }
+}

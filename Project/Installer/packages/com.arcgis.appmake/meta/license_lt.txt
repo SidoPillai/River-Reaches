@@ -1,0 +1,575 @@
+﻿SVARBU. ATIDŽIAI PERSKAITYKITE
+(E204CW 09/22/2016)
+
+Jei ši Sutartis nebus pakeista jūsų ir "Esri" pasirašyta licencine sutartimi, "Esri" ketina teikti jums "Esri" pasiūlymus tik jei sutinkate su visomis šioje Sutartyje pateiktomis sąlygomis. Atidžiai perskaitykite sąlygas. Naudotis "Esri" pasiūlymais galite tik sutikę su Sutarties sąlygomis. Jei nesutinkate su nurodytomis sąlygomis, spustelėkite "Nesutinku su sutarties sąlygomis"; tokiu atveju galite reikalauti grąžinti atitinkamą sumokėtą sumą.
+
+Šią Sutartį sudarote jūs ("Klientas") ir "Environmental Systems Research Institute, Inc." ("Esri") - Kalifornijos bendrovė, kurios buveinės adresas 380 New York Street, Redlands, California 92373-8100 USA.
+
+1.0 BENDRASIS TEISIŲ SUTEIKIMAS IR APRIBOJIMŲ NUSTATYMAS
+
+1.1 Priede A pateikiami šioje Sutartyje iš didžiosios raidės rašomų sąvokų apibrėžimai. Kiekvienoje šios Sutarties dalyje papildomai apibrėžiamos sąvokos, vartojamos tik toje dalyje.
+
+1.2 Teisių suteikimas. Klientui atlikus visus reikiamus mokėjimus, vadovaudamasi šia Sutartimi "Esri" suteikia Klientui asmeninę, neišimtinę ir neperduodamą teisę:
+
+a)	naudotis "Esri" pasiūlymais, kaip aprašyta Dokumentuose ir taikomuose Užsakymo dokumentuose;
+b)	kopijuoti Dokumentus ir kurti išvestinius kūrinius Kliento vidinėms reikmėms Klientui naudojant Produktus leidžiamu būdu. Klientas visuose išvestiniuose kūriniuose turi įtraukti šį pranešimą apie "Esri" ir jos licenciarų nuosavybės teisių pripažinimą:
+
+"Šio dokumento dalys yra "Esri" ir jos licenciarų intelektinė nuosavybė ir yra naudojamos pagal licenciją. Autorių teisės (c) [Klientas turi įrašyti faktinę autorių teisių įgijimo datą (-as) iš pirminės medžiagos.] "Esri" ir jos licenciarai. Visos teisės saugomos."
+
+Šioje dalyje nurodytas teisių suteikimas (i) galioja tol, kol galioja prenumerata, arba atitinkamą Laikotarpį, arba neribotą laiką, jei joks Laikotarpis netaikomas arba nėra nurodytas Užsakymo dokumentuose; ir (ii) jam taikomos papildomos teisės ir apribojimai, nurodyti šioje Sutartyje, įskaitant Priedą B.
+
+1.3 Prieigos suteikimas konsultantui arba rangovui. Klientas gali leisti savo konsultantams arba rangovams naudotis "Esri" pasiūlymais, bet tik Kliento naudai. Klientui tenka visa atsakomybė už tai, kad jo konsultantai ir rangovai laikytųsi šios Sutarties, ir jis turi užtikrinti, kad joks konsultantas ar rangovas nebenaudotų "Esri" pasiūlymų baigęs darbą Klientui. Leisti konsultantams ar rangovams pasiekti ar naudoti "Esri" pasiūlymus ne tik Kliento naudai draudžiama.
+
+1.4 Įvertinimo ir Beta licencijos. Produktai, įsigyti pagal įvertinimo licenciją ar prenumeratą arba pagal Beta programą, yra skirti tik vertinti ir testuoti, o ne naudoti komerciniais tikslais. Bet koks toks naudojimas vykdomas Kliento rizika, o Produktams neteikiama Priežiūros paslauga. Jei Klientas neįsigyja mokamos licencijos arba prenumeratos iki vertinimo laikotarpio pabaigos, Klientas gali prarasti bet kokį turinį ar tinkinimus, sukurtus vertinimo laikotarpiu. Jei Klientas nenori įsigyti licencijos arba prenumeratos, jis turėtų eksportuoti tokį turinį prieš baigiantis Kliento vertinimo laikotarpiui.
+
+1.5 Švietimo programos. Klientas sutinka pagal švietimo programą pateiktus "Esri" pasiūlymus naudoti tik švietimo tikslais su švietimu susijusio naudojimo Laikotarpiu. Klientas nenaudos Produktų jokiais Administraciniais tikslais, jei neturės Administracinio naudojimo licencijos. "Administracinis naudojimas" reiškia administravimo veiklą, kuri nėra tiesiogiai susijusi su mokymu arba švietimu, pvz., išteklių žymėjimą žemėlapyje, infrastruktūros valdymą, demografinę analizę, maršrutų sudarymą, švietimo įstaigos teritorijos apsaugą ir pasiekiamumo analizę. Klientui neleidžiama naudoti Produktų pajamų ar pelno siekimo tikslais.
+
+1.6 Dovanojimo programos.Pagal dovanojimo programą pateiktus "Esri" pasiūlymus Klientas gali naudoti tik nekomerciniais tikslais. Klientas nenaudos "Esri" pasiūlymų pajamoms arba pelnui generuoti, išskyrus "Esri" pasiūlymų naudojimo ir valdymo sąnaudų padengimą.
+
+1.7 Kitos "Esri" riboto naudojimo programos.Jei klientas įsigyja "Esri" pasiūlymų pagal bet kokią pirmiau nenurodytą riboto naudojimo programą, Klientui naudojantis tokiais "Esri" pasiūlymais gali būti taikomos sąlygos, nurodytos atitinkamame nukreipimo puslapyje ar registracijos formoje arba aprašytos "Esri" interneto svetainėje; jos papildo neprieštaraujančias šios Sutarties sąlygas.
+
+1.8 Teisių išsaugojimas. Visi "Esri" pasiūlymai yra pagal autorių teises saugomi "Esri" arba jos licenciarų kūriniai; visos šioje Sutartyje atskirai nesuteiktos teisės yra išsaugomos.
+
+2.0 PROGRAMINĖS ĮRANGOS NAUDOJIMO SĄLYGOS
+
+2.1 Licencijų tipai. "Esri" leidžia naudoti Programinę įrangą pagal toliau nurodytų tipų licencijas:
+
+a)	Konkurentinio naudojimo licencija: Klientas gali diegti ir naudoti Programinę įrangą kompiuteryje (-iuose) tinkle, bet naudotojų skaičius vienu metu turi neviršyti įsigytų licencijų skaičiaus. Konkurentinio naudojimo licencija suteikia teisę naudoti antrinę Konkurentinio naudojimo licencijos valdymo programinę įrangą atskiroje operacinės sistemos aplinkoje, skirtoje naudotis laikinai, sutrikus pirminei aplinkai.
+b)	Diegimo licencija: Klientas gali įtraukti "ArcGIS Runtime" komponentus į Pridėtinės vertės taikomąsias programas ir platinti Pridėtinės vertės taikomąsias programas Kliento galutiniams naudotojams.
+c)	Diegimo serverio licencija: Klientas gali naudoti Programinę įrangą pagal Serverio licenciją visais Sutartyje leidžiamais tikslais, kaip aprašyta Dokumentuose.
+d)	Kūrimo serverio licencija: Klientas gali naudoti Programinę įrangą pagal Serverio licenciją siekdamas kurti ir testuoti Pridėtinės vertės taikomąsias programas, kaip aprašyta Dokumentuose.
+e)	Kuriamasis naudojimas: Klientas gali diegti ir naudoti Programinę įrangą siekdamas kurti ir testuoti Pridėtinės vertės taikomąsias programas, kaip aprašyta Dokumentuose.
+f)	Dvejopo naudojimo licencija: Klientas gali diegti Programinę įrangą staliniame kompiuteryje ir tuo pačiu metu naudoti ją delninuke (PDA) arba delniniame mobiliajame kompiuteryje, jei vienu metu Programinę įrangą naudoja tik vienas asmuo.
+g)	Perjungimo licencija: Klientas gali diegti Programinę įrangą rezervinėse sistemose ir naudoti ją sugedus pagrindinei sistemai, bet rezervinėje sistemoje įdiegta Programinė įranga turi veikti tik neveikiant pagrindinei sistemai. Išskyrus sistemos techninės priežiūros ir duomenų bazių atnaujinimo laikotarpius, rezervinė Programinės įrangos įdiegtis (-ys) turi likti neaktyvi (-ios), kai veikia pagrindinė sistema (arba bet kokios kitos rezervinės sistemos).
+h.Tolesnio platinimo licencija: Klientas gali atkurti ir platinti Programinę įrangą, su sąlyga, kad:
+
+1.	Klientas atkuria ir platina visą Programinę įrangą;
+2.	Prie kiekvienos Programinės įrangos kopijos pridedama licencinė sutartis, sauganti Programinę įrangą taip pat kaip ši Sutartis, o gavėjas sutinka laikytis licencinės sutarties sąlygų;
+3.	Klientas atkuria visus pranešimus apie autorių teises ir prekių ženklus; ir
+4.	Klientas neima iš kitų asmenų mokesčio už Programinės įrangos naudojimą.
+
+i)	Serverio licencija: Klientas gali diegti ir naudoti Programinę įrangą serverio kompiuteryje. Serverio licencijoms gali būti taikomi reikalavimai dėl riboto serverių branduolių skaičiaus arba dėl paskirstytojo diegimo keliuose serveriuose, kaip aprašyta Užsakymo dokumentuose arba Dokumentuose. Jei Programinės įrangos aprašyme nurodytas perjungiamasis naudojimas, kiekviena Serverio licencija apima Perjungimo licenciją.
+j)	Vardinė licencija: Klientas gali leisti vienam įgaliotam galutiniam naudotojui įdiegti ir naudoti Programinę įrangą viename kompiuteryje. Klientas gali leisti vienam įgaliotam galutiniam naudotojui įdiegti antrą kopiją, skirtą naudoti tik galutiniam naudotojui antrame kompiuteryje, jei vienu metu naudojama tik 1 Programinės įrangos kopija. Joks kitas galutinis naudotojas tuo pačiu metu negali naudoti Programinės įrangos pagal tą pačią licenciją jokiu kitu tikslu.
+k)	Testavimo serverio licencija: Klientas gali naudoti Programinę įrangą pagal Serverio licenciją siekdamas kurti ir testuoti Pridėtinės vertės taikomąsias programas ir žemėlapių talpyklas, atlikti trečiųjų šalių programinės įrangos tinkamumo naudoti, efektyvumo ir apkrovos testus, testuoti naujus komercinių duomenų naujinimus ir vykdyti mokymo veiklą, kaip aprašyta Dokumentuose. Klientas gali naudoti Pridėtinės vertės taikomąsias programas ir žemėlapių talpyklas su Kūrimo ir Diegimo serveriais.
+
+2.2. Leistinas naudojimas
+
+a)	Klientas gali:
+
+1.	Diegti, pasiekti ar laikyti Programinę įrangą ir Duomenis elektroniniame atminties įrenginyje (-iuose);
+2.	Daryti archyvines ir įprastas atsargines kopijas kompiuteryje.
+3.	Diegti ir naudoti naujesnę Programinės įrangos versiją kartu su keičiama versija priimtiną pereinamąjį laikotarpį, ne ilgesnį kaip 6 mėnesiai, su sąlyga, kad diegiant bet kurią versiją neviršijamas Klientui suteiktų licencijų skaičius; vėliau Klientas negali naudoti daugiau Programinės įrangos egzempliorių nei bendras jo licencijuotas kiekis. Tai netaikoma Programinei įrangai, licencijuotai Kuriamajam naudojimui.
+4.	Perkelti licencijuotos konfigūracijos Programinę įrangą į pakaitinį kompiuterį;
+5.	Platinti trečiosioms šalims Programinę įrangą ir visus susijusius Autorizavimo kodus, reikalingus diegimo licencijai naudoti; ir
+6.	Naudoti serverio Programinę įrangą Komerciniais ASP tikslais, jei Klientas įsigijo Komercinio ASP naudojimo licenciją arba yra vyriausybinė ar ne pelno organizacija, valdanti interneto svetainę arba siūlanti internetinę paslaugą už mokestį, kuris padengia išlaidas, bet neduoda pelno.
+
+b)	Klientas gali pritaikyti Programinę įrangą naudodamas bet kokią makrokomandų arba scenarijų kalbą, taikomojo programavimo sąsajas (API) arba išeities ar objektinių kodų bibliotekas, bet tik jei toks pritaikymas aprašytas Dokumentuose.
+c)	Klientas gali naudoti visus su Programine įranga pateiktus šriftus naudodamas Programinę įrangą bet kokiu leidžiamu būdu. Be to, Klientas gali naudoti "Esri" šriftus atskirai, norėdamas išspausdinti bet kokią išvestį, sukurtą naudojantis Programine įranga. Bet kokie su Programine įranga pateiktų trečiųjų šalių šriftų naudojimo apribojimai yra nustatyti paties šrifto faile.
+d)	1 priede pateikiamos konkrečios Programinės įrangos Produktams taikomos naudojimo sąlygos. "Esri" gali išleisti 1 priedo naujinimų.
+
+2.3 Priežiūra. "Esri" teikia Priežiūros paslaugą pagal "Esri" Priežiūros ir pagalbos programą, jei Klientas yra įsikūręs JAV. Už JAV ribų įsikūrę Klientai gali įsigyti Priežiūros paslaugą iš vietinio "Esri" platintojo pagal to platintojo sąlygas.
+
+3.0 "ONLINE SERVICES" NAUDOJIMO SĄLYGOS
+
+3.1 Sąvokų apibrėžimai. Toliau pateikti sąvokų apibrėžimai papildo apibrėžimus, pateiktus Priede A:
+
+a)	"Anoniminiai naudotojai" - visi asmenys, turintys viešą prieigą (t. y. nenurodant Įvardytojo naudotojo kredencialų) prie bet kokios Kliento turinio dalies arba Pridėtinės vertės taikomųjų programų. Klientas gali leisti Anoniminiams naudotojams pasiekti savo turinį arba Pridėtinės vertės taikomąsias programas publikuodamas jas Bendrinimo priemonėmis, įtrauktomis į Kliento leidžiamas naudoti "Online Services".
+b)	"App Login Credential" - tai sistemos sugeneruotas programos prisijungimas ir susietasis slaptažodis, pateikiamas registruojant Pridėtinės vertės programą su "ArcGIS Online", kurią galima įtraukti į Pridėtinės vertės programą, norint įjungus Pridėtinės vertės programą gauti prieigą prie "Online Services" ir naudotis šia paslauga.
+c)	"Paslaugos kreditas (-ai)" - su "Online Services" prenumerata suteiktas sąlyginis vienetas, kurio suma nurodyta Užsakymo dokumente.
+d)	"Bendrinimo priemonės" - į "Online Services" ir "ArcGIS" svetainę įtrauktos priemonės, suteikiančios Klientui galimybę pateikti Kliento Turinį ir Pridėtinės vertės taikomąsias programas trečiosioms šalims ir (arba) Anoniminiams naudotojams.
+
+3.2 "Online Services" prenumerata. "Esri" siūlo "Online Services" prenumeratą toliau nurodytomis sąlygomis. 1 priede taip pat nurodomos konkretiems "Online Services" Produktams taikomos naudojimo sąlygos.
+
+3.3 Prenumeruojamų "Online Services" teikimas. Prenumeruojamų "Online Services" atveju "Esri"
+
+a)	Teiks Klientui "Online Services" pagal Dokumentus.
+b)	Teiks Priežiūros paslaugą pagal "Esri" Priežiūros ir pagalbos programą, jei Klientas yra įsikūręs JAV. Už JAV ribų įsikūrę Klientai gali įsigyti Priežiūros paslaugą iš "Esri" platintojo pagal to platintojo sąlygas.
+c)	Teiks Klientui pagalbą pagal "Esri" standartinę pagalbos klientams politiką ir bet kokias papildomas Kliento įsigytas pagalbos paslaugas.
+d)	Imsis visų komerciškai pagrįstų pastangų siekdama užtikrinti, kad "Online Services" neperduotų Klientui jokio Kenkėjiško kodo, su sąlyga, kad "Esri" neatsako už Kenkėjišką kodą, kuris pateko į "Online Services" per Kliento prenumeratą arba per trečiųjų šalių Turinį.
+
+3.4 Pridėtinės vertės taikomųjų programų pasiekimas
+
+a)	Įvardytieji naudotojai turi unikalius individualius prisijungimo kredencialus. Įvardytiesiems naudotojams suteikiama asmeninė prieiga prie "Online Services" funkcijų, kurios nėra viešai pasiekiamos Anoniminiams naudotojams.
+b)	Klientas gali naudoti savo "Online Services" prenumeratą siekdamas kurti Pridėtinės vertės taikomąją (-ąsias) programą (-as), skirtą (-as) Įvardytųjų naudotojų vidinėms reikmėms.
+c)	Klientas gali perduoti Pridėtinės vertės taikomąsias programas bet kokiai trečiajai šaliai naudoti su trečiosios šalies nuosava "Online Services" prenumerata.
+d)	Klientas negali įtraukti trečiųjų šalių kaip Įvardytųjų naudotojų į Kliento "Online Services" prenumeratą siekdamas leisti trečiosioms šalims pasiekti Kliento Pridėtinės vertės taikomąją (-ąsias) programą (-as). Šis apribojimas netaikomas trečiosioms šalims, įtrauktoms į Įvardytų naudotojų apibrėžtį.
+e)	Klientas negali suteikti trečiajai šaliai prieigos prie "ArcGIS" "Online Services", suaktyvintų per Kliento "ArcGIS Online" prenumeratą, išskyrus Kliento Pridėtinės vertės taikomąją (-ąsias) programą (-as). Šis apribojimas netaikomas trečiosioms šalims, įtrauktoms į Įvardytų naudotojų apibrėžtį.
+f)	Klientas gali leisti Anoniminiams naudotojams pasiekti Kliento Pridėtinės vertės taikomąją (-ąsias) programą (-as), veikiančią (-as) pagal Kliento nuosavą prenumeratą, toliau nurodytomis sąlygomis:
+
+1.	Klientas gali imti mokestį už tokią prieigą, jei turi prenumeratą, leidžiančią gauti pajamų iš naudojimo.
+2.	Klientas gali įtraukti Prisijungimo prie taikomosios programos kredencialus į Pridėtinės vertės taikomąsias programas, bet negali įtraukti Įvardytojo naudotojo kredencialų.
+3.	Klientas yra atsakingas už visus Paslaugų kreditus, sunaudotus Anoniminiams naudotojams naudojantis Kliento Pridėtinės vertės taikomąja (-osiomis) programa (-omis).
+4.	Tik Klientas yra atsakingas už techninio aptarnavimo teikimą Kliento Pridėtinės vertės taikomajai (-osioms) programai (-oms).
+5.	Klientas negali suteikti Anoniminiams naudotojams prieigos prie Pridėtinės vertės taikomųjų programų, kurios skirtos tik Kliento vidinėms reikmėms; vidinėms reikmėms naudojamose Pridėtinės vertės taikomose programose reikalaujami Įvardytųjų naudotojų prisijungimo kredencialai.
+
+3.5 Kliento pareigos
+
+a)	Tik Klientas yra atsakingas už Kliento Turinio ir Pridėtinės vertės taikomųjų programų kūrimą ir veikimą bei už tai, kad jo Įvardytieji naudotojai laikytųsi šios Sutarties. Klientas ir jo Įvardytieji naudotojai arba Anoniminiai naudotojai (jei taikoma) yra vieninteliai asmenys, galintys pasiekti "Online Services" per Kliento prenumeratą. Įvardytųjų naudotojų prisijungimo kredencialai skirti tik Įvardytiesiems naudotojams ir negali būti bendrinami su kitais asmenimis. Klientas gali suteikti ankstesnių Įvardytųjų naudotojų prisijungimo kredencialus naujiems Įvardytiesiems naudotojams, jei ankstesniems naudotojams nebereikia prieigos prie "Online Services". Klientas nedelsdamas informuos "Esri", jei sužinos apie bet kokį neleistiną Kliento prenumeratos naudojimą ar bet kokį saugumo pažeidimą.
+b)	Jei Klientas naudoja ne "Esri" programų kūrimo priemones kurdamas programą, kuri pasiekia "Esri" "Online Services", Klientas turi įtraukti pranešimą, kuriame nurodoma, kad jo programoje naudojamos "Esri" "Online Services". Gairės pateikiamos Dokumentuose.
+
+3.6 "Online Services" modifikavimas. "Esri" gali bet kada keisti "Online Services" ir susijusias API įspėdama apie svarbius pakeitimus prieš 30 dienų, o apie atšaukimus prieš 90 dienų. Jei bet koks "Online Services" modifikavimas, jų teikimo nutraukimas arba atšaukimas turi didelės neigiamos įtakos Kliento veiklai, "Esri" gali savo nuožiūra bandyti taisyti "Online Services", jas koreguoti arba pateikti laikiną sprendimą. Jei galimas sprendimas nėra tinkamas komerciniu požiūriu, Klientas gali atšaukti "Online Services" prenumeratą, o "Esri" turi grąžinti proporcingą kainos dalį.
+
+3.7 Prenumeratos tarifų keitimas. "Esri" gali padidinti didesnės nei 1 mėnuo trukmės prenumeratos tarifus įspėdama Klientą likus ne mažiau kaip 60 dienų iki tuo metu galiojančios prenumeratos pabaigos. "Esri" gali didinti mėnesinę prenumeratos kainą įspėdama apie tai prieš 30 dienų.
+
+3.8 Kliento Turinys
+
+a)	Nuosavybė. Klientas išsaugo visas savo Turinio teises, nuosavybės teises ir interesus. Šia Sutartimi Klientas suteikia "Esri" ir jos tiekėjams arba licenciarams neišimtinę ir neperduodamą teisę visame pasaulyje talpinti, vykdyti ir atkurti Kliento Turinį, bet tik siekiant leisti Klientui naudotis "Online Services". Be Kliento leidimo "Esri" nepasieks, nenaudos ir neatskleis Kliento Turinio, nebent to pagrįstai reikia siekiant padėti Klientui naudotis "Online Services", reaguoti į Kliento pagalbos prašymus, šalinti triktis Kliento prenumeratoje arba bet kokiu kitu tikslu, dėl kurio Klientas davė leidimą raštu. Jei prie "Online Services" Klientas prisijungia naudodamasis trečiosios šalies suteikta programa, "Esri" gali atskleisti Kliento Turinį tokiai trečiajai šaliai, jei to reikia tos programos, "Online Services" ir Kliento Turinio tarpusavio sąveikai užtikrinti. "Esri" gali atskleisti Kliento turinį, jei to reikalaujama pagal įstatymus ar teisės aktus arba teismo ar kitos vyriausybinės įstaigos nurodymu; tokiu atveju "Esri" pagrįstai stengsis riboti atskleidimo apimtį. Tik Klientas privalo užtikrinti, kad Kliento Turinys būtų tinkamas naudoti su "Online Services", ir reguliariai daryti atsargines kopijas atjungties režimu, naudodamasis "Online Services" eksporto ir atsisiuntimo galimybėmis.
+b)	Kliento Turinio bendrinimas. Jei Klientas nusprendžia bendrinti savo Turinį naudodamas Bendrinimo priemones, Klientas pripažįsta, kad jis leido trečiosioms šalims naudoti, saugoti, laikyti talpykloje, kopijuoti, atkurti, (pakartotinai) platinti ir (pakartotinai) perduoti Kliento turinį per "Online Services". "Esri" neatsako už Kliento Turinio praradimą, panaikinimą, modifikavimą arba atskleidimą, jei tai nutinka dėl Bendrinimo priemonių, "Online Services", Tinklo turinio, "ArcGIS" svetainės, Dokumentų ar susijusios medžiagos naudojimo arba netinkamo naudojimo. Klientas naudojasi Bendrinimo priemonėmis tik Kliento rizika.
+c)	Kliento Turinio atgavimas nutraukus Sutartį. Nutraukus šią Sutartį arba bet kokį bandomąjį naudojimą, vertinimą ar prenumeratą, "Esri" leis Klientui atsisiųsti Kliento turinį 30 dienų laikotarpiu, nebent Klientas prašys trumpesnio prieinamumo laikotarpio arba "Esri" pagal įstatymus draudžiama tai daryti. Vėliau Kliento teisė pasiekti arba naudoti Kliento turinį naudojantis "Online Services" nebegalios ir "Esri" nebeprivalės saugoti arba grąžinti Kliento turinio.
+
+3.9 "Online Services" naudojimo apribojimai; Paslaugos kreditai. Kiekviena "Online Services" prenumerata apima Paslaugos kreditus, kaip aprašyta atitinkamame Užsakymo dokumente. Kiekvienas Paslaugos kreditas suteikia Klientui teisę naudoti nustatytą "Online Services" kiekį, priklausantį nuo Kliento naudojamų "Online Services". Klientui naudojantis "Online Services", Paslaugos kreditai automatiškai nurašomi iš Kliento prenumeratos iki didžiausio turimų Paslaugos kreditų skaičiaus. Prireikus Klientas gali įsigyti daugiau Paslaugos kreditų. "Esri" informuos Kliento prenumeratos paskyros administratorių, kai Kliento Paslaugos naudojimas pasieks maždaug 75 % Paslaugos kreditų, suteiktų Klientui per Kliento prenumeratą. "Esri" pasilieka teisę suspenduoti Kliento galimybes pasiekti Paslaugos kreditus naudojančias "Online Services", jei Klientas išnaudojo visus savo Paslaugos kreditus. "Esri" nedelsdama atkurs Kliento galimybes pasiekti "Online Services", kai Klientas įsigis daugiau Paslaugos kreditų.
+
+3.10 "ArcGIS Enterprise" su "Virtual Cloud Infrastructure". Klientas pateiks informaciją arba kitą medžiagą, susijusią su jo Turiniu (įskaitant visų kliento pusės programų kopijas), jei to pagrįstai reikalaujama norint patikrinti, ar Klientas laikosi šios Sutarties. "Esri" gali stebėti Kliento Turinio išorines sąsajas (pvz., prievadus), kad patikrintų, ar Klientas laikosi šios Sutarties. Klientas neblokuos ir netrukdys atlikti tokio stebėjimo, bet jis gali naudoti šifravimo technologiją arba užkardas, kad jo Turinys liktų konfidencialus. Klientas bendradarbiaus su "Esri", kad būtų nustatytos bet kokios problemos, kylančios naudojant "ArcGIS Enterprise" su "Virtual Cloud Infrastructure" tarnybas, šaltinis, jei problemos pagrįstai gali būti priskiriamos Kliento Turiniui arba bet kokiai galutinių naudotojų medžiagai, kurią kontroliuoja Klientas.
+
+4.0 DUOMENŲ NAUDOJIMO SĄLYGOS
+
+4.1 Sąvokų apibrėžimai. Toliau pateikti sąvokų apibrėžimai papildo apibrėžimus, pateiktus Priede A:
+
+a)	"Verslo duomenys" - informacija apie įmones, demografiniai duomenys ir logistikos duomenys, leidžiantys priimti geresnius sprendimus, optimizuoti vidinius verslo procesus, padidinti veiklos efektyvumą, gauti naujų įplaukų ir įgyti konkurencinių pranašumų prieš varžovus.
+b)	"Esri" turinio paketas" - skaitmeninis failas, kuriame yra "ArcGIS Online" pagrindinių žemėlapių turinys (pvz., rastrinių žemėlapių išklotinės, vaizdai, vektorių duomenys), gauti iš "ArcGIS Online" pagrindinių žemėlapių tarnybų.
+c)	"Gatvių duomenys" - Duomenys, apimantys arba vaizduojantys informaciją apie kelius, gatves ir susijusias ypatybes.
+
+4.2. Leistinas naudojimas
+
+a)	Klientas gali naudoti Duomenis tik su Produktais, su kuriais "Esri" tuos Duomenis pateikė.
+b)	Klientas gali įtraukti Duomenų atvaizdus spausdintuose dokumentuose arba statiniais elektroniniais formatais (pvz., PDF, GIF, JPEG) pateikčių paketuose, rinkodaros tyrimuose ar kitose ataskaitose arba dokumentuose, kuriuose yra žemėlapių vaizdų arba duomenų suvestinių, gautų naudojantis "Esri" Produktu (-ais), trečiosioms šalims laikydamasis apribojimų, nustatytų šioje Licencinėje sutartyje, su sąlyga, kad Klientas prie Duomenų atvaizdų prideda pranešimą, kuriame "Esri" ir (arba) atitinkami jos licenciarai pripažįstami kaip Duomenų atvaizde naudojamų Duomenų dalies (-ių) šaltinis.
+c)	Klientas gali atjungtiniu režimu imti "ArcGIS Online" pagrindinius žemėlapius naudodamas "Esri" Turinio paketus ir vėliau perduoti (perkelti) juos į bet kokį įrenginį, kuriame jie bus naudojami tik su licencijuotomis "ArcGIS Runtime" programomis bei "ArcGIS Desktop" ir "ArcGIS API for Flex" programomis.
+d)	"Esri" neįgyja jokių teisių į Kliento duomenis pagal šią Sutartį.
+
+4.3 Naudojimo apribojimai
+
+a)	Klientas negali tiesiogiai arba įgaliodamas savo klientus bendrai platinti Duomenis, naudoti Duomenis bet kokioje neleidžiamoje paslaugoje ar produkte arba siūlyti Duomenis per bet kokią trečiąją šalį ar jos vardu.
+b)	Klientas negali naudoti arba leisti trečiosioms šalims naudoti Duomenis siekdamas kompiliuoti, tobulinti, tikrinti, papildyti, pridėti prie informacijos kompiliacijos arba šalinti iš jos, jei tokia duomenų kompiliacija yra parduodama, nuomojama, skelbiama, perduodama ar bet kokiu kitu būdu pateikiama trečiajai šaliai.
+c)	Verslo duomenys. Jei nesuteikiamas leidimas raštu, Klientas negali naudoti Verslo duomenų jokiais tiesioginės rinkodaros tikslais, perparduodamas arba platindamas bet kokiai trečiajai šaliai kaip bet kokio gavėjų sąrašo, katalogo, sisteminės reklamos arba kitokios informacijos kompiliacijos dalį.
+d)	Gatvių duomenys. Klientas gali naudoti Gatvių duomenis žemėlapių kūrimo, geokodavimo ir tiesioginių maršrutų kūrimo tikslais. Jei nėra raštu leista kitaip, Klientas negali naudoti Gatvių duomenų toliau nurodytais tikslais.
+
+1.	Tikrojo laiko navigacijos nurodymai, įskaitant naudotojo įspėjimą apie būsimus manevrus, pvz., įspėjimą apie artėjantį posūkį, arba alternatyvaus maršruto apskaičiavimas praleidus posūkį;
+2.	Sinchronizuotas kelių transporto priemonių maršruto kūrimas; arba
+3.	Maršruto optimizavimas.
+
+e)"Business Analyst" duomenys. Duomenims, pateiktiems su "Esri Business Analyst" ("Server", "Desktop"), taikomos toliau nurodytos papildomos naudojimo sąlygos:
+
+1.	Jei Klientas užsako "Esri Business Analyst" arba "Business Analyst" ("Canadian Edition") su nacionalinio duomenų rinkinio pogrupiu (t. y. Regiono, Valstijos, Vietos) licenciją, jis gali naudoti tik licencijuotą pogrupį, bet ne kitą nacionalinio duomenų rinkinio dalį.
+2.	Duomenų, pateikiamų naudojant "Business Analyst Server", negalima padėti į talpyklą arba atsisiųsti naudojant klientų taikomąsias programas ir įrenginius.
+
+4.4 Papildomos duomenims taikomos sąlygos. Tam tikri Duomenų licenciarai reikalauja, kad "Esri" nustatytų Klientui papildomus informavimo reikalavimus ir naudojimo sąlygas. Tokios sąlygos pateikiamos adresu http://www.esri.com/legal
+/third-party-data.
+PRIEDAS A
+TERMINŲ ŽODYNĖLIS
+
+Toliau pateiktas terminų žodynėlis taikomas visiems "Esri" pasiūlymams ir paslaugoms, kurias "Esri" gali pasiūlyti savo klientams. Tam tikriems "Esri" pasiūlymams ar Paslaugoms ši Sutartis gali būti netaikoma. Nepaisykite jokių sąlygų, kurios nėra taikomos "Esri" pasiūlymams arba Paslaugoms, siūlomoms pagal šią Sutartį.
+
+"API" - taikomojo programavimo sąsaja.
+
+"ArcGIS" svetainė" - http://www.arcgis.com ir bet kokios susijusios arba veiklą perimančios svetainės.
+
+"Autorizavimo kodas (-ai)" - bet koks raktas, autorizavimo numeris, įgalinimo kodas, prisijungimo kredencialai, aktyvinimo kodas, prieigos rakto numeris, naudotojo vardas ir slaptažodis arba kitas mechanizmas, reikalingas norint naudoti "Esri" pasiūlymą.
+
+"Beta" - bet kokia alfa, beta ar kita preliminari Produkto versija.
+
+"Debesų paslaugos" - "Online Services" ir EMCS.
+
+"Komercinis ASP naudojimas" - naudojimas, atitinkantis komercinio programų paslaugų teikėjo naudojimą; t. y. pajamų gavimas teikiant prieigą prie Programinės įrangos naudojant Pridėtinės vertės taikomąją programą, pavyzdžiui, apmokestinant prenumeratą, paslaugą arba bet kokia kita forma imant operacijos mokestį arba gaunant daugiau nei atsitiktines pajamas iš reklamos.
+
+"Turinys" - duomenys, vaizdai, nuotraukos, animacija, vaizdo įrašai, garso įrašai, tekstas, žemėlapiai, duomenų bazės, duomenų modeliai, skaičiuoklės, naudotojo sąsajos, grafiniai komponentai, piktogramos, taikomosios programos, programinės įrangos kūrimo rinkiniai (SDK), API, programinės įrangos bibliotekos, kodų pavyzdžiai ir kiti ištekliai.
+
+"Kontrolė" - turėjimas daugiau nei 50 % balsavimo teisę suteikiančių akcijų ar kitų balsavimo teisę suteikiančių interesų Kontroliuojamame subjekte.
+
+"Kliento turinys" - bet koks Turinys, kurį Klientas, Kliento galutiniai naudotojai ar bet koks kitas naudotojas pateikia "Esri" Klientui naudojantis "Esri" pasiūlymais; visi rezultatai, gauti naudojant Kliento Turinį su "Esri" pasiūlymais; ir visos Pridėtinės vertės taikomosios programos, kurias Klientas sukuria ir įdiegia naudodamas Produktus. Kliento turinys neapima jokios grįžtamosios informacijos, pasiūlymų arba prašymų tobulinti, kuriuos Klientas pateikia "Esri".
+
+"Duomenys" - visi komerciniu pagrindu pasiekiami skaitmeninių duomenų rinkiniai, įskaitant (bet tuo neapsiribojant) geografinius vektorinius duomenis, rastrinių duomenų ataskaitas ar susijusius lentelių atributus, kuriuos "Esri" teikia kartu su kitais "Esri" pasiūlymais arba atskirai. Duomenys neapima jokio Turinio, kurį tiesiai į "Esri" svetainę gali pateikti kiti asmenys nei "Esri" darbuotojai, tiekėjai arba rangovai.
+
+"Pateikiama medžiaga" - viskas, ką "Esri" pateikia Klientui kaip Profesionalių paslaugų teikimo rezultatą, išskyrus Produktus, Mokymą ar Priežiūrą. Pateikiama medžiaga gali apimti (tuo neapsiribojant) konsultavimo paslaugas, programinės įrangos kodą, dinaminių saitų bibliotekas (DLL) ir programas, pateiktas bet kokioje laikmenoje šaltinio, objekto arba vykdomojo kodo formatu (-ais), įskaitant atsargines kopijas, naujinimus arba sujungtas kopijas; metodus, technikas ar praktinę patirtį; techninę pagalbą, procesus, formules ar algoritmus; dizainus; duomenų žodynus ir modelius; kompiliacijas; schemas; dokumentus; specifikacijas; brėžinius; struktūrines diagramas; instrukcijas; arba bandymo ar kokybės kontrolės procedūras.
+
+"Dokumentai" - visi su Produktu pateikiami informaciniai naudotojo dokumentai.
+
+""Esri" valdomos debesų paslaugos" arba "EMCS" - vieno nuomotojo aparatinė įranga, Programinė įranga, Duomenys ir tinklo platforma bei susijusios sistemos stebėjimo ir pagalbos paslaugos, kurias "Esri" teikia siekdama talpinti ir pateikti Kliento Turinį Klientui arba Kliento galutiniams naudotojams internetu.
+
+"Esri" pasiūlymas (-ai)" - bet koks Produktas, Priežiūra ar Dokumentai. Jei "Esri" teikia Mokymo paslaugas arba Profesionalias paslaugas tiesiogiai Klientui, "Esri" pasiūlymai taip pat apima Mokymo medžiagą ir Pateikiamą medžiagą.
+
+"GIS" - geografinės informacijos sistemos.
+
+"Priežiūra" - prenumeruojama programa, suteikianti Klientui teisę gauti Produkto naujinimus ir kitokią naudą, pavyzdžiui, naudotis techniniu aptarnavimu ir savarankiško internetinio mokymosi ištekliais.
+
+"Kenkėjiškas kodas" - programinės įrangos virusai; kirminai; nustatyto įsijungimo laiko mechanizmai; Trojos arkliai; arba bet koks kitas kompiuterinis kodas, failai, aptarnavimo perkrovos arba programos, sukurtos siekiant pertraukti, sunaikinti arba riboti bet kokios kompiuterių programinės įrangos, aparatinės įrangos arba telekomunikacijų įrangos darbą.
+
+"Įvardytasis naudotojas" - Kliento darbuotojas, atstovas, konsultantas arba rangovas, kuriam Klientas suteikė unikalius saugius įvardytojo naudotojo prisijungimo kredencialus (tapatybę), suteikiančius galimybę pasiekti Produktą, kuriame tokios tapatybės nurodymo reikalaujama siekiant suteikti prieigą prie pagal tapatybę valdomų funkcijų Produkte išimtinai Kliento naudai. Jei naudojimas susijęs su švietimu, Įvardytieji naudotojai gali būti registruotieji studentai.
+
+"Įvardytojo naudotojo kredencialai" - individualaus asmens prisijungimo vardas ir slaptažodis, suteikiantys tam asmeniui galimybę pasiekti ir naudoti Produktus.
+
+"Įvardytojo naudotojo licencija arba prenumerata" - licencija arba prenumerata, skirta naudoti vienam Įvardytajam naudotojui.
+
+"Tinklo turinys" - turinys, talpinamas arba teikiamas "Esri" kaip "Online Services" dalis, įskaitant visas žemėlapių paslaugas, užduočių paslaugas, vaizdų paslaugas, SDK, API, programinės įrangos bibliotekas, kodų pavyzdžius ir kitus išteklius, bet neįskaitant trečiųjų šalių teikiamo Turinio, kurį Klientas pasiekia naudodamasis "Online Services".
+
+"Online Services" - bet kokia komerciniais pagrindais siūloma internetinė geografinė erdvinė sistema, įskaitant taikomąsias programas ir susijusias API, skirtas saugoti, tvarkyti, skelbti ir naudoti žemėlapius, duomenis ir kitą informaciją. "Online Services" neapima Duomenų ir Turinio.
+
+"Užsakymo dokumentas (-ai)" - pardavimo pasiūlymas, Priežiūros pratęsimo pasiūlymas, pirkimo užsakymas, siūlymas ar kitas dokumentas, kuriame nurodomi Kliento užsakomi Produktai ar paslaugos.
+
+"Nuolatinė licencija" - licencija, pagal kurią Produkto versija, už kurią sumokėti licencijoje numatyti mokesčiai, gali būti naudojama neribotą laikotarpį, nebent "Esri" arba Klientas nutraukia sutartį, kaip numatyta šioje Sutartyje.
+
+"Asmeninis naudojimas" - naudojimas asmeniniais nekomerciniais konkretaus Kliento tikslais. Asmeninis naudojimas neapima naudojimo jokios trečiosios šalies, įskaitant komercines, švietimo, valstybines ar ne pelno įstaigas, naudos tikslais.
+
+"Produktas (-ai)" - Programinė įranga, Duomenys ir Debesų paslaugos, licencijuojamos arba prenumeruojamos šios Sutarties sąlygomis.
+
+"Profesionalios paslaugos" - bet kokios kūrimo ar konsultavimo paslaugos, kurias "Esri" teikia Klientui.
+
+"Pavyzdys (-žiai)" - pavyzdiniai Produktų kodai, taikomosios programos, priedai arba plėtiniai.
+
+"Paslaugos" - pagal Priežiūros paslaugą teikiamas techninis aptarnavimas. Jei "Esri" teikia Mokymo paslaugas arba Profesionalias paslaugas tiesiogiai Klientui, Paslaugos taip pat apima Mokymo medžiagą ir Profesionalias paslaugas.
+
+"Programinė įranga" - visa "Esri" priklausanti komercinė paruošta naudoti programinė įranga arba jos dalis, išskyrus Duomenis, pasiekta ar atsisiųsta iš "Esri" autorizuotos svetainės arba pristatyta bet kokioje laikmenoje ir bet kokiu formatu, įskaitant atsargines kopijas, naujinimus, pataisų paketus, pataisas, sparčiuosius pakeitimus arba leidžiamas sujungtas kopijas.
+
+"Terminuota licencija" - licencija ar prieiga naudoti Produktą ribotą laikotarpį ("Terminą") arba naudoti pagal prenumeratą ar operacijų skaičių.
+
+"Mokymas" - instruktoriaus vedamo mokymo ir konsultavimo paslaugos, skirtos padėti naudoti "Esri" GIS Programinę įrangą.
+
+"Mokymo medžiaga" - skaitmeninis arba išspausdintas turinys, reikalingas siekiat baigti Mokymą, ir galintis apimti darbaknyges, duomenis, koncepcijas, pratybas ir egzaminus, bet tuo neapsiribojantis.
+
+"Pridėtinės vertės taikomoji programa" - Kliento sukurta taikomoji programa, skirta naudoti kartu su bet kokia teisėtai naudojama Programine įranga, Duomenimis arba "Online Services".
+ PRIEDAS B
+BENDROSIOS SĄLYGOS
+
+Toliau pateiktos bendrosios sąlygos taikomos visiems "Esri" pasiūlymams ir paslaugoms, kurias "Esri" gali pasiūlyti savo klientams. Tam tikri "Esri" pasiūlymai ar Paslaugos gali būti nepasiekiamos pagal šią Sutartį. Nepaisykite jokių sąlygų, kurios nėra taikomos "Esri" pasiūlymams arba Paslaugoms, siūlomoms pagal šią Sutartį.
+
+1 STRAIPSNIS. BENDRIEJI NAUDOJIMO APRIBOJIMAI
+
+Jei šioje Sutartyje nėra atskirai leista kitaip, Klientui neleidžiama:
+
+a)	Parduoti, nuomoti (įskaitant išperkamąją nuomą), sublicencijuoti, platinti, skolinti, laikinai pateikti arba perleisti "Esri" pasiūlymus;
+b)	Naudoti "Esri" pasiūlymus komerciniais ASP tikslais arba paslaugų biuro tikslais;
+c)	Platinti visus "Esri" pasiūlymus ar jų dalį trečiosioms šalims arba suteikti tiesioginę prieigą prie jų, įskaitant (bet tuo neapsiribojant) plėtinius, komponentus arba DLL failus;
+d)	platinti autorizavimo kodus trečiosioms šalims;
+e)	Vykdyti apgrąžos inžineriją, dekompiliuoti arba išskaidyti bet kokį Produktą ar Pateikiamą medžiagą, kuri pristatoma surinktu pavidalu;
+f)	Bandyti apeiti technologines priemones, kontroliuojančias prieigą prie "Esri" pasiūlymų ar jų naudojimą;
+g)	Saugoti, laikyti talpykloje, naudoti, įkelti, platinti arba sublicencijuoti Turinį ar kitaip naudoti "Esri" pasiūlymus pažeidžiant "Esri" arba trečiosios šalies teises, įskaitant intelektinės nuosavybės teises, privatumo teises, įstatymus dėl nediskriminavimo arba kitus taikomus įstatymus ar teisės aktus;
+h)	Šalinti arba slėpti bet kokius pranešimus apie "Esri" ar jos licenciarų patentus, autorių teises, prekių ženklus ir nuosavybės teises ir (arba) užrašus, esančius bet kokiame "Esri" pasiūlyme, išvestyje, metaduomenų faile arba pridėtus prie jų, arba internetinius ir (arba) spausdintus bet kokių Duomenų ar Dokumentų autorystės puslapius;
+i)	Atsieti arba atskirai naudoti individualias ar sudedamąsias "Esri" pasiūlymų dalis;
+j)	Įtraukti bet kokią "Esri" pasiūlymų dalį į trečiosios šalies produktą ar paslaugą, kuri konkuruoja su "Esri" pasiūlymais;
+k)	Skelbti arba bet kokiu kitu būdu pranešti su Beta produktais atliktų bandymų rezultatus negavus išankstinio rašytinio "Esri" ir jos licenciarų leidimo; arba
+l)	Naudoti, įtraukti, modifikuoti, platinti, suteikti prieigą arba derinti bet kokius "Esri" pasiūlymus tokiu būdu, kad bet kokiai "Esri" pasiūlymų daliai būtų taikomos atvirojo šaltinio arba atvirosios duomenų bazės licencijos sąlygos, kuriose reikalaujama, kad bet kokia "Esri" pasiūlymų dalis būtų:
+
+1.	Atskleista trečiosioms šalims išeitinio kodo pavidalu;
+2.	Licencijuojama trečiosioms šalims išvestiniams kūriniams kurti; arba
+3.	Nemokamai toliau platinama trečiosioms šalims.
+
+Šie apribojimai netaikomi, jei neatitinka taikomų įstatymų ar teisės aktų.
+
+2 STRAIPSNIS. TERMINAS IR NUTRAUKIMAS
+
+Ši Sutartis įsigalioja ją patvirtinus. Klientas gali bet kada nutraukti šią Sutartį arba bet kokių "Esri" pasiūlymų licenciją ar prenumeratą įteikdamas "Esri" rašytinį pranešimą. Jei nutraukiama be priežasties, Klientas neįgyja teisės susigrąžinti jokio atlikto mokėjimo arba nutraukti būsimus Paslaugų įsipareigojimus nepatirdamas atsakomybės. Bet kuri šalis gali nutraukti šią Sutartį arba bet kokią licenciją ar prenumeratą dėl esminio pažeidimo, kuris neištaisomas per 30 dienų nuo rašytinio pranešimo įteikimo pažeidusiajai šaliai. Nutraukus šią Sutartį dėl pažeidimo, "Esri" nustos teikti Paslaugas. Visos "Esri" pasiūlymuose numatytos licencijos, kurios lieka galioti nutraukus šią Sutartį, toliau galioja šios Sutarties sąlygomis.
+
+Jei "Esri" nutraukia šią Sutartį dėl Kliento pažeidimo, "Esri" taip pat gali savo nuožiūra nutraukti Kliento licencijas ar prenumeratą, numatytą "Esri" pasiūlymuose. Jei Klientas nutraukia šią Sutartį dėl bet kokios priežasties, Klientas taip pat gali savo nuožiūra nutraukti Kliento licencijas ar prenumeratą, numatytą "Esri" pasiūlymuose.
+
+Nutraukus bet kokią licenciją ar prenumeratą, Klientas:
+
+a)	Nebepasiekia ir nebenaudoja nutrauktų "Esri" pasiūlymų;
+b)	Išvalo bet kokį kliento pusės duomenų podėlį, gautą iš nutrauktų "Online Services"; ir
+c)	Nebenaudoja, išdiegia, pašalina ir sunaikina visas atitinkamų "Esri" pasiūlymų kopijas, turimas arba kontroliuojamas Kliento, įskaitant visas modifikuotas ar sujungtas jų dalis, bet kokiu pavidalu, ir parengia bei pateikia tokių veiksmų įrodymus "Esri" ar įgaliotajam jos platintojui.
+
+"Esri" gali nedelsdama nutraukti Paslaugų teikimą įteikdama rašytinį pranešimą Klientui, jei Klientas pradeda bankroto ar nemokumo procesinius veiksmus arba tokie veiksmai pradedami prieš jį, kol administratorius ištaiso visus esamus pažeidimus ir pateikia pakankamą šios Sutarties vykdymo ateityje užtikrinimą. Ši Sutartis nutraukiama, jei bet kuri šalis tampa nemoki ar yra likviduojama arba panaikinama.
+
+3 STRAIPSNIS. RIBOTOSIOS GARANTIJOS IR JŲ IŠLYGOS
+
+3.1 Ribotos garantijos. "Esri" garantuoja, kad:
+
+a)	90 dienų laikotarpį,
+
+1.	Programinė įranga iš esmės atitiks Dokumentus naudojant ją įprastu būdu, o jokiose laikmenose nebus medžiaginių ar darbo trūkumų - nuo pristatymo datos;
+2.	Mokymo medžiaga iš esmės atitiks "Esri" paskelbtus kursų aprašymus - nuo pristatymo datos;
+3.	Paslaugos iš esmės atitiks programinės įrangos pramonės profesinius ir techninius standartus - nuo vykdymo datos; ir
+4.	Už tvirtai nustatytą kainą pateikta Pateikiama medžiaga iš esmės atitiks sutartame Užsakymo dokumente nurodytas specifikacijas - nuo priėmimo datos.
+
+b)	Taikomu prenumeratos laikotarpiu:
+
+1.	"Online Services" iš esmės atitiks Dokumentus, jei bus naudojamos įprastu būdu;
+2.	Priežiūros paslauga iš esmės atitiks programinės įrangos pramonės profesinius ir techninius standartus; ir
+3.	EMCS atitiks EMCS apimtį, aprašus ir prielaidas, nurodytas Užsakymo dokumente.
+
+3.2 Speciali išlyga. Turinys, Duomenys, pavyzdžiai, aktyvieji taisymai, pataisos, naujinimai, nemokamai teikiamos "Online Services" ir vertinamieji bei Beta produktai pateikiami "tokie, kokie yra" ir be jokios garantijos.
+3.3 Bendroji išlyga. Išskyrus šioje Sutartyje nurodytas išreikštas ribotąsias garantijas, "Esri" atmeta visas kitas garantijas ar bet kokio pobūdžio sąlygas, išreikštas ar numanomas, įskaitant (bet tuo neapsiribojant) komercinio tinkamumo, tinkamumo konkrečiam tikslui ir intelektinės nuosavybės teisių pažeidimo nebuvimo garantijas ar sąlygas. "Esri" negarantuoja, kad "Esri" pasiūlymai (arba Kliento galimybės jais naudotis) veiks be pertrūkių, be klaidų, bus atsparūs triktims ar apsaugoti nuo gedimų arba kad visas neatitiktis bus galima ištaisyti ar jos bus ištaisytos. "Esri" pasiūlymai nėra sukurti, pagaminti arba skirti naudoti aplinkose ar srityse, kuriose galima mirtis, asmens sužalojimas arba žala turtui ar aplinkai. Klientas neturėtų vadovautis jokiais navigacijos pasiūlymais, kurie jam atrodo pavojingi, nesaugūs ar neteisėti. Bet koks toks naudojimas atliekamas paties Kliento rizika ir lėšomis.
+3.4 Išlygos
+
+a)	Išlyga dėl interneto. Nė viena šalis nebus atsakinga už nuostolius pagal jokią teisės teoriją dėl interneto ryšio veikimo ar jo nutrūkimo arba dėl interneto reguliavimo, galinčio riboti arba drausti "Online Services" naudojimą.
+b)	Trečiųjų šalių turinys ir svetainės. "Esri" neatsako už jokią trečiųjų šalių svetainę ar Turinį, rodomą arba pateikiamą su nuorodomis "Esri" pasiūlymuose ir "Esri" svetainėse, įskaitant www.esri.com ir www.arcgis.com. Saitų į trečiųjų šalių svetaines ir išteklius pateikimas nereiškia jokio patvirtinimo, ryšio ar rėmimo.
+
+3.5 Išimtinė teisių gynimo priemonė. Kliento išimtinė teisių gynimo priemonė ir visa "Esri" atsakomybė už šiame skyriuje aprašytų ribotųjų garantijų pažeidimą ribojasi, tik "Esri" nuožiūra: (i) netinkamos laikmenos pakeitimu; (ii) atitinkamų "Esri" pasiūlymų arba Paslaugų remontu, taisymu ar laikino sprendimo pateikimu; arba (iii) sumų, kurias Klientas sumokėjo už "Esri" ribotųjų garantijų neatitinkančius "Esri" pasiūlymus arba Paslaugas, grąžinimu, su sąlyga, kad Klientas išdiegia, pašalina ir sunaikina visas atitinkamų "Esri" pasiūlymų kopijas; nebepasiekia ir nebenaudoja atitinkamų Debesų paslaugų ir parengia bei pateikia tokių veiksmų įrodymus "Esri" arba įgaliotajam jos platintojui.
+
+4 STRAIPSNIS. ATSAKOMYBĖS APRIBOJIMAS
+
+4.1 Atsakomybės išlygos. Klientas, "Esri" ir joks "Esri" platintojas ar licenciaras nebus atsakingas už jokius netiesioginius, specialiuosius, šalutinius ar antrinius nuostolius, įskaitant pelno, pardavimo pajamų ar reputacijos praradimą; pakaitinių prekių ar paslaugų pirkimo išlaidas; arba nuostolius, didesnius nei atitinkamas licencijos ar prenumeratos mokestis, sumokėtas ar mokėtinas "Esri" už "Esri" pasiūlymus, dėl kurių buvo iškeltas ieškinys.
+
+4.2 Pirmesnėje pastraipoje pateikti atsakomybės apribojimai ir išimtys netaikomi, jei Klientas pažeidžia, netinkamai naudoja arba pasisavina "Esri" arba "Esri" licenciarų intelektinės nuosavybės teises, be to, jie netaikomi bet kurios šalies žalos atlyginimo įsipareigojimams, dideliam aplaidumui, tyčiai arba Eksporto reikalavimų laikymosi punkto šioje Sutartyje ar kituose taikomuose įstatymuose ar teisės aktuose pažeidimams.
+
+4.3 Išlygų ir apribojimų taikymas. "Esri" ar jos įgaliotasis platintojas nustatė savo mokesčius ir sudarė šią Sutartį remdamiesi joje išdėstytais apribojimais ir išlygomis; jie atspindi rizikos paskirstymą šalims ir yra šalių sudaryto sandorio pagrindas. Šie apribojimai taikomi nepaisant, ar šalis žino apie nuostolių galimybę, ir nepaisant, ar bet kokia išimtinė ribotoji teisių gynimo priemonė pasiekia esminį savo tikslą.
+
+4.4 Pirmiau nurodytos garantijos, apribojimai ir išimtys gali negalioti tam tikrose jurisdikcijose ir būti taikomi tik Kliento jurisdikcijoje galiojančiuose įstatymuose ir teisės aktuose leidžiamu mastu. Klientas gali turėti papildomų teisių, kurių negalima atsisakyti arba atmesti. "Esri" nesiekia riboti Kliento garantijos ar teisių gynimo priemonių įstatymuose neleidžiamu būdu.
+
+5 STRAIPSNIS. ŽALOS ATLYGINIMAS
+
+5.1 Sąvokų apibrėžimai. Toliau pateikti sąvokų apibrėžimai papildo apibrėžimus, pateiktus Priede A:
+
+a)" Pretenzija" - bet kokia trečiosios šalies pretenzija, ieškinys ar reikalavimas.
+b)" Kompensuojamieji asmenys" - Klientas ir jo direktoriai, pareigūnai bei darbuotojai.
+c)" Pretenzija (-os) dėl pažeidimo" - bet kokia Pretenzija, kurioje tvirtinama, kad naudodamas arba pasiekdamas "Esri" pasiūlymus ar Paslaugas Klientas pažeidžia JAV patentą, autorių teises, prekės ženklą ar komercinę paslaptį.
+d)" Nuostolis (-iai)" - išlaidos grynaisiais, pripažinta žala, atsiskaitymo suma, sąnaudos ar išlaidos, įskaitant pripažintus mokėjimus teisininkams.
+
+5.2 Pažeidimo žalos atlyginimas
+
+a)	"Esri" gins ir saugos visus Kompensuojamuosius asmenis nuo bet kokios Pretenzijos dėl pažeidimo ir atlygins visus Nuostolius, atsiradusius dėl Pretenzijos dėl pažeidimo, kaip aprašyta tolesnėse pastraipose.
+b)	Jei "Esri" nustato, kad Pretenzija dėl pažeidimo yra pagrįsta, "Esri" gali savo lėšomis: (i) užtikrinti Kliento teises toliau naudotis "Esri" pasiūlymais arba (ii) pakeisti "Esri" pasiūlymus išsaugodama iš esmės panašias funkcijas. Jei nė vienas variantas nėra pagrįstas komerciškai, "Esri" gali nutraukti Kliento teisę naudotis "Esri" pasiūlymais ir grąžinti visus (a) taikomus Paslaugų mokesčius; (b) licencijos mokesčius, Kliento sumokėtus už pažeidžiančius "Esri" pasiūlymus, įsigytus pagal Nuolatinę licenciją, tiesiogiai proporcingai sumažintus taikant 5 metų trukmės laikotarpį pradedant nuo pirmojo pristatymo datos; arba (c) nepanaudotą mokesčių, sumokėtų už Terminuotąsias licencijas, Prenumeratą ir Priežiūros paslaugą, dalį.
+c)	"Esri" neprivalo ginti nuo Pretenzijos dėl pažeidimo arba atlyginti žalos Klientui, jei Pretenzija dėl pažeidimo yra susijusi su: (i) "Esri" pasiūlymų derinimu arba integravimu su produktu, procesu, sistema ar elementu, kurių "Esri" nepateikė arba nenurodė Dokumentuose; (ii) "Esri" pasiūlymų pakeitimu, kurį atliko ne "Esri" ar jos subrangovai; (iii) Kliento specifikacijų laikymusi; arba (iv) "Esri" pasiūlymų naudojimu po to, kai "Esri" pateikė modifikuotą versiją siekdama išvengti pažeidimo arba anuliavo Kliento teisę naudotis "Esri" pasiūlymais.
+
+5.3 Bendrasis žalos atlyginimas. "Esri" gins ir saugos visus Kompensuojamuosius asmenis (ir atlygins visus susijusius Nuostolius) nuo Pretenzijų dėl kūno sužalojimo, mirties arba turto sugadinimo (išskyrus duomenų bazes, kurioms netaikoma pagrįsta atsarginių kopijų kūrimo programa), teikiamų bet kokioms Kompensuojamosioms šalims, jei jas lėmė bet koks "Esri" ar jos direktorių, pareigūnų, darbuotojų ar atstovų, teikiančių Paslaugas Kliento įmonėje, aplaidumas, neveikimas ar tyčia.
+
+5.4 Žalos atlyginimo sąlygos. Taikomos šios žalos atlyginimo sąlygos: Kompensuojamasis asmuo turi (i) nedelsdamas raštu informuoti "Esri" apie Pretenziją, (ii) pateikti visus turimus Pretenziją apibūdinančius dokumentus, (iii) leisti "Esri" savarankiškai kontroliuoti gynybą nuo ieškinio arba derybas, susijusias su gynyba nuo Pretenzijos ar pažeidimo arba taikiu susitarimu, ir (iv) pagrįstai bendradarbiauti ginantis nuo Pretenzijos dėl pažeidimo "Esri" prašymu ir lėšomis.
+
+5.5Šiame skyriuje aprašyti visi "Esri", jos įgaliotojo platintojo ir jos licenciarų įsipareigojimai dėl bet kokios Pretenzijos.
+
+6 STRAIPSNIS. DRAUDIMAS
+
+Jei "Esri" teikia Paslaugas, "Esri" privalo turėti bent toliau nurodytą draudimą:
+
+a)	Visapusis bendrosios atsakomybės arba komercinės bendrosios atsakomybės draudimas, kurio minimali suma turi būti 1 000 000,00 USD už kiekvieną kūno sužalojimo, įskaitant mirtį, ir turto sugadinimo atvejį, įskaitant toliau nurodytus dalykus:
+
+1.	Patalpos ir operacijos;
+2.	Bendroji sutartinė atsakomybė;
+3.	Plataus pobūdžio turtinė žala;
+4.	Nepriklausomos sutarties šalys;
+5.	Kūno sužalojimas, išbraukus darbuotojų išskirties sąlygą; ir
+6.	Baigtos operacijos.
+
+b)	Darbuotojų kompensacijos draudimas, atsisakant teisių perėmimo sąlygos, įstatymuose numatytas ribas atitinkančia suma.
+
+7 STRAIPSNIS. APSAUGA IR REIKALAVIMŲ LAIKYMASIS
+
+7.1 Eksporto reikalavimų laikymasis. Visos šalys turi laikytis taikytinų eksporto įstatymų ir reglamentų, įskaitant JAV komercinio eksporto administravimo taisyklių (EAR), JAV tarptautinės prekybos ginklais reglamento (ITAR) ir kitų taikytinų eksporto įstatymų, nuostatų. Klientas neeksportuos, nepereksportuos, neperduos, neišleis ir jokiais kitais būdais nepateiks bei nesuteiks prieigos prie Paslaugų ar "Esri" pasiūlymų ir neleis jų perduoti į jokią valstybę, kuriai JAV taiko embargą, ir jokiam JAV nepageidaujamam asmeniui ar subjektui, nebent tai leidžia tuo metu taikomų JAV vyriausybės eksporto įstatymų ir reglamentų nuostatos. Klientas neeksportuos, nereeksportuos, neperduos ir nenaudos Paslaugų arba "Esri" pasiūlymų tam tikrai su raketomis, branduolinėmis, cheminėmis ar biologinėmis technologijomis susijusiai veiklai ar galutiniam naudojimui be tinkamo JAV vyriausybės leidimo. Klientas turi nedelsdamas raštu informuoti "Esri", jei JAV vyriausybės institucija ar agentūra atšaukia Kliento eksporto teises arba laikinai sustabdo jų galiojimą. Klientas neįkels, nesaugos ir neapdoros Debesų paslaugose jokio Kliento Turinio, (i) kurio Eksporto kontrolės klasifikacijos numeris (ECCN) yra kitoks nei EAR99 arba (ii) kurio eksportas iš JAV yra kontroliuojamas pagal ITAR. "Esri" neteiks Paslaugų arba "Esri" pasiūlymų, susijusių su jokiomis gynybos prekėmis, gynybos paslaugomis ar techniniais duomenimis, kaip apibrėžta ITAR 120.6, 120.9 ir 120.10 skyriuose atitinkamai, jei "Esri" negaus atitinkamos eksporto licencijos iš JAV vyriausybės. Prireikus Klientas pagrįstu būdu padės "Esri" prašyti eksporto licencijos ir ją gauti.
+
+7.2 Saugumas. "Esri" skelbia savo apsaugos galimybes adresu http://doc.arcgis.com/en/trust/security/security-overview.htm. Klientas gali suteikti "Esri" darbuotojams prieigą prie Kliento sistemų arba Kliento ar trečiųjų šalių informacijos, jei tokia prieiga reikalinga, kad "Esri" galėtų teikti Paslaugas, ir jei "Esri" atskirai sutinka su tokia prieiga. "Esri" naudos pagrįstas administracines, technines ir fizines apsaugos priemones, kad apsaugotų tokius duomenis nuo neleistinos prieigos. Klientas privalo (i) įsitikinti, kad "Esri" skelbiamos apsaugos ir privatumo kontrolės priemonės atitinka visus taikomus teisinius reikalavimus, keliamus Kliento Turinio apsaugai, ir (ii) įkelti arba bendrinti kontroliuojamą Kliento turinį per Debesų paslaugas, tik jei tai daryti yra teisėta. "Esri" neprivalo tikrinti Kliento Turinio ir užtikrinti, kad jis atitiktų taikomus įstatymus ir teisės aktus.
+
+8 STRAIPSNIS. DEBESŲ PASLAUGŲ PERTRŪKIAI, PAŠALINIMAS IR LAIKINAS NEVEIKIMAS
+
+8.1 Draudžiami naudojimo būdai. Klientui neleidžiama pasiekti arba naudoti Debesų paslaugų siekiant:
+
+a)	Siųsti nepageidaujamus, apgaulingus arba sukčiavimo apsimetant el. laiškus; persiųsti pašto šiukšles arba užgaulią ar šmeižikišką medžiagą; arba persekioti ar grasinti fiziniu susidorojimu;
+b)	Saugoti arba persiųsti bet kokį Kenkėjišką kodą;
+c)	Pažeisti bet kokį įstatymą ar teisės aktą;
+d)	Pažeisti ar pasisavinti bet kokios trečiosios šalies teises;
+e)	Zonduoti, skenuoti arba testuoti Debesų paslaugų pažeidžiamumą arba pažeisti bet kokias Debesų paslaugų apsaugos ar tapatybės patvirtinimo priemones; arba
+f)	Tikrinti Debesų paslaugų pasiekiamumą, efektyvumą ar funkcijas konkuravimo tikslais.
+
+8.2 Paslaugos teikimo pertraukimas. Sistemos gedimai ar kiti įvykiai, kurių "Esri" pagrįstai negali kontroliuoti, gali laikinai pertraukti Kliento galimybes pasiekti "Online Services". "Esri" gali nepavykti iš anksto informuoti apie tokius pertrūkius.
+
+8.3 Kliento Turinio pašalinimas. "Esri" gali pašalinti arba panaikinti bet kokias Kliento Turinio dalis, jei yra priežasčių manyti, kad Kliento Turinio įkėlimas į "Online Services" arba jo naudojimas su "Online Services" pažeistų šią Sutartį. Jei tai pagrįsta šiomis aplinkybėmis, "Esri" informuos Klientą prieš pašalindama Kliento Turinį. "Esri" atsakys į visus pagal Autorių teisių apsaugos skaitmeniniame amžiuje įstatymą (angl. "Digital Millennium Copyright Act") gautus pašalinimo pranešimus vadovaudamasi "Esri" autorių teisių politika, kuri pateikta adresu http://www.esri.com
+/legal/dmca_policy.
+
+8.4 Laikinas paslaugos teikimo sustabdymas. "Esri" gali laikinai sustabdyti prieigą prie Debesų paslaugų, (i) jei Klientas iš esmės pažeidžia šią Sutartį ir laiku neištaiso tokio pažeidimo; (ii) jei "Esri" pagrįstai mano, kad naudodamas Debesų paslaugas Klientas neišvengiamai užtrauks "Esri" atsakomybę arba pakenks Debesų paslaugų vientisumui, veikimui ar tinkamumui naudoti; (iii) atlikdama planinės priežiūros darbus; (iv) siekdama sustabdyti grėsmę Debesų paslaugoms arba jų antpuolį; arba (v) jei Debesų paslaugos uždraudžiamos įstatymais arba įvedami tokie reikalavimai, kad tolesnis jų teikimas keltų komercinių sunkumų. Jei įmanoma, "Esri" iš anksto informuos Klientą apie bet kokį laikiną Debesų paslaugų sustabdymą ir suteiks Klientui pagrįstą galimybę imtis taisomųjų veiksmų.
+
+"Esri" neatsako už jokią žalą, įsipareigojimus ar nuostolius, galinčius kilti dėl bet kokio "Online Services" pertraukimo ar laikino sustabdymo arba Kliento Turinio pašalinimo, kaip aprašyta pirmiau.
+
+9 STRAIPSNIS. BENDROSIOS NUOSTATOS
+
+9.1 Mokėjimas. Klientas apmokės kiekvieną teisingą sąskaitą faktūrą ne vėliau kaip per 30 dienų nuo jos gavimo ir atliks mokėjimą sąskaitoje faktūroje nurodytu adresu.
+
+9.2 Grįžtamoji informacija. "Esri" gali nevaržomai naudoti bet kokią grįžtamąją informaciją, pasiūlymus ar Produktų tobulinimo prašymus, kuriuos jai pateikia Klientas.
+
+9.3 Patentai. Klientas negali siekti patento ir negali suteikti kitam naudotojui leidimo siekti patento ar panašių teisių pasauliniu mastu, jei jos grindžiamos Produktais arba juos apima. Šis išreikštas draudimas patentuoti negalioja Kliento programinei įrangai ar technologijai, išskyrus jei patento prašymą arba panašių teisių prašymą dėl bet kokio reikalavimo arba pageidaujamo pareiškimo sudaro Produktai ar bet kokia jų dalis.
+
+9.4 Mokesčiai ir mokėjimai; siuntimo išlaidos. Klientui apskaičiuoti mokėjimai yra nurodyti be jokių taikomų mokesčių, įskaitant (be tuo neapsiribojant) pardavimo mokesčius, naudojimo mokesčius ar pridėtinės vertės mokesčius (PVM); muitus, rinkliavas ar tarifus; taip pat siuntimo ir krovos išlaidas.
+
+9.5 Atitikties tikrinimas.Klientas tiksliai ir išsamiai registruos duomenis ir ves buhalteriją vykdydamas savo įsipareigojimus pagal šios Sutarties sąlygas. "Esri" arba jos įgaliotasis platintojas gali vykdyti šių duomenų ir sąskaitų atitikties tikrinimą įspėję apie tai raštu ne mažiau kaip prieš 7 darbo dienas arba gali paskirti nepriklausomą trečiąją šalį tokiam atitikties tikrinimui atlikti savo vardu. Klientas nedelsdamas ištaisys bet kokią neatitiktį, nustatytą tokio atitikties tikrinimo metu. Nei "Esri", nei jos platintojas negali vykdyti Kliento atitikties tikrinimo 12 mėnesių nuo ankstesnio atitikties tikrinimo, kurio metu nebuvo rasta jokių svarbių Kliento pažeidimų, pabaigos.
+
+9.6 Galimybės atsisakyti nebuvimas. Jei šalis neįvykdo bet kokios šios Sutarties nuostatos, tai nereiškia, kad ji atsisako tos nuostatos arba teisės vėliau įvykdyti tą ar bet kokią kitą nuostatą.
+
+9.7 Sutarties nuostatų išlaikymas. Šalys susitaria, kad jei kuri nors šios Sutarties nuostata dėl kokios nors priežasties pripažįstama neįvykdoma, tokia nuostata bus pakeista tik tiek, kiek tai būtina, kad jos paskirtį būtų galima laikyti įvykdoma.
+
+9.8 Teisių perėmėjai. Klientas neperleidžia, nesublicencijuoja ir neperduoda savo kaip Kliento teisių ar įsipareigojimų pagal šią Sutartį be išankstinio rašytinio "Esri" ar jos įgaliotojo platintojo sutikimo, o bet koks bandymas tai padaryti be sutikimo laikomas negaliojančiu. Ši Sutartis yra privaloma atitinkamiems šios Sutarties šalių teisių perėmėjams. Vis dėlto rangovas, tiekiantis Produktus pagal sutartį su vyriausybiniu subjektu, gali perleisti šią Sutartį ir pristatymo tikslu įgytus Produktus savo klientui vyriausybiniam subjektui, apie tai raštu pranešęs "Esri", su sąlyga, kad klientas vyriausybinis subjektas sutinka laikytis šios Sutarties sąlygų.
+
+9.9 Sąlygų taikymas pasibaigus sutarties galiojimui. Terminų žodynėlis ir šių Bendrųjų sąlygų 3, 4, 5 ir 9 straipsnių nuostatos lieka galioti pasibaigus šios Sutarties galiojimui ar ją nutraukus.
+
+9.10 Klientas JAV vyriausybės subjektas. Produktai yra komercinės prekės, sukurtos privačiomis lėšomis ir pateiktos Klientui pagal šią Sutartį. Jei Klientas yra JAV vyriausybės subjektas arba JAV vyriausybės rangovas, "Esri" licencijuoja arba teikia prenumeratą Klientui pagal šią Sutartį remdamasi FAR 12.211/12.212 poskyriais arba DFARS 227.7202 poskyriu. "Esri" Duomenys ir "Online Services" licencijuojamos arba prenumeruojamos pagal tą pačią DFARS 227.7202 poskyrio politiką kaip ir komercinė kompiuterinė programinė įranga, skirta įsigijimams pagal DFARS. Produktams taikomi apribojimai, o šioje Sutartyje griežtai reglamentuojamas Kliento atliekamas Produktų naudojimas, keitimas, atlikimas, atkūrimas, išleidimas, demonstravimas ar atskleidimas. Federalinių įstatymų nuostatų neatitinkančios Sutarties nuostatos netaikomos. Klientas JAV vyriausybės subjektas gali perduoti Programinę įrangą bet kuriam savo padaliniui, kuriam perduodamas kompiuteris (-iai) su įdiegta tokia Programine įranga. Jei bet koks teismas, arbitras ar taryba nusprendžia, kad Klientas JAV vyriausybės subjektas turi daugiau teisių į bet kokią Produktų dalį pagal galiojančius viešųjų pirkimų įstatymus, tokios teisės taikomos tik atitinkamai daliai.
+
+9.11 Taikomi įstatymai. Šiai Sutarčiai taikomi JAV federaliniai įstatymai ir Kalifornijos valstijos įstatymai, išskyrus atitinkamus kolizinių normų principus. Šiai Sutarčiai netaikoma JTO Konvencija dėl tarptautinio prekių pirkimo ir pardavimo sutarčių.
+
+9.12Ginčų sprendimas Šalys naudos toliau aprašytus ginčų sprendimo procesus:
+
+a.Teisių gynimo priemonės pagal teisingumo teisę. Kiekviena šalis turi teisę siekti teisminio draudimo, konkrečių veiksmų ar kito teisingo teisių gynimo būdo bet kokiame kompetentingos jurisdikcijos teisme nereikalaujant pateikti užstato arba įrodyti žalą kaip teisės gynimo sąlygos.
+b)	JAV vyriausybės institucijos. Šiai Sutarčiai taikomas 1978 m. Sutarčių ginčų sprendimo įstatymas su pakeitimais (41 USC 601-613).
+c)	Kiti vyriausybės subjektai. "Esri" laikysis privalomųjų ginčų sprendimo būdų pagal taikomus įstatymus.
+d)	Arbitražas. Išskyrus kaip nurodyta pirmiau, šalys paklus įpareigojančiam arbitražui spręsdamos bet kokius su šia Sutartimi susijusius arba iš jos kylančius ginčus, kurių nepavyksta išspręsti derybomis. Jei Klientas yra įsikūręs JAV arba vienoje iš jų teritorijų arba užjūrio teritorijų, arbitražo procesiniams veiksmams taikomos Amerikos arbitražo asociacijos Komercinio arbitražo taisyklės. Jei Klientas įsikūręs ne JAV, procesiniams veiksmams taikomos Tarptautinių prekybos rūmų Arbitražo taisyklės. Šalys pasirinks vieną arbitrą pagal taikomas arbitražo taisykles. Arbitražo kalba - anglų. Arbitražas vyks šalių sutartoje vietoje. Kiekviena šalis kitos šalies prašymu pateiks dokumentus ar su pagrindiniais ginčo aspektais susijusius liudytojus.
+
+9.13 Nenugalima jėga. Šalis nebus atsakinga už šios Sutarties sąlygų nevykdymą arba vėlavimą jas vykdyti, jei toks nevykdymas arba vėlavimas vykdyti yra nulemtas aplinkybių, kurių šalis negali pagrįstai kontroliuoti. Tokios aplinkybės gali būti gamtos stichijos, karas, streikai ar darbo ginčai, kibernetinės atakos, įstatymai, teisės aktai ar valstybės institucijų įsakai (tuo neapsiribojant) ir kiti nenugalimos jėgos atvejai.
+
+9.14 Nepriklausomos sutarties šalys. "Esri" yra ir visada bus nepriklausoma sutarties šalis. Jokios šios Sutarties nuostatos nesukuria darbdavio ir darbuotojo, įgaliotojo ir atstovo arba jungtinės veiklos santykių tarp "Esri" ar jos įgaliotojo platintojo ir Kliento. Nė viena šalis nėra įgaliota sudaryti sutartis kitos šalies vardu arba atlikti kitus veiksmus kitos šalies vardu.
+
+9.15 Pranešimai. Šioje Sutartyje reikalaujamus pranešimus "Esri" Klientas gali siųsti šiuo adresu:
+
+Environmental Systems Research Institute, Inc.
+Attn: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+JAV
+
+Tel. 909-793-2853
+El. paštas: LegalNotices@esri.com
+1 PRIEDAS
+KONKREČIŲ PRODUKTŲ NAUDOJIMO SĄLYGOS
+(E300 09/22/2016)
+
+PROGRAMINĖ ĮRANGA
+
+Toliau pateiktoje lentelėje nurodytos papildomos naudojimo sąlygos, taikomos konkrečiai Programinei įrangai. Kiekvieno Produkto įraše yra viena ar kelios išnašos, taikomos tam Produktui. Tokios išnašos papildo Sutarties sąlygas. Kiekvienos išnašos apibrėžimus žr. lentelėje. Jei taikomame Užsakymo dokumente nenurodyta kitaip, Programinės įrangos plėtiniams taikoma tokia pati naudojimo apimtis, kokia yra suteikta atitinkamai Programinei įrangai.
+
+Kompiuterio produktai
+▪	"ArcGIS Desktop" ("Advanced", "Standard" arba "Basic") (26)
+▪	"ArcGIS Earth" (65)
+▪	"ArcGIS Explorer Desktop" (20)
+▪	"ArcGIS for AutoCAD" (20)
+▪	"ArcPad" (13)
+▪	"ArcReader" (20)
+▪	"ArcGIS for Windows Mobile" (15; 54)
+▪	"ArcGIS for Personal Use" (3, 26)
+
+Serverio produktai
+▪	"ArcGIS Enterprise"
+-	"Standard" arba "Advanced" (21; 31)
+-	"Workgroup" "Standard" arba "Advanced" (21; 28; 29; 30; 32)
+-	"ArcGIS GIS Server" ("Standard" arba "Advanced") (31)
+-	"ArcGIS GIS Server Basic" (39)
+-	"ArcGIS GIS Server Workgroup" ("Standard" arba "Advanced") (28; 29; 30; 32)
+-	"ArcGIS GIS Server Workgroup Basic" (39)
+-	"ArcGIS GIS Server" modulis
+-	"ArcGIS Maritime: Server" (2)
+-	"ArcGIS Image Server", "ArcGIS GeoEvent Server", "ArcGIS GeoAnalytics Server" (4)
+▪	"Esri Business Analyst Server"
+-	"Workgroup" (28; 29; 30; 31; 39)
+-	"Enterprise" (31; 39)
+▪	"World Geocoder for ArcGIS Basic" (67)
+Programų kūrėjų priemonės
+▪	"AppStudio for ArcGIS Standard" (11, 16, 19)
+▪	"ArcGIS Runtime SDK for Android", "iOS", "Java", "Mac OS X", "Microsoft .NET Framework" ("Windows" [kompiuterio], "Windows Phone", "Windows Store"), "Qt" arba WPF (16; 19)
+▪	"ArcGIS Runtime Standard Level for Android", "iOS", "Java", "Mac OS X", "Microsoft .NET Framework" ("Windows" [kompiuterio], "Windows Phone", "Windows Store"), "Qt" arba WPF (15; 18)
+▪	"ArcGIS Engine Developer Kit" ir plėtiniai (16, 19; 22, 26)
+▪	"ArcGIS Engine for Windows" / "Linux" ir plėtiniai (15; 22; 26)
+▪	"ArcGIS Web Mapping" (įskaitant "ArcGIS API for JavaScript" / HTML5, "ArcGIS API for Flex", "ArcGIS API for Microsoft Silverlight") (15; 16; 64; 66)
+▪	"ArcGIS" kūrėjo prenumerata (24; 26)
+▪	"Esri File Geodatabase API" (47)
+
+Kita
+▪	"Navigator for ArcGIS" (14)
+
+ Išnašos:
+
+1.	Rezervuota.
+2.	Neskirta naudoti 	navigacijos	 tikslais.
+3.	Licencijuota tik asmeniniam naudojimui.
+4.	Naudojant su "ArcGIS Enterprise Workgroup"
+-	Ribojama 1 keturių branduolių serveriu.
+-	Galima diegti atskirame kompiuteryje.
+	5-10.	Rezervuota.
+11.	Programoms, sukurtoms su "AppStudio for ArcGIS Standard", galioja "ArcGIS Runtime" standartinio lygio naudojimo sąlygos.
+12.	Rezervuota.
+13.	"Dvejopo naudojimo licencija" reiškia, kad Programinė įranga gali būti įdiegta kompiuteryje ir vienu metu naudojama su delninuku (PDA) arba delniniu mobiliuoju kompiuteriu, bet Programinę įrangą vienu metu gali naudoti tik vienas asmuo.
+14.	Galima naudoti navigacijos tikslais.
+15.	Licencijuojama kaip diegimo licencija.
+16.	Klientas gali naudoti SDK arba API siekdamas sukurti Pridėtinės vertės taikomąsias programas ir platinti bei licencijuoti tokias Pridėtinės vertės taikomąsias programas galutiniams naudotojams, kad jie galėtų jas naudoti bet kokoje vietoje, nedraudžiamoje pagal eksporto nuostatas.
+17.	Rezervuota.
+18.	Diegimo licencija yra taikoma vienai Pridėtinės vertės taikomajai programai viename kompiuteryje autonominių taikomųjų programų atveju.
+19.	Licencija nesuteikia teisės kurti internetu arba serveryje veikiančių Pridėtinės vertės taikomųjų programų.
+20.	Klientas	 gali atkurti ir platinti Programinę įrangą, jei vykdomi visi šie reikalavimai:
+
+a)	Atkuriama ir platinama visa Programinė įranga.
+b)	Prie kiekvienos Programinės įrangos kopijos pridedama licencinė sutartis, sauganti Programinę įrangą tokiu pat mastu kaip ši Licencinė sutartis, o gavėjas sutinka laikytis licencinės sutarties sąlygų.
+c)	Atkuriami visi autorių teisių ir prekių ženklų autorystės nurodymai / pranešimai.
+d)	Už Programinės įrangos naudojimą netaikomas joks mokestis ar rinkliava.
+
+21.	Klientas gali kurti Pridėtinės vertės taikomąją programą (-as), skirtą (-as) naudoti Kliento Įvardytiesiems naudotojams. Klientas negali įterpti Įvardytojo naudotojo kredencialų į Pridėtinės vertės taikomąją programą. Klientas negali įterpti arba naudoti Programos prisijungimo kredencialų Pridėtinės vertės taikomosiose programose. Naudojamoms Pridėtinės vertės taikomosioms programoms reikia Įvardytojo naudotojo prisijungimo kredencialų.
+22.	a)	Norėdamas įgyti teisę paleisti "ArcGIS Engine" taikomąją programą 1 kompiuteryje, galutinis naudotojas privalo įsigyti "ArcGIS Engine for Windows / Linux" programinę įrangą arba kitą "ArcGIS Desktop" programinę įrangą ("Basic", "Standard" arba "Advanced") ir
+b)	"ArcGIS Engine for Windows/Linux" plėtinių negalima naudoti kartu su "ArcGIS Desktop" programine įranga norint paleisti "ArcGIS Engine" pridėtinės vertės taikomąsias programas. Vienas naudotojas 1 kompiuteryje gali turėti kelias įdiegtas "ArcGIS Engine" pridėtinės vertės taikomąsias programas ir tik jis, kaip galutinis naudotojas, gali jas naudoti.
+23.	Rezervuota.
+24.	Programinę įrangą galima naudoti tik prototipinės Pridėtinės vertės taikomosios programos ir kūrimo, testavimo ir demonstravimo tikslais bei žemėlapių talpykloms kurti. Pridėtinės vertės taikomosios programos ir žemėlapių talpyklos gali būti naudojamos su "ArcGIS Enterprise" serveriais. Programinę įrangą ir Duomenis galima diegti keliuose kompiuteriuose, naudojamuose "ArcGIS" kūrėjų prenumeratorių, turinčių "Extend" ar aukštesnio lygio plano prenumeratą; visa kita Programinė įranga licencijuojama pagal Vardinę licenciją.
+25.	Rezervuota.
+26.	"Personal Edition" geografinių duomenų bazėje galima laikyti ne daugiau kaip 10 gigabaitų Kliento duomenų.
+27.	Rezervuota.
+28.	Naudojimas ribojamas iki 10 konkurentinių galutinių naudotojų, naudojančių kitas taikomąsias programas (ne "ArcGIS Enterprise Workgroup" arba "ArcGIS GIS Server Workgroup"). Šis apribojimas apima naudojimąsi "ArcGIS Desktop" programine įranga, "ArcGIS Engine" programine įranga ir trečiųjų šalių taikomosiomis programomis, kurios jungiasi tiesiogiai prie bet kokios "ArcGIS Enterprise Workgroup" arba "ArcGIS GIS Server Workgroup" geografinių duomenų bazės. Žiniatinklio taikomųjų programų prisijungimų skaičius neribojamas.
+29.	Norint naudoti Programinę įrangą, reikia palaikomos "SQL Server Express" versijos. Derančios versijos išvardytos prie "Esri" svetainėje pateiktų sistemos reikalavimų, susijusių su produktu.
+30.	Kliento duomenų apimtis negali viršyti 10 gigabaitų.
+31.	Klientas gali turėti rezervinę "Esri Server" Programinės įrangos įdiegtį (-čių) 	perjungimo operacijomis, bet rezervinę Programinę įrangą galima naudoti tik kai pagrindinė sistema neveikia (aktyvios-pasyvios sistemų perjungimas). Rezervinės programinės įrangos sistemos nenaudojamos, išskyrus atvejus, kai to reikia sistemos priežiūrai ir duomenų bazėms atnaujinti, kai pirminė svetainė ar bet kuri kita rezervinė svetainė neveikia.
+32.	Rezervinės programinės įrangos neleidžiama diegti permetimo operacijoms.
+33-38.	Rezervuota.
+39.	Jokios redagavimo funkcijos, įtrauktos į "ArcGIS GIS Server", neleidžiama naudoti su "ArcGIS GIS Server Basic" ("Workgroup" arba "Enterprise").
+40-46.	Rezervuota.
+47.	Klientas gali kurti ir platinti Pridėtinės vertės taikomąsias programas, kuriose naudojama "Esri File Geodatabase API", Kliento galutiniams naudotojams.
+48-53.	Rezervuota.
+54.	"ArcGIS for Windows Mobile" visuotinio diegimo licencija suteikia teisę naudoti su "ArcGIS Enterprise" ("Advanced" arba "Standard") "ArcGIS Enterprise Workgroup" ("Advanced"), "ArcGIS Desktop" ("Advanced", "Standard", "Basic") ir "ArcGIS Engine" pridėtinės vertės taikomosiomis programomis.
+55-63.	Rezervuota.
+64.	Pridėtinės vertės taikomoji (-osios) programa (-os), skirta (-os) diegti žiniatinklyje, turi būti naudojama (-os) su kitu (kitais) "Esri" Produktu (-ais). Trečiosios šalies technologijas taip pat galima naudoti su Pridėtinės vertės taikomąja (-osiomis) programa (-omis), bet tik jei Pridėtinės vertės taikomoji (-osios) programa (-os) naudojama (-os) su kitu (kitais) "Esri" Produktu (-ais).
+65.	Galima naudoti tik su kitu (-ais) "Esri" Produktu (-ais). Trečiosios šalies technologijas taip pat galima naudoti su "ArcGIS Earth", bet tik jei "ArcGIS Earth" visada naudojama su kitu (-ais) "Esri" Produktu (-ais).
+66.	Kompiuterių taikomųjų programų atveju kiekviena licencija galioja vienai organizacijai. Šioje licencijoje organizacija atitinka pagrindinį registruotą unikalų domeno identifikatorių. Domenas - tai interneto domeno pavadinimas, užregistruotas domenų pavadinimų registre. Pavyzdžiui, adrese pavyzdys.com registruotasis unikalus domeno identifikatorius yra "pavyzdys.com". Atitinkamai adrese pavyzdys.com.xx (kur xx - registruotasis šalies kodas) registruotasis unikalus domeno identifikatorius yra "pavyzdys.com.xx". Kompiuterio taikomąsias programas gali naudoti bet kuris darbuotojas organizacijoje su pagrindiniu registruotuoju unikaliu domeno identifikatoriumi. Programų, kurios gali būti sukurtos ir įdiegtos organizacijos viduje, skaičius nėra ribojamas.
+67.	Ribojama iki 250 000 000 geokodų vienai metinei prenumeratai.
+ "ONLINE SERVICES"
+
+Toliau pateiktoje lentelėje nurodytos papildomos naudojimo sąlygos, taikomos konkrečioms "Online Services". Kiekvieno Produkto įraše yra viena ar kelios išnašos, taikomos tam Produktui. Kiekvienos išnašos apibrėžimus žr. lentelėje. Jei taikomame Užsakymo dokumente nenurodyta kitaip, Programinės įrangos plėtiniams taikoma tokia pati naudojimo apimtis, kokia yra suteikta atitinkamai Programinei įrangai.
+
+▪	"ArcGIS Online" prenumeratą galima įsigyti per kelias Pardavimo programas:
+
+-	Komercinės mažmeninės, ĮS; Vyriausybės institucijoms skirtos programos (1; 2; 3; 11; 12; 14; 20)
+-	Švietimo programa (1; 2; 8; 10; 14; 19)
+-	 	 Ne pelno programa	 (1; 2; 8; 14; 19; 20)
+
+▪	"ArcGIS Online" kūrėjo įdiegties prenumeratos siūlomos keliose Pardavimo programose:
+
+-	Komercinės mažmeninės, ĮS; Vyriausybės institucijoms skirtos programos
+	Nemokama prenumerata (1; 8; 9; 10; 13; 19; 20)
+	Mokama prenumerata (1; 8; 9; 10; 11; 13; 20)
+-	Švietimo, 	NVO	 / NPO, spaudos / žiniasklaidos programos
+	Nemokama prenumerata (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Mokama prenumerata (1; 3; 4; 5; 6; 9; 10; 13; 19)
+-	NVO / NPO, spaudos / žiniasklaidos programos
+	Nemokama prenumerata (1; 3; 4; 5; 6; 9; 10; 13; 19, 20)
+	Mokama prenumerata (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+
+▪	Viešasis planas
+-	 	 Komercinės	 mažmeninės, ĮS; Vyriausybės institucijoms skirtos; NVO / NPO; spaudos / žiniasklaidos programos (1; 4; 5; 6; 7; 9; 10; 15; 19; 20)
+-	Švietimo programos (1; 4; 5; 6; 7; 9; 10; 15; 19)
+▪	"Esri Business Analyst Online" (16)
+▪	"Esri Business Analyst Online Mobile" (16)
+▪	"Esri Community Analyst" (16)
+▪	"Esri MapStudio" (17)
+
+ Išnašos:
+
+1.	Neskaitant bendrųjų "Online Services" naudojimo sąlygų:
+
+a)	Klientas gali naudoti savo "Esri Online Services" prenumeratą siekdamas kurti Pridėtinės vertės taikomąją (-ąsias) programą (-as), skirtą (-as) Kliento vidinėms reikmėms.
+b)	Klientas taip pat gali suteikti prieigą prie savo Pridėtinės vertės taikomųjų programų trečiosioms šalims šiomis sąlygomis:
+
+i)	Klientas gali leisti Anoniminiams naudotojams pasiekti savo Pridėtinės vertės taikomąsias programas.
+ii)	Klientas negali įtraukti trečiųjų šalių kaip Įvardytųjų naudotojų į Kliento "ArcGIS Online" prenumeratą siekdamas leisti trečiosioms šalims pasiekti Kliento Pridėtinės vertės taikomąją (-ąsias) programą (-as). Šis apribojimas netaikomas trečiosioms šalims, įtrauktoms į Įvardytų naudotojų apibrėžtį.
+iii)	Klientas negali suteikti trečiajai šaliai prieigos prie "ArcGIS" "Online Services", suaktyvintų per Kliento "ArcGIS Online" prenumeratą, išskyrus Kliento Pridėtinės vertės taikomąją (-ąsias) programą (-as). Šis apribojimas netaikomas trečiosioms šalims, įtrauktoms į Įvardytų naudotojų apibrėžtį.
+iv)	Tik Klientas yra atsakingas už techninio aptarnavimo teikimą Kliento Pridėtinės vertės taikomajai (-osioms) programai (-oms).
+v)	Klientas negali be rašytinio leidimo pašalinti arba paslėpti jokių prekių ženklų arba logotipų, kurie įprastai būtų matomi naudojant "Online Services". Jei pranešimas automatiškai nerodomas naudojant "Online Services", Klientas turi įtraukti pranešimą, kuriame pripažįstama, kad jo taikomoje programoje naudojamos "Esri" teikiamos "Online Services". Gairės pateikiamos Dokumentuose.
+vi)	Klientas negali įterpti Įvardytojo naudotojo kredencialų į Pridėtinės vertės taikomąją programą. Prisijungimo prie taikomosios programos kredencialus galima įtraukti tik į Pridėtinės vertės taikomąsias programas, naudojamas viešai anoniminei prieigai prie "ArcGIS Online" teikti. Klientas negali įterpti arba naudoti "ArcGIS Online" prisijungimo prie taikomosios programos kredencialų vidinėms reikmėms skirtose Pridėtinės vertės taikomosiose programose. Viduje naudojamoms Pridėtinės vertės programoms reikia Vardinio vartotojo prisijungimo kredencialų.
+
+c)	Pasaulio geokodavimo paslauga: Klientas negali be "ArcGIS Online" prenumeratos saugoti paslaugos sugeneruotų rezultatų su geokodais.
+d)	Informacinės grafikos paslauga: per šią paslaugą pasiekiamus duomenis Klientas gali naudoti tik demonstraciniais tikslais. Išsaugoti bet kokius per šią paslaugą gautus duomenis Klientui draudžiama.
+
+2.	Galima naudoti visais Kliento organizacijos veiklos tikslais.
+3.	Galima naudoti visais kūrimo ir testavimo tikslais Kliento organizacijoje.
+4.	Galima naudoti mokymo tikslais švietimo organizacijose.
+5.	Galima naudoti Kliento patvirtintos NVO / NPO organizacijos naudai.
+6.	Galima naudoti spaudos ar žiniasklaidos organizacijų naudai.
+7.	Galima naudoti asmeninėms reikmėms.
+8.	Prenumeratoriaus Pridėtinės vertės taikomąsias programas reikia skelbti, kad jos būtų prieinamos viešai.
+9.	Negalima naudoti pelno siekiančių arba vyriausybinių organizacijų naudai.
+10.	Klientui neleidžiama kurti privačių grupių arba dalyvauti bet kokiose privačiose grupėse.
+11.	Klientas gali pateikti Pridėtinės vertės taikomąsias programas trečiosioms šalims už užmokestį.
+12.	Naudodamas šią prenumeratą Klientas gali kurti privačias grupes arba jose dalyvauti.
+13.	Vienoje prenumeratoje per mėnesį galima atlikti ne daugiau kaip 1 000 000 bazinio žemėlapio ir 1 000 000 geografinės paieškos operacijų, susijusių su Kliento prenumerata. "Operacija" apibrėžta "ArcGIS" išteklių dokumentuose adresu http://links.esri.com/agol/transactiondef.
+14.	Kiekvienoje prenumeratoje galima atlikti ne daugiau kaip 50 000 000 bazinio žemėlapio ir geografinės paieškos operacijų per mėnesį. "Operacija" apibrėžta "ArcGIS" išteklių dokumentuose adresu http://links.esri.com/agol/transactiondef.
+15.	Galima leisti registruotiems švietimo įstaigos studentams tiesiogiai pasiekti "Online Services", o 1 prenumerata gali dalytis keli registruoti studentai, bet tik mokymo tikslais.
+16.	Klientui neleidžiama rodyti arba skelbti jokio derinio iš daugiau kaip 100 "Esri Business Analyst Online" arba "Community Analyst" Ataskaitų ir žemėlapių išorinėse Kliento svetainėse.
+17.	Klientas gali kurti, viešai rodyti ir platinti žemėlapius spausdintomis kopijomis ir nekintamu elektroniniu formatu, siekdamas pranešti naujienas; šiems veiksmams taikomi visi apribojimai, nustatyti "ArcGIS Online Data".
+18.	Rezervuota.
+19.	Klientui neleidžiama pateikti Pridėtinės vertės taikomųjų programų trečiosioms šalims už užmokestį.
+20.	Licenciatui neleidžiama būti licenciatu trečiajai šaliai arba jo vardu.
+

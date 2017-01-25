@@ -1,0 +1,577 @@
+﻿TÄHTIS - LUGEGE TÄHELEPANELIKULT
+(E204CW 09/22/2016)
+
+Välja arvatud juhul, kui teie ja Esri allkirjastatud litsentsilepingus on määratud teisiti, nõustub Esri edastama teile Esri pakkumisi ainult tingimusel, et aktsepteerite kõiki selles litsentsilepingus sisalduvaid nõudeid ja tingimusi. Lugege need nõuded ja tingimused tähelepanelikult läbi. Te ei tohi kasutada Esri pakkumisi enne, kui olete nõustunud selle lepingu nõuete ja tingimustega. Kui te vastavate nõuete ja tingimustega nõus ei ole, siis klõpsake alloleval suvandil "Ma ei nõustu lepinguga"; seejärel saate taotleda makstud tasude tagastamist.
+
+Litsentsileping on sõlmitud teie ("klient") ja California ettevõtte Environmental Systems Research Institute, Inc ("Esri") vahel, mille peakorter asub aadressil 380 New York Street, Redlands, California, 92373-8100, USA.
+
+1.0 ÜLDISED ÕIGUSED JA PIIRANGUD
+
+1.1 Lisas A on selles lepingus kasutatud mõistete definitsioonid. Igas lepingu jaotises võib olla ka muid definitsioone, mida kasutatakse üksnes selles jaotises.
+
+ 1.2 Õiguste andmine. Arvestades seda, kas klient on maksnud kõik kohalduvad tasud, ja käesoleva lepingu kohaselt annab Esri kliendile isikliku, mittevälistava, mitte edasiantava õiguse
+
+a.	kasutada Esri pakkumisi dokumentides ja kohalduvates tellimuse dokumentides kirjeldatud viisil;
+b.	kopeerida dokumente ja teha neist tuletatud teoseid kliendi enda ettevõttesiseseks kasutamiseks seoses toodete lubatud kasutamisega kliendi poolt. Klient peab kasutama järgmist autoriõiguste teadet, mis kinnitab Esri ja selle litsentsiandjate omandiõigusi kõigile tuletatud teostele:
+
+"Käesoleva dokumendi mõned osad sisaldavad Esri ja selle litsentsiandjate intellektuaalset omandit ning neid kasutatakse litsentsi alusel. Autoriõigus (c) [Klient sisestab algmaterjalidest tegelikud autoriõiguse tähtajad.] Esri ja selle litsentsiandjad. Kõik õigused on kaitstud."
+
+Selles jaotises (i) antud õigused jäävad jõusse tellimuse jooksul või kehtivusajal või tähtajatult, kui pole tellimisdokumentides pole rakendatud või näidatud ühtegi tähtaega, ja (ii) lisaks neile võivad kehtida ka muud selles lepingus sisalduvad õigused ja piirangud, sh lisa B.
+
+1.3 Konsultandi või lepingupartneri juurdepääs. Klient võib volitada oma konsultante või lepingupartnereid kasutama Esri pakkumisi üksnes kliendi huvides. Klient vastutab ainuisikuliselt selle eest, et tema konsultandid ja lepingupartnerid järgiksid seda lepingut, ning tagab, et iga konsultant või lepingupartner lõpetab Esri pakkumiste kasutamise pärast kliendi juures töötamise lõpetamist. Konsultantide ja lepingupartnerite juurdepääs Esri pakkumistele ning nende kasutamine muul otstarbel kui kliendi huvides on keelatud.
+
+1.4 Proovi- ja beetalitsentsid. Tooted, mis on omandatud proovilitsentsi või -tellimuse või beetaprogrammi alusel, on mõeldud ainult testimiseks, mitte ärilisel eesmärgil kasutamiseks. Niisugune kasutamine toimub kliendi enda vastutusel ning neid tarkvaradele hooldus ei kehti. Kui klient ei teisenda ostetud litsentsi või tellimust enne prooviperioodi lõppu, võib klient jääda ilma kogu sisust ja kõigist prooviperioodil tehtud kohandustest. Kui klient ei soovi litsentsi või tellimust osta, peab klient vastava sisu enne prooviversiooni lõppemist eksportima.
+
+1.5 Haridusprogrammid. Klient nõustub kasutama haridusprogrammi alusel saadud Esri pakkumisi üksnes õppe otstarbel kasutamise tähtaja vältel hariduslikul eesmärgil. Klient ei tohi kasutada tooteid mis tahes haldusotstarbel, kui klient ei ole omandanud haldusotstarbel kasutamise litsentsi. "Haldusotstarbel kasutamine" tähendab haldusülesandeid, mis ei ole otseselt seotud juhendamise ja haridusega nagu varade kaardistamine, rajatiste haldus, demograafiline analüüs, marsruutimine, õppelinnaku turvalisus ja ligipääsetavuse analüüs. Klient ei tohi kasutada tooteid kasumlikel ega tulunduseesmärkidel.
+
+1.6 Grandiprogrammid.Klient võib kasutada grandiprogrammi alusel edastatud Esri pakkumisi ainult mitteärilistel eesmärkidel. Kui Esri pakkumiste kasutamise kulude kompenseerimine välja arvata, ei tohi klient kasutada Esri pakkumisi kasumlikel ega tulunduseesmärkidel.
+
+1.7 Muud Esri piiratud kasutusega programmid.Kui klient omandab Esri pakkumised mis tahes eespool nimetamata piiratud kasutusega programmi alusel, võivad kliendile kehtida toodete Esri pakkumiste kehtival väljalaskelehel või liitumisvormis või Esri veebisaidil esitatud tingimused lisaks selle lepingu tingimustele, mis ei ole nendega vastuolus.
+
+1.8 Õiguste kaitsmine. Kõik Esri pakkumised on Esri või selle litsentsiandjate autoriõigusega kaitstud teosed; kõik õigused, mida ei ole selles litsentsilepingus konkreetselt antud, on kaitstud.
+
+2.0 TARKVARA KASUTUSTINGIMUSED
+
+2.1 Litsentsitüübid. Esri litsentseerib tarkvara järgmiste litsentsitüüpide alusel.
+
+a.	Võrgupõhine litsents: klient võib installida ja kasutada tarkvara võrgus paikneva(te)sse arvuti(te)sse, kuid samaaegsete kasutajate arv ei tohi ületada omandatud litsentside arvu. Võrgupõhine litsents annab õiguse käitada ajutiselt eraldi operatsioonisüsteemi keskkonnas võrgupõhise litsentsi haldustarkvara passiivseid varueksemplare.
+b.	Juurutuslitsents: klient võib lisada väärtust lisavatele rakendustele ArcGIS Runtime'i komponente ja levitada neid väärtust lisavaid rakendusi kliendi lõppkasutajatele.
+c.	Juurutusserveri litsents: klient võib kasutada tarkvara serverilitsentsi alusel kõikideks lepingus lubatud toiminguteks dokumentides kirjeldatud viisil.
+d.	Serveri arenduslitsents: klient võib kasutada tarkvara serverilitsentsi alusel väärtust lisavate rakenduste loomiseks ja katsetamiseks dokumentides kirjeldatud viisil.
+e.	Arenduseks kasutamine: klient võib installida ja kasutada tarkvara väärtust lisavate rakenduste loomiseks ja katsetamiseks dokumentides kirjeldatud viisil.
+f.	Paralleelse kasutuse litsents: klient võib installida tarkvara lauaarvutisse ja kasutada seda üheaegselt kas käsiseadmes või pihuarvutis (PDA), kui tarkvara kasutab samal ajal ainult üks inimene.
+g.	Varutarkvara litsents: klient võib installida tarkvara varusüsteemidele, kuid installitud varutarkvara tohib olla kasutatav ainult ajal, kui põhisüsteem ei toimi. Varutarkvarasüsteem jääb ooterežiimi, kui põhisüsteem (või mis tahes muu varusüsteem) töötab, välja arvatud süsteemi hoolduse ja andmebaaside värskendamise ajal.
+h.	Levitamise litsents: klient võib tarkvara paljundada ja levitada, eeldusel, et
+
+1.	klient paljundab ja levitab tarkvara tervikuna;
+2.	iga tarkvaraeksemplariga kaasneb litsentsileping, mis kaitseb tarkvara samas ulatuses kui see litsentsileping, ja saaja nõustub järgima litsentsilepingu tingimusi;
+3.	klient paljundab kõik autoriõiguste ja kaubamärkide tunnused ja teatised ja
+4.	klient ei võta teistelt tarkvara kasutamise eest tasu.
+
+i.	Serverilitsents: klient võib installida ja kasutada tarkvara serveriarvutis. Serverilitsentside puhul võidakse rakendada piiratud serverituumade arvu või jaotatud juurutust mitmel serveril, nagu on kirjeldatud tellimisdokumentides või lepingu dokumentides. Kui tarkvara kirjeldus hõlmab varutarkvara kasutamist, sisaldub igas serverilitsentsis varutarkvara litsents.
+j.	Ainukasutuse litsents: klient võib lubada ühel volitatud lõppkasutajal installida ja kasutada tarkvara ühel arvutil. Klient võib lubada ühel volitatud lõppkasutajal installida teise eksemplari vastava lõppkasutaja ainuisikuliseks kasutamiseks teise arvutisse, kuid ühel ajal tohib kasutada ainult 1 tarkvaraeksemplari. Ükski teine lõppkasutaja ei tohi kasutada tarkvara samal ajal sama litsentsi alusel mitte ühelgi muul otstarbel.
+k.	Serveri proovilitsents: klient võib kasutada tarkvara serverilitsentsi alusel väärtust lisavate rakenduste ning kaartide vahemälude loomiseks ja katsetamiseks; kasutajate sobivuse, jõudluse ja muu osapoole tarkvara koormuse katsetamiseks; uute kommertsandmete uuenduste katsetamiseks ning koolitustegevuste läbiviimiseks dokumentides kirjeldatud viisil. Klient võib kasutada väärtust lisavaid rakendusi ja kaartide vahemälusid arendus- ja juurutamisserveritega.
+
+2.2 Lubatud kasutamine
+
+a.	Klient võib
+
+1.	installida, avada või salvestada tarkvara ja andmeid elektroonilis(t)ele salvestusseadme(te)le;
+2.	teha arhiivikoopiaid ja plaanilist failide varundamist;
+3.	installida ja kasutada tarkvara uuemat versiooni ühel ajal asendatava versiooniga mõistliku üleminekuperioodi jooksul, mis ei ületa 6 kuud, eeldusel et kummagi versiooni kasutamine ei ületa kliendi litsentsitud kogust; hiljem ei tohi klient kasutada tarkvara kokku rohkem kui kliendi üldine litsentsitud kogus; See ei puuduta arendamiseks litsentsitud tarkvara.
+4.	teisaldada litsentsitud konfiguratsioonis tarkvara asendusarvutisse;
+5.	levitada muudele osapooltele tarkvara ja mis tahes seotud autoriseerimiskoode, mis on nõutavad juurutuslitsentsi kasutamiseks, ja
+6.	kasutada kommertsrakenduse teenuse pakkumiseks mõeldud toodet, kui klient on ostnud kommertsrakenduse teenuse pakkuja litsentsi või on riigiasutus või mittetulundusühing, mis käitab veebisaiti või osutab Interneti-teenust kulude kompenseerimise põhimõttel ja mitte kasumi saamiseks.
+
+b.	Klient võib kohandada tarkvara, kasutades (i) makrot või skriptikeelt, APIsid või lähte- või objektikoodi teeke, kuid ainult dokumentides kirjeldatud ulatuses.
+c.	Klient võib kasutada kõiki tarkvaraga kaasas olevaid fonte igasuguseks tarkvara lubatud kasutuseks. Klient võib kasutada ka eraldi Esri fonte tarkvaraga loodud väljundi printimiseks. Tarkvaraga kaasnevate muu osapoole fontide kasutuspiirangud on esitatud fondifailis.
+d.	Lisa 1 sisaldab eraldi tarkvara tootekohaseid kasutustingimusi. Esri võib aeg-ajalt anda välja lisa 1 värskendusi.
+
+2.3 Hooldus. Esri osutab hooldust Esri hooldus- ja tugiprogrammi kohaselt, kui klient asub Ameerika Ühendriikides. Väljaspool Ameerika Ühendriike asuvad kliendid võivad kasutada kohaliku Esri edasimüüja hooldust edasimüüja tingimuste alusel.
+
+3.0 VÕRGUTEENUSTE ONLINE SERVICES KASUTUSTINGIMUSED
+
+3.1 Mõisted. Järgmised definitsioonid täiendavad lisas A antud definitsioone.
+
+a.	"Anonüümsed kasutajad" on kõik, kellel on avalik juurdepääs (st vajaduseta sisestada nimelise kasutaja mandaat) mis tahes kliendi sisu või väärtust lisavate rakenduste osale. Klient võib lubada anonüümsetele kasutajatele juurdepääsu oma sisule või väärtust lisavatele rakendustele, avaldades need kliendi võrguteenuste Online Services lubatud kasutamisega kaasnevaid jagamistööriistu kasutades.
+b.	"Rakenduse sisselogimismandaat" tähendab süsteemi loodud rakenduse kasutajanime ja seostatud parooli, mida saab lisandväärtusega rakenduse registreerimisel ArcGIS Online'iga ja mida saab manustada lisandväärtusega rakendusse, et lubada lisandväärtusega rakendusel saada juurdepääsu teenustele Online Services ja seda kasutada.
+c.	"Teenuskrediit/-krediidid" on vahetusühik, mida eraldatakse teenuste Online Services tellimisel tellimisdokumendis määratud hulgal.
+d.	"Jagamistööriistad" on teenuste Online Services ja ArcGIS-i veebisaidiga lisanduvad avaldamisvõimalused, mille abil saab klient oma sisu ja väärtust lisavaid rakendusi muudele osapooltele ja anonüümsetele kasutajatele kättesaadavaks teha.
+
+3.2 Teenuste Online Services tellimus. Esri pakub teenuste Online Services tellimusi järgmistel tingimustel. Lisa 1 sisaldab eraldi teenuste Online Services tootekohaseid kasutustingimusi.
+
+3.3 Registreerimisega teenuste Online Services osutamine. Registreerimisega teenuste Online Services puhul Esri
+
+a.	osutab kliendile teenuseid Online Services kooskõlas dokumentatsiooniga;
+b.	osutab hooldust Esri hooldus- ja tugiprogrammi kohaselt, kui klient asub Ameerika Ühendriikides. Väljaspool Ameerika Ühendriike asuvad kliendid võivad kasutada Esri edasimüüja hooldust edasimüüja tingimuste alusel.
+c.	osutab kliendituge Esri standardsete klienditoe põhimõtete alusel ja mis tahes muid tugiteenuseid, mille klient võib osta, ning
+d.	teeb majanduslikult mõistlikke pingutusi tagamaks, et teenused Online Services ei edasta kliendile ühtegi pahatahtlikku koodi, eeldusel, et Esri ei vastuta teenustesse Online Services kliendi tellimuse või muu osapoole sisu kaudu sattunud pahatahtliku koodi eest.
+
+3.4 Juurdepääs väärtust lisavatele teenustele
+
+a.	Nimelistel kasutajatel on kordumatud ja isiklikud sisselogimise mandaadid. Nimelistel kasutajatel on privaatne juurdepääs nendele teenuste Online Services funktsioonidele, millele anonüümsetel kasutajatel avalik juurdepääs puudub.
+b.	Klient võib kasutada oma teenuste Online Services tellimust väärtust lisava(te) rakendus(t)e loomiseks nimelistele kasutajatele ettevõttesiseseks kasutamiseks.
+c.	Klient võib edastada väärtust lisavaid rakendusi mis tahes kolmandale osapoolele kasutamiseks seoses kolmanda osapoole oma teenuste Online Services tellimusega.
+d.	Klient ei tohi lisada muid osapooli nimeliste kasutajatena kliendi teenuste Online Services tellimusse selleks, et võimaldada muudele osapooltele juurdepääsu oma väärtust lisavatele rakendustele. See piirang ei kehti muudele osapooltele, kes kuuluvad nimeliste kasutajate mõiste alla;
+e.	Klient ei tohi anda muule osapoolele juurdepääsu oma ArcGIS Online Services teenustele, mis on lubatud kliendi ArcGIS Online'i tellimuse kaudu, v.a oma väärtust lisavate rakenduste kaudu. See piirang ei kehti muudele osapooltele, kes kuuluvad nimeliste kasutajate mõiste alla;
+f.	Klient võib anda anonüümsetele kasutajatele võimaluse pääseda juurde kliendi enda tellimuse alusel töötavate teenuste Online Services tellimusele järgmiste tingimuste alusel.
+
+1.	Klient võib küsida sellise juurdepääsu eest tasu tellimuse tüüpide puhul, mis lubavad kasutamist tulu saamise eesmärgil.
+2.	Klient võib manustada rakenduse sisselogimismandaadi väärtust lisavatesse rakendustesse, kuid ei tohi manustada nimelise kasutaja mandaati.
+3.	Klient vastutab kõigi teenusekrediitide eest, mida anonüümne kasutaja tarbib kliendi väärtust lisava(te) rakendus(t)e kasutamisel.
+4.	Klient vastutab ainuisikuliselt tehnilise toe osutamise eest oma väärtust lisavate rakenduste jaoks.
+5.	Klient ei tohi lubada anonüümsetel kasutajatel pääseda juurde väärtust lisavatele rakendustele, mis on mõeldud ainult kliendi ettevõttesiseseks kasutamiseks; ettevõttesiseselt kasutatavad rakendused nõuavad nimelise kasutaja sisselogimismandaate.
+
+3.5 Kliendi vastutus
+
+a.	Klient vastutab ainuisikuliselt kliendi sisu ja väärtust lisavate rakenduste arendamise ja kasutamise eest ning selle eest, et tema nimelised kasutajad järgivad käesolevat lepingut. Klient ja tema nimelised kasutajad või anonüümsed kasutajad (kohaldatavusel) on ainsad isikud, kellel on kliendi tellimuse kaudu lubatud teenustele Online Services juurde pääseda. Nimeliste kasutajate sisselogimismandaadid on määratud üksnes nimelistele kasutajatele ja neid ei tohi teiste isikutega jagada. Klient võib määrata nimeliste kasutajate sisselogimismandaadid uutele nimelistele kasutajatele juhul, kui endised kasutajad enam teenustele Online Services juurdepääsu ei vaja. Klient kohustub viivitamatult Esrit teavitama, kui ta saab teada kliendi tellimuse lubamatust kasutamisest või mis tahes muust turberikkumisest.
+b.	Kui klient ei kasuta mitte-Esri rakenduse arendustööriistu, et luua rakendusi, millel on juurdepääs Esri teenustele Online Services, peab Klient lisama tunnuse, mis kinnitab, et tema rakendus kasutab Esri pakutavaid teenuseid Online Services. Juhised on antud dokumentatsioonis.
+
+3.6 Teenuste Online Services muudatused. Esri võib muuta teenuseid Online Services ja seotud API-sid igal ajal, teatades olulistest muudatustest 30 päeva ette ja kasutuselt kõrvaldamisest 90 päeva ette. Kui mis tahes teenuse Online Service muutmine, katkestamine või keelamine põhjustab kliendi toimingutele olulist ja kahjulikku mõju, võib Esri oma äranägemise järgi proovida teenuseid Online Services parandada, korrigeerida või muuta. Kui vajalik lahendus ei ole äriliselt mõistlik, võib klient tühistada teenuste Online Services tellimuse ja Esri väljastab proportsionaalse tagasimakse.
+
+3.7 Tellimustasude muutmine. Esri võib tõsta tasu tellimuse eest kestusega üle 1 kuu, teavitades klienti vähemalt 60 päeva enne kehtiva tellimusperioodi lõppemist. Esri võib suurendada igakuiseid tellimustasusid 30 päeva pikkuse etteteatamise ajaga.
+
+3.8 Kliendi sisu
+
+a.	Omandiõigus. Kliendile jäävad kõik õigused kliendi sisule. Klient annab käesolevaga Esrile ja tema hankijatele või litsentsiandjatele mittevälistava mitteülekantava ülemaailmse õiguse majutada, käitada ja paljundada kliendi sisu üksnes selleks, et klient saaks kasutada teenuseid Online Services. Esri ei pääse kliendi loata tema sisule juurde ega saa seda kasutada ega avaldada, v.a siis, kui see on mõistlikult vajalik teenuste Online Services kasutamise toetamiseks, kliendi klienditoe taotlustele reageerimiseks või kliendi tellimuse tõrkeotsinguks või mis tahes muul eesmärgil, kui klient on andnud vastava kirjaliku loa. Kui klient pääseb teenustele Online Services juurde muu osapoole antud rakendusega, võib Esri avaldada kliendi sisu vastavale osapoolele rakenduse, teenuste Online Services ja kliendi sisu vastastikuse toimimise võimaldamiseks. Esri võib avaldada kliendi sisu, kui see on seadusega või määrusega, kohtu või muu valitsusasutuse määrusega nõutav, millisel juhul püüab Esri mõistlikul viisil avaldamise ulatust piirata. Klient on kohustatud tagama, et kliendi sisu on teenustega Online Services kasutamiseks ja teenuste Online Services eksportimis- ja allalaadimisvõimaluste abil regulaarsete võrguväliste varundamiste jaoks sobiv.
+b.	Kliendi sisu ühiskasutus. Kui klient otsustab jagada kliendi sisu, kasutades jagamistööriistu, siis kinnitab klient, et on lubanud muudel osapooltel kasutada, talletada, puhverdada, kopeerida, paljundada, (taas)levitada ja (taas)edastada kliendi sisu teenuste Online Services kaudu. Esri ei vastuta kliendi sisu kaotsimineku, kustutamise, muutmise ega avaldamise eest, mis tuleneb jagamistööriistade, teenuste Online Services, veebisisu, ArcGIS-i veebisaidi, dokumentide või seotud materjalide väärkasutusest. Klient kasutab jagamistööriistu omal vastutusel.
+c.	Kliendi sisu toomine lõpetamise korral. Käesoleva lepingu või mis tahes prooviversiooni, hindamise või tellimuse lõpetamisel teeb Esri kliendi sisu allalaadimiseks kättesaadavaks 30 päevaks, kui klient ei taotle lühemat kättesaadavuse aega või kui Esril pole seadusega keelatud nii teha. Seejärel lõpeb kliendi õigus juurdepääsuks oma sisule või selle kasutamiseks teenuste Online Services abil ja Esril puuduvad täiendavad kohustused kliendi sisu talletamiseks või tagastamiseks.
+
+3.9 Teenuste Online Services kasutamise piirangud; teenuskrediidid. Iga teenuste Online Services tellimus sisaldab teenusekrediite, mida on kirjeldatud kehtivas tellimisdokumendis. Iga teenusekrediit annab kliendile õiguse tarbida teatud hulka teenuseid Online Services, mille kogus erineb olenevalt kliendi tarbitud teenustest Online Services. Kui klient tarbib teenuseid Online Services, debiteeritakse teenusekrediidid automaatselt kliendi tellimusest maksimaalse saadaoleva teenusekrediitide arvuni. Vajaduse korral võib klient osta täiendavaid teenusekrediite. Esri teavitab kliendi tellimuse kontoadministraatorit, kui kliendi teenusetarbimine jõuab ligikaudu 75%-ni kliendile tellimuse kaudu eraldatud teenusekrediitidest. Esri jätab endale õiguse peatada kliendi juurdepääs teenusekrediite tarbivatele teenustele Online Services, kui klient tarbib kõik oma teenusekrediidid. Esri taastab kohe kliendi juurdepääsu teenusekrediite tarbivatele teenustele Online Services, kui on teenusekrediite juurde ostnud.
+
+3.10 Teenus ArcGIS Enterprise koos virtuaalse pilve infrastruktuuriga. Klient pakub mõistliku nõudmise korral oma sisu kohta käivat teavet või muid sisuga seotud materjale (sh mis tahes kliendipoolsete rakenduste koopiaid), et kinnitada käesoleva lepingu järgimist. Esri võib jälgida kliendipoolse lepingu järgimise kontrollimiseks kliendi sisu välisliideseid (nt porte). Klient ei tohi sellist jälgimist takistada ega segada, kuid võib oma sisu konfidentsiaalsuse säilitamiseks kasutada krüptimistehnoloogiat või tulemüüre. Klient teeb Esriga mõistlikku koostööd tuvastamaks mis tahes virtuaalse pilve infrastruktuuri teenustega ArcGIS Enterprise'iga seotud probleemi allikat, mis võib mõistlikul viisil täiendada kliendi sisu või tema juhitavaid mis tahes lõppkasutaja materjale.
+
+4.0 ANDMETE KASUTUSTINGIMUSED
+
+4.1 Mõisted. Järgmised definitsioonid täiendavad lisas A antud definitsioone.
+
+a. Äriandmed" on andmed ettevõtete, demograafia ja logistika kohta, mis võimaldavad teha paremaid otsuseid, optimeerida sisemisi äriprotsesse, suurendada tegevuse tõhusust, anda uut tulu ja konkurentsieeliseid.
+b. Esri sisupakett" tähendab digitaalset faili, mis sisaldab ArcGIS Online'i aluskaarditeenuste ekstraktitud ArcGIS Online'i aluskaardi sisu (nt rasterkaartide pildiüksused, pildid, vektorandmed).
+c." Tänavaandmed" on andmed, mis sisaldavad või kujutavad teavet maanteede, tänavate ja seotud funktsioonide kohta.
+
+4.2 Lubatud kasutamine
+
+a.	Klient võib kasutada andmeid ainult seoses toodetega, millega Esri on andmed edastanud.
+b.	Klient võib lisada andmed paberil või staatilisel, elektroonilisel kujul (nt PDF, GIF, JPEG) esitlusepakettides, turundusuuringutes või muudes aruannetes või dokumentides, mis sisaldavad kaardipilte või andmete kokkuvõtteid, mis on tuletatud Esri too(de)te kasutamisest, kolmandatele isikutele, järgides selles litsentsilepingus antud tingimusi, eeldusel, et klient lisab andmetele märkuse, milles Esri ja/või selle litsentsiandja(d) on nimetatud andmete esitamisel kasutatavate andmehulkade allikana.
+c.	Klient võib viia ArcGIS Online'i aluskaardid Esri sisupakettidega võrgust välja viia ja saata (edastada) seejärel mis tahes seadmesse ainult litsentsitud ArcGIS Runtime'i rakendustega, rakendusega ArcGIS Desktop ja ArcGIS API for Flexi rakendustega kasutamiseks.
+d.	Esri ei omanda selle lepingu alusel mingeid õigusi kliendi andmetele.
+
+4.3 Kasutuspiirangud
+
+a.	Klient ei tohi otseselt või oma kliente volitades ühtseid andmeid luua, kasutada andmeid omavoliliselt üheski teenuses ega tootes ega pakkuda andmeid muu osapoole kaudu või tema nimel.
+b.	Klient ei tohi kasutada ega lubada kolmandatel isikutel kasutada andmeid eesmärgiga koguda, parandada, kontrollida, täiendada, mis tahes andmebaasi lisada või sealt kustutada või muul viisil koguda teavet, mis on müüdud, renditud, avaldatud, kogutud või muul viisil antud kolmandale isikule.
+c.	Äriandmed. Kui selleks pole antud kirjalikku luba, ei tohi klient kasutada äriandmeid ühelgi otseturunduse, müügimaterjali ega kolmandale isikule levitamise eesmärgil meililisti, kataloogi, klassifitseeritud reklaami ega muu teabekogu kaudu.
+d.	Tänavaandmed. Kliendid võivad kasutada tänavaandmeid kaardi koostamiseks, geokodeerimiseks ja punktist punkti marsruudi koostamiseks. Kui pole kirjalikult teisiti lubatud, ei tohi klient kasutada tänavaandmeid:
+
+1.	reaalajas navigeerimisjuhiste saamiseks, sh kasutaja teavitamiseks tulevatest manöövritest (näiteks hoiatus eesootava pöörde kohta) või asendusmarsruudi arvutamiseks, kui pööramiskohast mööda sõidetakse;
+2.	sünkroonitud mitme sõiduki marsruudi koostamiseks ega
+3.	marsruudi optimeerimiseks.
+
+e.	Business Analysti andmed. Esri Business Analystiga (Server, Desktop) edastatud andmetele kehtivad järgmised täiendavad kasutustingimused.
+
+1.	Kui klient tellib Esri Business Analysti või Business Analysti (Kanada väljalase) või Business Analyst Online API, Community Analyst API ja Location Analytics API litsentsi riikliku andmekogumi alamkogumiga (nt Region, State, Local), võib ta kasutada ainult litsentsitud alamkogumit ja mitte ühtegi muud riikliku andmekogumi osa.
+2.	Rakendusega Business Analyst Server antud andmeid ei pruugi klientrakendused ja seadmed vahemällu salvestada ega alla laadida.
+
+4.4 Andmete puhul kehtivad lisatingimused. Teatud andmete litsentsiandjad nõuavad, et Esri rakendaks klientidele täiendavaid nõudeid ja kasutustingimusi. Need edastatud tingimused on saadaval aadressil http://www.esri.com/legal
+/third-party-data.
+LISA A
+MÕISTETE SÕNASTIK
+
+Järgmine sõnastik kehtib kõigi Esri pakkumiste ja teenuste puhul, mida Esri võib oma klientidele pakkuda. Selle lepingu ulatus ei pruugi hõlmata teatud Esri pakkumisi või teenuseid. Ärge arvestage ühtegi tingimust, mis ei rakendu Esri pakkumistele või teenustele, mida selle lepingu alusel pakutakse.
+
+"API" tähendab rakendusliidest.
+
+"ArcGIS-i veebisait" tähendab veebisaiti http://www.arcgis.com ja kõiki sellega seotud või selle järglasest veebisaite.
+
+"Autoriseerimiskood(id)" on mis tahes kood, autoriseerimisnumber, lubakood, sisselogimismandaat, aktiveerimiskood, žetoon, konto kasutajanimi ja parool või muu mehhanism, mis on Esri pakkumise kasutamiseks nõutav.
+
+"Beetaversioon" tähendab toote mis tahes alfa-, beeta- või eelversiooni.
+
+"Pilveteenused" tähendab teenuseid Online Services ja EMCS.
+
+"Kommertsrakenduse teenuse pakkumine" tähendab kasutamist kommertsrakenduse teenusepakkujana, st tulu tekitamist, pakkudes väärtust lisava rakenduse kaudu juurdepääsu tarkvarale või teenustele Online Services, võttes näiteks tasu tellimuse või teenuse eest või muul viisil kasutustasu või luues enam kui juhuslikku reklaamitulu.
+
+"Sisu" on andmed, kujutised, fotod, animatsioonid, video, heli, tekst, kaardid, andmebaasid, andmemudelid, töölehed, kasutajaliidesed, graafikakomponendid, ikoonid, tarkvararakendused, tarkvara arenduskomplektid (SDK-d), APId, tarkvarateegid, koodinäidised ja muud ressursid.
+
+"Kontroll" on rohkem kui 50% hääleõigus või muu hääleõigus kontrollitavas üksuses.
+
+"Kliendi sisu" on mis tahes sisu, mille klient või tema lõppkasutaja või mis tahes muu kasutaja Esrile seoses teenuste kliendipoolse Esri pakkumiste kasutamisega esitab, kliendi sisu kasutamisest koos Esri pakkumistega tuletatud tulemused ja mis tahes väärtust lisavad rakendused, mille klient loob ja teenustega toodetega juurutab Kliendi sisu hulka ei kuulu mis tahes tagasiside, soovitused või taotlused toodete parandamiseks, mille klient Esrile edastab.
+
+"Andmed" on mis tahes müügilolevad digitaalsed andmehulgad, muu hulgas geograafilised vektorandmed, rasterandmete aruanded või nendega seotud atribuutide tabelid, mida Esri pakub koos teiste Esri pakkumistega või eraldi. Andmed ei hõlma ühtegi sisu, mille muud isikud peale Esri töötajate, hankijate või alltöövõtjate võivad otse Esri veebisaidile lisada.
+
+"Üleantavad materjalid" on kõik, mille Esri edastab kliendile professionaalsete teenuste osutamise tulemusena, peale toodete, koolituse või hoolduse. Üleantavate materjalide hulka võivad muu hulgas kuuluda nõustamisteenused, tarkvarakood, DLL-id ja programmid, mis edastatakse mis tahes kandjal, antakse lähte-, objekti- või täitmiskoodi vormingu(te)s, sh varukoopiad, värskendused või ühendatud koopiad; meetodid, tehnikad või oskusteave, tehniline abi, protsessid, valemid või algoritmid; kujundused; andmesõnastikud ja -mudelid; kompilatsioonid; skeemid; dokumendid; tehnilised andmed; joonised; voodiagrammid; kokkuvõtted või katse- või kvaliteedikontrolli protseduurid.
+
+"Dokumentatsioon" on kõik kasutajadokumendid, mis koos tootega tarnitakse.
+
+"Esri hallatavad pilveteenused" või "EMCS" on ühe rentnikuga riistvara, tarkvara, andmete ja võrguplatvormi ja seotud süsteemi jälgimis- ja tugiteenused, mida Esri osutab kliendi sisu majutamiseks ja selle kättesaadavaks tegemiseks kliendile või kliendi lõppkasutajatele Interneti kaudu.
+
+"Esri pakkumine/pakkumised" on igasugune toode, hooldus või dokumentatsioon. Kui Esri pakub otse kliendile koolitust või professionaalseid teenuseid, sisaldavad Esri pakkumised ka koolitusmaterjale ja üleantavaid materjale.
+
+"GIS" on geograafilise teabe süsteemid.
+
+"Hooldus" on tellimisprogramm, mis annab kliendile õiguse tootevärskendustele ja muudele eelistele, nt juurdepääsu tehnilisele toele ja juurdepääsu omas tempos kasutatavatele veebipõhistele õppematerjalidele.
+
+"Pahatahtlik kood" tähendab tarkvaraviirusi, usse, ajapomme, Trooja hobuseid või mis tahes muud arvutikoodi, faile, teenusest ilmajätmist või programme, mis on mõeldud mis tahes arvutitarkvara, riistvara või telekommunikatsiooniseadmete toimimise katkestamiseks, hävitamiseks või nende funktsioonide piiramiseks.
+
+"Nimeline kasutaja" on kliendi töötaja, esindaja, konsultant või alltöövõtja, kellele klient on määranud kordumatu ja turvalise nimelise kasutajamandaadi (identiteedi), mis võimaldab juurdepääsu tootele, mis sellist identiteeti nõuab, et pääseda toote piires juurde identimisteabega hallatavatele võimalustele üksnes kliendi huvides. Haridusotstarbelise kasutuse puhul võivad nimelised kasutajad hõlmata registreeritud (üli)õpilasi.
+
+"Nimelise kasutaja mandaat" on eraldi isiku sisselogimisnimi ja seotud parool, mille abil see isik pääseb toodetele juurde ja saab neid kasutada.
+
+"Nimelise kasutaja litsents või tellimus" on litsents või tellimus, mis on mõeldud kasutamiseks ühele nimelisele kasutajale.
+
+"Võrgusisu" on teenuste Online Services osana Esri majutatav või pakutav sisu, sh mis tahes kaarditeenused, toiminguteenused, kujutiseteenused, SDK-d, APId, tarkvarateegid, koodinäidised ja muud ressursid, v.a muu osapoole pakutav sisu, millele klient teenuse Online Services kaudu juurde pääseb.
+
+Teenused "Online Services" on mis tahes müügilolev Interneti-põhine ruumiandmete süsteem, mis hõlmab rakendusi ja seotud rakendusliideseid, kaartide, andmete ja muu teabe talletamiseks, haldamiseks, avaldamiseks ning kasutamiseks. Teenuste Online Services hulka ei kuulu andmed ja sisu.
+
+"Tellimisdokument/-dokumendid" on müügipakkumine, hoolduse uuenduspakkumine, ostutellimus, ettepanek või muu dokument, kus on näidatud kliendi tellitud tooted või teenused.
+
+"Püsilitsents" tähendab tooteversiooni kasutuslitsentsi, mille eest on tähtajatult makstud rakenduvad litsentsitasud, v.a juhul kui Esri või klient lõpetab litsentsi selles lepingus esitatud tingimustel.
+
+"Isiklik kasutus" tähendab, et tarkvara tohib kasutada ainult individuaalne klient isiklikul ja mitteärilisel eesmärgil. Isiklik kasutus välistab tarkvara kasutamise kolmanda osapoole, sh äri-, haridus-, riigi- või mittetulundusüksuste kasusaamise eesmärgil.
+
+"Toode/tooted" on tarkvara, andmed ja pilveteenused, mis on litsentsitud või tellitud selle lepingu tingimuste alusel.
+
+"Professionaalne teenus" tähendab kõiki arendus- või nõustamisteenuseid, mida Esri kliendile osutab.
+
+"Näidis(ed)" on toodete näidiskood, näidisrakendused, lisandprogrammid ja näidislaiendused.
+
+"Teenused" on hoolduse raames osutatav tehniline tugi. Kui Esri pakub otse kliendile koolitust või professionaalseid teenuseid, sisaldavad teenused ka koolitust ja professionaalseid teenuseid.
+
+"Tarkvara" on Esri volitatud veebisaidilt alla laaditud või mis tahes andmekandjal mis tahes vormingus (sh varukoopiad, uuendused, hoolduspaketid, veaparandused, kiirparandused ja lubatud ühendatud eksemplarid) saadud Esrile kuuluv müügilolev valmis tarkvara või selle osa, välja arvatud andmed.
+
+"Tähtajaline litsents" on litsents või juurdepääs toote kasutamiseks piiratud ajavahemikul (edaspidi: tähtaeg), tellimus- või kasutuspõhiseks kasutamiseks.
+
+"Koolitus" on instruktori juhitavad koolitus- ja juhendamisteenused Esri GIS-tarkvara kasutamiseks.
+
+"Koolitusmaterjalid" on digitaalne või prinditud sisu, mis on vajalik koolituse läbimiseks, mis võib muu hulgas hõlmata töövihikuid, andmeid, mõisteid, harjutusi ja eksameid.
+
+"Väärtust lisav rakendus" on kliendi arendatud rakendus, mis on mõeldud kasutamiseks koos mis tahes tarkvara, andmete või teenuste Online Services volitatud kasutamisega.
+ LISA B
+ÜLDTINGIMUSED
+
+Järgmised üldtingimused kehtivad kõigi Esri pakkumiste ja teenuste puhul, mida Esri võib oma klientidele pakkuda. Selle lepingu alusel ei pruugi teatud Esri pakkumised või teenused saadaval olla. Ärge arvestage ühtegi tingimust, mis ei rakendu Esri pakkumistele või teenustele, mida selle lepingu alusel pakutakse.
+
+PUNKT 1 - ÜLDISED KASUTUSPIIRANGUD
+
+Välja arvatud selles lepingus sõnaselgelt lubatud viisil, ei tohi klient
+
+a.	Esri pakkumisi müüa, rendile või liisingusse anda, all-litsentsida, levitada, laenata, jagada ega edastada;
+b.	kasutada Esri pakkumisi kommertsrakenduse teenuse pakkumiseks või teenusebüroona tegutsemise eesmärgil;
+c.	levitada või anda muudele osapooltele juurdepääsu Esri pakkumistele tervikuna ega osaliselt (sh laiendused, komponendid ja DLL-id);
+d.	levitada autoriseerimiskoode muudele osapooltele;
+e.	ühtegi kompileeritud kujul edastatud toodet või üleantavat materjali pöördprojekteerida, dekompileerida või osadeks lahutada;
+f.	püüda mis tahes viisil mööda minna tehnoloogilistest meetmetest, mis Esri pakkumistele juurdepääsu või nende kasutamist piiravad;
+g.	sisu talletada, vahemällu salvestada, kasutada, üles laadida, edasi jagada või all-litsentsida või kasutada Esri pakkumisi muul viisil muude Esri või muude osapoolte õigusi, sh intellektuaalse omandi õigusi, privaatsusõigusi, diskrimineerimise vastaseid seadusi või muid kehtivaid seadusi või määruseid rikkudes;
+h.	eemaldada ega varjata Esri (või selle litsentsiandjate) mis tahes patendi, autoriõiguse, kaubamärgi, omandiõiguse tähist ja/või legendi, mis sisaldub mis tahes Esri pakkumises, väljundis, metaandmete failis või võrgus ja/või mis tahes andmete või dokumentatsiooni veebi- ja/või paberkandjal atribuutide lehel või on neile kinnitatud;
+i.	eraldi kasutamise eesmärgil Esri pakkumiste üksikuid ega komponentosi komplektist eraldada;
+j.	kaasata Esri pakkumiste mis tahes osa kolmanda isiku tootesse või teenusesse, mis Esri pakkumistega konkureerib;
+k.	avaldada või mis tahes muul viisil edastada beetatoodete võrdluskatsete tulemusi ilma Esri ja selle litsentsiandjate eelneva kirjaliku loata või
+l.	Kasutada, kaasata, muuta, levitada, anda juurdepääsu või kombineerida mis tahes Esri pakkumisi viisil, mis allutaks mis tahes Esri pakkumiste osa avatud lähtekoodiga või avatud andmebaasi litsentsitingimustele, mis nõuab, et mõni Esri pakkumiste osa oleks
+
+1.	avaldatud lähtekoodi kujul kolmandatele isikutele;
+2.	litsentsitud kolmandatele isikutele eesmärgiga luua tuletatud teoseid või
+3.	kolmandatele isikutele tasuta levitatav.
+
+Need piirangud ei rakendu kehtivate seaduste või määrustega vastuolus olevas ulatuses.
+
+PUNKT 2 - KESTUS JA LÕPETAMINE
+
+Käesolev leping jõustub sellega nõustumise hetkest. Klient võib lepingu või Esri pakkumiste litsentsi või tellimuse lõpetada mis tahes hetkel, teavitades Esrit sellest kirjalikult. Põhjuseta lõpetamise korral pole kliendil õigust saada tagasi ühtegi makstud tasu ega lõpetada pooleliolevaid teenusekohustusi edasise vastutuseta. Kumbki pool võib lõpetada selle lepingu või mis tahes litsentsi või tellimuse olulise rikkumise tõttu, mida ei kõrvaldata 30 päeva jooksul rikkuvale poolele kirjaliku teate edastamisest. Kui see leping rikkumise tõttu lõpetatakse, lõpetab Esri teenuste osutamise. Kõik Esri pakkumiste litsentsid, mis jäävad pärast selle lepingu lõpetamist jõusse, kehtivad selle lepingu tingimuste alusel edasi.
+
+Kui Esri lõpetab käesoleva lepingu pärast kliendipoolset rikkumist, võib Esri omal valikul lõpetada ka Esri pakkumistes sisalduvad kliendi litsentsid või tellimused. Kui Klient lõpetab käesoleva lepingu mis tahes põhjusel, võib klient omal valikul lõpetada ka Esri pakkumistes sisalduvad kliendi litsentsid või tellimused.
+
+Litsentsi või tellimuse lõpetamisel kohustub klient
+
+a.	lõpetatud Esri pakkumisi mitte avama ja kasutama;
+b.	tühjendama mis tahes kliendipoolse andmete vahemälu, mis tuleneb lõpetatud teenustest Online Services, ja
+c.	mitte kasutama, desinstallima, eemaldama ja hävitama kõik vastavad Esri pakkumiste eksemplarid, mis on kliendi valduses või kontrolli all, sh igasugused nende muudetud või liidetud osad, igasugusel kujul, ja edastama Esrile või selle volitatud edasimüüjale tõenduse selliste toimingute tegemise kohta.
+
+Esri võib lõpetada teenuste pakkumise kohe pärast kliendile kirjaliku teate saatmist, kui kliendi poolt või kliendi suhtes on algatatud pankroti või maksejõuetuse menetlus, kuni usaldusisik kõrvaldab kõik olemasolevad puudused ja edastab piisava tõenduse edaspidise lepingujärgsete kohustuste täitmise kohta. Käesolev leping lõpeb ükskõik kumma poole maksejõuetuse, likvideerimise või lõpetamise korral.
+
+PUNKT 3 - PIIRATUD GARANTIID JA VASTUTUSEST LOOBUMINE
+
+3.1 Piiratud garantiid. Esri garanteerib:
+
+a.	90 päeva pikkuseks perioodiks, et
+
+1.	tarkvara vastab normaalse kasutamise korral põhimõtteliselt dokumentatsioonile ja kõigil kandjatel puuduvad materjalide ja teostuse defektid alates tarnekuupäevast;
+2.	koolitusmaterjalid vastavad põhimõtteliselt Esri avaldatud kursusekirjeldustele alates tarnekuupäevast;
+3.	teenused vastavad osutamise kuupäevast alates põhimõtteliselt tarkvaravaldkonna professionaalsetele ja tehnilistele standarditele ja
+4.	fikseeritud hinna põhiselt edastatud üleantavad materjalid vastavad põhimõtteliselt kokkulepitud tellimisdokumendis nimetatud tehnilistele andmetele alates vastuvõtmise kuupäevast.
+
+b.	Kehtiva tellimisperioodi jooksul
+
+1.	vastavad teenused Online Services normaalse kasutamise korral põhimõtteliselt dokumentatsioonile;
+2.	hooldus vastab põhimõtteliselt tarkvaravaldkonna professionaalsetele ja tehnilistele standarditele ja
+3.	EMCS vastab EMCS-i ulatusele, kirjeldustele ja eeldustele, mis on nimetatud tellimisdokumendis.
+
+3.2 Spetsiaalne vastutusest loobumine. Sisu, andmed, näidised, kiirparandused, paigad, värskendused, tasuta osutatud teenused Online Services ja hindamis- ning beetatooted antakse üle "olemasoleval kujul" ja ilma igasuguse garantiita.
+3.3 Üldine vastutusest loobumine. Kui välja arvata selles lepingus kirjeldatud piiratud garantiid, loobub Esri igasugustest teistest garantiidest või tingimustest, nii selgelt väljendatud kui ka iseenesestmõistetavatest garantiidest või tingimustest, muu hulgas müügikõlblikkuse, konkreetseks otstarbeks sobivuse ja intellektuaalse omandi õiguste mitterikkumise garantiid või tingimused. Esri ei garanteeri, et Esri pakkumised või nende kasutamine kliendi poolt toimub tõrgete ja katkestusteta või veatult või et kõiki mittevastavusi saab parandada või parandatakse. Esri pakkumised ei ole kavandatud, toodetud ega ette nähtud kasutamiseks keskkondades ja rakendustes, mis võivad kaasa tuua surma, inimvigastused, materiaalse või keskkonnakahju. Klient ei tohiks järgida ühtegi navigeerimiseks mõeldud marsruudisoovitust, mis näib olevat ohtlik, ebaturvaline või ebaseaduslik. Igasugune niisugune kasutamine toimub kliendi enda vastutusel ja kulul.
+3.4 Vastutusest loobumised
+
+a.	Internetiga seotud vastutusest loobumine. Kumbki osapool ei vastuta ühegi seaduseteooria alusel kahjude eest, mis on seotud Interneti kasutamise toimimise või katkemisega või Interneti määrusega, mis võib piirata või keelata teenuste Online Services toimimise.
+b.	Kolmanda isiku sisu ja veebisaidid. Esri ei vastuta ühegi kolmanda isiku veebisaidi ega sisu eest, mis kuvatakse või millele viidatakse Esri pakkumistes ja Esri veebisaitidel, sh www.esri.com ja www.arcgis.com. Linkide andmine kolmanda isiku veebisaitidele ja ressurssidele ei kujuta endast mingit laadi kinnitust, kuuluvust ega sponsorlust.
+
+3.5 Ainus abimeede. Kliendi ainsad abimeetmed ning Esri koguvastutus piiratud garantiide rikkumise puhul selles jaotises on ainult Esri äranägemise järgi (i) mis tahes defektse andmekandja asendamine; (ii) parandus, korrigeerimine või ajutised lahendused vastavale Esri pakkumisele või teenustele või (iii) kliendi makstud tasude tagastamine Esri pakkumiste või teenuste eest, mis ei vasta Esri piiratud garantiidele, eeldusel, et klient desinstallib, eemaldab ning hävitab kõik vastavate Esri pakkumiste eksemplarid, lõpetab vastavate pilveteenuste kasutamise ning vormistab ja toimetab Esri või tema volitatud edasimüüja kätte tõendid vastavate toimingute kohta.
+
+PUNKT 4 - VASTUTUSE PIIRANG
+
+4.1 Vastutusest loobumine. Ei klient, Esri ega ükski Esri edasimüüja ega litsentsiandja ei vastuta ühegi kaudse, erilise, juhusliku või järeldusliku kahju eest, muu hulgas saamatajäänud kasum, saamatajäänud müügitulu või maineväärtuse kaotus; asenduskaupade või -teenuste hankimise kulud või kahjud, mis ületavad kehtivad litsentsi- või tellimistasud, mida Esrile Esri pakkumiste eest makstakse või võlgnetakse, mis põhjustab hagi esitamise.
+
+4.2 Eelmises lõigus kirjeldatud vastutuse piirangud ja välistused ei kehti kliendipoolse Esri või Esri litsentsiandjate intellektuaalse omandi õiguste rikkumise, väärkasutuse või ebaseadusliku omastamise, kummagi osapoole hüvitamiskohustuste, raske hooletuse, tahtliku väärkäitumise või selle lepingu ekspordinõuete järgimise punkti või mis tahes kehtiva seaduse või määruse rikkumise korral.
+
+4.3 Vastutusest loobumise ja piirangute kohaldatavus. Esri või selle volitatud edasimüüja on kindlaks määranud oma teenustasud ning sõlminud antud lepingu selles lepingus fikseeritud loobumisi ja piiranguid arvestades; tasud peegeldavad riskide jaotust ja moodustavad osapoolte vahelise kokkuleppe põhialuse. Need piirangud kehtivad olenemata sellest, kas osapool on kahju võimalikkusest teadlik, ja arvestamata igasugust välistava piiratud hüvitusmeetme algse eesmärgi nurjumist.
+
+4.4 Eelnimetatud garantiid, piirangud ja välistused ei pruugi teatud jurisdiktsioonides kehtida ning võivad kehtida vaid ulatuses, mis on kliendi õiguspiirkonnas kehtivate seadustega lubatud Kliendil võib olla seaduse alusel täiendavaid õigusi, millest ei saa loobuda. Esri ei soovi piirata kliendi garantiisid ega hüvitisi ühelgi seadusega keelatud viisil.
+
+PUNKT 5 - HÜVITISED
+
+5.1 Mõisted. Järgmised definitsioonid täiendavad lisas A antud definitsioone.
+
+a. Nõue" on igasugune kolmanda isiku reklamatsioon, hagi või nõudmine.
+b. Hüvitise saaja" on klient ja tema direktorid, ametnikud ja töötajad.
+c." Rikkumisega seotud nõuded" on nõuded, mille puhul väidetakse, et kliendipoolne Esri pakkumiste või teenuste kasutamine rikub USA patenti, autoriõigust, kaubamärki või ärisaladust.
+d." Kahju(d)" on rahaline kahju, kahjutasu, tasaarvelduse summa või kulu, muu hulgas määratud advokaaditasud.
+
+5.2 Hüvitis rikkumiste eest
+
+a.	Esri kaitseb kõiki hüvitise saajaid igasuguse rikkumisega seotud nõude eest ja hüvitab igasuguse kahju, mis tuleneb rikkumisega seotud nõudest, vastavalt järgmistele lõikudele.
+b.	Kui Esri otsustab, et rikkumisega seotud nõue on kehtiv, võib Esri omal kulul kas (i) hankida kliendile õigused jätkata Esri pakkumiste kasutamist või (ii) muuta Esri pakkumisi, säilitades samal ajal sarnased üldfunktsioonid. Kui kumbki võimalus pole majanduslikult põhjendatud, võib Esri lõpetada kliendi õiguse Esri pakkumisi kasutada ja tagastab kõik (a) kehtivad teenuste tasud; (b) litsentsitasud, mille klient maksis rikkuvate Esri pakkumiste eest püsilitsentsi alusel, lähtudes viieaastasest (5) lineaaramortisatsioonist alates algsest üleandmiskuupäevast, või (c) tähtajaliste litsentside, tellimuste ja hoolduse puhul makstud tasud kasutamata osa eest.
+c.	Esri ei ole kohustatud kaitsma rikkumisega seotud nõuet ega maksma kliendile hüvitist, kui rikkumisega seotud nõue tuleneb (i) Esri pakkumiste kombineerimisest või integreerimisest toote, protsessi, süsteemi või elemendiga, mida Esri ei ole tarninud ega oma dokumentatsioonis nimetanud; (ii) Esri pakkumiste muutmisest kellegi muu poolt peale Esri või selle alltöövõtjate; (iii) kliendi tehniliste andmete järgimisest või (iv) Esri pakkumiste kasutamisest pärast seda, kui Esri on edastanud rikkumise vältimiseks muudetud versiooni või lõpetanud kliendi õiguse Esri pakkumisi kasutada.
+
+5.3 Üldine hüvitis. Esri kaitseb kõiki hüvitise saajaid ning hüvitab igasuguse kahju, mis tuleneb mis tahes nõudest kehavigastuse, surma või varalise kahju korral (v.a andmebaasid, mida ei kaitse mõistlik varundusprogramm), mis on esitatud mõne hüvitise saajast osapoole suhtes, ulatuses, mis tuleneb Esri või selle direktorite, ametnike, töötajate või agentide hooletusest või tegematajätmisest või tahtlikust väärkäitumisest teenuste osutamisel kliendi tegevuskohas.
+
+5.4 Hüvitamise tingimused. Hüvitamise tingimusena kohustub hüvitise saaja (i) Esrit nõudest viivitamatult kirjalikult teavitama, (ii) edastama kõik olemasolevad dokumendid, mis nõuet kirjeldavad, (iii) andma Esrile ainukontrolli õiguse kõigi tegevuste ja läbirääkimiste suhtes, mis on seotud mis tahes rikkumisega seotud nõude kaitsmise või lahendamisega, ja (iv) tegema mõistlikku koostööd rikkumisega seotud nõude kaitsmisel Esri nõudmisel ja kulul.
+
+5.5Selles jaotises on kirjeldatud kogu Esri, tema volitatud edasimüüja ja selle litsentsiandjate kohustust igasuguste nõuete puhul.
+
+PUNKT 6 - KINDLUSTUS
+
+Kui Esri osutab teenuseid, hangib Esri vähemalt järgmise kaitse:
+
+a.	põhjaliku üldvastutuse või kaubandusliku üldvastutuse minimaalse kaitsega (1 000 000.00 USA dollarit), mis on kombineeritud ühekordse limiidiga juhtumi kohta kehavigastuse (sh surma) korral ja varalise kahju vastutusega, hõlmates järgmist:
+
+1.	ruumid ja tegevused;
+2.	üldine lepingujärgne vastutus;
+3.	üldine varaline kahju;
+4.	sõltumatud alltöövõtjad;
+5.	inimvigastus, millest on eemaldatud töötaja välistamine, ja
+6.	lõpetatud tegevused.
+
+b.	Töötaja hüvitise kindlustus regressist loobumisega, summas, mis vastab kohustuslikele piirmääradele.
+
+PUNKT 7 - TURVALISUS JA NÕUETELE VASTAVUS
+
+7.1 Ekspordi nõuetele vastavus. Kõik osapooled kohustuvad järgima kõiki kohalduvaid ekspordiseadusi ja -määrusi, sh Ameerika Ühendriikide ekspordiseadust (EAR) ning Ameerika Ühendriikide rahvusvahelise relvakaubanduse seadust (ITAR) ja muid kohalduvaid ekspordiseadusi. Klient nõustub teenuseid või Esri pakkumisi mitte eksportima, uuesti eksportima, edastama, väljastama ega muul viisil ei terviku ega osana käsutama või juurdepääsu lubama riikidele, mille osas USA on kehtestanud embargo, keelatud üksustele või isikutele, välja arvatud juhul, kui need on kooskõlas sel ajal kehtivate USA valitsuse kohaldatud ekspordiseaduste ja -määrustega. Klient ei ekspordi, ekspordi uuesti, edasta ega kasuta teenuseid ega Esri pakkumisi teatud mürskude, tuuma-, keemia või bioloogiliste tegevuste või lõppkasutuse jaoks ilma USA valitsuse nõuetekohase loata. Klient peab Esrit viivitamata kirjalikult teavitama, kui USA valitsuse üksus või amet keelab, peatab lõpetab või tühistab kliendi ekspordiõigused. Klient ei laadi üles, talleta ega töötle pilveteenustes mingit kliendi sisu, millel on (i) muu ekspordikontrolli klassifikatsiooni number (ECCN) kui EAR99 või (ii) mille eksporti Ameerika Ühendriikidest kontrollitakse ITAR-i alusel. Esri ei osuta teenuseid ega edasta Esri pakkumisi, mis on seotud mis tahes kaitsejõudude artikli, kaitsejõudude teenuse või tehniliste andmetega ITAR-i jaotiste 120.6, 120.9 ja 120.10 alusel, kuni Esri saab Ameerika Ühendriikide valitsuselt vajaliku ekspordilitsentsi. Klient osutab Esrile vajaduse korral mõistlikku abi ekspordilitsentsi rakendamisel ja hankimisel.
+
+7.2 Turve. Esri avaldab oma turbevõimalused lehel http://doc.arcgis.com/en/trust/security/security-overview.htm. Klient võib anda Esri töötajatele juurdepääsu kliendi süsteemidele või kliendi või kolmanda isiku isikuandmed, kui juurdepääs on Esrile teenuste osutamiseks vajalik ja kui Esri sellise juurdepääsuga sõnaselgelt nõustub. Esri kasutab mõistlikke haldusalaseid, tehnilisi ja füüsilisi kaitsemehhanisme selliste andmete kaitsmiseks ja valvamiseks lubamatu juurdepääsu eest. Klient kohustub (i) veenduma, et Esri avaldatud turbe ja privaatsuse kontrollmehhanismid vastavad kõigile seaduse nõuetele kliendi sisu kaitsmiseks, ja (ii) laadima üles või jagama kontrollitud kliendi sisu pilveteenuste kaudu ainult siis, kui selle tegemine on seaduslik. Esri ei vastuta kliendi sisu ülevaatamise eest, et tagada selle vastavus kehtivatele seadustele ja määrustele.
+
+PUNKT 8 - PILVETEENUSTE KATKESTUSED, KÕRVALDAMISED JA PEATAMISED
+
+8.1 Keelatud kasutamine. Klient ei tohi avada ega kasutada pilveteenuseid
+
+a.	rämpsposti, tüssavate või andmepüügimeilide, solvavate või halvustavate materjalide saatmiseks või jälitamiseks või füüsilise vigastamisega ähvardamiseks;
+b.	ühegi pahatahtliku koodi talletamiseks või edastamiseks;
+c.	ühegi seaduse või määruse rikkumiseks;
+d.	ühegi kolmanda isiku õiguste rikkumiseks või seadusevastaseks omastamiseks;
+e.	pilveteenuste uurimiseks, skannimiseks ega nende haavatavuse katsetamiseks või pilveteenuste kasutatavate turvalisuse või autentimise meetodite rikkumiseks või
+f.	pilveteenuste kättesaadavuse, jõudluse või funktsioonide võrdlemiseks võistluseesmärkidel.
+
+8.2 Teenuse katkestamine. Süsteemi rikked või muud sündmused, mis ei allu Esri mõistlikule kontrollile, võivad katkestada kliendi juurdepääsu teenustele Online Services. Esril ei pruugi olla võimalik sellistest katkestustest ette teatada.
+
+8.3 Kliendi sisu eemaldamine. Esri võib kliendi sisu mis tahes osi eemaldada või kustutada, kui on alust arvata, et kliendi sisu üleslaadimine pilveteenustesse või seal kasutamine rikub seda lepingut. Kui see on asjaolusid arvestades mõistlik, teavitab Esri klienti enne kliendi sisu eemaldamist. Esri arvestab kõiki Esri autoriõiguse põhimõtetega kooskõlas olevaid Digital Millennium Copyright Acti kõrvaldamisteateid, mis on leitavad aadressil http://www.esri.com
+/legal/dmca_policy.
+
+8.4 Teenuse peatamine. Esri võib peatada juurdepääsu pilveteenustele, (i) kui klient rikub oluliselt seda lepingut ja ei suuda rikkumist õigeaegselt lõpetada; (ii) kui Esril on alust uskuda, et kliendipoolne pilveteenuste kasutamine toob Esri jaoks kaasa vahetu vastutuse või mõjutab negatiivselt pilveteenuste terviklikkust, toimimist või kasutamisvõimalust; (iii) plaaniliseks hoolduseks; (iv) pilveteenustele suunatud rünnaku takistamiseks või (v) kui pilveteenused keelatakse seadusega või neid reguleeritakse sellisel määral, et nende pakkumine oleks äriliselt keeruline. Kui see on võimalik, teavitab Esri klienti pilveteenuste peatamisest ette ja annab kliendile mõistliku võimaluse korrigeerivateks tegevusteks.
+
+Esri ei vastuta mingite kahjude ega kohustuste eest, mis võivad tuleneda teenuste Online Services katkestamisest või peatamisest või kliendi sisu eemaldamisest ülal kirjeldatud viisil.
+
+PUNKT 9 - ÜLDSÄTTED
+
+9.1 Tasumine. Klient tasub iga õige arve hiljemalt 30 päeva pärast selle saamist ja edastab makse arvel näidatud aadressile.
+
+9.2 Tagasiside. Esri võib kasutada vabalt mis tahes tagasisidet, soovitusi või taotlusi toodete parendamiseks, mille klient Esrile edastab.
+
+9.3 Patendid. Klient ei tohi kusagil maailmas taotleda ega lubada ühelgi kasutajal taotleda toodetel põhinevat või tooteid sisaldavat patenti või patendile sarnaseid õigusi. See patenteerimist puudutav sõnaselge keeld ei laiene kliendi tarkvarale ja tehnoloogiale ainult sel määral, mille võrra tooted või mis tahes osa nendest on osaks mis tahes nõudest või eelistatud kinnitusest patenditaotluses või sellesarnases avalduses.
+
+9.4 Maksud ja tasud; saatmiskulud. Kliendile pakutud tasud ei sisalda mingeid kehtivaid lisamakse või tasusid, sealhulgas (kuid mitte ainult) käibemaks, kasutusmaks, käibemaks, tollimaks, lõivud või tariifid ning transpordi- ja käsitsuskulud.
+
+9.5 Nõuetele vastavuse kontroll.Klient peab õiget ja täielikku arvestust ja säilitab andmeid oma lepingust tulenevate kohustuste täitmise kohta. Esri või selle volitatud edasimüüja võib korraldada nende andmete nõuetele vastavuse kontrolli, teatades sellest kirjalikult ette vähemalt seitse (7) tööpäeva, või määrata sellise nõuetele vastavuse kontrolli tegemiseks sõltumatu kolmanda osapoole. Klient parandab kiiresti kõik nõuetele vastavuse kontrolli jooksul selgunud mittevastavused. Esri ega Esri edasimüüja ei või kliendi nõuetele vastavuse kontrolli teha 12 kuu jooksul pärast eelmise nõuetele vastavuse kontrolli lõpetamist juhul, kui varasem kontrollimine ei paljasta kliendi olulist nõuetele mittevastavust.
+
+9.6 Vaikimisi loobumiste puudumine. Kummagi poole suutmatust tagada selle lepingu tingimuste täitmist ei peeta tingimuste täitmisest loobumiseks või selle poole õiguseks selle järel peale suruda seda või mõnda teist tingimust.
+
+9.7 Sätte kehtetus. Pooled lepivad vastastiku kokku, et kui selle lepingu mis tahes sätet peetakse mingil põhjusel mitterakendatavaks, siis sellist sätet parandatakse ainult sellisel määral, mis on vajalik sõnastuse muutmiseks rakendatavaks.
+
+9.8 Õigusjärglased ja tsessionaarid. Klient ei loovuta, all-litsentsi ega kanna edasi kliendi õigusi ega edasta sellest litsentsilepingust lähtuvaid kliendi kohustusi ilma Esri ja tema volitatud edasimüüja eelneva kirjaliku nõusolekuta ning igasugune katse seda ilma nõusolekuta teha on kehtetu. Käesolev leping on siduv lepingust lähtuvate poolte vastavatele õigusjärglastele ja tsessionaaridele. Sellest hoolimata võib mõni tooteid tarniv riiklik lepinguosaline loovutada käesoleva lepingu ja tarnimiseks hangitud tooted mõnele riigiasutusele, teavitades sellest Esrit kirjalikult, kui riigiasutus nõustub selle litsentsilepingu tingimustega.
+
+9.9 Tingimuste kehtivus. Nende üldtingimuste mõistete sõnastik ja punktide 3, 4, 5 ja 9 sätted kehtivad seni, kuni see leping kehtivuse kaotab või lõpetatakse.
+
+9.10 USA riigiasutusest klient. Tooted on kaubanduslikud üksused, mis on töötatud välja eraettevõtte kuludega ning antud kliendile käesoleva litsentsilepingu alusel. Kui klient on USA riigiasutus või USA riiklik lepinguosaline, litsentsib Esri tooted või annab kliendile tellimused vastavalt käesolevale litsentsilepingule FAR-i alapunktide 12.211/12.212 või DFARS-i alapunkti 227.7202 alusel. Esri andmed ja teenused Online Services litsentsitakse või registreeritakse tellimuse alusel kõik ühe DFARS-i alapunkti 227.7202 põhimõtete alusel kaubandusliku arvutitarkvarana DFARS-i alusel sooritatud hangete jaoks. Toodetele kehtivad piirangud ja see leping juhib rangelt seda, kuidas klient tohib tooteid kasutada, muuta, esitada, reprodutseerida, väljastada, näidata ja avaldada. Lepingu sätted, mis on vastuolus föderaalseaduse määrusega, ei kehti. USA valitsuse klient võib edastada tarkvara oma mis tahes agentuurile, kellele edastatakse arvuti(d), millesse ta on tarkvara installinud. Juhul kui mõni kohus, vahekohtunik või organ leiab, et USA riigiasutusest kliendil on suuremad õigused mõnele osale toodetest, laienevad sellised õigused ainult kõnealustele osadele.
+
+9.11 Kohaldatav seadus. Sellele lepingule kohaldatakse USA föderaalseadust ja California osariigi seadust, v.a nende vastavad õiguse valiku põhimõtted. Käesolevale lepingule ei kohaldu Ühinenud Rahvaste Organisatsiooni konventsioon Rahvusvahelise kaubamüügi lepingute kohta.
+
+9.12Vaidluste lahendamine. Pooled kasutavad järgmisi vaidluste lahendamise protsesse.
+
+a.	Õiglane abi. Kummalgi osapoolel on õigus taotleda ettekirjutusi, konkreetset toimingut või muud õiglast abi mis tahes pädeva jurisdiktsiooniga kohtus, ilma tagatiste esitamise nõudeta ja kahju tõestamiseta abi saamise tingimusena.
+b.	USA valitsusagentuurid. Sellele lepingule kohaldatakse lepinguvaidluste seadust aastast 1978, vastavalt parandusele (41 USC 601-613).
+c.	Muud riigiasutused. Esri järgib kehtivate seaduste alusel kohustuslikke vaidluste lahendamisi.
+d.	Vahekohus. Välja arvatud ülal märgitud olukordades, pöörduvad pooled siduva vahekohtu poole mis tahes vaidluse lahendamiseks, mis tuleneb sellest lepingust või on lepinguga seotud ja mida läbirääkimiste teel lahendada ei õnnestu. Kui klient asub Ameerika Ühendriikides, selle valdustes või territooriumil, kohaldatakse vahekohtumenetlustele Ameerika vahekohtuassotsiatsiooni kaubandusliku vahekohtu reegleid. Kui klient asub väljaspool Ameerika Ühendriike, kohaldatakse vahekohtumenetlustele Rahvusvahelise Kaubanduskoja vahekohtu reegleid. Pooled valivad kehtivate vahekohtureeglite kohaselt ühe vahekohtuniku. Vahekohtu keeleks on inglise keel. Vahekohus toimub vastastikku kokkulepitud kohas. Mõlemad pooled teevad üksteisele vastaspoole palvel kättesaadavaks dokumendid või tunnistajad, kes omavad vaidluse põhiküsimuste seisukohalt olulist tähtsust.
+
+9.13 Vääramatu jõud. Kumbki pool ei vastuta selle lepingu rikkumise või hilinemise eest, kui selle rikkumise või hilinemise põhjus ei sõltu poolest endast. Need põhjused hõlmavad muu hulgas loodusjõude, sõda, streike, töövaidlusi, küberrünnakuid, seadusi, määrusi, valitsuse korraldusi või mis tahes muud vääramatu jõu sündmust.
+
+9.14 Sõltumatu alltöövõtja. Esri on ja jääb alati sõltumatuks alltöövõtjaks. Ükski selle lepingu säte ei tekita Esri või selle volitatud edasimüüja ja kliendi vahel tööandja/töötaja, printsipaali/agendi või ühisettevõtte suhet. Ühelgi osapoolel pole õigust sõlmida lepinguid või tegutseda muul viisil teise osapoole nimel.
+
+9.15 Teated. Klient võib saata selle lepingu alusel vajalikke teateid Esrile järgmisel aadressil:
+
+Environmental Systems Research Institute, Inc.
+Attn: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+USA
+
+Tel.: 909-793-2853
+Meiliaadress: LegalNotices@esri.com
+
+ LISA 1
+TOOTEPÕHISED KASUTUSTINGIMUSED
+(E300 09/22/2016)
+
+TARKVARA
+
+Järgmises tabelis on konkreetsele tarkvarale kehtivad täiendavad kasutustingimused. Iga tootenimetuse juures on vähemalt üks allmärkus, mis selle toote puhul kehtib. Need allmärkused täiendavad lepingu tingimusi. Iga allmärkuse definitsioon on tabeli järel. Kui kehtivas tellimisdokumendis ei ole teisiti märgitud, on tarkvaraprogrammide laiendustel sama kasutusulatus nagu vastaval tarkvaral.
+
+Töölauatooted
+▪	ArcGIS Desktop (Advanced, Standard või Basic) (26)
+▪	ArcGIS Earth (65)
+▪	ArcGIS Explorer Desktop (20)
+▪	ArcGIS for AutoCAD (20)
+▪	ArcPad (13)
+▪	ArcReader (20)
+▪	ArcGIS for Windows Mobile (15; 54)
+▪	ArcGIS for Personal Use (3, 26)
+
+Serveritooted
+▪	ArcGIS Enterprise
+-	Standard või Advanced (21; 31)
+-	Workgroup Standard või Advanced (21; 28; 29; 30; 32 )
+-	ArcGIS GIS Server (Standard või Advanced) (31)
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server Workgroup (Standard või Advanced) (28; 29; 30; 32 )
+-	ArcGIS GIS Server Workgroup Basic (39)
+-	ArcGIS GIS Serveri laiendus
+-	ArcGIS Maritime: server (2)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4)
+▪	Esri Business Analyst Server
+-	Workgroup (28; 29; 30; 31; 39)
+-	Enterprise (31; 39)
+▪	World Geocoder for ArcGIS Basic (67)
+Arendustööriistad
+▪	AppStudio for ArcGIS Standard (11, 16, 19)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [töölaud], Windows Phone, Windows Store), Qt või WPF (16; 19)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [töölaud], Windows Phone, Windows Store), Qt või WPF (15; 18)
+▪	ArcGIS Engine Developer Kit ja laiendused (16, 19; 22, 26)
+▪	ArcGIS Engine for Windows/Linux ja laiendused (15; 22; 26)
+▪	ArcGIS Web Mapping (sh ArcGIS API for JavaScript/HTML5, ArcGIS API for Flex, ArcGIS API for Microsoft Silverlight) (15; 16; 64; 66)
+▪	ArcGIS Developer Subscription (24; 26)
+▪	Esri File Geodatabase API (47)
+
+Muu
+▪	Navigator for ArcGIS (14)
+
+
+ Allmärkused:
+
+1.	Reserveeritud.
+2.	Pole mõeldud kasutamiseks 	navigeerimisel	.
+3.	Litsentsitud ainult isiklikuks kasutuseks.
+4.	Kasutamisel teenusega ArcGIS Enterprise Workgroup
+-	Piiratud 1 neljatuumalise serveriga.
+-	Saab installida eraldi masinale.
+	5-10.	Reserveeritud.
+11.	Rakendustele, kuhu tarkvara AppStudio for ArcGIS Standard on integreeritud, kehtivad ArcGIS Runtime Standard Leveli kasutustingimused.
+12.	Reserveeritud.
+13.	"Paralleelse kasutuse litsents" tähendab, et tarkvara võib installida töökohaarvutisse ja et seda võib kasutada samaaegselt kas pihuarvutis (PDA) või käsiseadmes, kui tarkvara kasutab samal ajal ainult üks isik.
+14.	Võib kasutada navigeerimise otstarbel.
+15.	Juurutamise litsentsina litsentsimine.
+16.	Klient võib kasutada SDK-sid või API-sid väärtust lisavate rakenduste loomiseks ning nende väärtust lisavate rakenduste levitamiseks ja litsentsimiseks oma lõppkasutajatele, et kasutada väärtust lisavaid rakendusi kõikjal, kus see ekspordimääruse järgi keelatud pole.
+17.	Reserveeritud.
+18.	Juurutuslitsents antakse eraldiseisvate rakenduste puhul ühele väärtust lisavale rakendusele arvuti kohta.
+19.	Litsentsi ei tohi kasutada Interneti- või serveripõhiste väärtust lisavate rakenduste arendamiseks.
+20.	Klient	 võib tarkvara paljundada ja levitada juhul, kui järgmised tingimused on täidetud:
+
+a.	tarkvara paljundatakse ja levitatakse tervikuna;
+b.	iga tarkvaraeksemplariga kaasneb litsentsileping, mis kaitseb tarkvara samas ulatuses kui see litsentsileping, ja saaja nõustub järgima litsentsilepingu tingimusi;
+c.	reprodutseeritakse kõik autoriõiguste ja kaubamärkide tunnused/teatised ja
+d.	tarkvara kasutamise eest ei võeta tasu.
+
+21.	Klient võib koostada väärtust lisavaid rakendusi kliendi nimelistele kasutajatele. Klient ei tohi manustada nimelise kasutaja mandaati väärtust lisavale rakendusele. Klient ei tohi manustada ega kasutada rakenduse sisselogimise andmeid väärtust lisavates rakendustes. Väärtust lisavad rakendused nõuavad nimelise kasutaja sisselogimise mandaate.
+22.	a.	Lõppkasutaja peab litsentsima kas Windowsi/Linuxi tarkvarale ettenähtud ArcGIS Engine'i või muu ArcGIS Desktopi tarkvarale (Basic, Standard või Advanced) ettenähtud ArcGIS-i, et saada õigus ArcGIS Engine'i kasutamiseks 1 arvutil, ja
+b.	Windowsile/Linuxile mõeldud ArcGIS Engine'i laiendusi ei kasutata koos töölauatarkvarale ArcGIS Desktop mõeldud ArcGIS Engine'i väärtust lisavate rakenduste käitamiseks. Ühel kasutajal võib olla 1 arvutisse installitud mitmeid ArcGIS Engine'i väärtust lisavaid rakendusi ainult selle ühe lõppkasutaja tarbeks.
+23.	Reserveeritud.
+24.	Tarkvara võib kasutada ainult arendamiseks, katsetamiseks ning väärtust lisavate rakenduste prototüüpide esitlemiseks ja kaartide vahemälude loomiseks. Väärtust lisavaid rakendusi ja kaartide vahemälusid saab kasutada ArcGIS Enterprise'i proovi- ja juurutamisserveritega. Tarkvara ja andmeid võib installida mitmesse arvutisse kõigile ArcGIS-i arendajatest tellijatele kasutamiseks, kellel on Extend või kõrgema plaani tellimus; kogu muu tarkvara litsentsitakse ainukasutuse litsentsina.
+25.	Reserveeritud.
+26.	ArcSDE Personal Editioni geoandmebaasi kasutamisel on kliendi andmete piiranguks kümme 10 gigabaiti.
+27.	Reserveeritud.
+28.	Rakendusi saab samal ajal kasutada 10 lõppkasutajat, välja arvatud ArcGIS Enterprise Workgroupi või ArcGIS GIS Serveri Workgroupi rakenduste lõppkasutajad. See piirang hõlmab rakendusi ArcGIS Desktop Software, ArcGIS Engine Software ja muu osapoole rakendusi, mis ühenduvad otse mis tahes rakenduste ArcGIS Enterprise Workgroup või ArcGIS GIS Server Workgroup geoandmebaasidega. Veebirakenduste ühenduste arvule ei ole piiranguid kehtestatud.
+29.	Tarkvara nõuab SQL Server Expressi toetatud versiooni. Toetatud versioonid on loetletud koos tootele kehtivate süsteeminõuetega Esri veebisaidil.
+30.	Kliendi andmete kasutusmaht on maksimaalselt 10 gigabaiti.
+31.	 	 Kliendil võib olla varuks Esri servertarkvara installe, kuid v	arutarkvara tohib kasutada ainult ajal, kui põhirežiim ei tööta (aktiivne-passiivne tõrkesiire). Varutarkvarasüsteem jääb ooterežiimi, kui põhirežiim või mis tahes muu varusüsteem töötab, välja arvatud süsteemi hoolduse ja andmebaaside värskendamise ajal.
+32.	Varutarkvara installimine ei ole lubatud.
+33-38.	Reserveeritud.
+39.	ArcGIS GIS Serveri mis tahes redigeerimisfunktsiooni kasutamine on lubatud ainult koos teenusega ArcGIS GIS Server Basic (Workgroup või Enterprise).
+40-46.	Reserveeritud.
+47.	Klient võib arendada ja lõppkasutajatele jagada väärtust lisavaid rakendusi, mis põhinevad Esri File Geodatabase API-l.
+48-53.	Reserveeritud.
+54.	ArcGIS for Windows Mobile'i juurutused on litsentsitud kasutamiseks koos väärtust lisavate rakendustega ArcGIS Enterprise (Advanced või Standard), ArcGIS Enterprise Workgroup (Advanced), ArcGIS Desktop (Advanced, Standard või Basic) ja ArcGIS Engine.
+55-63.	Reserveeritud.
+64.	Veebijuurutuseks ette nähtud väärtust lisavaid rakendusi tuleb kasutada koos muu(de) Esri too(de)tega. Muu osapoole tehnoloogiat võib kasutada ka koos väärtust lisava(te) rakendus(t)ega, kui väärtust lisavaid rakendusi kasutatakse alati koos muu(de) Esri too(de)tega.
+65.	Saab kasutada ainult koos muude Esri toodetega. Muu osapoole tehnoloogiat võib kasutada ka koos ArcGIS Earthiga, kui ArcGIS Earthi kasutatakse alati koos muu(de) Esri too(de)tega.
+66.	Töölauarakenduste jaoks väljastatakse üks litsents organisatsiooni kohta. Käesoleva litsentsi tähenduses on organisatsioon võrdne peamise registreeritud kordumatu domeeniidentifikaatoriga. Domeen on Interneti domeeninimi, mis on registreeritud domeeninimede registripidaja juures. Näiteks example.com korral on example.com registreeritud kordumatuks domeeniidentifikaatoriks. Samuti on example.com.xx (kus xx on registreeritud riigi kood) korral example.com.xx registreeritud kordumatuks domeeniidentifikaatoriks. Töölauarakendusi võib kasutada peamise registreeritud kordumatu domeeniidentifikaatoriga organisatsiooni iga töötaja. Puudub piirang rakenduste arvule, mida tohib organisatsioonisiseselt luua ja juurutada.
+67.	Aastatellimuse jooksul piiratud 250 000 000 geokoodiga.
+ TEENUSED ONLINE SERVICES
+
+Järgmises tabelis on konkreetsetele teenustele Online Services kehtivad täiendavad kasutustingimused. Iga tootenimetuse juures on vähemalt üks allmärkus, mis selle toote puhul kehtib. Iga allmärkuse definitsioon on tabeli järel. Kui kehtivas tellimisdokumendis ei ole teisiti märgitud, on tarkvaraprogrammide laiendustel sama kasutusulatus nagu vastaval tarkvaral.
+
+▪	ArcGIS Online'i tellimused on saadaval mitme müügiprogrammi kaudu:
+
+-	kaubanduslik jaemüük, EA-d; riigiasutuste programmid (1; 2; 3; 11; 12; 14; 20)
+-	Õppeotstarbeline programm (1; 2; 8; 10; 14; 19)
+-	 	 Mittetulundusühingute progra	mm (1; 2; 8; 14; 19; 20)
+
+▪	ArcGIS Online Developer Deploymenti tellimused on saadaval mitme müügiprogrammi kaudu:
+
+-	Kaubanduslik jaemüük, EA-d, riigiasutuste programmid
+	Tasuta tellimus (1; 8; 9; 10; 13; 19; 20)
+	tasuline tellimus (1; 8; 9; 10; 11; 13; 20)
+-	Õppeotstarbelised, 	NGO	/NPO, pressi-/meediaprogrammid
+	Tasuta tellimus (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Tasuline tellimus (1; 3; 4; 5; 6; 9; 10; 13; 19)
+-	NGO/NPO, pressi-/meediaprogrammid
+	Tasuta tellimus (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+	Tasuline tellimus (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+
+▪	Avalik plaan
+-	 	 Kau	banduslik jaemüük, EA-d; riigiasutused, NGO/NPO; pressi-/meediaprogrammid (1; 4; 5; 6; 7; 9; 10; 15; 19; 20)
+-	Õppeotstarbelised programmid (1; 4; 5; 6; 7; 9; 10; 15; 19)
+▪	Esri Business Analyst Online (16)
+▪	Esri Business Analyst Online Mobile (16)
+▪	Esri Community Analyst (16)
+▪	Esri MapStudio (17)
+
+ Allmärkused:
+
+1.	Lisaks teenuste Online Services kasutamise üldtingimustele:
+
+a.	Klient võib kasutada kliendi Esri teenuste Online Services tellimust väärtust lisava(te) rakendus(t)e loomiseks kliendi ettevõttesiseseks kasutamiseks.
+b.	Klient võib anda muudele isikutele juurdepääsu ka kliendi väärtust lisavatele rakendustele, arvestades järgmisi tingimusi.
+
+i.	Klient võib anda anonüümsetele kasutajatele juurdepääsu kliendi väärtust lisavatele rakendustele.
+ii.	Klient ei tohi lisada muid osapooli nimeliste kasutajatena kliendi ArcGIS Online'i tellimusse selleks, et võimaldada muudele osapooltele juurdepääsu oma väärtust lisavatele rakendustele. See piirang ei kehti muudele osapooltele, kes kuuluvad nimeliste kasutajate mõiste alla;
+iii.	Klient ei tohi anda muule osapoolele juurdepääsu oma ArcGIS Online Services teenustele, mis on lubatud kliendi ArcGIS Online'i tellimuse kaudu, v.a oma väärtust lisavate rakenduste kaudu. See piirang ei kehti muudele osapooltele, kes kuuluvad nimeliste kasutajate mõiste alla;
+iv.	Klient vastutab ainuisikuliselt tehnilise toe osutamise eest oma väärtust lisavate rakenduste jaoks.
+v.	Klient ei tohi ilma kirjaliku loata eemaldada ega rikkuda ühtegi kaubamärki ega logo, mida kuvatakse tavapäraselt teenuste Online Services kasutamise ajal. Kui teenuste Online Services kaudu tunnust automaatselt ei kuvata, peab klient lisama tunnuse, mis kinnitab, et tema rakendus kasutab Esri pakutavaid teenuseid Online Services. Juhised on antud dokumentatsioonis.
+vi.	Klient ei tohi manustada nimelise kasutaja mandaati väärtust lisavale rakendusele. Rakenduse sisselogimismandaati võib manustada ainult väärtust lisavatele rakendustele, mida kasutatakse avaliku, anonüümse juurdepääsu andmiseks ArcGIS Online'ile Klient ei tohi manustada ega kasutada ArcGIS Online'i rakenduse sisselogimismandaate sisekasutuseks mõeldud väärtust lisavatesse rakendustesse. Sisemiselt kasutatavad väärtust lisavad rakendused nõuavad nimelise kasutaja sisselogimise mandaate.
+
+c.	Maailma geokodeerimise teenus: klient ei tohi talletada teenuse loodud geokodeeritud tulemusi ilma ArcGIS Online'i tellimuseta.
+d.	Teabegraafika teenus: klient võib selle teenuse kaudu kättesaadavaid andmeid kasutada ainult esitlemise eesmärkidel. Kliendil on keelatud salvestada mis tahes selle teenuse kaudu kättesaadavaid andmeid.
+
+2.	Võib kasutada mis tahes kliendi organisatsiooni ärieesmärgil.
+3.	Võib kasutada kliendi organisatsioonis arendamise ja katsetamise eesmärgil.
+4.	Võib kasutada haridusasutustes õpetamiseks.
+5.	Võib kasutada kliendi kvalifitseeritud NGO/NPO organisatsiooni huvides.
+6.	Võib kasutada pressi- või meediaorganisatsioonide huvides.
+7.	Võib kasutada isiklikuks otstarbeks.
+8.	Tellija väärtust lisavad rakendused tuleb avaliku juurdepääsu andmiseks avaldada.
+9.	Ei tohi kasutada kasumit teeniva organisatsiooni või riigiasutuse huvides.
+10.	Kliendil pole lubatud luua privaatseid gruppe ega osaleda üheski privaatses grupis.
+11.	Klient võib teha väärtust lisavad rakendused muudele osapooltele tasu eest kättesaadavaks.
+12.	Klient võib kasutada seda tellimust privaatse grupi loomiseks või selles osalemiseks.
+13.	Iga tellimus on seoses kliendi tellimusega piiratud 1 000 000 aluskaardi ja 1 000 000) geootsingu toiminguga kuus. "Toiming" on määratletud dokumentatsioonis teenuse ArcGIS Resources veebiaadressil http://links.esri.com/agol/transactiondef.
+14.	Iga tellimus on piiratud kokku 50 000 000 aluskaardi ja geootsingu toiminguga kuus. "Toiming" on määratletud dokumentatsioonis teenuse ArcGIS Resources veebiaadressil http://links.esri.com/agol/transactiondef.
+15.	Haridusasutuse registreeritud (üli)õpilastel võib olla lubatud teenustele Online Services otseselt juurde pääseda ja kasutada ühte tellimust mitme registreeritud (üli)õpilase jaoks ainult õppeotstarbel.
+16.	Klient ei tohi kuvada ega postitada oma välistel veebisaitidel üheski kombinatsioonis üle 100 Esri Business Analyst Online'i või Community Analysti aruande ega kaardi.
+17.	Klient võib luua, avalikult kuvada ja levitada kaarte paberkandjal ning staatilises elektroonilises vormingus uudiste esitamiseks ning sellele kehtivad kõik ArcGIS Online'i andmetele seatud piirangud.
+18.	Reserveeritud.
+19.	Klient ei tohi teha väärtust lisavaid rakendusi muudele osapooltele tasu eest kättesaadavaks.
+20.	Litsentsisaajal ei ole lubatud olla litsentsisaaja muu osapoole eest või tema nimel.
+

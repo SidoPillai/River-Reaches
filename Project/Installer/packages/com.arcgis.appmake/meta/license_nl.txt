@@ -1,0 +1,575 @@
+﻿BELANGRIJK - AANDACHTIG LEZEN
+(E204CW 09/22/2016)
+
+Tenzij deze Licentieovereenkomst is vervangen door een ondertekende licentieovereenkomst tussen u en Esri, is Esri uitsluitend bereid om zijn Producten en Services te leveren indien u de voorwaarden van deze Overeenkomst aanvaardt. Lees deze voorwaarden aandachtig door. U mag de Producten/Services van Esri pas gebruiken nadat u hebt ingestemd met de voorwaarden van de Overeenkomst. Als u niet instemt met de gestelde voorwaarden, klikt u hieronder op "Ik aanvaard de overeenkomst niet"; u kunt dan restitutie van het betaalde bedrag vragen.
+
+Deze Overeenkomst wordt aangegaan door u ("Klant") en Environmental Systems Research Institute, Inc. ("Esri"), een Californische onderneming gevestigd te 380 New York Street, Redlands, California 92373-8100 USA.
+
+1.0 ALGEMENE VERLENING VAN RECHTEN EN BEPERKINGEN
+
+1.1 Bijlage A bevat definities van termen met hoofdletters die in deze Overeenkomst worden gebruikt. Elk artikel in deze Overeenkomst kan aanvullende definities bevatten die uitsluitend binnen het desbetreffende artikel worden gebruikt.
+
+1.2 Verlening van Rechten. Tegen betaling door de Klant van alle toepasselijke kosten en in overeenstemming met deze Overeenkomst, verstrekt Esri aan de Klant een persoonlijk, niet-exclusief en niet-overdraagbaar recht om
+
+a.	De Producten/Services van Esri te gebruiken zoals uiteengezet in de Documentatie en toepasselijke Besteldocumenten;
+b.	De Documentatie te kopiëren en er afgeleide werken van te maken voor het eigen interne gebruik door de Klant in combinatie met het geautoriseerde gebruik van de Producten door de Klant. De Klant moet de volgende bepaling omtrent het copyright opnemen, waarbij hij de eigendomsrechten van Esri en haar licentieverleners in elk afgeleid werk erkent:
+
+"Delen van dit document zijn intellectueel eigendom van Esri en haar licentieverlener(s) en worden onder licentie gebruikt. Copyright (c) [De Klant voegt de toepasselijke copyrightdatum(s) van de bronmaterialen in.] Esri en haar licentieverlener(s). Alle rechten voorbehouden."
+
+De verlening van rechten in dit artikel (i) geldt voor de duur van het abonnement of voor de toepasselijke Termijn of voor onbepaalde tijd als er geen Termijn van toepassing is of wordt aangegeven in de Besteldocumenten en (ii) is onderworpen aan aanvullende rechten en beperkingen in deze Overeenkomst waaronder Bijlage B.
+
+1.3 Toegang voor Consultants of Opdrachtnemers. De Klant heeft het recht om zijn consultants of opdrachtnemers te machtigen om de Producten/Services van Esri uitsluitend te gebruiken ten behoeve van de Klant. De Klant draagt alle verantwoordelijkheid voor naleving van deze Overeenkomst door consultants en opdrachtnemers en zal erop toezien dat elke consultant of opdrachtnemer het gebruik van de Producten/Services staakt zodra het werk voor de Klant is voltooid. Toegang tot of gebruik van Producten/Services van Esri door consultants of opdrachtnemers niet uitsluitend ten behoeve van de Klant, is verboden.
+
+1.4 Evaluatielicenties en bètalicenties. Producten die zijn verkregen op grond van een evaluatielicentie of -abonnement, of in het kader van een bètaprogramma zijn uitsluitend bestemd voor evaluatie- en testdoeleinden, niet voor commercieel gebruik. Het gebruik van zulke Producten geschiedt geheel op eigen risico van de Klant, en deze Producten komen niet in aanmerking voor Onderhoud. Als de Klant zijn evaluatieversie niet omzet naar een gekochte licentie of abonnement voordat de evaluatietermijn verloopt, verliest de Klant mogelijk alle inhoud en aanpassingen die tijdens de evaluatietermijn zijn gemaakt. Als de Klant geen licentie of abonnement wenst aan te schaffen, dient de Klant dergelijke content te exporteren voordat de evaluatieperiode van de Klant verloopt.
+
+1.5 Educatieve programma's. De Klant stemt ermee in de Producten/Services van Esri die als onderdeel van een educatief programma worden aangeboden, uitsluitend te gebruiken voor educatieve doeleinden tijdens de termijn voor educatief gebruik. De Klant mag de Producten niet gebruiken voor Administratief gebruik tenzij de Klant een Licentie voor Administratief gebruik heeft verkregen. Administratief gebruik" houdt in administratieve activiteiten die niet direct te maken hebben met instructie of onderwijs, zoals het in kaart brengen van bezittingen, faciliteitbeheer, demografische analyse, routering, campusveiligheid en toegangsanalyse. De Klant mag de Producten niet gebruiken voor commerciële activiteiten en activiteiten met winstoogmerk.
+
+1.6 Gesubsidieerde programma's.De Klant mag de Producten/Services van Esri die als onderdeel van een Gesubsidieerde programma worden geleverd, uitsluitend gebruiken voor niet-commerciële doeleinden. De Klant mag de Producten/Services van Esri alleen gebruiken om de kosten van het gebruik en de exploitatie ervan terug te verdienen, maar niet voor commerciële activiteiten en activiteiten met winstoogmerk.
+
+1.7 Overige Esri-programma's voor beperkt gebruik.Indien de Klant Producten/Services van Esri verkrijgt in het kader van een programma voor beperkt gebruik dat hierboven niet wordt genoemd, gelden voor het gebruik van de Producten/Services van Esri door de Klant mogelijk voorwaarden die worden uiteengezet op de toepasselijke startpagina of het toepasselijke registratieformulier, of die worden beschreven op de website van Esri, in aanvulling op de voorwaarden in deze Overeenkomst, voor zover deze daarmee niet in conflict zijn.
+
+1.8 Voorbehoud van Rechten. Alle Producten/Services van Esri zijn de met copyright beschermde werken van Esri en licentiegevers; Alle rechten die niet specifiek worden verleend in deze Overeenkomst, zijn voorbehouden.
+
+2.0 GEBRUIKSVOORWAARDEN SOFTWARE
+
+2.1 Licentietypen. Esri biedt licenties voor Software onder de volgende licentietypen:
+
+a.	Concurrent Use License (licentie voor gelijktijdig gebruik): De Klant mag de Software op computer(s) van een netwerk installeren en gebruiken, maar het aantal gelijktijdige gebruikers mag het aantal verkregen licenties niet overschrijden. Een Concurrent Use License omvat het recht om een passieve Concurrent Use License-manager in een aparte besturingssysteemomgeving te installeren voor tijdelijke failoverondersteuning.
+b.	Deployment License (deploymentlicentie): De Klant mag ArcGIS Runtime-componenten integreren in Toepassingen Met Toegevoegde Waarde en deze toepassingen distribueren naar de eindgebruikers van de Klant.
+c.	Deployment Server License (deploymentserverlicentie): De klant mag de Software gebruiken onder een Serverlicentie voor elk gebruik dat is toegestaan in de Overeenkomst en zoals omschreven in de Documentatie.
+d.	Development Server License (developmentserverlicentie): De Klant mag de Software gebruiken onder een Serverlicentie om Toepassingen Met Toegevoegde Waarde te bouwen en te testen, zoals omschreven in de Documentatie.
+e.	Development Use (ontwikkelaarsgebruik): De Klant mag de Software installeren en gebruiken om Toepassingen Met Toegevoegde Waarde te bouwen en te testen, zoals omschreven in de Documentatie.
+f.	Dual Use License (licentie voor gebruik op twee systemen): De Klant mag de Software installeren op een desktopcomputer en gelijktijdig gebruiken met ofwel een personal digital assistant (PDA) of een handheld mobiele computer op voorwaarde dat de Software op elk ogenblik slechts door één (1) persoon gebruikt wordt.
+g.	Failover License (failoverlicentie): De Klant mag de Software installeren op redundante systemen voor failoverdoeleinden, maar de desbetreffende geïnstalleerde Software mag alleen operationeel zijn op het moment dat de primaire site niet operationeel is. De redundante Software-installaties blijven inactief, behoudens voor systeemonderhoud en bijwerken van databases terwijl de primaire site (of elke andere redundante site) operationeel is.
+h.	Redistribution License (licentie voor verdere distributie): De Klant mag de Software reproduceren en distribueren op voorwaarde dat
+
+1.	De Software in zijn geheel door de Klant wordt gereproduceerd en gedistribueerd;
+2.	Bij elke kopie van de Software een licentieovereenkomst geleverd wordt die de Software in dezelfde mate beschermt als deze Overeenkomst, en de ontvanger ermee instemt te zijn gebonden aan de voorwaarden van de licentieovereenkomst;
+3.	Alle copyright- en handelsmerkaanduidingen en-kennisgevingen door de Klant worden gereproduceerd; en
+4.	De Klant geen kosten in rekening brengt voor het gebruik van de Software.
+
+i.	Server License (serverlicentie): De Klant mag de Software installeren en gebruiken op een servercomputer. Serverlicenties kunnen beperingen hebben met betrekking tot het gebruik van het aantal cores of de verdeling van het gebruik over meerdere servers, zoals omschreven in de Besteldocumenten of Documentatie. Als de omschrijving van de Software het gebruik voor failoverdoeleinden omvat, is in elke Serverlicentie een Failoverlicentie opgenomen.
+j.	Single Use License (licentie voor enkel gebruik): De klant mag één (1) geautoriseerde eindgebruiker toestaan om de Software te installeren en gebruiken op een enkele computer. De Klant mag de enige gemachtigde eindgebruiker toestemming verlenen om een tweede kopie te installeren voor exclusief gebruik door de eindgebruiker op een tweede computer, op voorwaarde dat nooit meer dan één (1) kopie van het Software tegelijk gebruikt wordt. Het is geen enkele andere eindgebruiker toegestaan de Software onder dezelfde licentie op hetzelfde tijdstip voor enig ander doel te gebruiken.
+k.	Staging Server License (stagingserverlicentie): De Klant mag de Software onder een Serverlicentie gebruiken voor de volgende doeleinden: bouwen en testen van Toepassingen Met Toegevoegde Waarde en map caches, uitvoeren van gebruikersacceptatietests, performance tests en belastingstest van andere software van derden, testen van nieuwe commerciële data-updates en opleidingsactiviteiten, zoals omschreven in de Documentatie. Klanten mogen Toepassingen Met Toegevoegde Waarde en map caches gebruiken met Developement and Deployment Servers.
+
+2.2 Toegestaan gebruik
+
+a.	De Klant mag
+
+1.	Software en Data installeren en opslaan op elektronische opslagapparatuur, en toegang krijgen tot deze Software en Data;
+2.	Kopieën voor archiefdoeleinden en regelmatige computerback-ups maken;
+3.	Een nieuwere versie van de Software installeren en deze gebruiken naast de te vervangen versie gedurende een redelijke overgangsperiode van niet meer dan zes (6) maanden, mits het gebruik van elk van beide versies de gelicentieerde hoeveelheid van de Klant niet overschrijdt; daarna mag de Klant in totaal niet meer Software gebruiken dan de totale hoeveelheid waarvoor de Klant een licentie heeft afgenomen. Dit is niet van toepassing op Software die is gelicentieerd voor Ontwikkelaarsgebruik.
+4.	De Software in de configuratie waarvoor een licentie is afgenomen overzetten naar een vervangende computer.
+5.	Software en bijbehorende Autorisatiecodes, vereist voor het gebruik van een Deployment-licentie, aan derden doorgeven; en
+6.	De Serversoftware voor Commercieel ASP-gebruik gebruiken indien de Klant een licentie voor Commercieel ASP-gebruik heeft, of een overheids- of non-profitorganisatie is die een website exploiteert of een internetdienst aanbiedt met de bedoeling de kosten te dekken, zonder winstoogmerk.
+
+b.	De Klant mag de Software aanpassen door middel van macro- of scripttaal, een API, of bron- of objectcodebestanden, voor zover een zodanige aanpassing in de Documentatie is omschreven.
+c.	De Klant mag alle lettertypen gebruiken die voor elk geautoriseerd gebruik van de Software bij de Software is geleverd. Esri-lettertypen mogen ook afzonderlijk door de Klant worden gebruikt om materiaal af te drukken dat met de Software is gemaakt. Elke gebruiksbeperking voor lettertypen van derden die bij de Software worden geleverd, wordt in het lettertypebestand zelf uiteengezet.
+d.	Addendum 1 bevat productspecifieke gebruiksvoorwaarden voor de individuele Software. Esri kan af en toe bijgewerkte versies van Addendum 1 uitgeven.
+
+2.3 Onderhoud. Esri biedt Onderhoud in overeenstemming met het Esri Maintenance and Support-programma indien de Klant zich in de Verenigde Staten bevindt. Klanten buiten de Verenigde Staten komen in aanmerking voor Onderhoud van hun lokale Esri-distributeur onder de bepalingen van de desbetreffende distributeur.
+
+3.0 GEBRUIKSVOORWAARDEN VOOR ONLINE SERVICES
+
+3.1 Definities. De volgende definities zijn een aanvulling op de definities in Bijlage A:
+
+a."Anonieme Gebruikers" betekent iedereen die openbaar toegang heeft tot een willekeurig deel van de Content van de Klant of tot Toepassingen Met Toegevoegde Waarde (dat wil zeggen, zonder inloggegevens van een Gebruiker Op Naam te moeten opgeven). De Klant kan een Anonieme Gebruiker toegang geven tot zijn Content of zijn Toepassingen Met Toegevoegde Waarde door deze te publiceren met behulp van de Sharing Tools, die onderdeel zijn van het geautoriseerde gebruik door de Klant van de Online Services.
+b.	"App Login Credential" verwijst naar een applicatie login met bijbehorend wachtwoord, die door het systeem wordt gegenereerd bij de registratie van een Toepassing Met Toegevoegde Waarde met ArcGIS Online, die ingesloten kan zijn in een Toepassing Met Toegevoegde Waarde ten behoeve van de toegang tot en het gebruik van Online Services.
+c.	"Servicecredit(s)" betekent een waarde-eenheid die wordt toegewezen bij een abonnement op Online Services voor een bedrag dat is vermeld in het Besteldocument.
+d.	"Sharing Tools" houdt functionaliteit voor publicatie in van Online Services en ArcGIS Website waarmee de Klant de Content en de Toepassingen Met Toegevoegde Waarde van de Klant toegankelijk kan maken voor derden en/of Anonieme Gebruikers.
+
+3.2 Abonnement op Online Services. Esri biedt abonnementen op Online Services onder de volgende bepalingen.  Addendum 1 bevat ook productspecifieke gebruiksvoorwaarden voor individuele Online Services.
+
+3.3 Levering van Online Services op abonnementsbasis. In het geval van Online Services op abonnementsbasis zal Esri
+
+a.	De Online Services aan Klant leveren conform de Documentatie;
+b.	Onderhoud bieden in overeenstemming met het Esri Maintenance and Support-programma indien de Klant zich in de Verenigde Staten bevindt. Klanten buiten de Verenigde Staten komen in aanmerking voor Onderhoud van hun Esri-distributeur onder de bepalingen van de desbetreffende distributeur.
+c.	Klantenondersteuning bieden conform het standaardbeleid voor klantenondersteuning van Esri en eventuele aanvullende supportservices die de Klant heeft aangeschaft; en
+d.	Commercieel redelijke inspanningen leveren om erop toe te zien dat de Online Services geen Kwaadaardige Code naar de Klant sturen, met dien verstande dat Esri niet verantwoordelijk is voor Kwaadaardige Code die in de Online Services terecht is gekomen via het abonnement van de Klant of via Content van derde partijen.
+
+3.4 Toegang tot Toepassingen Met Toegevoegde Waarde
+
+a.	Gebruikers Op Naam hebben unieke, individuele inloggegevens. Gebruikers Op Naam hebben privétoegang tot functies van Online Services die niet openbaar toegankelijk zijn voor Anonieme Gebruikers.
+b.	De Klant mag zijn abonnement op de Online Services gebruiken om een Toepassing Met Toegevoegde Waarde te bouwen voor intern gebruik door Gebruikers Op Naam.
+c.	De Klant mag Toepassingen Met Toegevoegde Waarde overdragen naar een derde partij voor gebruik in combinatie met het eigen Online Sales-abonnement van de derde partij.
+d.	De Klant mag geen derden als Gebruikers Op Naam toevoegen aan het Online Services-abonnement van de Klant om derden toegang te geven tot de Toepassingen Met Toegevoegde Waarde van de Klant. Deze beperking is niet van toepassing op derden die vallen onder de definitie van Gebruikers Op Naam.
+e.	De Klant mag derden geen toegang geven tot ArcGIS Online Services die beschikbaar zijn via het ArcGIS Online-abonnement van de Klant, anders dan via zijn Toepassingen Met Toegevoegde Waarde. Deze beperking is niet van toepassing op derden die vallen onder de definitie van Gebruikers Op Naam.
+f.	De Klant mag Anonieme Gebruikers toegang geven tot zijn Toepassing(en) Met Toegevoegde Waarde die worden uitgevoerd onder het eigen abonnement van de Klant, mits wordt voldaan aan de volgende voorwaarden:
+
+1.	De Klant kan kosten in rekening brengen voor dergelijke toegang bij abonnementtypen die toestaan hiermee inkomsten te generen.
+2.	De Klant mag App-aanmeldingsgegevens insluiten in een Toepassing met Toegevoegde Waarde, maar geen inloggegevens voor een Gebruiker Op Naam.
+3.	De Klant is verantwoordelijk voor alle Servicecredits die worden verbruikt tijdens het gebruik van zijn Toepassing(en) met Toegevoegde Waarde door Anonieme Gebruikers.
+4.	De Klant is geheel zelf verantwoordelijk voor het bieden van technische ondersteuning voor zijn Toepassingen Met Toegevoegde Waarde.
+5.	De Klant mag Anonieme Gebruikers geen toegang verlenen tot Toepassingen met Toegevoegde Waarde die uitsluitend zijn bedoeld voor intern gebruik van de Klant; Toepassingen met Toegevoegde Waarde die intern worden gebruikt vereisen inloggegevens van Gebruikers Op Naam.
+
+3.5 Verantwoordelijkheden van de Klant
+
+a.	De Klant is geheel zelf verantwoordelijk voor het ontwikkelen en onderhouden van de Content en Toepassingen Met Toegevoegde Waarde van de Klant en voor het erop toezien dat zijn Gebruikers Op Naam zich houden aan deze Overeenkomst. De Klant en zijn Gebruikers op Naam of Anonieme Gebruikers (indien van toepassing) zijn de enige personen die recht op toegang tot de Online Services hebben via het abonnement van de Klant. De inloggegevens van Gebruikers Op Naam mogen uitsluitend worden gebruikt door de aangewezen Gebruikers Op Naam en mogen niet worden gedeeld met andere gebruikers. De Klant mag de inloggegevens van vorige Gebruikers Op Naam toewijzen aan nieuwe Gebruikers Op Naam als de vorige gebruiker geen toegang tot Online Services nodig meer heeft. De klant zal Esri zo snel mogelijk op de hoogte stellen indien de Klant ongeautoriseerd gebruik van zijn abonnement of een andere schending van de beveiliging ontdekt.
+b.	Als de Klant ontwikkeltools van derden gebruikt om een toepassing te maken die toegang heeft tot de Online Services van Esri, moet de Klant een copyrightmelding opnemen ter erkenning dat die toepassing gebruikmaakt van de Online Services van Esri. De instructies worden geleverd in de Documentatie.
+
+3.6 Aanpassingen van Online Services. Esri heeft het recht om de Online Services en bijbehorende API's te allen tijde te wijzigen. Belangrijke wijzigingen dienen dertig (30) dagen vooraf te worden gemeld, en de beëindiging of afschaffing van services of API's negentig (90) dagen vooraf. Indien wijziging, beëindiging of afschaffing van Online Services grote, nadelige gevolgen heeft voor de activiteiten van de Klant, mag Esri, naar eigen inzicht, een poging doen de Online Services te herstellen, corrigeren of een tijdelijke oplossing te leveren. Indien een haalbare oplossing commercieel gezien niet redelijk is, mag de Klant zijn abonnement op de Online Services opzeggen en restitueert Esri een bedrag naar rato van het niet genoten abonnement.
+
+3.7 Wijziging van abonnementstarief. Esri kan de tarieven voor abonnementen met een looptijd van meer dan één (1) maand verhogen door de Klant ten minste zestig (60) dagen voor het aflopen van de op dat moment lopende abonnementstermijn op de hoogte te stellen. Esri kan het maandelijkse abonnementstarief verhogen na een kennisgevingstermijn van dertig (30) dagen.
+
+3.8 Content van de Klant
+
+a.	Eigendom. De Klant behoudt het volledige recht op, eigendom van en belang in de Content van de Klant. De Klant verleent Esri en de leveranciers of licentieverleners van Esri niet-exclusieve, niet-overdraagbare, wereldwijde rechten voor het hosten, uitvoeren en reproduceren van Content van de Klant om het gebruik van de Online Services door de Klant mogelijk te maken. Zonder de toestemming van de Klant zal Esri de Content van de Klant niet raadplegen, gebruiken of bekendmaken, uitgezonderd in zover redelijkerwijs noodzakelijk is om het gebruik van de Online Services door de Klant te ondersteunen, te reageren op de verzoeken van de Klant om klantenondersteuning, of problemen met het abonnement op te lossen, of voor elk ander doeleinde waarvoor Klant schriftelijk toestemming heeft verleend. Als de Klant de Online Services raadpleegt met een toepassing die is verstrekt door een derde partij, mag Esri de Content van de Klant aan deze derde partij onthullen voor zover noodzakelijk is om uitwisseling van gegevens tussen de toepassing, de Online Services en de Content van de Klant mogelijk te maken. Esri mag de Content van de Klant bekendmaken als we hiertoe verplicht zijn op grond van de wet, regelgeving of een bevel van een gerechtshof of overheidsinstelling. In dit geval zal Esri redelijke pogingen doen de hoeveelheid gegevens die bekendgemaakt worden zo veel mogelijk te beperken. Het is geheel de eigen verantwoordelijkheid van de Klant erop toe te zien dat de Content van de Klant geschikt is voor gebruik in de Online Services en te zorgen voor regelmatige offline back-ups met behulp van de export- en downloadfunctionaliteit van de Online Services.
+b.	Content van de Klant delen. Als de Klant verkiest de Content van de Klant te delen met behulp van Sharing Tools, erkent de Klant dat hij hiermee derden het recht geeft de Content van de Klant te gebruiken, op te slaan, in een cache te bewaren, te kopiëren, te reproduceren, te (her)distribueren en (opnieuw) te verzenden via de Online Services. Esri is niet verantwoordelijk voor verlies, verwijdering, wijziging of bekendmaking van de Content van de Klant als gevolg van het gebruik of verkeerd gebruik van Sharing Tools of Online Services, Online Inhoud, ArcGIS-website, Documentatie, of bijbehorend materiaal. Het Gebruik van Sharing Tools door de Klant is volledig op eigen risico van de Klant.
+c.	Content van de Klant ophalen na beëindiging. Na beëindiging van de Overeenkomst of een test, evaluatie of abonnement maakt Esri de Content van de Klant toegankelijk voor de Klant gedurende een periode van dertig (30) dagen, tenzij de Klant vraagt om een kortere periode van beschikbaarheid of Esri wettelijk verboden wordt dat te doen. Daarna vervalt het recht van de Klant op toegang tot of gebruik van de Content van de Klant in combinatie met de Online Services en heeft Esri geen verplichting meer tot het opslaan of retourneren van de Content van de Klant.
+
+3.9 Beperkingen op het gebruik van Online Services; Servicecredits. Elk abonnement op Online Services bevat Servicecredits zoals beschreven in het toepasselijke Besteldocument. Elke Servicecredit geeft de Klant recht een hoeveelheid Online Services te gebruiken. Deze hoeveelheid varieert afhankelijk van de Online Services die de Klant gebruikt. Tijdens het gebruik van de Online Services door de Klant worden automatisch Servicecredits van het abonnement van de Klant afgeschreven, tot aan het maximum aantal Servicecredits dat beschikbaar is. De Klant kan aanvullende Servicecredits aanschaffen indien nodig. Esri zal de accountbeheerder van het abonnement van de Klant op de hoogte stellen wanneer het verbruik van de Service door de Klant circa vijfenzeventig procent (75%) bereikt van de Servicecredits die aan de Klant zijn toegewezen door middel van zijn abonnement. Esri behoudt zich het recht voor om de toegang van de Klant tot de Online Services waarvoor Servicecredits benodigd zijn, op te heffen zodra de Klant al zijn Servicecredits heeft verbruikt. Esri zal de toegang tot de Online Services direct herstellen zodra de Klant aanvullende Servicecredits heeft gekocht.
+
+3.10 ArcGIS Enterprise met Virtual Cloud Infrastructure. De Klant dient op redelijk verzoek informatie of andere materialen met betrekking tot zijn Content (met inbegrip van kopieën van client-side applicaties) te verstrekken ter controle van de naleving van deze Overeenkomst door de Klant. Esri kan de externe interfaces (bijv., poorten) van de Content van de Klant controleren ter controle van de naleving van deze Overeenkomst door de Klant. De Klant mag deze controle niet blokkeren of belemmeren, maar de Klant mag coderingstechnologie of firewalls gebruiken om de vertrouwelijkheid van de Content te beschermen. De Klant zal in redelijke mate samenwerken met Esri bij het bepalen van de oorzaak van eventuele problemen met de ArcGIS Enterprise with Virtual Cloud Infrastructure-services die redelijkerwijs zouden kunnen zijn veroorzaakt door de Content van de Klant of eindgebruikersmaterialen die onder de zeggenschap van de Klant vallen.
+
+4.0 GEBRUIKSVOORWAARDEN DATA
+
+4.1 Definities. De volgende definities zijn een aanvulling op de definities in Bijlage A:
+
+a.	"Business Data" staat voor informatie over bedrijven, en demografische en logistieke gegevens waarmee besluitvorming kan worden verbeterd, interne bedrijfsprocessen geoptimaliseerd, de operationele efficiency verbeterd en nieuwe winststromen en competitieve voordelen ten opzichte van concurrenten kunnen worden behaald.
+b.	"Esri Content Package" betekent een digitaal bestand met ArcGIS Online basemap content (zoals bijvoorbeeld raster map tiles, afbeeldingen en vectorgegevens) die zijn geëxtraheerd uit de ArcGIS Online Basemap Services.
+c.	"Street Data" staat voor Data waarin gegevens over wegen, straten en verwante informatie is opgenomen of wordt beschreven.
+
+4.2 Toegestaan gebruik
+
+a.	De Klant mag de Data alleen gebruiken in verband met de Producten waarmee Esri de Data aanbiedt.
+b.	De Klant mag Datarepresentaties in gedrukte en statisch elektronische vorm (bijvoorbeeld PDF, GIF, JPEG) opnemen in presentatiepakketten, marketingonderzoek of andere rapporten of documenten met kaartafbeeldingen of dataoverzichten die zijn afgeleid van het gebruik van Esri Producten te behoeve van derden conform de beperkingen die zijn neergelegd in deze Overeenkomst, op voorwaarde dat de Klant een auteursrechtaanduiding in de Datarepresentaties opneemt waarin Esri en haar licentieverleners worden erkend als bron van de Data die voor (delen van) de Datarepresentaties zijn gebruikt.
+c.	De Klant kan ArcGIS Online-basemaps offline downloaden via Esri Content Packages, die vervolgens kunnen worden geleverd aan (overgedragen naar) elk apparaat voor exclusief gebruik met ArcGIS Runtime-toepassingen, ArcGIS Desktop en ArcGIS API for Flex-apps waarvoor een licentie is verleend.
+d.	Esri verkrijgt generlei rechten op Klantgegevens onder deze Overeenkomst.
+
+4.3 Gebruiksbeperkingen
+
+a.	De Klant mag de volgende handelingen niet zelf uitvoeren of zijn klanten hiertoe autoriseren: co-branding van de Data, gebruik van de Data in een niet-geautoriseerde services of producten, of het aanbieden van de Data via of namens een derde partij.
+b.	De Klant mag geen Data gebruiken of toestaan dat een derde partij Data gebruikt voor het samenstellen, verrijken, controleren, aanvullen, het toevoegen ervan aan of het verwijderen ervan uit een compilatie van gegevens die wordt verkocht, verhuurd, gepubliceerd, aangeleverd of anderszins aangeboden aan een derde partij.
+c.	Business Data (zakelijke data). Tenzij schriftelijk daartoe geautoriseerd mag de Klant geen Business Data gebruiken voor direct marketing, wederverkooppublicaties, of distributie aan een derde partij als onderdeel van een mailinglijst, adressenlijst, gerubriceerde advertenties of andere lijst met informatie.
+d.	Street Data (kaartgegevens). De Klant mag Street Data gebruiken voor het samenstellen van kaarten, geocodering en routeberekening van punt naar punt. Tenzij hiertoe schriftelijk geautoriseerd, mag de Klant de Street Data niet gebruiken voor de volgende zaken:
+
+1.	Real-time navigatiehulp, inclusief een gebruiker attent maken op komende manoeuvres zoals een waarschuwing dat een afslag komt, of om een alternatieve route te berekenen bij het missen van een afslag;
+2.	Gesynchroniseerde routeplanning van meerdere voertuigen; of
+3.	Optimalisatie van routes.
+
+e.	Business Analyst Data. Op de Data die wordt geleverd bij Esri Business Analyst (Server, Desktop) zijn de volgende aanvullende gebruiksvoorwaarden van toepassing:
+
+1.	Als de Klant een licentie bestelt voor Esri Business Analyst of Business Analyst (Canadese editie) met een subset van de landelijke dataset (bijv. Regio, Staat, Lokaal), mag de Klant alleen de subset gebruiken waarvoor hij een licentie heeft afgenomen, geen ander deel van de landelijke dataset.
+2.	Data die wordt geleverd met de Business Analyst Server mag niet in de cache worden opgeslagen of worden gedownload door clienttoepassingen en -apparaten.
+
+4.4 Aanvullende voorwaarden voor Data. Sommige Data-licentiegevers vereisen dat Esri aanvullende attributievereisten en gebruiksvoorwaarden aan de Klant oplegt. Deze aanvullende voorwaarden zijn beschikbaar op http://www.esri.com/legal
+/third-party-data.
+BIJLAGE A
+WOORDENLIJST
+
+De volgende woordenlijst is van toepassing op alle Producten/Services van Esri die aan klanten van Esri kunnen worden geleverd. Bepaalde Producten/Services van Esri vallen niet onder deze Overeenkomst. U kunt voorwaarden die niet van toepassing zijn op de Producten/Services van Esri die aangeboden zijn onder deze overeenkomst, gewoon negeren.
+
+"API" betekent Application Programming Interface.
+
+"ArcGIS Website" betekent http://www.arcgis.com en verwante en opvolgende websites.
+
+"Autorisatiecode(s)" betekent een code, autorisatienummer, inschakelingscode, inloggegevens, activatiecode, token, accountgebruikersnaam en wachtwoord, of ander mechanisme dat vereist is voor gebruik van een Product/Service van Esri.
+
+"Bèta" betekent een alfa-, bèta- of ander prerelease Product.
+
+"Cloudservices" betekent Online Services en EMCS.
+
+"Commercieel ASP-gebruik" betekent gebruik als een serviceprovider voor commerciële toepassingen; dat wil zeggen inkomsten genereren door toegang te bieden tot Software door middel van een Toepassing Met Toegevoegde Waarde, bijvoorbeeld door abonnementskosten, servicekosten of een andere vorm van transactiekosten in rekening te brengen, of meer dan bijkomstige advertentie-inkomsten te genereren.
+
+"Content" betekent data, afbeeldingen, foto's, animaties, video, audio, tekst, kaarten, databases, datamodellen, spreadsheets, gebruikersinterfaces, grafische componenten, pictogrammen, softwaretoepassingen, SDK's (Software Development Kits), API's, softwarebibliotheken, codevoorbeelden en andere bronnen.
+
+"Beheer" betekent meer dan 50% van het stemgerechtigde aandelenkapitaal of ander stemrecht in de Beheerde entiteit.
+
+"Content van de Klant" betekent Content die de Klant, zijn eindgebruikers of andere gebruikers inzenden naar Esri in verband met het gebruik door de Klant van de Producten/Services van Esri, resultaten ontleend aan het gebruik van de Content van de Klant in combinatie met de Producten/Services van Esri, en Toepassingen Met Toegevoegde Waarde die de Klant maakt en implementeert met de Producten. Feedback, suggesties of verzoeken om verbeteringen die de Klant richt aan Esri worden niet gerekend tot de Content van de Klant.
+
+"Data" betekent commercieel beschikbare digitale gegevensset(s), met inbegrip van maar niet beperkt tot geografische vectorgegevens, rastergegevensrapporten of gerelateerde administratieve data, hetzij gebundeld met Producten/Services van Esri, hetzij zelfstandig geleverd. Onder Data valt niet enige Content die rechtstreeks door andere personen dan Esri-werknemers, leveranciers of opdrachtnemers kan worden ingebracht op de website van Esri.
+
+"Deliverables" betekent alles dat Esri aan een Klant levert ten gevolge van het uitvoeren van Professionele services, met uitsluiting van Producten, Training of Onderhoud. Deliverables omvatten, maar zijn niet beperkt tot, consultingservices, softwarecode, DLL's (Dynamic Link Libraries), en programma's die op elk type media worden geleverd in de bron- of objectindeling, of als uitvoerbare code, inclusief back-ups, updates of samengevoegde kopieën; methoden, technieken of expertise; technische assistentie, processen, formules of algoritmes; ontwerpen; databibliotheken en -modellen; compilaties; schema's; documentatie; specificaties; tekeningen; flowcharts; briefings; of test- en kwaliteitscontroleprocedures.
+
+"Documentatie" betekent alle gebruikersdocumentatie die ter referentie bij het Product wordt geleverd
+
+"Esri Managed Cloud Services" of "EMCS" betekent een Single-Tenant Hardware-, Software-, Data- en Netwerkplatform en bijbehorende services voor systeembewaking en -ondersteuning die Esri levert voor de opslag en beschikbaarheid van Content van de Klant ten behoeve van de Klant of zijn eindgebruikers via internet.
+
+"Producten/Services van Esri" betekent elk Product of Onderhoud, of elke Documentatie. Als Esri rechtstreeks Training of Professionele services levert aan de Klant, valt ook Trainingmateriaal en Deliverables onder deze noemer.
+
+"GIS" staat voor geografische informatiesystemen.
+
+"Onderhoud" staat voor een abonnement waarmee de Klant recht heeft op Productupdates en andere voordelen zoals toegang tot technische ondersteuning en tot leerbronnen op internet voor zelfinstructie.
+
+"Kwaadaardige code" staat voor softwarevirussen; wormen; tijdbommen; Trojaanse virussen of enige andere computercode, bestanden, Denial-Of-Service-code, of programma's die zijn ontworpen om de functionaliteit van computersoftware, hardware, of telecommunicatieapparatuur te storen, vernietigen of beperken.
+
+"Gebruiker Op Naam" betekent de werknemer, agent, consultant of opdrachtnemer van de Klant aan wie de Klant unieke, beveiligde Gebruiker Op Naam-inloggegevens (identiteit) heeft verstrekt, die deze toegang geeft tot een Product waarvoor een dergelijke identiteit is vereist om toegang te krijgen tot met identiteitsgegevens beheerde functionaliteit in een Product, uitsluitend ten behoeve van de Klant. Voor gebruik in het onderwijs kunnen Gebruikers Op Naam ook geregistreerde studenten zijn.
+
+"Gebruiker Op Naam-inloggegevens" betekent de individuele gebruikersnaam en het bijbehorende wachtwoord voor toegang tot en gebruik van een Product.
+
+"Licentie of Abonnement van Gebruiker Op Naam" betekent een licentie of abonnement voor gebruik door een enkele Gebruiker Op Naam.
+
+"Online Inhoud" betekent Content die wordt gehost of door Esri wordt geleverd als onderdeel van Online Services, met inbegrip van kaart-, taak- of afbeeldingservices, SDK's, API's, softwarebibliotheken, codevoorbeelden en andere bronnen, maar exclusief Content van derden die de Klant raadpleegt via de Online Services.
+
+"Online Services" betekent een commercieel beschikbaar, op internet gebaseerd GIS-systeem, inclusief applicaties en bijbehorende API's voor het opslaan, beheren, publiceren en gebruiken van kaarten, gegevens en andere informatie. Online Services zijn exclusief Data en Content.
+
+"Besteldocument(en)" betekent een verkoopofferte, offerte voor verlenging van onderhoud, verkooporder of ander document waarop de Producten die de Klant bestelt worden vermeld.
+
+"Doorlopende licentie" betekent een licentie om een versie van het Product, waarvoor de toepasselijke licentievergoeding is betaald, voor onbepaalde tijd te gebruiken, tenzij deze door Esri of door de Klant wordt beëindigd, zoals volgens deze Overeenkomst is geautoriseerd.
+
+"Persoonlijk gebruik" betreft uitsluitend persoonlijk, niet-commercieel gebruik door een individuele Klant. Persoonlijk gebruik sluit het gebruik ten behoeve van een derde uit, waaronder commerciële, educatieve, overheids- of non-profitentiteiten.
+
+"Product(en)" betekent Software, Data, en Cloudservices waarvoor onder de bepalingen van deze Overeenkomst een licentie is afgenomen of een abonnement wordt afgesloten.
+
+"Professionele services" betekent elke ontwikkel- of consultingservice die Esri biedt aan de Klant.
+
+"Voorbeeld(en)" betekent voorbeeldcode, voorbeeldapplicaties, aanvullingen of voorbeeldextensies van Producten.
+
+"Services" betekent de technische ondersteuning die onder Onderhoud wordt geboden. Als Esri rechtstreeks Training of Professionele services levert aan de Klant, vallen deze items ook onder de noemer Services.
+
+"Software" betekent alle of een gedeelte van de commerciele standaard softwaretechnologie (commercial-of-the-shelf), met uitzondering van Data, die eigendom is van Esri en opgevraagd of gedownload wordt van een door Esri geautoriseerde website of wordt geleverd op eender welk medium in eender welk formaat, met inbegrip van back-ups, updates, service packs, patches, hot fixes of toegestane samengevoegde kopieën.
+
+"Termijnlicentie" betekent een licentie of toegangsrechten verleend voor gebruik van een Product gedurende een beperkte periode ("Termijn") of op basis van een abonnement of eenmalige overeenkomst.
+
+"Training" betekent training- en coachingservices die door een instructeur worden geleverd voor het gebruik van de GIS-software van Esri.
+
+"Trainingmateriaal" betekent digitale of gedrukt inhoud die is vereist om de Training te voltooien. Dit is inclusief, maar niet beperkt tot werkboeken, data, concepten, oefeningen en examens.
+
+"Toepassing Met Toegevoegde Waarde" betekent een toepassing die is ontwikkeld door de Klant voor gebruik in combinatie met het geautoriseerde gebruik van Software, Data of Online Services.
+ BIJLAGE B
+ALGEMENE VOORWAARDEN
+
+De volgende algemene voorwaarden zijn van toepassing op alle Producten/Services van Esri die aan klanten van Esri kunnen worden geleverd. Bepaalde Producten/Services van Esri vallen niet onder deze Overeenkomst. U kunt voorwaarden die niet van toepassing zijn op de Producten/Services van Esri die aangeboden zijn onder deze overeenkomst, gewoon negeren.
+
+ARTIKEL 1 - ALGEMENE GEBRUIKSBEPERKINGEN
+
+Behalve voor zover uitdrukkelijk toegestaan door deze Overeenkomst, mag de Klant niet:
+
+a.	Producten/Services van Esri verkopen, distribueren, verhuren, in lease of sublicentie geven, uitlenen, toewijzen of in time-sharing gebruiken;
+b.	Producten/Services van Esri gebruiken voor Commercieel ASP-gebruik of servicebureaudoeleinden;
+c.	Producten/Services van Esri geheel of gedeeltelijk distribueren aan derde partijen, of er rechtstreeks toegang tot verlenen, met inbegrip van maar niet beperkt tot extensies, componenten of DLL's;
+d.	Autorisatiecodes distribueren aan derden;
+e.	Producten of Deliverables die in gecompileerde vorm zijn geleverd via reverse-engineering, decompilatie of disassemblage bewerken;
+f.	Proberen de technologische middelen die de toegang tot en het gebruik van de Producten/Services van Esri regelen te omzeilen;
+g.	Content opslaan, in een cache bewaren, uploaden, distribueren of in sublicentie geven, of Producten/Services van Esri anderszins gebruiken op een wijze die een schending inhoudt van de rechten van Esri of derden, met inbegrip van intellectuele eigendomsrechten, privacyrechten, antidiscriminatiewetten of andere toepasselijke wetten of voorschriften;
+h.	Octrooien, copyrightmeldingen, handelsmerken of verklaringen inzake intellectuele of andere eigendomsrechten van Esri of haar licentieverlener(s), en/of inscripties in of op een Product/Service van Esri, uitvoer, metadatabestand of online en/of gedrukte attributiepagina van Data of Documentatie verwijderen of onleesbaar maken.
+i.	Individuele onderdelen of component-onderdelen van de Producten/Services van Esri uit een bundel halen of onafhankelijk gebruiken;
+j.	Een willekeurige portie van een Product/Service van Esri opnemen in producten of services van een derde partij die concurreren met de Producten/Services van Esri;
+k.	De resultaten van tests die zijn uitgevoerd op de Bèta-producten publiceren of op enige andere wijze kenbaar maken zonder voorafgaande schriftelijke toestemming van Esri en haar Licentieverleners; of
+l.	Producten/Services van Esri gebruiken, opnemen, wijzigen, distribueren, toegankelijk maken of combineren op een manier waardoor enig onderdeel van de Producten/Services van Esri onderworpen wordt aan open-source- of open-database-licentiebepalingen die vereisen dat een onderdeel van de Producten/Services van Esri:
+
+1.	Wordt vrijgegeven als broncode aan een derde partij;
+2.	Wordt gelicentieerd aan een derde partij met als doel om er afgeleide werken van te maken; of
+3.	Kosteloos kan worden gedistribueerd naar een derde partij.
+
+Deze beperkingen zijn niet van toepassing wanneer ze in strijd zijn met de toepasselijke wet of regelgeving.
+
+ARTIKEL 2 - DUUR EN BEËINDIGING
+
+Deze Overeenkomst treedt in werking vanaf het moment dat de Overeenkomst wordt aanvaard. De Klant mag deze Overeenkomst of enige licentie voor of abonnement op een Product/Service van Esri op elk moment beëindigen na schriftelijke kennisgeving aan Esri. Bij beëindiging zonder redenen heeft de Klant geen recht op restitutie van betaalde kosten, noch op beëindiging van lopende afspraken met betrekking tot Services zonder verdere aansprakelijkheid. Elk van beide partijen kan deze Overeenkomst of elke licentie of elk abonnement beëindigen in geval van wezenlijke inbreuk die niet binnen dertig (30) na schriftelijke kennisgeving aan de tekortkomende partij is opgelost. Bij beëindiging van deze Overeenkomst bij inbreuk, zal Esri stoppen met het leveren van de Services. Licenties in de Producten/Services van Esri die na de beëindiging van deze Overeenkomst van kracht blijven, zijn onderworpen aan de bepalingen van deze Overeenkomst.
+
+Als Esri deze Overeenkomst beëindigt na inbreuk door de Klant, is Esri gerechtigd om, naar eigen keuze, de licenties of abonnementen van de Klant op Producten/Services van Esri te beëindigen. Als de Klant deze Overeenkomst beëindigt voor welke reden dan ook, is de Klant gerechtigd om, naar eigen keuze, ook zijn licenties of abonnementen op Producten/Services van Esri te beëindigen.
+
+Na beëindiging van een licentie of abonnement, moet de Klant
+
+a.	De toegang tot en het gebruik van de beëindigde Producten/Services van Esri staken;
+b.	Elk aan de cliëntzijde gecreëerd gegevenscachebestand van de beëindigde Online Services wissen; en
+c.	Stoppen met het gebruik van enig exemplaar van de desbetreffende Producten/Services van Esri die in het bezit zijn van of onder het beheer vallen van de Klant, inclusief enig gewijzigd of samengevoegd gedeelte ervan, in welke vorm dan ook, en de voorgenoemde items de-installeren, verwijderen en vernietigen, en daarvan bewijs verschaffen aan Esri of de geautoriseerde distributeur van Esri.
+
+Esri behoudt zich het recht voor om het uitvoeren van de Services direct te staken na een geschreven kennisgeving aan de Klant indien een faillissements- of insolvabiliteitsprocedure wordt gestart door of tegen de Klant, totdat de curator een oplossing kan bieden voor bestaande wanbetalingen en een adequate garantie voor gewenste toekomstige prestaties met betrekking tot de Overeenkomst. Deze Overeenkomst wordt beëindigd in geval van insolventie, ontbinding of liquidatie van een van beide partijen.
+
+ARTIKEL 3 - BEPERKTE GARANTIES EN UITSLUITINGEN
+
+3.1 Beperkte garanties. Esri garandeert:
+
+a.	Voor een periode van negentig (90) dagen,
+
+1.	Dat de Software in wezen conform is aan de Documentatie bij normaal gebruik en dat alle media vanaf de leverdatum geen defecten vertoont in materiaal en vakmanschap;
+2.	Dat het Trainingmateriaal vanaf de leverdatum in wezen conform is aan de gepubliceerde cursusbeschrijvingen van Esri;
+3.	Dat de Services vanaf de datum van uitvoering in wezen conform zijn aan de professionele en technische standaarden van de softwarebranche; en dat
+4.	De Deliverables die worden geboden op basis van een vaste en definitieve prijs vanaf de datum van aanvaarding in wezen conform zijn aan de specificaties die zijn beschreven in het overeengekomen Besteldocument.
+
+b.	Tijdens de toepasselijke abonnementstermijn,
+
+1.	Dat de Online Services bij normaal gebruik in wezen conform zijn aan de Documentatie;
+2.	Dat het Onderhoud vanaf de datum van uitvoering in wezen conform is aan de professionele en technische standaarden van de softwarebranche; en dat
+3.	EMCS conform is aan het bereik, de beschrijvingen en de aannamen voor EMCS die zijn opgenomen in het Besteldocument.
+
+3.2 Speciale uitsluiting van aansprakelijkheid. Content, Data, voorbeelden, hotfixes, patches, updates, Online Services die kosteloos worden geleverd, en evaluatie- en Bètasoftware worden geleverd "zoals ze zijn", zonder welke garantie dan ook.
+3.3 Algemene uitsluiting van aansprakelijkheid. Met uitzondering van de uitdrukkelijke beperkte garanties in deze Overeenkomst, wijst Esri alle overige uitdrukkelijke of impliciete garanties of voorwaarden in welke vorm dan ook van de hand, met inbegrip van, maar niet beperkt tot, garanties of voorwaarden van verkoopbaarheid en geschiktheid voor een bepaald doel, en de garantie dat geen inbreuk wordt gemaakt op intellectuele eigendomsrechten. Esri garandeert niet dat de Producten/Services van Esri, of het gebruik ervan door de Klant ononderbroken, storingsvrij, fouttolerant of uitvalbestendig zullen zijn, of dat alle non-conformiteiten gecorrigeerd kunnen of zullen worden. De Producten/Services van Esri zijn niet ontworpen, geproduceerd of bedoeld voor gebruik in een omgeving of met applicaties die kunnen leiden tot overlijden, persoonlijk letsel of schade aan eigendom/omgeving. De Klant mag geen routesuggesties volgen die gevaarlijk, onveilig of onwettelijk lijken. Dergelijk gebruik is voor eigen risico en kosten van de Klant.
+3.4 Uitsluiting van aansprakelijkheid
+
+a.	Uitsluiting van aansprakelijkheid in verband met internet. Geen van beide partijen is onder enige wetgeving aansprakelijk voor schade die te maken heeft met de prestaties of het niet meer functioneren van internet, of met internetregelgeving waardoor het gebruik van de Online Services kan worden beperkt of verboden.
+b.	Content en websites van derden. Esri is niet verantwoordelijke voor websites of Content van derden die worden weergegeven of waarnaar wordt verwezen in de Producten/Services of websites van Esri, inclusief www.esri.com en www.arcgis.com. De aanwezigheid van koppelingen naar websites en bronnen van derden houdt geen aanbeveling, verwantschap of ondersteuning in.
+
+3.5 Uitsluitende verhaalsmogelijkheid. De exclusieve verhaalsmogelijkheid van de Klant en de volledige aansprakelijkheid van Esri uit hoofde van de in deze sectie uiteengezette garanties, is beperkt tot (i) het vervangen van defecte media; (ii) het repareren, verhelpen of het vinden van een tijdelijke oplossing (work-around) voor de Producten/Services van Esri, zoals van toepassing; of (iii) de restitutie van de door Klant betaalde vergoedingen voor de Producten/Services van Esri die niet aan de beperkte garanties van Esri voldoen, zulks uitsluitend op voorwaarde dat de Klant alle kopieën van de toepasselijke Producten/Services de-installeert, verwijdert en vernietigt, het gebruik van de toepasselijke Cloudservices staakt, en daarvan bewijs verschaft aan Esri of haar geautoriseerde distributeur.
+
+ARTIKEL 4 - BEPERKING VAN AANSPRAKELIJKHEID
+
+4.1 Uitsluiting van aansprakelijkheid.  Noch de Klant, noch Esri, noch enige Esri-distributeur of licentiegever is verantwoordelijk voor enige indirecte, speciale, incidentele of gevolgschade, waaronder gederfde winst, niet-gerealiseerde omzet of verlies van goodwill; aankoopkosten van vervangende goederen of diensten; of schade die de toepasselijke licentie- of abonnementskosten overschrijdt die betaald of verschuldigd zijn aan Esri voor de Producten/Services van Esri die tot de oorzaak van de actie hebben geleid.
+
+4.2 De beperkingen en uitsluitingen van aansprakelijkheid in de voorgaande alinea zijn niet van toepassing op inbreuk, verduistering of onrechtmatig gebruik door de Klant van de intellectuele eigendomsrechten van Esri of van de licentiegevers van Esri, vrijwaringsverplichtingen van beide partijen, grove nalatigheid, opzettelijk wangedrag of schendingen van de Exportnalevingclausule van deze Overeenkomst of van de toepasselijke wet- of regelgeving.
+
+4.3 Toepasselijkheid van aansprakelijkheidsuitsluitingen en -beperkingen. Esri of haar geautoriseerde distributeur heeft de tarieven bepaald en is deze Overeenkomst aangegaan, vertrouwend op de uitsluitingen en beperkingen van deze Overeenkomst; de tarieven geven een risicotoewijzing weer die een essentiële basis vormt voor de overeenkomst tussen de partijen.  Deze beperkingen blijven van kracht, ongeacht of een partij zich bewust is van de mogelijkheid van enige schade en ook in het geval waarin een exclusieve, beperkte verhaalsmogelijkheid faalt in haar wezenlijke doel.
+
+4.4 De voorgaande garanties, beperkingen en uitsluitingen zijn in sommige rechtsgebieden mogelijk niet geldig en zijn uitsluitend van toepassing voor zover dit is toegestaan door de toepasselijke wet- of regelgeving in het rechtsgebied van de Klant. De Klant heeft mogelijk nog andere rechten waarvan niet kan worden afgezien en die niet kunnen worden afgewezen. Esri heeft niet de bedoeling de garantierechten of verhaalsmogelijkheden van de Klant verder te beperken dan wettelijk is toegestaan.
+
+ARTIKEL 5 - SCHADEVERGOEDINGEN
+
+5.1 Definities. De volgende definities zijn een aanvulling op de definities in Bijlage A:
+
+a.	"Vordering" betekent elke vordering, actie of eis van een derde partij.
+b.	"Gevrijwaarden" betekent de Klant en zijn directeuren, stafleden en werknemers.
+c.	"Inbreukvordering" betekent elke Vordering waarin wordt beweerd dat het gebruik of de toegang door de Klant van de Producten/Services van Esri inbreuk maken op een patent, copyright, handelsmerk of handelsgeheim in de VS.
+d.	"Verlies" betekent contante verlies, toegewezen vergoeding, schikkingsbedrag, kosten of uitgaven, inclusief de toegewezen juridische kosten.
+
+5.2 Vergoeding wegens inbreuk op rechten van derden
+
+a.	Esri zal alle Gevrijwaarden verdedigen tegen en vrijwaren van elke Inbreukvordering en schadeloos stellen voor alle Verlies die voortvloeit uit een Inbreukvordering zoals beschreven in de volgende alinea's.
+b.	Indien Esri bepaalt dat een Inbreukvordering geldig is, kan Esri, op eigen kosten, ofwel (i) de rechten verwerven voor de Klant om de Producten/Services van Esri te blijven gebruiken, of (ii) de Producten/Services van Esri te wijzigen met behoud van substantieel vergelijkbare functionaliteit. Indien beide alternatieven in commerciële zin onredelijk blijken, mag Esri de rechten van de Klant op het gebruik van de Producten/Services van Esri beëindigen en een restitutie aanbieden voor (a) de toepasselijke kosten voor de Services; (b) de licentiekosten die de Klant heeft betaald voor de inbreukmakende Producten/Services van Esri die onder een Doorlopende licentie zijn verworven, pro rata verrekend op basis van een 5-jarige, rechtlijnige afschrijving vanaf de oorspronkelijke leverdatum; of (c) het niet-gebruikte gedeelte van de betaalde tarieven voor Termijnlicenties, Abonnementen en Onderhoud.
+c.	Esri is niet verplicht een Inbreukvordering te verdedigen of de Klant schadeloos te stellen voor zover de Inbreukvordering voortkomt uit (i) de combinatie of integratie van Producten/Services van Esri met/in een product, proces of systeem of element dat niet is geleverd door Esri of door Esri in de Documentatie is gespecificeerd; (ii) wijzigingen aan de Producten/Services van Esri door iemand anders dan Esri of haar opdrachtnemers; (iii) nakoming van de specificaties van de Klant; of (iv) gebruik van de Producten/Services van Esri nadat aanpassingen door Esri zijn verstrekt om inbreuk te vermijden of nadat de rechten van de Klant op het gebruik van de Producten/Services van Esri zijn beëindigd.
+
+5.3 Algemene vergoeding. Esri zal alle Gevrijwaarden verdedigen tegen, vrijwaren van en vergoeden voor elk Verlies dat voortkomt uit enige Vordering met betrekking tot lichamelijk letsel, overlijden, of schade aan eigendommen (exclusief databases die niet vallen onder een redelijk back-upprogramma) die zijn gericht tegen een Gevrijwaarde partij, in de mate waarin het Verlies wordt veroorzaakt door nalatigheid, verzuim of opzettelijk wangedrag door Esri of haar directeurs, stafleden, werknemers of gevolmachtigden die Services uitvoeren bij de Klant op locatie.
+
+5.4 Voorwaarden voor schadevergoeding. Als voorwaarde voor de schadevergoeding zal de Gevrijwaarde (i) Esri onverwijld schriftelijk in kennis stellen van de Vordering, (ii) alle beschikbare documenten overleggen waarin de Vordering wordt beschreven, (iii) Esri de exclusieve controle geven over het verweer in alle stappen en onderhandelingen ter zake de verdediging of schikking van de Inbreukvordering, en (iv) in redelijke mate meewerken bij het verweer tegen de Inbreukvordering op verzoek en kosten van Esri.
+
+5.5Dit gedeelte beschrijft de volledige verplichting van Esri, haar geautoriseerde distributeur en haar licentiegevers met betrekking tot een Vordering.
+
+ARTIKEL 6 - VERZEKERING
+
+Als Esri Services levert, omvat de dekking minimaal het volgende:
+
+a.	Algemene dekking of algemene commerciële dekking met een minimaal verzekerd gecombineerd bedrag van ($1.000.000,00) per gebeurtenis voor lichamelijk letsel, inclusief overlijden, en materiële schade, waaronder de volgende zaken:
+
+1.	Bedrijfsruimten en exploitatie;
+2.	Niet-contractuele aansprakelĳkheid;
+3.	Eigendomschade in brede vorm;
+4.	Onafhankelijke opdrachtnemers;
+5.	Persoonlijk letsel, met werknemeruitsluiting verwijderd; en
+6.	Voltooide exploitatie.
+
+b.	Collectieve ongevallenverzekering, met ontheffing voor subrogatie, voor een bedrag dat overeenkomt met de wettelijke limieten.
+
+ARTIKEL 7 - BEVEILIGING EN NALEVING
+
+7.1 Exportnaleving. Elke partij is eraan gehouden alle toepasselijke wet- en regelgeving betreffende export na te leven, met inbegrip van de Export Administration Regulations (EAR) van het Amerikaanse ministerie van Handel, de International Traffic in Arms Regulations (ITAR) van het Amerikaanse ministerie van Defensie en andere toepasselijke exportwetten. De Klant mag de Producten/Services van Esri niet geheel of gedeeltelijk exporteren, herexporteren, overdragen, vrijgeven of anderszins van de hand doen, of toegang tot de Producten verlenen aan landen die onder Amerikaans embargo staan of aan natuurlijke personen of rechtspersonen aan wie het door de Verenigde Staten niet is toegestaan, noch mag het gebruik van de Producten/Services aan deze landen of personen worden overgedragen, tenzij dit in overeenstemming is met alle op dat moment toepasselijke Amerikaanse wet- en regelgeving betreffende export. De Klant mag de Producten/Services van Esri niet exporteren, herexporteren, overdragen of gebruiken voor de ontwikkeling, het ontwerp, de fabricage, het gebruik of de productie van raketten of nucleaire, chemische of biologische wapens zonder de juiste vergunningen van de Amerikaanse overheid. De Klant dient Esri onmiddellijk op de hoogte te stellen indien een Amerikaans overheidsorgaan of -bureau de exportrechten van de Klant weigert, opschort of intrekt. De Klant mag geen Content van de Klant uploaden, opslaan of verwerken in de Cloudservices (i) waarvoor een ECCN-nummer (Export Control Classification Number) geldt anders dan EAR99 of (ii) die onder de ITAR-regelgeving (International Traffic in Arms Regulations) is gebonden aan exportbeperkingen vanuit de Verenigde Staten. Esri zal geen Services uitvoeren of Producten/Services aanbieden die betrekking hebben op een defensieartikel of -service, of op technische data, zoals gedefinieerd onder de ITAR-regelgeving, secties 120.6, 120.9, en 120.10, respectievelijk, totdat Esri de benodigde exportlicentie verkrijgt van de Amerikaanse overheid. De Klant zal in redelijkheid assistentie verlenen aan Esri bij het aanvragen en verkrijgen van een exportlicentie, indien benodigd.
+
+7.2 Beveiliging. Esri heeft haar beveiligingsfunctionaliteiten gepubliceerd op http://doc.arcgis.com/en/trust/security/security-overview.htm. De Klant kan Esri-personeel toegang verlenen tot de systemen van de Klant of tot persoonlijke informatie van de Klant of derde partij(en) indien deze toegang essentieel is voor de prestaties van de Services van Esri en indien Esri expliciet akkoord gaat met dergelijke toegang. Esri zal redelijke administratieve, technische en fysieke beveiligingsmaatregelen treffen om dergelijke data te beschermen en om niet-geautoriseerde toegang te voorkomen. De Klant is verantwoordelijk voor (i) het bevestigen dat de gepubliceerde beveiligings- en privacymaatregelen van Esri voldoen aan alle toepasselijke wettelijke voorschriften voor de beveiliging van de Content van de Klant, en (ii) de garantie dat de beheerde Content van de Klant alleen via Cloudservices wordt geüpload en beheerd indien dit wettelijk is toegestaan. Esri is niet verantwoordelijk voor het controleren van de Content van de Klant om naleving met de toepasselijke wet- en regelgeving te garanderen.
+
+ARTIKEL 8 - ONDERBREKING, STORING EN OPSCHORTING VAN CLOUDSERVICES
+
+8.1 Niet-toegestaan gebruik. De Klant mag geen toegang verkrijgen tot de Cloudservices of deze gebruiken voor de volgende handelingen:
+
+a.	Spam-, spoofing- of phishing-mail versturen; junkmail of kwetsend of lasterlijk materiaal verzenden; of anderen stalken, lastigvallen of fysiek bedreigen;
+b.	Kwaadaardige Code opslaan of verzenden;
+c.	Wet- of regelgeving schenden;
+d.	Inbreuk maken op de rechten van een derde partij of oneigenlijk gebruik van deze rechten;
+e.	De kwetsbaarheid van Cloudservices uitproberen, scannen of testen, of inbreuk maken op beveiligings- of authenticatiemaatregelen die worden gebruikt door Cloudservices; of
+f.	Een benchmarkanalyse uitvoeren op beschikbaarheid, prestaties of functionaliteit van Cloudservices voor competitieve doeleinden.
+
+8.2 Onderbrekingen in de services. De toegang van de Klant tot de Online Services kan worden onderbroken vanwege systeemfouten of andere gebeurtenissen die redelijkerwijs niet binnen de controle van Esri vallen. Esri kan niet altijd kennisgeving vooraf bieden bij dergelijke onderbrekingen.
+
+8.3 Verwijdering van de Content van de Klant. Esri kan delen van de Content van de Klant verwijderen of wissen als er reden is te geloven dat het uploaden ervan naar of gebruiken ervan met Cloudservices in strijd is met deze Overeenkomst. Indien dit gezien de omstandigheden redelijk is, zal Esri de Klant op de hoogte stellen dat de Content van de Klant is verwijderd. Esri reageert op alle verwijderingsopdrachten in het kader van de Digital Millennium Copyright Act, conform het copyrightbeleid van Esri, beschikbaar op http://www.esri.com
+/legal/dmca_policy.
+
+8.4 Opschorting van de services. Esri is gerechtigd de toegang tot Cloudservices op te schorten (i) indien de Klant deze Overeenkomst wezenlijk schendt en de schending niet tijdig corrigeert; (ii) indien Esri redelijke grond heeft voor het vermoeden dat het gebruik van de Cloudservices door de Klant de integriteit, functionaliteit of bruikbaarheid van de Cloudservices schaadt, of dat Esri hierdoor met onmiddellijke ingang aansprakelijk kan worden gesteld; (iii) voor gepland onderhoud; (iv) bij een dreigement of aanval op de Cloudservices; of (v) indien de Cloudservices wettelijk verboden worden of dermate gereguleerd dat het blijven aanbieden ervan commercieel onhoudbaar wordt. Indien mogelijk zal Esri de Klant vooraf melden dat de Cloudservices worden opgeschort zodat de Klant een redelijke mogelijkheid krijgt om herstelmaatregelen te treffen.
+
+Esri is niet verantwoordelijk voor enige schade, lasten of verlies dat voortvloeit uit enige storing of onderbreking van de Online Services of uit de verwijdering van Content van de Klant, zoals hierboven beschreven.
+
+ARTIKEL 9 - ALGEMENE BEPALINGEN
+
+9.1 Betaling. De klant zal elke correcte factuur niet later dan dertig (30) dagen na ontvangst betalen en de betaling overmaken naar het adres dat op de factuur staat vermeld.
+
+9.2 Feedback. Esri mag vrijelijk gebruikmaken van feedback, suggesties of verzoeken om verbeteringen in Producten die de Klant richt aan Esri.
+
+9.3 Patenten. De Klant zal niet nastreven, noch anderen toestaan na te streven, een patent of vergelijkbaar wereldwijd recht te verkrijgen dat is gebaseerd op de Producten van Esri of waarin deze Producten zijn opgenomen. Dit uitdrukkelijke verbod op patenteren is niet van toepassing op de software en dienstverlening van de Klant, behoudens situaties waarin de Producten van Esri, of een gedeelte daarvan, onderdeel uitmaken van een conclusie of de beste manier om de uitvinding uit te voeren in een patentaanvraag of vergelijkbare aanvraag.
+
+9.4 Belastingen en vergoedingen, verzendkosten. Vergoedingen die aan de Klant worden opgegeven, zijn exclusief alle toepasselijke belastingen en vergoedingen, waaronder te verstaan, maar niet beperkt tot verkoopbelasting, gebruiksbelasting, belasting op de toegevoegde waarde (btw), douanelasten, en accijnzen hoe ook genaamd, alsmede verzend- en administratiekosten.
+
+9.5 Nalevingscontrole. De Klant dient een accurate en volledige administratie bij te houden met betrekking tot naleving van zijn verplichtingen volgens deze Overeenkomst. Esri of haar geautoriseerde distributeur mag deze administratie inspecteren na voorafgaande schriftelijke kennisgeving van minimaal zeven (7) werkdagen, of een onafhankelijke externe partij aanstellen om namens hem een dergelijke inspectie uit te voeren. De Klant dient eventuele, tijdens de inspectie aangetroffen gevallen van niet-naleving onmiddellijk te herstellen. Esri noch de distributeur van Esri mag binnen twaalf (12) maanden na afronding van een eerdere controle bij de Klant nog een nalevingscontrole uitvoeren als er geen enkel ernstig geval van niet-naleving door de Klant is aangetroffen.
+
+9.6 Geen stilzwijgende verklaring van afstand. Het niet afdwingen van de naleving van één van de bepalingen van deze Overeenkomst door één van de partijen betekent niet dat deze partij afstand doet van deze bepalingen, of van haar recht om de naleving van deze of andere bepalingen op een later tijdstip af te dwingen.
+
+9.7 Scheidbaarheid. De partijen komen overeen dat, als één van de bepalingen van deze Overeenkomst om welke reden dan ook niet afdwingbaar is, deze bepaling zal worden aangepast voor zover noodzakelijk om de strekking ervan afdwingbaar te maken.
+
+9.8 Opvolgers en rechtverkrijgenden. De Klant zal zijn rechten of verplichtingen onder deze Overeenkomst niet cederen, in sublicentie geven of overdragen zonder de voorafgaande schriftelijke toestemming van Esri en haar geautoriseerde distributeur. Alle pogingen hiertoe zonder toestemming zullen nietig zijn. Deze Overeenkomst is bindend voor de respectievelijke opvolgers en rechtverkrijgenden van de partijen bij deze Overeenkomst. Niettegenstaande het voorgaande mag een contractant die onder contract met de overheid staat voor de levering van Producten deze Overeenkomst en de Producten die voor levering zijn verkregen, na schriftelijke mededeling aan Esri, toewijzen aan de overheidsklant, op voorwaarde dat de overheidsklant de voorwaarden van deze Overeenkomst aanvaardt.
+
+9.9 Voortbestaan van bepalingen. De Woordenlijst en provisies van Artikel 3, 4, 5 en 9 van deze Algemene voorwaarden zullen na het vervallen of beëindigen van deze Overeenkomst nog steeds van kracht zijn.
+
+9.10 Klant bij Amerikaanse overheid. De Producten zijn commerciële artikelen, ontwikkeld met particuliere gelden, en aan de Klant verstrekt onder deze Overeenkomst. Als de Klant een entiteit of opdrachtnemer van de Amerikaanse overheid is, verleent Esri aan de Klant een licentie of abonnement voor de Producten op grond van deze Overeenkomst onder FAR-subartikel 12.211/12.212 of DFARS-subartikel 227.7202. Voor Esri Data en Online Services wordt een licentie of abonnement verleend op grond van de beleidsregels van hetzelfde DFARS-subartikel 227.7202 als commerciële computersoftware die wordt verkregen onder DFARS. Er zijn beperkingen van toepassing op de Producten en het gebruik, de aanpassing, de prestatie, de reproductie, de vrijgave, de weergave en de openbaarmaking van Producten door de Klant zijn onderworpen aan deze Overeenkomst. Eventuele bepalingen in de Overeenkomst die in strijd zijn met federale wet- of regelgeving, zijn niet van toepassing. Als de Klant een Amerikaanse overheidsinstelling is, mag deze de Software overdragen aan een bevoegd facilitair bureau waaraan de computer(s) waarop de Software is geïnstalleerd wordt overgedragen. In het geval dat een rechtbank, arbiter of raad beslist dat de Klant bij de Amerikaanse overheid meer rechten heeft voor een deel van de Producten op grond van de toepasselijke wetgeving, gelden deze rechten uitsluitend voor de desbetreffende onderdelen.
+
+9.11 Toepasselijk Recht. Op deze Overeenkomst is de Amerikaanse federale wetgeving en de wetgeving van de staat Californië van toepassing, zonder rekening te houden met hun respectievelijke keuze van juridische beginselen. Deze Overeenkomst is niet onderworpen aan de 'Convention on Contracts for the International Sale of Goods' van de Verenigde Naties.
+
+9.12Geschillenregeling. De partijen zullen de volgende processen voor geschillenregeling gebruiken:
+
+a.	Voorlopige voorzieningen. Elke partij is gerechtigd om een voorziening, specifieke prestatie of andere redelijke schadeloosstelling bij een bevoegde rechtbank te vorderen zonder een borg of een bewijs van schade als een voorwaarde voor een dergelijke voorziening te moeten afgeven.
+b.	Amerikaanse overheidsinstellingen. Deze Overeenkomst is onderworpen aan de Amerikaanse Contract Disputes Act van 1978, zoals gewijzigd (41 USC 601-613).
+c.	Overige overheidsinstanties. Esri zal voldoen aan de volgens toepasselijke wet verplichte geschiloplossingen.
+d.	Arbitrage. Behoudens het hierboven bepaalde zullen alle uit deze Overeenkomst voortvloeiende geschillen of op deze Overeenkomst betrekking hebbende geschillen waarvoor geen schikking kan worden getroffen door middel van onderhandelingen, definitief beslecht worden middels arbitrage. Als de Klant zich in de Verenigde Staten van Amerika, de territoria en afgelegen gebieden bevindt, valt het arbitrageproces onder de Commercial Arbitration Rules van de American Arbitration Association. Als de Klant zich buiten de Verenigde Staten van Amerika bevindt, valt het arbitrageproces onder de arbitrageregels van de Internationale Kamer van Koophandel. De partijen zullen een enkele bemiddelaar kiezen in overeenstemming van de toepasselijke arbitrageregels. De taal van de arbitrage is Engels. De arbitrage vindt plaats op een overeengekomen locatie. Elk van de partijen zal, op verzoek van de andere partij, documenten of getuigen beschikbaar stellen die relevant zijn voor de belangrijkste aspecten van het geschil.
+
+9.13 Overmacht. Geen enkele partij is aansprakelijk voor het niet of later uitvoeren van deze Overeenkomst zolang als dit niet of later uitvoeren wordt veroorzaakt door omstandigheden waarover hij redelijkerwijs geen controle heeft. Dergelijke omstandigheden kunnen onder meer, maar niet uitsluitend, bestaan uit natuurrampen, oorlogen, stakingen, arbeidsconflicten, cyberaanvallen, wetten, regelgeving of overheidsorders of andere gevallen van force majeure.
+
+9.14 Onafhankelijke opdrachtnemer. Esri is en zal te allen tijde een onafhankelijke opdrachtnemer zijn. Niets in deze overeenkomst creëert een werkgever/werknemer-, principaal/agent- of joint venture-relatie tussen Esri of haar geautoriseerde distributeur en Klant. Geen partij heeft de autoriteit om een contract af te sluiten namens een andere partij, of om anderszins te handelen namens een andere partij.
+
+9.15 Kennisgeving. Kennisgevingen die zijn vereist onder deze Overeenkomst kunnen door de Klant naar Esri worden gestuurd op het volgende adres:
+
+Environmental Systems Research Institute, Inc.
+Attn: Contracts & Legal Department
+380 New York Street
+Redlands, CA 92373-8100
+USA
+
+Tel.: 909-793-2853
+E-mail: LegalNotices@esri.com
+BIJLAGE 1
+PRODUCTSPECIFIEKE GEBRUIKSVOORWAARDEN
+(E300 09/22/2016)
+
+SOFTWARE
+
+De volgende tabel bevat aanvullende gebruiksvoorwaarden met betrekking tot specifieke Software. Bij elk Product worden een of meer voetnoten aangeduid die van toepassing zijn op het desbetreffende Product. Deze voetnoten vormen een aanvulling op de voorwaarden van de Overeenkomst. De voetnootdefinities volgen op de tabel. Tenzij anders bepaald in het toepasselijke Besteldocument, geldt voor extensies aan de Software dezelfde gebruiksdoelstelling als welke is verleend voor de corresponderende Software.
+
+Desktopproducten
+▪	ArcGIS Desktop (Advanced, Standard of Basic) (26)
+▪	ArcGIS Earth (65)
+▪	ArcGIS Explorer Desktop (20)
+▪	ArcGIS for AutoCAD (20)
+▪	ArcPad (13)
+▪	ArcReader (20)
+▪	ArcGIS for Windows Mobile (15; 54)
+▪	ArcGIS for Personal Use (3, 26)
+
+Serverproducten
+▪	ArcGIS Enterprise
+-	Standard of Advanced (21; 31)
+-	Workgroup Standard of Advanced (21; 28; 29; 30; 32 )
+-	ArcGIS GIS Server (Standard of Advanced) (31)
+-	ArcGIS GIS Server Basic (39)
+-	ArcGIS GIS Server Workgroup (Standard of Advanced) (28; 29; 30; 32 )
+-	ArcGIS GIS Server Workgroup Basic (39)
+-	ArcGIS GIS Server Extension
+-	ArcGIS Maritime: Server (2)
+-	ArcGIS Image Server, ArcGIS GeoEvent Server, ArcGIS GeoAnalytics Server (4)
+▪	Esri Business Analyst Server
+-	Workgroup (28; 29; 30; 31; 39)
+-	Enterprise (31; 39)
+▪	World Geocoder for ArcGIS Basic (67)
+Tools Voor Ontwikkelaars
+▪	AppStudio for ArcGIS Standard (11, 16, 19)
+▪	ArcGIS Runtime SDK for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt, of WPF (16; 19)
+▪	ArcGIS Runtime Standard Level for Android, iOS, Java, Mac OS X, Microsoft .NET Framework (Windows [desktop], Windows Phone, Windows Store), Qt, of WPF (15; 18)
+▪	ArcGIS Engine Developer Kit and extensies (16, 19; 22, 26)
+▪	ArcGIS Engine for Windows/Linux en extensies (15; 22; 26)
+▪	ArcGIS Web Mapping (inclusief ArcGIS API for JavaScript/HTML5, ArcGIS API for Flex, ArcGIS API for Microsoft Silverlight) (15; 16; 64; 66)
+▪	ArcGIS Developer Subscription (24; 26)
+▪	Esri File Geodatabase API (47)
+
+Overig
+▪	Navigator for ArcGIS (14)
+
+ Voetnoten:
+
+1.	Gereserveerd.
+2.	Niet voor gebruik bij 	navigatie	.
+3.	Alleen in licentie verleend voor persoonlijk gebruik.
+4.	Bij gebruik met ArcGIS Enterprise Workgroup
+-	Beperkt tot één (1) server voor 4-cores.
+-	Kan worden geïnstalleerd op een afzonderlijke computer.
+	5-10.	Gereserveerd.
+11.	Toepassingen die zijn ontwikkeld met AppStudio for ArcGIS Standard vallen onder de gebruiksvoorwaarden voor ArcGIS Runtime Standard Level.
+12.	Gereserveerd.
+13.	"Dual Use License" betekent dat de Software op een desktopcomputer geïnstalleerd en gelijktijdig gebruikt mag worden met ofwel een personal digital assistant (PDA) of een handheld mobiele computer op voorwaarde dat de Software op elk ogenblik slechts door één (1) persoon gebruikt wordt.
+14.	Kan voor navigatiedoeleinden worden gebruikt.
+15.	Licentie verleend als Deploymentlicentie.
+16.	De Klant kan de SDK's of API's gebruiken om Toepassingen Met Toegevoegde Waarde te maken en deze te distribueren of te licentiëren aan zijn eindgebruikers om de Toepassingen te gebruiken waar dit niet is verboden onder de exportregelgeving.
+17.	Gereserveerd.
+18.	De Deployment-licentie geldt per Toepassing Met Toegevoegde Waarde per computer voor zelfstandige toepassingen.
+19.	De licentie mag niet worden gebruikt voor ontwikkeling van internet- of servergebaseerde Toepassingen Met Toegevoegde Waarde.
+20.	De Klant	 mag de Software reproduceren en distribueren mits aan alle volgende voorwaarden wordt voldaan:
+
+a.	De Software wordt in zijn geheel gereproduceerd en gedistribueerd;
+b.	Bij elke kopie van de Software wordt een licentieovereenkomst geleverd die de Software in dezelfde mate beschermt als deze Licentieovereenkomst, en de ontvanger stemt ermee in te zijn gebonden aan de voorwaarden van de licentieovereenkomst;
+c.	Alle copyright- en handelsmerkaanduidingen/-kennisgevingen worden gereproduceerd; en
+d.	Er worden geen kosten in rekening gebracht voor het gebruik van de Software.
+
+21.	De Klant mag Toepassingen Met Toegevoegde Waarde bouwen voor gebruik door zijn Gebruikers Op Naam. De Klant mag geen Gebruikers Op Naam-inloggegevens insluiten in een Toepassing Met Toegevoegde Waarde. De Klant mag geen App-inloggegevens insluiten of gebruiken in Toepassingen Met Toegevoegde Waarde. Voor Toepassingen Met Toegevoegde Waarde zijn Gebruiker Op Naam-accounts vereist.
+22.	a.	Een eindgebruiker moet een licentie afnemen voor ArcGIS Engine voor Windows/Linux Software of andere ArcGIS Desktop Software (Basic, Standard of Advanced) om het recht te verkrijgen een ArcGIS Engine-toepassing uit te voeren op één (1) computer; en
+b.	De ArcGIS Engine voor Windows/Linux-extensies mogen niet worden gebruikt in combinatie met ArcGIS Desktop Software voor het uitvoeren van ArcGIS Engine-Toepassingen Met Toegevoegde Waarde. Eén enkele gebruiker mag meerdere ArcGIS Engine-Toepassingen Met Toegevoegde Waarde geïnstalleerd hebben op één (1) computer voor het exclusieve gebruik door deze eindgebruiker.
+23.	Gereserveerd.
+24.	Software mag uitsluitend worden gebruikt voor ontwikkelings-, test- en demonstratiedoeleinden bij een prototype-Toepassing Met Toegevoegde Waarde en voor het maken van map caches. Toepassingen Met Toegevoegde Waarde en map caches kunnen worden gebruikt met Staging en Deployment ArcGIS Enterprise-servers. Software en Data mogen op meerdere computers geïnstalleerd worden voor gebruik door elke ArcGIS Developer-abonnee met een Extend-abonnement of hoger abonnement. Alle overige Software wordt in licentie gegevens als Single Use-licentie.
+25.	Gereserveerd.
+26.	Een Personal Edition-geodatabase is beperkt tot tien (10) gigabyte gegevens van de Klant.
+27.	Gereserveerd.
+28.	Het gebruik is beperkt tot tien (10) gelijktijdige eindgebruikers van andere dan ArcGIS Enterprise Workgroup- of ArcGIS GIS Server Workgroup-toepassingen. Deze beperking omvat het gebruik van ArcGIS Desktop Software, ArcGIS Engine Software en toepassingen van derden die rechtstreeks verbonden zijn met een ArcGIS Enterprise Workgroup- of ArcGIS GIS Server Workgroup-geodatabase. Het aantal verbindingen van webtoepassingen is onbeperkt.
+29.	Software vereist een ondersteunde versie van SQL Server Express. De ondersteunde versies worden vermeld in de systeemvereisten voor het product op de website van Esri.
+30.	Het gebruik is beperkt tot maximaal tien (10) gigabyte gegevens van de Klant.
+31.	 	De Klant mag redundante Esri Server Software installeren voor f	ailoverdoeleinden, maar de redundante Software mag alleen operationeel zijn op het moment dat de primaire site niet operationeel is (actieve-passieve failover). De redundante Software-installaties blijven inactief, behoudens voor systeemonderhoud en bijwerken van databases terwijl de primaire site of een andere redundante site operationeel is.
+32.	Installatie van redundante Software voor failoverdoeleinden is niet toegestaan.
+33-38.	Gereserveerd.
+39.	Bewerkingsfuncties die bij de ArcGIS GIS Server worden geleverd, mogen niet gebruikt worden met ArcGIS GIS Server Basic (Workgroup of Enterprise).
+40-46.	Gereserveerd.
+47.	De Klant mag Toepassingen Met Toegevoegde Waarde ontwikkelen en aan zijn eindgebruikers distribueren die gebruikmaken van de Esri File Geodatabase API.
+48-53.	Gereserveerd.
+54.	ArcGIS for Windows Mobile-implementaties worden in licentie gegeven voor gebruik met ArcGIS Enterprise (Advanced of Standard), ArcGIS Enterprise Workgroup (Advanced), ArcGIS Desktop (Advanced, Standard, Basic) en ArcGIS Engine-Toepassingen Met Toegevoegde Waarde.
+55-63.	Gereserveerd.
+64.	Toepassingen Met Toegevoegde Waarde voor web-deployment moeten in combinatie met (een) ander(e) Product(en) van Esri worden gebruikt. Technologieën van derden mogen eveneens worden gebruikt in combinatie met Toepassingen Met Toegevoegde Waarde mits dergelijke Toepassingen in combinatie met andere Producten van Esri worden gebruikt.
+65.	Mogen alleen worden gebruikt in combinatie met andere Producten van Esri. Technologieën van derden mogen eveneens worden gebruikt in combinatie met ArcGIS Earth mits ArcGIS Earth in combinatie met andere Producten van Esri wordt gebruikt.
+66.	In het geval van desktoptoepassingen geldt elke licentie per organisatie. Voor de doeleinden van deze licentie is organisatie gelijkwaardig aan een primaire unieke geregistreerde domein-id.  Domein is de internetdomeinnaam die bij een domeinnaamregister is geregistreerd. Bijvoorbeeld: in example.com is "example.com" de unieke geregistreerde domein-id. Op vergelijkbare wijze is in example.com.xx (waarbij xx een geregistreerde landcode is), "example.com.xx" de unieke geregistreerde domein-id. Desktoptoepassingen kunnen door elke werknemer van de organisatie worden gebruikt met de primaire unieke geregistreerde domein-id. Er zijn geen grenzen aan het aantal toepassingen dat binnen een organisatie kan worden opgebouwd en gebruikt.
+67.	Beperkt tot 250.000.000 geocodes per jaarlijks abonnement.
+ ONLINE SERVICES
+
+De volgende tabel bevat aanvullende gebruiksvoorwaarden met betrekking tot specifieke Online Services. Bij elk Product worden een of meer voetnoten aangeduid die van toepassing zijn op het desbetreffende Product. De voetnootdefinities volgen op de tabel. Tenzij anders bepaald in het toepasselijke Besteldocument, geldt voor extensies aan de Software dezelfde gebruiksdoelstelling als welke is verleend voor de corresponderende Software.
+
+▪	ArcGIS Online-abonnementen zijn beschikbaar via meerdere Verkoopprogramma's:
+
+-	Commerciele verkoop, EA's; Overheidsprogramma's (1; 2; 3; 11; 12; 14; 20)
+-	Educatief programma (1; 2; 8; 10; 14; 19)
+-	 	Non-profitprogra	mma (1; 2; 8; 14; 19; 20)
+
+▪	ArcGIS Online Developer Deployment-abonnementen zijn beschikbaar via meerdere Verkoopprogramma's:
+
+-	Commerciele verkoop, EA's; Overheidsprogramma's
+	Gratis abonnement (1; 8; 9; 10; 13; 19; 20)
+	Betaald abonnement (1; 8; 9; 10; 11; 13; 20)
+-	Educatief, 	NGO	/NPO, Pers/Media-programma's
+	Gratis abonnement (1; 3; 4; 5; 6; 9; 10; 13; 19)
+	Betaald abonnement (1; 3; 4; 5; 6; 9; 10; 13; 19)
+-	NGO/NPO, Pers/Media-programma's
+	Gratis abonnement (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+	Betaald abonnement (1; 3; 4; 5; 6; 9; 10; 13; 19; 20)
+
+▪	Openbaar abonnement
+-	 	Commerciële 	verkoop, EA's; Overheid; NGO/NPO; Pers/Media-programma's (1; 4; 5; 6; 7; 9; 10; 15; 19; 20)
+-	Educatieve programma's (1; 4; 5; 6; 7; 9; 10; 15; 19)
+▪	Esri Business Analyst Online (16)
+▪	Esri Business Analyst Online Mobile (16)
+▪	Esri Community Analyst (16)
+▪	Esri MapStudio (17)
+
+ Voetnoten:
+
+1.	In aanvulling op de gemeenschappelijke gebruiksvoorwaarden voor Online Services:
+
+a.	De Klant mag zijn abonnement op de Online Services van Esri gebruiken om een Toepassing Met Toegevoegde Waarde te bouwen voor intern gebruik door de Klant.
+b.	De Klant mag bovendien toegang verlenen tot zijn Toepassingen Met Toegevoegde Waarde aan derden, met inachtneming van de volgende voorwaarden:
+
+i.	De Klant mag Anonieme Gebruikers toegang verlenen tot zijn Toepassingen Met Toegevoegde Waarde.
+ii.	De Klant mag geen derden als Gebruikers Op Naam toevoegen aan het ArcGIS Online-abonnement van de Klant om derden toegang te geven tot de Toepassingen Met Toegevoegde Waarde van de Klant. Deze beperking is niet van toepassing op derden die vallen onder de definitie van Gebruikers Op Naam.
+iii.	De Klant mag derden geen toegang geven tot ArcGIS Online Services die beschikbaar zijn via het ArcGIS Online-abonnement van de Klant, anders dan via zijn Toepassingen Met Toegevoegde Waarde. Deze beperking is niet van toepassing op derden die vallen onder de definitie van Gebruikers Op Naam.
+iv.	De Klant is geheel zelf verantwoordelijk voor het bieden van technische ondersteuning voor zijn Toepassingen Met Toegevoegde Waarde.
+v.	De Klant mag geen handelsmerken of logo's verwijderen of verbergen die bij normaal gebruik van de Online Services worden weergegeven, zonder voorafgaande schriftelijke toestemming. Indien erkenning niet automatisch door het gebruik van de Online Services wordt weergegeven, moet de Klant een copyrightmelding opnemen ter erkenning dat die toepassing gebruikmaakt van de Online Services van Esri. De instructies worden geleverd in de Documentatie.
+vi.	De Klant mag geen Gebruikers Op Naam-inloggegevens insluiten in een Toepassing Met Toegevoegde Waarde. Een App-aanmeldingsgegeven mag alleen worden ingesloten in Toepassingen Met Toegevoegde Waarde die worden gebruikt om openbare, anonieme toegang te bieden tot ArcGIS Online. De Klant mag geen App-inloggegevens voor ArcGIS Online insluiten of gebruiken in Toepassingen Met Toegevoegde Waarde voor intern gebruik. Voor Toepassingen Met Toegevoegde Waarde die intern worden gebruikt, zijn Gebruikers Op Naam-accounts vereist.
+
+c.	World Geocoding Service: De Klant mag de geocode-resultaten die door de service worden gegenereerd niet opslaan zonder een ArcGIS Online-abonnement.
+d.	Infographics Service: De Klant mag de data die via deze service toegankelijk zijn, uitsluitend voor weergavedoeleinden gebruiken. De Klant mag geen data opslaan die via deze service toegankelijk is.
+
+2.	Kan worden gebruikt voor alle zakelijke doeleinden van de organisatie van de Klant.
+3.	Kan worden gebruikt voor ontwikkelings- en testdoeleinden ten behoeve van de organisatie van de Klant.
+4.	Kan worden gebruikt voor educatieve doeleinden in onderwijsorganisaties.
+5.	Kan worden gebruikt ten behoeve van de gekwalificeerde NGO/NPO-organisatie van de Klant.
+6.	Kan worden gebruikt ten behoeve van pers- of mediaorganisaties.
+7.	Kan worden toegepast voor persoonlijk gebruik.
+8.	De Toepassingen Met Toegevoegde Waarde van de Abonnee moeten worden gepubliceerd voor openbare toegang.
+9.	Mag niet worden gebruikt ten behoeve van een overheidsorganisatie of organisatie met winstbejag.
+10.	Het is de Klant niet toegestaan om privégroepen te maken of daaraan deel te nemen.
+11.	De Klant mag Toepassingen Met Toegevoegde Waarde tegen kosten beschikbaar maken voor derde partijen.
+12.	De Klant mag dit abonnement niet gebruiken om privégroepen te maken of daaraan deel te nemen.
+13.	Elk abonnement is beperkt tot één miljoen (1.000.000) basemap- en één miljoen (1.000.000) geosearch-transacties per maand in combinatie met het abonnement van de Klant. "Transactie" is gedefinieerd in de Documentatie in ArcGIS Resources: http://links.esri.com/agol/transactiondef.
+14.	Elk abonnement is beperkt tot een gecombineerd aantal van 50.000.000 basemap- en geosearch-transacties per maand. "Transactie" is gedefinieerd in de Documentatie in ArcGIS Resources: http://links.esri.com/agol/transactiondef.
+15.	Mag geregistreerde studenten van een onderwijsinstelling direct toegang geven tot de Online Services en tot het delen van een enkel abonnement tussen meerdere (meer dan 1) geregistreerde studenten, alleen voor educatieve doelstellingen.
+16.	Het is Klant niet toegestaan een combinatie van meer dan honderd (100) Esri Business Analyst Online- of Community Analyst-rapporten en -kaarten op de externe website van de Klant weer te geven of te posten.
+17.	Het is de Klant toegestaan om voor nieuwsrapportagedoeleinden kaarten te maken, in het openbaar weer te geven en te distribueren, in gedrukte en statisch elektronische vorm, met inachtneming van de beperkingen voor ArcGIS Online Data.
+18.	Gereserveerd.
+19.	De Klant mag Toepassingen Met Toegevoegde Waarde niet tegen kosten beschikbaar maken voor derde partijen.
+20.	De Licentiehouder mag geen licentiehouder zijn voor of namens een derde partij.
+
